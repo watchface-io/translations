@@ -1,13 +1,13 @@
 {
     "settings" : {
-        "_tr" : "👉 AANRAAKINSTELLINGEN",
+        "_tr" : "👉 AANRAAKSNELKOPPELINGEN",
         "_tc" : "🎨 KLEUREN",
         "_tt" : "🔤 LETTERTYPEN",
-        "_ta" : "🖼️ AOD INSTELLINGEN (Altijd Aan Display)",
+        "_ta" : "🖼️ AOD INSTELLINGEN (Always on Display)",
         "_to" : "💡 OVERIG",
         
-        "_t1" : "Aanraak Snelkoppeling Uur",
-        "_t2" : "Aanraak Snelkoppeling Minuut",
+        "_t0" : "Aanraaksnelkoppeling Uur",
+        "_t1" : "Aanraaksnelkoppeling Minuut",
 
         "_f1" : "1. Veld 1 (Bovenkant)",
         "_l1" : "1. Label 1",
@@ -24,13 +24,38 @@
          "_f4" : "4. Veld 4",
          "_l4" : "4. Label 4",
          "_c4" : "4. Grafiek 4",
-         "_f5" : "4. 2e veld (wanneer 2 velden geselecteerd zijn)",
-         "_l5" : "4. 2e label (wanneer 2 velden geselecteerd zijn)",
+         "_f5" : "5. Veld 5 (wanneer V4 stijl = 2 velden)",
+         "_l5" : "5. Label 5 (wanneer V4 stijl = 2 velden)",
 
-         "_f6" : "Veld 6",
-         "_l6" : "Label 6",
-         "_f7" : "Veld 7",
-         "_l7" : "Label 7",
+         "_0f" : "1 Veld",
+         "_1f" : "1 Veld + Grote Grafiek",
+         "_2f" : "Volledige Grafiek",
+         "_3f" : "2 Velden",
+         "_4f" : "Grafiek",
+         "_16f" : "1 Veld Links Uitgelijnd",
+         "_17f" : "1 Veld + Kleine Grafiek",
+
+         "_5f" : "Toon Veld Voortgang",
+         "_6f" : "Vol",
+         "_7f" : "Leeg",
+         "_8f" : "Verbergen",
+         
+         "pss" : "Zonnegebeurtenis Voortgang (overschrijft onderste voortgangsbalken)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Seconden",
+         "_11f" : "Alarm Icoon",
+         "_12f" : "DND Icoon",
+         "_13f" : "Batterij Icoon",
+         "_14f" : "Bluetooth Icoon",
+         "_15f" : "Melding Icoon",
+         "_18f" : "Actieve Status Iconen",
+
+        "_s6" : "6. Veld 6 Stijl",
+         "_f6" : "6. Veld 6 Data",
+         "_l6" : "6. Label 6",
+         "_f7" : "7. Veld 7",
+         "_l7" : "7. Label 7",
 
          "_s8" : "8. Veld 8 Stijl (Onderkant)",
          "_f8" : "8. Veld 8",
@@ -39,18 +64,33 @@
 
          "_f9" : "Cirkel Links Data",
          "_l9" : "Cirkel Links Label",
-         "_s9" : "Cirkel Links Voortgang Stijl",
+         "_s9" : "Cirkel Rechts Voortgang Stijl",
 
-         "_f10" : "Cirkel Midden Data",
-         "_l10" : "Cirkel Midden Label",
-         "_s10" : "Cirkel Midden Voortgang Stijl",
+         "_f10" : "Cirkel Rechts Data",
+         "_l10" : "Cirkel Rechts Label",
+         "_s10" : "Cirkel Rechts Voortgang Stijl",
 
          "_p11" : "Voortgangsbalk Midden Data",
          "_p12" : "Voortgangsbalk Linksonder Data",
          "_p13" : "Voortgangsbalk Rechtsonder Data",
 
+         "_ct" : "Zijveld Bovenkant",
+         "_cb" : "Zijveld Onderkant",
+         "_cs" : "Zijvelden Rechts Uitlijnen",
+
          "_ft" : "Tekst Lettertype",
-         "_fs" : "Test Lettertype Grootte",
+         "_fs" : "Tekst Lettergrootte",
+
+         "_hf" : "Tijd Lettertype",
+         "_hfa" : "Tijd Lettertype (AOD, Always on)",
+         "_hfs" : "Tijd Lettergrootte",
+
+         "_sf" : "Zijvelden Lettergrootte",
+         "_fc" : "Rechter Cirkel Lettergrootte",
+
+         "fn1" : "Roboto Mono (niet aanpasbaar)",
+         "fn2" : "Roboto Mono Cursief (niet aanpasbaar)",
+         "fn3" : "Barlow (niet aanpasbaar)",
 
          "_lt" : "Tekst Kleur",
          "_ll" : "Label Kleur",
@@ -60,6 +100,82 @@
          "_hc2" : "Uur Kleur 2",
          "_mc" : "Minuut Kleur",
          "_mc2" : "Minuut Kleur 2",
-         "_dc" : "Verdeler Kleur"
+         "_dc" : "Scheidingslijn Kleur",
+
+         "_ox" : "Tijd X Verschuiving, 50 = midden",
+         "_oy" : "Tijd Y Verschuiving, 50 = midden",
+
+         "_lp1" : "Voortgangsbalk Kleur 1",
+         "_lp2" : "Voortgangsbalk Kleur 2",
+         "_lpu" : "Voortgangsbalk Kleur Ongevuld",
+
+        "_l12" : "Linksonder Voortgangsbalk Kleur 1",
+         "_l12b" : "Linksonder Voortgangsbalk Kleur 2",
+         "_l12u" : "Linksonder Voortgangsbalk Kleur Ongevuld",
+
+         "_l13" : "Rechtsonder Voortgangsbalk Kleur 1",
+         "_l13b" : "Rechtsonder Voortgangsbalk Kleur 2",
+         "_l13u" : "Rechtsonder Voortgangsbalk Kleur Ongevuld",
+
+         "_l9p" : "Cirkel Links Voortgangsbalk Kleur 1",
+         "_l9b" : "Cirkel Links Voortgangsbalk Kleur 2",
+         "_l9u" : "Cirkel Links Voortgangsbalk Kleur Ongevuld",
+
+         "_l10p" : "Cirkel Rechts Voortgangsbalk Kleur 1",
+         "_l10b" : "Cirkel Rechts Voortgangsbalk Kleur 2",
+         "_l10u" : "Cirkel Rechts Voortgangsbalk Kleur Ongevuld",
+
+         "ls" : "Zelfde kleur als Voortgangsbalk",
+
+         "_lc0" : "Zijveld Bovenkant Kleur",
+         "_lc1" : "Zijveld Onderkant Kleur",
+
+         "_lh0" : "Grafiek Kleur Begin",
+         "_lh1" : "Grafiek Kleur Eind",
+
+         "_lcr" : "Cirkels Omtrek Kleur",
+         "_lcl" : "Achtergrond Lijnen Kleur",
+         "_lcc" : "Achtergrond Omtrek (grote cirkel) Kleur",
+         "_lcb" : "Tijd + Cirkels Achtergrond Kleur",
+         "_btc" : "Wijzerplaat Streepjes Kleur",
+
+         "_bgs" : "Achtergrond Afbeelding",
+         "_bgt" : "Achtergrond Afbeelding Tint Kleur",
+        
+         "bg0" : "Geen Achtergrond Afbeelding",
+         "bg1" : "Camouflage",
+         "bg2" : "Zeshoek",
+         "bg3" : "Ellips",
+         "bg4" : "Wereld",
+         "bg5" : "Zeshoek Vervaging",
+         "bg10" : "Alleen Cirkel",
+
+         "_aas" : "Always on seconden",
+
+         "_aod" : "AOD Modus (Always on Display)",
+         "_aodct" : "AOD Tijd Tint Kleur",
+         "_aodc" : "AOD Data Tint Kleur",
+         "_aodT" : "AOD Tijd Helderheid",
+         "_aodD" : "AOD Data Helderheid. Als scherm uitgaat tijdens AOD, maak dit getal lager. Lager getal = minder batterijverbruik maar minder helder. Zie FAQ)",
+         "_aodS" : "AOD Verschuiving - aantal pixels dat het scherm willekeurig per minuut verschuift om inbranden te voorkomen)",
+
+         "ad0" : "Scherm UITSCHAKELEN",
+         "ad100" : "Volledige AOD (Standaard)",
+         "ad102" : "Volledige AOD - Zwarte Achtergrond - Verberg Grafieken",
+
+         "ad1" : "Alleen Tijd",
+         "ad2" : "Alleen Tijd - Gecentreerd",
+         "ad3" : "Alleen Tijd - Bewegend",
+
+         "ad4" : "Tijd + dataveld (Selecteer Hieronder)",
+         "ad5" : "Tijd Gecentreerd + dataveld",
+         "ad6" : "Tijd Bewegend + dataveld",
+
+         "_f14" : "AOD Veld Data",
+         "_l14" : "AOD Veld Label",
+
+         "_gq" : "Gradiënt Kwaliteit",
+         "mg" : "MIPS Gradiënt",
+         "ng" : "Geen Gradiënt"
     }
 }

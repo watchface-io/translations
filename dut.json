@@ -2,7 +2,7 @@
     "settings" : {
         "c0" : "Niets",
         "c1" : "Actieve Minuten (8 dagen)",
-        "c2" : "Calorieën (8 dagen)",
+        "c2" : "Actieve Calorieën (8 dagen)",
         "c3" : "Afstand (8 dagen)",
         "c4" : "Verdiepingen Beklommen (8 dagen)",
         "c5" : "Verdiepingen Afgedaald (8 dagen)",
@@ -13,9 +13,10 @@
         "c20" : "Body Battery",
         "c21" : "Hoogte",
         "c22" : "Hartslag",
-        "c23" : "Zuurstofverzadiging",
-        "c24" : "Lucht Druk",
-        "c25" : "Stress",
+        "c23" : "Hartslag met Zone Kleuren",
+        "c24" : "Zuurstofverzadiging",
+        "c25" : "Druk",
+        "c26" : "Stress",
         "c27" : "Temperatuur",
 
         "b0" : "Niets",
@@ -341,6 +342,7 @@
         "s76" : "Waterbanden",
         "s77" : "Wakesurfen",
 
+        "t0" : "Niets doen",
         "t1" : "Batterij",
         "t2" : "Stappen",
         "t3" : "Calorieën",
