@@ -3,7 +3,7 @@
         "_tr" : "👉 SKRÓTY DOTYKOWE",
         "_tc" : "🎨 KOLORY",
         "_tt" : "🔤 CZCIONKI",
-        "_ta" : "🖼️ USTAWIENIA AOD (Zawsze włączony wyświetlacz)",
+        "_ta" : "🖼️ USTAWIENIA AOD (Wyświetlacz Zawsze włączony)",
         "_to" : "💡 INNE",
         
         "_t0" : "Skrót dotykowy godziny",
@@ -45,11 +45,11 @@
          "_9f" : "AM/PM",
          "_10f" : "Sekundy",
          "_11f" : "Ikona alarmu",
-         "_12f" : "Ikona DND",
+         "_12f" : "Ikona Nie Przeszkadzać",
          "_13f" : "Ikona baterii",
          "_14f" : "Ikona Bluetooth",
          "_15f" : "Ikona powiadomień",
-         "_18f" : "Aktywne ikony statusu",
+         "_18f" : "Ikony Aktywnego statusu",
 
 
         "_s6" : "6. Styl pola 6",
@@ -71,20 +71,20 @@
          "_l10" : "Etykieta prawego koła",
          "_s10" : "Styl postępu prawego koła",
 
-         "_p11" : "Dane paska postępu środkowego",
-         "_p12" : "Dane paska postępu lewy dół",
-         "_p13" : "Dane paska postępu prawy dół",
+         "_p11" : "Dane środkowego paska postępu",
+         "_p12" : "Dane lewego dolnego paska postępu",
+         "_p13" : "Dane prawego dolnego paska postępu",
 
-         "_ct" : "Pole boczne góra",
-         "_cb" : "Pole boczne dół",
+         "_ct" : "Pole boczne na górze",
+         "_cb" : "Pole boczne na dole",
          "_cs" : "Pola boczne wyrównaj do prawej",
 
 
-         "_ft" : "Czcionka tekstu",
+         "_ft" : "Rodzaj czcionki tekstu",
          "_fs" : "Rozmiar czcionki tekstu",
 
-         "_hf" : "Czcionka czasu",
-         "_hfa" : "Czcionka czasu (AOD, Zawsze włączona)",
+         "_hf" : "Rodzaj czcionki czasu",
+         "_hfa" : "Rodaj czcionki czasu (AOD, Zawsze włączony)",
          "_hfs" : "Rozmiar czcionki czasu",
 
          "_sf" : "Rozmiar czcionki pól bocznych",
@@ -100,41 +100,41 @@
          "_bgc" : "Kolor tła",
 
          "_hc" : "Kolor godziny",
-         "_hc2" : "Kolor godziny 2",
+         "_hc2" : "Drugi kolor godziny",
          "_mc" : "Kolor minuty",
-         "_mc2" : "Kolor minuty 2",
+         "_mc2" : "Drugi kolor minuty",
          "_dc" : "Kolor separatora",
 
-         "_ox" : "Przesunięcie X czasu, 50 = środek",
-         "_oy" : "Przesunięcie Y czasu, 50 = środek",
+         "_ox" : "Przesunięcie w osi X czasu, 50 = na środku",
+         "_oy" : "Przesunięcie w osi Y czasu, 50 = na środku",
 
-         "_lp1" : "Kolor paska postępu 1",
-         "_lp2" : "Kolor paska postępu 2",
-         "_lpu" : "Kolor paska postępu niewypełniony",
+         "_lp1" : "Pierwszy kolor paska postępu",
+         "_lp2" : "Drugi kolor paska postępu",
+         "_lpu" : "Kolor pustego paska postępu",
 
-        "_l12" : "Kolor paska postępu lewy dół 1",
-         "_l12b" : "Kolor paska postępu lewy dół 2",
-         "_l12u" : "Kolor paska postępu lewy dół niewypełniony",
+        "_l12" : "Pierwszy kolor paska postępu po lewej na dole",
+         "_l12b" : "Drugi kolor paska postępu po lewej na dole",
+         "_l12u" : "Kolor pustego paska postępu po lewej na dole",
 
-         "_l13" : "Kolor paska postępu prawy dół 1",
-         "_l13b" : "Kolor paska postępu prawy dół 2",
-         "_l13u" : "Kolor paska postępu prawy dół niewypełniony",
+         "_l13" : "Pierwszy kolor paska postępu po prawej na dole",
+         "_l13b" : "Drugi kolor paska postępu  po prawej na dole",
+         "_l13u" : "Kolor pustego paska postępu po prawej na dole",
 
-         "_l9p" : "Kolor paska postępu lewego koła 1",
-         "_l9b" : "Kolor paska postępu lewego koła 2",
-         "_l9u" : "Kolor paska postępu lewego koła niewypełniony",
+         "_l9p" : "Pierwszy kolor paska postępu lewego koła",
+         "_l9b" : "Drugi kolor paska postępu lewego koła",
+         "_l9u" : "Kolor pustego paska postępu lewego koła",
 
-         "_l10p" : "Kolor paska postępu prawego koła 1",
-         "_l10b" : "Kolor paska postępu prawego koła 2",
-         "_l10u" : "Kolor paska postępu prawego koła niewypełniony",
+         "_l10p" : "Pierwszy kolor paska postępu prawego koła",
+         "_l10b" : "Drugi kolor paska postępu prawego koła",
+         "_l10u" : "Kolor pustego paska postępu prawego koła",
 
          "ls" : "Ten sam kolor co pasek postępu",
 
-         "_lc0" : "Kolor pola bocznego góra",
-         "_lc1" : "Kolor pola bocznego dół",
+         "_lc0" : "Kolor pola bocznego na górze",
+         "_lc1" : "Kolor pola bocznego na dole",
 
-         "_lh0" : "Kolor początkowy wykresu",
-         "_lh1" : "Kolor końcowy wykresu",
+         "_lh0" : "Początkowy kolor wykresu",
+         "_lh1" : "Końcowy kolor wykresu",
 
          "_lcr" : "Kolor obrysu kół",
          "_lcl" : "Kolor linii tła",
@@ -156,8 +156,8 @@
          "_aas" : "Sekundy zawsze włączone",
 
          "_aod" : "Tryb AOD (Zawsze włączony wyświetlacz)",
-         "_aodct" : "Kolor odcienia czasu AOD",
-         "_aodc" : "Kolor odcienia danych AOD",
+         "_aodct" : "Odcień koloru czasu AOD",
+         "_aodc" : "Odcień koloru danych AOD",
          "_aodT" : "Jasność czasu AOD",
          "_aodD" : "Jasność danych AOD. Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Mniejsza liczba = mniejsze zużycie baterii ale mniejsza jasność. Zobacz FAQ)",
          "_aodS" : "Przesunięcie AOD - liczba pikseli o które ekran losowo przesuwa się co minutę aby zapobiec wypaleniu)",
