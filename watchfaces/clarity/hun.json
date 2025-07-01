@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 ÉRINTÉSI GYORSGOMBOK",
+        "_tc" : "🎨 SZÍNEK",
+        "_tt" : "🔤 BETŰTÍPUSOK",
+        "_ta" : "🖼️ AOD BEÁLLÍTÁSOK (Always on Display)",
+        "_to" : "💡 EGYÉB",
+        
+        "_t0" : "Érintési gyorsgomb óra",
+        "_t1" : "Érintési gyorsgomb perc",
+
+        "_f1" : "1. Mező 1 (Felül)",
+        "_l1" : "1. Címke 1",
+
+         "_f2" : "2. Mező 2",
+         "_l2" : "2. Címke 2",
+
+         "_s3" : "3. Mező 3 stílus",
+         "_f3" : "3. Mező 3",
+         "_l3" : "3. Címke 3",
+         "_c3" : "3. Diagram 3",
+
+         "_s4" : "4. Mező 4 stílus",
+         "_f4" : "4. Mező 4",
+         "_l4" : "4. Címke 4",
+         "_c4" : "4. Diagram 4",
+         "_f5" : "5. Mező 5 (amikor F4 stílus = 2 mező)",
+         "_l5" : "5. Címke 5 (amikor F4 stílus = 2 mező)",
+
+         "_0f" : "1 mező",
+         "_1f" : "1 mező + nagy diagram",
+         "_2f" : "Teljes diagram",
+         "_3f" : "2 mező",
+         "_4f" : "Diagram",
+         "_16f" : "1 mező balra igazítva",
+         "_17f" : "1 mező + kis diagram",
+
+         "_5f" : "Mező előrehaladás megjelenítése",
+         "_6f" : "Teljes",
+         "_7f" : "Üres",
+         "_8f" : "Elrejtés",
+         
+         "pss" : "Napesemény előrehaladás (felülírja az alsó előrehaladási sávokat)",
+
+         "_9f" : "DE/DU",
+         "_10f" : "Másodpercek",
+         "_11f" : "Ébresztő ikon",
+         "_12f" : "Ne zavarj ikon",
+         "_13f" : "Akkumulátor ikon",
+         "_14f" : "Bluetooth ikon",
+         "_15f" : "Értesítés ikon",
+         "_18f" : "Aktív állapot ikonok",
+
+
+        "_s6" : "6. Mező 6 stílus",
+         "_f6" : "6. Mező 6 adatok",
+         "_l6" : "6. Címke 6",
+         "_f7" : "7. Mező 7",
+         "_l7" : "7. Címke 7",
+
+         "_s8" : "8. Mező 8 stílus (Alul)",
+         "_f8" : "8. Mező 8",
+         "_l8" : "8. Címke 8",
+         "_c8" : "8. Diagram 8",
+
+         "_f9" : "Bal kör adatok",
+         "_l9" : "Bal kör címke",
+         "_s9" : "Bal kör előrehaladási stílus",
+
+         "_f10" : "Jobb kör adatok",
+         "_l10" : "Jobb kör címke",
+         "_s10" : "Jobb kör előrehaladási stílus",
+
+         "_p11" : "Középső előrehaladási sáv adatok",
+         "_p12" : "Alsó bal előrehaladási sáv adatok",
+         "_p13" : "Alsó jobb előrehaladási sáv adatok",
+
+         "_ct" : "Oldalsó mező felül",
+         "_cb" : "Oldalsó mező alul",
+         "_cs" : "Oldalsó mezők jobbra igazítása",
+
+
+         "_ft" : "Szöveg betűtípus",
+         "_fs" : "Szöveg betűméret",
+
+         "_hf" : "Idő betűtípus",
+         "_hfa" : "Idő betűtípus (AOD, mindig bekapcsolva)",
+         "_hfs" : "Idő betűméret",
+
+         "_sf" : "Oldalsó mezők betűméret",
+         "_fc" : "Jobb kör betűméret",
+
+         "fn1" : "Roboto Mono (nem méretezhető)",
+         "fn2" : "Roboto Mono Italics (nem méretezhető)",
+         "fn3" : "Barlow (nem méretezhető)",
+
+
+         "_lt" : "Szöveg színe",
+         "_ll" : "Címke színe",
+         "_bgc" : "Háttér színe",
+
+         "_hc" : "Óra színe",
+         "_hc2" : "Óra színe 2",
+         "_mc" : "Perc színe",
+         "_mc2" : "Perc színe 2",
+         "_dc" : "Elválasztó színe",
+
+         "_ox" : "Idő X eltolás, 50 = közép",
+         "_oy" : "Idő Y eltolás, 50 = közép",
+
+         "_lp1" : "Előrehaladási sáv színe 1",
+         "_lp2" : "Előrehaladási sáv színe 2",
+         "_lpu" : "Kitöltetlen előrehaladási sáv színe",
+
+        "_l12" : "Alsó bal előrehaladási sáv színe 1",
+         "_l12b" : "Alsó bal előrehaladási sáv színe 2",
+         "_l12u" : "Kitöltetlen alsó bal előrehaladási sáv színe",
+
+         "_l13" : "Alsó jobb előrehaladási sáv színe 1",
+         "_l13b" : "Alsó jobb előrehaladási sáv színe 2",
+         "_l13u" : "Kitöltetlen alsó jobb előrehaladási sáv színe",
+
+         "_l9p" : "Bal kör előrehaladási sáv színe 1",
+         "_l9b" : "Bal kör előrehaladási sáv színe 2",
+         "_l9u" : "Kitöltetlen bal kör előrehaladási sáv színe",
+
+         "_l10p" : "Jobb kör előrehaladási sáv színe 1",
+         "_l10b" : "Jobb kör előrehaladási sáv színe 2",
+         "_l10u" : "Kitöltetlen jobb kör előrehaladási sáv színe",
+
+         "ls" : "Ugyanaz a szín mint az előrehaladási sáv",
+
+         "_lc0" : "Felső oldalsó mező színe",
+         "_lc1" : "Alsó oldalsó mező színe",
+
+         "_lh0" : "Diagram kezdő színe",
+         "_lh1" : "Diagram befejező színe",
+
+         "_lcr" : "Körök körvonal színe",
+         "_lcl" : "Háttérvonalak színe",
+         "_lcc" : "Háttér körvonal (nagy kör) színe",
+         "_lcb" : "Idő + körök háttér színe",
+         "_btc" : "Óralap jelölések színe",
+
+         "_bgs" : "Háttérkép",
+         "_bgt" : "Háttérkép árnyalat színe",
+        
+         "bg0" : "Nincs háttérkép",
+         "bg1" : "Álcázás",
+         "bg2" : "Hatszög",
+         "bg3" : "Ellipszis",
+         "bg4" : "Világ",
+         "bg5" : "Hatszög elhalványulás",
+         "bg10" : "Csak kör",
+
+         "_aas" : "Mindig bekapcsolva másodpercek",
+
+         "_aod" : "AOD mód (Always on Display)",
+         "_aodct" : "AOD idő árnyalat színe",
+         "_aodc" : "AOD adatok árnyalat színe",
+         "_aodT" : "AOD idő fényerő",
+         "_aodD" : "AOD adatok fényerő. Ha a képernyő kikapcsol AOD közben, csökkentse ezt a számot. Alacsonyabb szám = kevesebb akkumulátorhasználat, de kevésbé fényes. Lásd: GYIK)",
+         "_aodS" : "AOD eltolás - pixelek száma, amennyivel a képernyő véletlenszerűen eltolódik percenként a beégés megelőzése érdekében)",
+         
+
+         "ad0" : "Képernyő KIKAPCSOLÁSA",
+         "ad100" : "Teljes AOD (alapértelmezett)",
+         "ad102" : "Teljes AOD - fekete háttér - diagramok elrejtése",
+
+         "ad1" : "Csak idő",
+         "ad2" : "Csak idő - középre igazítva",
+         "ad3" : "Csak idő - mozgó",
+
+         "ad4" : "Idő + adatmező (válassza az alábbiakból)",
+         "ad5" : "Idő középre + adatmező",
+         "ad6" : "Idő mozgó + adatmező",
+
+         "_f14" : "AOD mező adatok",
+         "_l14" : "AOD mező címke",
+
+         "_gq" : "Gradiens minőség",
+         "mg" : "MIPS gradiens",
+         "ng" : "Nincs gradiens"
+
+
+
+    }
+
+}

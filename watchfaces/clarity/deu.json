@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 BERÜHRUNGSKÜRZEL",
+        "_tc" : "🎨 FARBEN",
+        "_tt" : "🔤 SCHRIFTARTEN",
+        "_ta" : "🖼️ AOD EINSTELLUNGEN (Always on Display)",
+        "_to" : "💡 ANDERE",
+        
+        "_t0" : "Berührungskürzel Stunde",
+        "_t1" : "Berührungskürzel Minute",
+
+        "_f1" : "1. Feld 1 (Oben)",
+        "_l1" : "1. Beschriftung 1",
+
+         "_f2" : "2. Feld 2",
+         "_l2" : "2. Beschriftung 2",
+
+         "_s3" : "3. Feld 3 Stil",
+         "_f3" : "3. Feld 3",
+         "_l3" : "3. Beschriftung 3",
+         "_c3" : "3. Diagramm 3",
+
+         "_s4" : "4. Feld 4 Stil",
+         "_f4" : "4. Feld 4",
+         "_l4" : "4. Beschriftung 4",
+         "_c4" : "4. Diagramm 4",
+         "_f5" : "5. Feld 5 (wenn F4 Stil = 2 Felder)",
+         "_l5" : "5. Beschriftung 5 (wenn F4 Stil = 2 Felder)",
+
+         "_0f" : "1 Feld",
+         "_1f" : "1 Feld + Großes Diagramm",
+         "_2f" : "Vollständiges Diagramm",
+         "_3f" : "2 Felder",
+         "_4f" : "Diagramm",
+         "_16f" : "1 Feld linksbündig",
+         "_17f" : "1 Feld + Kleines Diagramm",
+
+         "_5f" : "Feldfortschritt anzeigen",
+         "_6f" : "Voll",
+         "_7f" : "Leer",
+         "_8f" : "Ausblenden",
+         
+         "pss" : "Sonnenereignis Fortschritt (überschreibt untere Fortschrittsbalken)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekunden",
+         "_11f" : "Alarm Symbol",
+         "_12f" : "Nicht stören Symbol",
+         "_13f" : "Batterie Symbol",
+         "_14f" : "Bluetooth Symbol",
+         "_15f" : "Benachrichtigung Symbol",
+         "_18f" : "Aktive Status Symbole",
+
+
+        "_s6" : "6. Feld 6 Stil",
+         "_f6" : "6. Feld 6 Daten",
+         "_l6" : "6. Beschriftung 6",
+         "_f7" : "7. Feld 7",
+         "_l7" : "7. Beschriftung 7",
+
+         "_s8" : "8. Feld 8 Stil (Unten)",
+         "_f8" : "8. Feld 8",
+         "_l8" : "8. Beschriftung 8",
+         "_c8" : "8. Diagramm 8",
+
+         "_f9" : "Linker Kreis Daten",
+         "_l9" : "Linker Kreis Beschriftung",
+         "_s9" : "Linker Kreis Fortschritt Stil",
+
+         "_f10" : "Rechter Kreis Daten",
+         "_l10" : "Rechter Kreis Beschriftung",
+         "_s10" : "Rechter Kreis Fortschritt Stil",
+
+         "_p11" : "Mittlerer Fortschrittsbalken Daten",
+         "_p12" : "Unterer linker Fortschrittsbalken Daten",
+         "_p13" : "Unterer rechter Fortschrittsbalken Daten",
+
+         "_ct" : "Seitenfeld Oben",
+         "_cb" : "Seitenfeld Unten",
+         "_cs" : "Seitenfelder rechtsbündig ausrichten",
+
+
+         "_ft" : "Text Schriftart",
+         "_fs" : "Text Schriftgröße",
+
+         "_hf" : "Zeit Schriftart",
+         "_hfa" : "Zeit Schriftart (AOD, Always on)",
+         "_hfs" : "Zeit Schriftgröße",
+
+         "_sf" : "Seitenfelder Schriftgröße",
+         "_fc" : "Rechter Kreis Schriftgröße",
+
+         "fn1" : "Roboto Mono (nicht skalierbar)",
+         "fn2" : "Roboto Mono Italics (nicht skalierbar)",
+         "fn3" : "Barlow (nicht skalierbar)",
+
+
+         "_lt" : "Text Farbe",
+         "_ll" : "Beschriftung Farbe",
+         "_bgc" : "Hintergrund Farbe",
+
+         "_hc" : "Stunden Farbe",
+         "_hc2" : "Stunden Farbe 2",
+         "_mc" : "Minuten Farbe",
+         "_mc2" : "Minuten Farbe 2",
+         "_dc" : "Trennzeichen Farbe",
+
+         "_ox" : "Zeit X Versatz, 50 = Mitte",
+         "_oy" : "Zeit Y Versatz, 50 = Mitte",
+
+         "_lp1" : "Fortschrittsbalken Farbe 1",
+         "_lp2" : "Fortschrittsbalken Farbe 2",
+         "_lpu" : "Fortschrittsbalken ungefüllt Farbe",
+
+        "_l12" : "Unterer linker Fortschrittsbalken Farbe 1",
+         "_l12b" : "Unterer linker Fortschrittsbalken Farbe 2",
+         "_l12u" : "Unterer linker Fortschrittsbalken ungefüllt Farbe",
+
+         "_l13" : "Unterer rechter Fortschrittsbalken Farbe 1",
+         "_l13b" : "Unterer rechter Fortschrittsbalken Farbe 2",
+         "_l13u" : "Unterer rechter Fortschrittsbalken ungefüllt Farbe",
+
+         "_l9p" : "Linker Kreis Fortschrittsbalken Farbe 1",
+         "_l9b" : "Linker Kreis Fortschrittsbalken Farbe 2",
+         "_l9u" : "Linker Kreis Fortschrittsbalken ungefüllt Farbe",
+
+         "_l10p" : "Rechter Kreis Fortschrittsbalken Farbe 1",
+         "_l10b" : "Rechter Kreis Fortschrittsbalken Farbe 2",
+         "_l10u" : "Rechter Kreis Fortschrittsbalken ungefüllt Farbe",
+
+         "ls" : "Gleiche Farbe wie Fortschrittsbalken",
+
+         "_lc0" : "Seitenfeld Oben Farbe",
+         "_lc1" : "Seitenfeld Unten Farbe",
+
+         "_lh0" : "Diagramm Startfarbe",
+         "_lh1" : "Diagramm Endfarbe",
+
+         "_lcr" : "Kreise Umriss Farbe",
+         "_lcl" : "Hintergrund Linien Farbe",
+         "_lcc" : "Hintergrund Umriss (großer Kreis) Farbe",
+         "_lcb" : "Zeit + Kreise Hintergrund Farbe",
+         "_btc" : "Zifferblatt Striche Farbe",
+
+         "_bgs" : "Hintergrundbild",
+         "_bgt" : "Hintergrundbild Tönung Farbe",
+        
+         "bg0" : "Kein Hintergrundbild",
+         "bg1" : "Tarnung",
+         "bg2" : "Sechseck",
+         "bg3" : "Ellipse",
+         "bg4" : "Welt",
+         "bg5" : "Sechseck Verlauf",
+         "bg10" : "Nur Kreis",
+
+         "_aas" : "Always on Sekunden",
+
+         "_aod" : "AOD Modus (Always on Display)",
+         "_aodct" : "AOD Zeit Tönung Farbe",
+         "_aodc" : "AOD Daten Tönung Farbe",
+         "_aodT" : "AOD Zeit Helligkeit",
+         "_aodD" : "AOD Daten Helligkeit. Wenn sich der Bildschirm während AOD ausschaltet, machen Sie diese Zahl niedriger. Niedrigere Zahl = weniger Batterieverbrauch aber weniger hell. Siehe FAQ)",
+         "_aodS" : "AOD Verschiebung - Anzahl der Pixel, die der Bildschirm zufällig pro Minute verschiebt, um Einbrennen zu verhindern)",
+         
+
+         "ad0" : "Bildschirm AUSSCHALTEN",
+         "ad100" : "Vollständiges AOD (Standard)",
+         "ad102" : "Vollständiges AOD - Schwarzer Hintergrund - Diagramme ausblenden",
+
+         "ad1" : "Nur Zeit",
+         "ad2" : "Nur Zeit - Zentriert",
+         "ad3" : "Nur Zeit - Bewegend",
+
+         "ad4" : "Zeit + Datenfeld (Wählen Sie unten)",
+         "ad5" : "Zeit zentriert + Datenfeld",
+         "ad6" : "Zeit bewegend + Datenfeld",
+
+         "_f14" : "AOD Feld Daten",
+         "_l14" : "AOD Feld Beschriftung",
+
+         "_gq" : "Verlauf Qualität",
+         "mg" : "MIPS Verlauf",
+         "ng" : "Kein Verlauf"
+
+
+
+    }
+
+}

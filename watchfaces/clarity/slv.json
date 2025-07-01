@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 DOTIKNE BLIŽNJICE",
+        "_tc" : "🎨 BARVE",
+        "_tt" : "🔤 PISAVE",
+        "_ta" : "🖼️ NASTAVITVE AOD (Vedno vklopljen zaslon)",
+        "_to" : "💡 DRUGO",
+        
+        "_t0" : "Dotikna bližnjica ure",
+        "_t1" : "Dotikna bližnjica minute",
+
+        "_f1" : "1. Polje 1 (Vrh)",
+        "_l1" : "1. Oznaka 1",
+
+         "_f2" : "2. Polje 2",
+         "_l2" : "2. Oznaka 2",
+
+         "_s3" : "3. Slog polja 3",
+         "_f3" : "3. Polje 3",
+         "_l3" : "3. Oznaka 3",
+         "_c3" : "3. Graf 3",
+
+         "_s4" : "4. Slog polja 4",
+         "_f4" : "4. Polje 4",
+         "_l4" : "4. Oznaka 4",
+         "_c4" : "4. Graf 4",
+         "_f5" : "5. Polje 5 (ko je slog F4 = 2 polji)",
+         "_l5" : "5. Oznaka 5 (ko je slog F4 = 2 polji)",
+
+         "_0f" : "1 Polje",
+         "_1f" : "1 Polje + Veliki graf",
+         "_2f" : "Polni graf",
+         "_3f" : "2 Polji",
+         "_4f" : "Graf",
+         "_16f" : "1 Polje poravnano levo",
+         "_17f" : "1 Polje + Mali graf",
+
+         "_5f" : "Prikaži napredek polja",
+         "_6f" : "Polno",
+         "_7f" : "Prazno",
+         "_8f" : "Skrij",
+         
+         "pss" : "Napredek sončnih dogodkov (prepiše spodnje vrstice napredka)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekunde",
+         "_11f" : "Ikona alarma",
+         "_12f" : "Ikona DND",
+         "_13f" : "Ikona baterije",
+         "_14f" : "Ikona Bluetooth",
+         "_15f" : "Ikona obvestil",
+         "_18f" : "Aktivne ikone stanja",
+
+
+        "_s6" : "6. Slog polja 6",
+         "_f6" : "6. Podatki polja 6",
+         "_l6" : "6. Oznaka 6",
+         "_f7" : "7. Polje 7",
+         "_l7" : "7. Oznaka 7",
+
+         "_s8" : "8. Slog polja 8 (Spodaj)",
+         "_f8" : "8. Polje 8",
+         "_l8" : "8. Oznaka 8",
+         "_c8" : "8. Graf 8",
+
+         "_f9" : "Podatki levega kroga",
+         "_l9" : "Oznaka levega kroga",
+         "_s9" : "Slog napredka desnega kroga",
+
+         "_f10" : "Podatki desnega kroga",
+         "_l10" : "Oznaka desnega kroga",
+         "_s10" : "Slog napredka desnega kroga",
+
+         "_p11" : "Podatki srednje vrstice napredka",
+         "_p12" : "Podatki leve spodnje vrstice napredka",
+         "_p13" : "Podatki desne spodnje vrstice napredka",
+
+         "_ct" : "Stransko polje vrh",
+         "_cb" : "Stransko polje spodaj",
+         "_cs" : "Stranska polja poravnaj desno",
+
+
+         "_ft" : "Pisava besedila",
+         "_fs" : "Velikost pisave besedila",
+
+         "_hf" : "Pisava časa",
+         "_hfa" : "Pisava časa (AOD, Vedno vklopljena)",
+         "_hfs" : "Velikost pisave časa",
+
+         "_sf" : "Velikost pisave stranskih polj",
+         "_fc" : "Velikost pisave desnega kroga",
+
+         "fn1" : "Roboto Mono (ni mogoče spremeniti velikosti)",
+         "fn2" : "Roboto Mono Italics (ni mogoče spremeniti velikosti)",
+         "fn3" : "Barlow (ni mogoče spremeniti velikosti)",
+
+
+         "_lt" : "Barva besedila",
+         "_ll" : "Barva oznake",
+         "_bgc" : "Barva ozadja",
+
+         "_hc" : "Barva ure",
+         "_hc2" : "Barva ure 2",
+         "_mc" : "Barva minute",
+         "_mc2" : "Barva minute 2",
+         "_dc" : "Barva ločila",
+
+         "_ox" : "Zamik X časa, 50 = sredina",
+         "_oy" : "Zamik Y časa, 50 = sredina",
+
+         "_lp1" : "Barva vrstice napredka 1",
+         "_lp2" : "Barva vrstice napredka 2",
+         "_lpu" : "Barva vrstice napredka neizpolnjena",
+
+        "_l12" : "Barva leve spodnje vrstice napredka 1",
+         "_l12b" : "Barva leve spodnje vrstice napredka 2",
+         "_l12u" : "Barva leve spodnje vrstice napredka neizpolnjena",
+
+         "_l13" : "Barva desne spodnje vrstice napredka 1",
+         "_l13b" : "Barva desne spodnje vrstice napredka 2",
+         "_l13u" : "Barva desne spodnje vrstice napredka neizpolnjena",
+
+         "_l9p" : "Barva vrstice napredka levega kroga 1",
+         "_l9b" : "Barva vrstice napredka levega kroga 2",
+         "_l9u" : "Barva vrstice napredka levega kroga neizpolnjena",
+
+         "_l10p" : "Barva vrstice napredka desnega kroga 1",
+         "_l10b" : "Barva vrstice napredka desnega kroga 2",
+         "_l10u" : "Barva vrstice napredka desnega kroga neizpolnjena",
+
+         "ls" : "Enaka barva kot vrstica napredka",
+
+         "_lc0" : "Barva stranskega polja vrh",
+         "_lc1" : "Barva stranskega polja spodaj",
+
+         "_lh0" : "Začetna barva grafa",
+         "_lh1" : "Končna barva grafa",
+
+         "_lcr" : "Barva obrisa krogov",
+         "_lcl" : "Barva črt ozadja",
+         "_lcc" : "Barva obrisa ozadja (veliki krog)",
+         "_lcb" : "Barva ozadja časa + krogov",
+         "_btc" : "Barva označb številčnice",
+
+         "_bgs" : "Slika ozadja",
+         "_bgt" : "Barva odtenka slike ozadja",
+        
+         "bg0" : "Brez slike ozadja",
+         "bg1" : "Kamuflaža",
+         "bg2" : "Hex",
+         "bg3" : "Elipsa",
+         "bg4" : "Svet",
+         "bg5" : "Hex zbledel",
+         "bg10" : "Samo krog",
+
+         "_aas" : "Sekunde vedno vklopljene",
+
+         "_aod" : "Način AOD (Vedno vklopljen zaslon)",
+         "_aodct" : "Barva odtenka časa AOD",
+         "_aodc" : "Barva odtenka podatkov AOD",
+         "_aodT" : "Svetlost časa AOD",
+         "_aodD" : "Svetlost podatkov AOD. Če se zaslon izklopi med AOD, zmanjšajte to številko. Manjša številka = manjša poraba baterije vendar manjša svetlost. Glejte FAQ)",
+         "_aodS" : "Zamik AOD - število pikslov za katere se zaslon naključno premakne na minuto za preprečitev izgorevanja)",
+         
+
+         "ad0" : "Izklopi zaslon",
+         "ad100" : "Polni AOD (Privzeto)",
+         "ad102" : "Polni AOD - Črno ozadje - Skrij grafe",
+
+         "ad1" : "Samo čas",
+         "ad2" : "Samo čas - Sredinsko",
+         "ad3" : "Samo čas - Premikajoč",
+
+         "ad4" : "Čas + podatkovno polje (Izberite spodaj)",
+         "ad5" : "Čas sredinsko + podatkovno polje",
+         "ad6" : "Čas premikajoč + podatkovno polje",
+
+         "_f14" : "Podatki polja AOD",
+         "_l14" : "Oznaka polja AOD",
+
+         "_gq" : "Kakovost prehoda",
+         "mg" : "MIPS prehod",
+         "ng" : "Brez prehoda"
+
+
+
+    }
+
+}

@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 BERØRINGS-SNARVEIER",
+        "_tc" : "🎨 FARGER",
+        "_tt" : "🔤 SKRIFTTYPER",
+        "_ta" : "🖼️ AOD INNSTILLINGER (Alltid på skjerm)",
+        "_to" : "💡 ANNET",
+        
+        "_t0" : "Berørings-snarvei time",
+        "_t1" : "Berørings-snarvei minutt",
+
+        "_f1" : "1. Felt 1 (Topp)",
+        "_l1" : "1. Etikett 1",
+
+         "_f2" : "2. Felt 2",
+         "_l2" : "2. Etikett 2",
+
+         "_s3" : "3. Felt 3 stil",
+         "_f3" : "3. Felt 3",
+         "_l3" : "3. Etikett 3",
+         "_c3" : "3. Diagram 3",
+
+         "_s4" : "4. Felt 4 stil",
+         "_f4" : "4. Felt 4",
+         "_l4" : "4. Etikett 4",
+         "_c4" : "4. Diagram 4",
+         "_f5" : "5. Felt 5 (når F4 stil = 2 felt)",
+         "_l5" : "5. Etikett 5 (når F4 stil = 2 felt)",
+
+         "_0f" : "1 felt",
+         "_1f" : "1 felt + stort diagram",
+         "_2f" : "Fullt diagram",
+         "_3f" : "2 felt",
+         "_4f" : "Diagram",
+         "_16f" : "1 felt venstrejustert",
+         "_17f" : "1 felt + lite diagram",
+
+         "_5f" : "Vis feltfremgang",
+         "_6f" : "Full",
+         "_7f" : "Tom",
+         "_8f" : "Skjul",
+         
+         "pss" : "Solhendelse fremgang (overstyrer nedre fremgangsstolper)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekunder",
+         "_11f" : "Alarm-ikon",
+         "_12f" : "Ikke forstyrr-ikon",
+         "_13f" : "Batteri-ikon",
+         "_14f" : "Bluetooth-ikon",
+         "_15f" : "Varsel-ikon",
+         "_18f" : "Aktive status-ikoner",
+
+
+        "_s6" : "6. Felt 6 stil",
+         "_f6" : "6. Felt 6 data",
+         "_l6" : "6. Etikett 6",
+         "_f7" : "7. Felt 7",
+         "_l7" : "7. Etikett 7",
+
+         "_s8" : "8. Felt 8 stil (Bunn)",
+         "_f8" : "8. Felt 8",
+         "_l8" : "8. Etikett 8",
+         "_c8" : "8. Diagram 8",
+
+         "_f9" : "Venstre sirkel data",
+         "_l9" : "Venstre sirkel etikett",
+         "_s9" : "Venstre sirkel fremgangsstil",
+
+         "_f10" : "Høyre sirkel data",
+         "_l10" : "Høyre sirkel etikett",
+         "_s10" : "Høyre sirkel fremgangsstil",
+
+         "_p11" : "Sentral fremgangsstolpe data",
+         "_p12" : "Nedre venstre fremgangsstolpe data",
+         "_p13" : "Nedre høyre fremgangsstolpe data",
+
+         "_ct" : "Sidefelt topp",
+         "_cb" : "Sidefelt bunn",
+         "_cs" : "Juster sidefelt til høyre",
+
+
+         "_ft" : "Tekst skrifttype",
+         "_fs" : "Tekst skriftstørrelse",
+
+         "_hf" : "Tid skrifttype",
+         "_hfa" : "Tid skrifttype (AOD, alltid på)",
+         "_hfs" : "Tid skriftstørrelse",
+
+         "_sf" : "Sidefelt skriftstørrelse",
+         "_fc" : "Høyre sirkel skriftstørrelse",
+
+         "fn1" : "Roboto Mono (ikke skalerbar)",
+         "fn2" : "Roboto Mono Italics (ikke skalerbar)",
+         "fn3" : "Barlow (ikke skalerbar)",
+
+
+         "_lt" : "Tekst farge",
+         "_ll" : "Etikett farge",
+         "_bgc" : "Bakgrunn farge",
+
+         "_hc" : "Time farge",
+         "_hc2" : "Time farge 2",
+         "_mc" : "Minutt farge",
+         "_mc2" : "Minutt farge 2",
+         "_dc" : "Skiller farge",
+
+         "_ox" : "Tid X forskyvning, 50 = senter",
+         "_oy" : "Tid Y forskyvning, 50 = senter",
+
+         "_lp1" : "Fremgangsstolpe farge 1",
+         "_lp2" : "Fremgangsstolpe farge 2",
+         "_lpu" : "Fremgangsstolpe ufylt farge",
+
+        "_l12" : "Nedre venstre fremgangsstolpe farge 1",
+         "_l12b" : "Nedre venstre fremgangsstolpe farge 2",
+         "_l12u" : "Nedre venstre fremgangsstolpe ufylt farge",
+
+         "_l13" : "Nedre høyre fremgangsstolpe farge 1",
+         "_l13b" : "Nedre høyre fremgangsstolpe farge 2",
+         "_l13u" : "Nedre høyre fremgangsstolpe ufylt farge",
+
+         "_l9p" : "Venstre sirkel fremgangsstolpe farge 1",
+         "_l9b" : "Venstre sirkel fremgangsstolpe farge 2",
+         "_l9u" : "Venstre sirkel fremgangsstolpe ufylt farge",
+
+         "_l10p" : "Høyre sirkel fremgangsstolpe farge 1",
+         "_l10b" : "Høyre sirkel fremgangsstolpe farge 2",
+         "_l10u" : "Høyre sirkel fremgangsstolpe ufylt farge",
+
+         "ls" : "Samme farge som fremgangsstolpe",
+
+         "_lc0" : "Øvre sidefelt farge",
+         "_lc1" : "Nedre sidefelt farge",
+
+         "_lh0" : "Diagram startfarge",
+         "_lh1" : "Diagram sluttfarge",
+
+         "_lcr" : "Sirkler omriss farge",
+         "_lcl" : "Bakgrunn linjer farge",
+         "_lcc" : "Bakgrunn omriss (stor sirkel) farge",
+         "_lcb" : "Tid + sirkler bakgrunn farge",
+         "_btc" : "Urskive merker farge",
+
+         "_bgs" : "Bakgrunnsbilde",
+         "_bgt" : "Bakgrunnsbilde tint farge",
+        
+         "bg0" : "Intet bakgrunnsbilde",
+         "bg1" : "Kamuflasje",
+         "bg2" : "Sekskant",
+         "bg3" : "Ellipse",
+         "bg4" : "Verden",
+         "bg5" : "Sekskant fade",
+         "bg10" : "Kun sirkel",
+
+         "_aas" : "Alltid på sekunder",
+
+         "_aod" : "AOD modus (Alltid på skjerm)",
+         "_aodct" : "AOD tid tint farge",
+         "_aodc" : "AOD data tint farge",
+         "_aodT" : "AOD tid lysstyrke",
+         "_aodD" : "AOD data lysstyrke. Hvis skjermen slår seg av under AOD, gjør dette tallet lavere. Lavere tall = mindre batteribruk men mindre lyst. Se FAQ)",
+         "_aodS" : "AOD skifte - antall piksler skjermen tilfeldig skifter per minutt for å forhindre innbrenning)",
+         
+
+         "ad0" : "Slå av skjerm",
+         "ad100" : "Full AOD (standard)",
+         "ad102" : "Full AOD - svart bakgrunn - skjul diagrammer",
+
+         "ad1" : "Kun tid",
+         "ad2" : "Kun tid - sentrert",
+         "ad3" : "Kun tid - bevegelig",
+
+         "ad4" : "Tid + datafelt (velg nedenfor)",
+         "ad5" : "Tid sentrert + datafelt",
+         "ad6" : "Tid bevegelig + datafelt",
+
+         "_f14" : "AOD felt data",
+         "_l14" : "AOD felt etikett",
+
+         "_gq" : "Gradient kvalitet",
+         "mg" : "MIPS gradient",
+         "ng" : "Ingen gradient"
+
+
+
+    }
+
+}

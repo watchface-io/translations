@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 ATALHOS DE TOQUE",
+        "_tc" : "🎨 CORES",
+        "_tt" : "🔤 FONTES",
+        "_ta" : "🖼️ CONFIGURAÇÕES AOD (Sempre ligado)",
+        "_to" : "💡 OUTROS",
+        
+        "_t0" : "Atalho de toque das horas",
+        "_t1" : "Atalho de toque dos minutos",
+
+        "_f1" : "1. Campo 1 (Topo)",
+        "_l1" : "1. Rótulo 1",
+
+         "_f2" : "2. Campo 2",
+         "_l2" : "2. Rótulo 2",
+
+         "_s3" : "3. Estilo do campo 3",
+         "_f3" : "3. Campo 3",
+         "_l3" : "3. Rótulo 3",
+         "_c3" : "3. Gráfico 3",
+
+         "_s4" : "4. Estilo do campo 4",
+         "_f4" : "4. Campo 4",
+         "_l4" : "4. Rótulo 4",
+         "_c4" : "4. Gráfico 4",
+         "_f5" : "5. Campo 5 (quando estilo F4 = 2 campos)",
+         "_l5" : "5. Rótulo 5 (quando estilo F4 = 2 campos)",
+
+         "_0f" : "1 Campo",
+         "_1f" : "1 Campo + Gráfico grande",
+         "_2f" : "Gráfico completo",
+         "_3f" : "2 Campos",
+         "_4f" : "Gráfico",
+         "_16f" : "1 Campo alinhado à esquerda",
+         "_17f" : "1 Campo + Gráfico pequeno",
+
+         "_5f" : "Mostrar progresso do campo",
+         "_6f" : "Completo",
+         "_7f" : "Vazio",
+         "_8f" : "Ocultar",
+         
+         "pss" : "Progresso do evento solar (substitui barras de progresso inferiores)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Segundos",
+         "_11f" : "Ícone de alarme",
+         "_12f" : "Ícone DND",
+         "_13f" : "Ícone de bateria",
+         "_14f" : "Ícone Bluetooth",
+         "_15f" : "Ícone de notificação",
+         "_18f" : "Ícones de status ativos",
+
+
+        "_s6" : "6. Estilo do campo 6",
+         "_f6" : "6. Dados do campo 6",
+         "_l6" : "6. Rótulo 6",
+         "_f7" : "7. Campo 7",
+         "_l7" : "7. Rótulo 7",
+
+         "_s8" : "8. Estilo do campo 8 (Inferior)",
+         "_f8" : "8. Campo 8",
+         "_l8" : "8. Rótulo 8",
+         "_c8" : "8. Gráfico 8",
+
+         "_f9" : "Dados do círculo esquerdo",
+         "_l9" : "Rótulo do círculo esquerdo",
+         "_s9" : "Estilo de progresso do círculo direito",
+
+         "_f10" : "Dados do círculo direito",
+         "_l10" : "Rótulo do círculo direito",
+         "_s10" : "Estilo de progresso do círculo direito",
+
+         "_p11" : "Dados da barra de progresso central",
+         "_p12" : "Dados da barra de progresso inferior esquerda",
+         "_p13" : "Dados da barra de progresso inferior direita",
+
+         "_ct" : "Campo lateral superior",
+         "_cb" : "Campo lateral inferior",
+         "_cs" : "Alinhar campos laterais à direita",
+
+
+         "_ft" : "Fonte do texto",
+         "_fs" : "Tamanho da fonte do texto",
+
+         "_hf" : "Fonte da hora",
+         "_hfa" : "Fonte da hora (AOD, Sempre ligado)",
+         "_hfs" : "Tamanho da fonte da hora",
+
+         "_sf" : "Tamanho da fonte dos campos laterais",
+         "_fc" : "Tamanho da fonte do círculo direito",
+
+         "fn1" : "Roboto Mono (não redimensionável)",
+         "fn2" : "Roboto Mono Italics (não redimensionável)",
+         "fn3" : "Barlow (não redimensionável)",
+
+
+         "_lt" : "Cor do texto",
+         "_ll" : "Cor do rótulo",
+         "_bgc" : "Cor de fundo",
+
+         "_hc" : "Cor da hora",
+         "_hc2" : "Cor da hora 2",
+         "_mc" : "Cor do minuto",
+         "_mc2" : "Cor do minuto 2",
+         "_dc" : "Cor do divisor",
+
+         "_ox" : "Deslocamento X da hora, 50 = centro",
+         "_oy" : "Deslocamento Y da hora, 50 = centro",
+
+         "_lp1" : "Cor da barra de progresso 1",
+         "_lp2" : "Cor da barra de progresso 2",
+         "_lpu" : "Cor da barra de progresso não preenchida",
+
+        "_l12" : "Cor da barra de progresso inferior esquerda 1",
+         "_l12b" : "Cor da barra de progresso inferior esquerda 2",
+         "_l12u" : "Cor da barra de progresso inferior esquerda não preenchida",
+
+         "_l13" : "Cor da barra de progresso inferior direita 1",
+         "_l13b" : "Cor da barra de progresso inferior direita 2",
+         "_l13u" : "Cor da barra de progresso inferior direita não preenchida",
+
+         "_l9p" : "Cor da barra de progresso do círculo esquerdo 1",
+         "_l9b" : "Cor da barra de progresso do círculo esquerdo 2",
+         "_l9u" : "Cor da barra de progresso do círculo esquerdo não preenchida",
+
+         "_l10p" : "Cor da barra de progresso do círculo direito 1",
+         "_l10b" : "Cor da barra de progresso do círculo direito 2",
+         "_l10u" : "Cor da barra de progresso do círculo direito não preenchida",
+
+         "ls" : "Mesma cor da barra de progresso",
+
+         "_lc0" : "Cor do campo lateral superior",
+         "_lc1" : "Cor do campo lateral inferior",
+
+         "_lh0" : "Cor inicial do gráfico",
+         "_lh1" : "Cor final do gráfico",
+
+         "_lcr" : "Cor do contorno dos círculos",
+         "_lcl" : "Cor das linhas de fundo",
+         "_lcc" : "Cor do contorno de fundo (círculo grande)",
+         "_lcb" : "Cor de fundo da hora + círculos",
+         "_btc" : "Cor das marcas do mostrador",
+
+         "_bgs" : "Imagem de fundo",
+         "_bgt" : "Cor de matiz da imagem de fundo",
+        
+         "bg0" : "Sem imagem de fundo",
+         "bg1" : "Camuflagem",
+         "bg2" : "Hex",
+         "bg3" : "Elipse",
+         "bg4" : "Mundo",
+         "bg5" : "Hex desbotado",
+         "bg10" : "Apenas círculo",
+
+         "_aas" : "Segundos sempre ligados",
+
+         "_aod" : "Modo AOD (Sempre ligado)",
+         "_aodct" : "Cor de matiz da hora AOD",
+         "_aodc" : "Cor de matiz dos dados AOD",
+         "_aodT" : "Brilho da hora AOD",
+         "_aodD" : "Brilho dos dados AOD. Se a tela desligar durante AOD, diminua este número. Número menor = menos uso de bateria mas menos brilho. Veja FAQ)",
+         "_aodS" : "Deslocamento AOD - número de pixels que a tela move aleatoriamente por minuto para evitar queima)",
+         
+
+         "ad0" : "Desligar tela",
+         "ad100" : "AOD completo (Padrão)",
+         "ad102" : "AOD completo - Fundo preto - Ocultar gráficos",
+
+         "ad1" : "Apenas hora",
+         "ad2" : "Apenas hora - Centralizada",
+         "ad3" : "Apenas hora - Móvel",
+
+         "ad4" : "Hora + campo de dados (Selecione abaixo)",
+         "ad5" : "Hora centralizada + campo de dados",
+         "ad6" : "Hora móvel + campo de dados",
+
+         "_f14" : "Dados do campo AOD",
+         "_l14" : "Rótulo do campo AOD",
+
+         "_gq" : "Qualidade do gradiente",
+         "mg" : "Gradiente MIPS",
+         "ng" : "Sem gradiente"
+
+
+
+    }
+
+}

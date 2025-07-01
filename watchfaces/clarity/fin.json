@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 KOSKETUSPIKAVALINTOJA",
+        "_tc" : "🎨 VÄRIT",
+        "_tt" : "🔤 FONTIT",
+        "_ta" : "🖼️ AOD ASETUKSET (Aina päällä -näyttö)",
+        "_to" : "💡 MUUT",
+        
+        "_t0" : "Kosketuspikavalinta tunti",
+        "_t1" : "Kosketuspikavalinta minuutti",
+
+        "_f1" : "1. Kenttä 1 (Ylhäällä)",
+        "_l1" : "1. Merkintä 1",
+
+         "_f2" : "2. Kenttä 2",
+         "_l2" : "2. Merkintä 2",
+
+         "_s3" : "3. Kenttä 3 tyyli",
+         "_f3" : "3. Kenttä 3",
+         "_l3" : "3. Merkintä 3",
+         "_c3" : "3. Kaavio 3",
+
+         "_s4" : "4. Kenttä 4 tyyli",
+         "_f4" : "4. Kenttä 4",
+         "_l4" : "4. Merkintä 4",
+         "_c4" : "4. Kaavio 4",
+         "_f5" : "5. Kenttä 5 (kun F4 tyyli = 2 kenttää)",
+         "_l5" : "5. Merkintä 5 (kun F4 tyyli = 2 kenttää)",
+
+         "_0f" : "1 kenttä",
+         "_1f" : "1 kenttä + suuri kaavio",
+         "_2f" : "Koko kaavio",
+         "_3f" : "2 kenttää",
+         "_4f" : "Kaavio",
+         "_16f" : "1 kenttä vasemmalle tasattu",
+         "_17f" : "1 kenttä + pieni kaavio",
+
+         "_5f" : "Näytä kentän edistyminen",
+         "_6f" : "Täysi",
+         "_7f" : "Tyhjä",
+         "_8f" : "Piilota",
+         
+         "pss" : "Auringon tapahtumien edistyminen (ohittaa alaosan edistymispalkit)",
+
+         "_9f" : "AP/IP",
+         "_10f" : "Sekunnit",
+         "_11f" : "Hälytyksen kuvake",
+         "_12f" : "Älä häiritse -kuvake",
+         "_13f" : "Akkukuvake",
+         "_14f" : "Bluetooth-kuvake",
+         "_15f" : "Ilmoituskuvake",
+         "_18f" : "Aktiiviset tilakuvakkeet",
+
+
+        "_s6" : "6. Kenttä 6 tyyli",
+         "_f6" : "6. Kenttä 6 tiedot",
+         "_l6" : "6. Merkintä 6",
+         "_f7" : "7. Kenttä 7",
+         "_l7" : "7. Merkintä 7",
+
+         "_s8" : "8. Kenttä 8 tyyli (Alhaalla)",
+         "_f8" : "8. Kenttä 8",
+         "_l8" : "8. Merkintä 8",
+         "_c8" : "8. Kaavio 8",
+
+         "_f9" : "Vasemman ympyrän tiedot",
+         "_l9" : "Vasemman ympyrän merkintä",
+         "_s9" : "Vasemman ympyrän edistymistyyli",
+
+         "_f10" : "Oikean ympyrän tiedot",
+         "_l10" : "Oikean ympyrän merkintä",
+         "_s10" : "Oikean ympyrän edistymistyyli",
+
+         "_p11" : "Keskimmäisen edistymispalkin tiedot",
+         "_p12" : "Alavasen edistymispalkin tiedot",
+         "_p13" : "Alaoikean edistymispalkin tiedot",
+
+         "_ct" : "Sivukenttä ylhäällä",
+         "_cb" : "Sivukenttä alhaalla",
+         "_cs" : "Tasaa sivukentät oikealle",
+
+
+         "_ft" : "Tekstin fontti",
+         "_fs" : "Tekstin fonttikoko",
+
+         "_hf" : "Ajan fontti",
+         "_hfa" : "Ajan fontti (AOD, aina päällä)",
+         "_hfs" : "Ajan fonttikoko",
+
+         "_sf" : "Sivukenttien fonttikoko",
+         "_fc" : "Oikean ympyrän fonttikoko",
+
+         "fn1" : "Roboto Mono (ei skaalautuva)",
+         "fn2" : "Roboto Mono Italics (ei skaalautuva)",
+         "fn3" : "Barlow (ei skaalautuva)",
+
+
+         "_lt" : "Tekstin väri",
+         "_ll" : "Merkinnän väri",
+         "_bgc" : "Taustan väri",
+
+         "_hc" : "Tunnin väri",
+         "_hc2" : "Tunnin väri 2",
+         "_mc" : "Minuutin väri",
+         "_mc2" : "Minuutin väri 2",
+         "_dc" : "Erottimen väri",
+
+         "_ox" : "Ajan X-siirtymä, 50 = keskellä",
+         "_oy" : "Ajan Y-siirtymä, 50 = keskellä",
+
+         "_lp1" : "Edistymispalkin väri 1",
+         "_lp2" : "Edistymispalkin väri 2",
+         "_lpu" : "Täyttämättömän edistymispalkin väri",
+
+        "_l12" : "Alavasen edistymispalkin väri 1",
+         "_l12b" : "Alavasen edistymispalkin väri 2",
+         "_l12u" : "Täyttämättömän alavasen edistymispalkin väri",
+
+         "_l13" : "Alaoikean edistymispalkin väri 1",
+         "_l13b" : "Alaoikean edistymispalkin väri 2",
+         "_l13u" : "Täyttämättömän alaoikean edistymispalkin väri",
+
+         "_l9p" : "Vasemman ympyrän edistymispalkin väri 1",
+         "_l9b" : "Vasemman ympyrän edistymispalkin väri 2",
+         "_l9u" : "Täyttämättömän vasemman ympyrän edistymispalkin väri",
+
+         "_l10p" : "Oikean ympyrän edistymispalkin väri 1",
+         "_l10b" : "Oikean ympyrän edistymispalkin väri 2",
+         "_l10u" : "Täyttämättömän oikean ympyrän edistymispalkin väri",
+
+         "ls" : "Sama väri kuin edistymispalkki",
+
+         "_lc0" : "Ylemmän sivukentän väri",
+         "_lc1" : "Alemman sivukentän väri",
+
+         "_lh0" : "Kaavion aloitusväri",
+         "_lh1" : "Kaavion lopetusväri",
+
+         "_lcr" : "Ympyröiden ääriviivan väri",
+         "_lcl" : "Taustaviivojen väri",
+         "_lcc" : "Taustan ääriviivan (iso ympyrä) väri",
+         "_lcb" : "Ajan + ympyröiden taustan väri",
+         "_btc" : "Kellotaulun merkkien väri",
+
+         "_bgs" : "Taustakuva",
+         "_bgt" : "Taustakuvan sävyväri",
+        
+         "bg0" : "Ei taustakuvaa",
+         "bg1" : "Naamiointiväri",
+         "bg2" : "Kuusikulmio",
+         "bg3" : "Ellipsi",
+         "bg4" : "Maailma",
+         "bg5" : "Kuusikulmion häivytys",
+         "bg10" : "Vain ympyrä",
+
+         "_aas" : "Aina päällä -sekunnit",
+
+         "_aod" : "AOD-tila (Aina päällä -näyttö)",
+         "_aodct" : "AOD-ajan sävyväri",
+         "_aodc" : "AOD-tietojen sävyväri",
+         "_aodT" : "AOD-ajan kirkkaus",
+         "_aodD" : "AOD-tietojen kirkkaus. Jos näyttö sammuu AOD:n aikana, pienennä tätä numeroa. Pienempi numero = vähemmän akunkäyttöä mutta vähemmän kirkasta. Katso UKK)",
+         "_aodS" : "AOD-siirtymä - pikselien määrä, jonka verran näyttö siirtyy satunnaisesti minuutissa sisäänpalamisen estämiseksi)",
+         
+
+         "ad0" : "Sammuta näyttö",
+         "ad100" : "Täysi AOD (oletus)",
+         "ad102" : "Täysi AOD - musta tausta - piilota kaaviot",
+
+         "ad1" : "Vain aika",
+         "ad2" : "Vain aika - keskitetty",
+         "ad3" : "Vain aika - liikkuva",
+
+         "ad4" : "Aika + tietokenttä (valitse alta)",
+         "ad5" : "Aika keskitetty + tietokenttä",
+         "ad6" : "Aika liikkuva + tietokenttä",
+
+         "_f14" : "AOD-kentän tiedot",
+         "_l14" : "AOD-kentän merkintä",
+
+         "_gq" : "Liukuvärin laatu",
+         "mg" : "MIPS-liukuväri",
+         "ng" : "Ei liukuväriä"
+
+
+
+    }
+
+}

@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 DOTYKOVÁ SKRATKY",
+        "_tc" : "🎨 FARBY",
+        "_tt" : "🔤 PÍSMA",
+        "_ta" : "🖼️ NASTAVENIA AOD (Vždy zapnutý displej)",
+        "_to" : "💡 INÉ",
+        
+        "_t0" : "Dotyková skratka hodín",
+        "_t1" : "Dotyková skratka minút",
+
+        "_f1" : "1. Pole 1 (Vrch)",
+        "_l1" : "1. Štítok 1",
+
+         "_f2" : "2. Pole 2",
+         "_l2" : "2. Štítok 2",
+
+         "_s3" : "3. Štýl poľa 3",
+         "_f3" : "3. Pole 3",
+         "_l3" : "3. Štítok 3",
+         "_c3" : "3. Graf 3",
+
+         "_s4" : "4. Štýl poľa 4",
+         "_f4" : "4. Pole 4",
+         "_l4" : "4. Štítok 4",
+         "_c4" : "4. Graf 4",
+         "_f5" : "5. Pole 5 (keď štýl F4 = 2 polia)",
+         "_l5" : "5. Štítok 5 (keď štýl F4 = 2 polia)",
+
+         "_0f" : "1 Pole",
+         "_1f" : "1 Pole + Veľký graf",
+         "_2f" : "Plný graf",
+         "_3f" : "2 Polia",
+         "_4f" : "Graf",
+         "_16f" : "1 Pole zarovnané vľavo",
+         "_17f" : "1 Pole + Malý graf",
+
+         "_5f" : "Zobraziť pokrok poľa",
+         "_6f" : "Plný",
+         "_7f" : "Prázdny",
+         "_8f" : "Skryť",
+         
+         "pss" : "Pokrok slnečných udalostí (prepíše spodné pruhy pokroku)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekundy",
+         "_11f" : "Ikona budíka",
+         "_12f" : "Ikona DND",
+         "_13f" : "Ikona batérie",
+         "_14f" : "Ikona Bluetooth",
+         "_15f" : "Ikona oznámení",
+         "_18f" : "Aktívne ikony stavu",
+
+
+        "_s6" : "6. Štýl poľa 6",
+         "_f6" : "6. Dáta poľa 6",
+         "_l6" : "6. Štítok 6",
+         "_f7" : "7. Pole 7",
+         "_l7" : "7. Štítok 7",
+
+         "_s8" : "8. Štýl poľa 8 (Spodok)",
+         "_f8" : "8. Pole 8",
+         "_l8" : "8. Štítok 8",
+         "_c8" : "8. Graf 8",
+
+         "_f9" : "Dáta ľavého kruhu",
+         "_l9" : "Štítok ľavého kruhu",
+         "_s9" : "Štýl pokroku pravého kruhu",
+
+         "_f10" : "Dáta pravého kruhu",
+         "_l10" : "Štítok pravého kruhu",
+         "_s10" : "Štýl pokroku pravého kruhu",
+
+         "_p11" : "Dáta stredového pruhu pokroku",
+         "_p12" : "Dáta ľavého spodného pruhu pokroku",
+         "_p13" : "Dáta pravého spodného pruhu pokroku",
+
+         "_ct" : "Bočné pole vrch",
+         "_cb" : "Bočné pole spodok",
+         "_cs" : "Bočné polia zarovnať vpravo",
+
+
+         "_ft" : "Písmo textu",
+         "_fs" : "Veľkosť písma textu",
+
+         "_hf" : "Písmo času",
+         "_hfa" : "Písmo času (AOD, Vždy zapnuté)",
+         "_hfs" : "Veľkosť písma času",
+
+         "_sf" : "Veľkosť písma bočných polí",
+         "_fc" : "Veľkosť písma pravého kruhu",
+
+         "fn1" : "Roboto Mono (nie je možné zmeniť veľkosť)",
+         "fn2" : "Roboto Mono Italics (nie je možné zmeniť veľkosť)",
+         "fn3" : "Barlow (nie je možné zmeniť veľkosť)",
+
+
+         "_lt" : "Farba textu",
+         "_ll" : "Farba štítku",
+         "_bgc" : "Farba pozadia",
+
+         "_hc" : "Farba hodiny",
+         "_hc2" : "Farba hodiny 2",
+         "_mc" : "Farba minúty",
+         "_mc2" : "Farba minúty 2",
+         "_dc" : "Farba oddeľovača",
+
+         "_ox" : "Posun X času, 50 = stred",
+         "_oy" : "Posun Y času, 50 = stred",
+
+         "_lp1" : "Farba pruhu pokroku 1",
+         "_lp2" : "Farba pruhu pokroku 2",
+         "_lpu" : "Farba pruhu pokroku nevyplnený",
+
+        "_l12" : "Farba ľavého spodného pruhu pokroku 1",
+         "_l12b" : "Farba ľavého spodného pruhu pokroku 2",
+         "_l12u" : "Farba ľavého spodného pruhu pokroku nevyplnený",
+
+         "_l13" : "Farba pravého spodného pruhu pokroku 1",
+         "_l13b" : "Farba pravého spodného pruhu pokroku 2",
+         "_l13u" : "Farba pravého spodného pruhu pokroku nevyplnený",
+
+         "_l9p" : "Farba pruhu pokroku ľavého kruhu 1",
+         "_l9b" : "Farba pruhu pokroku ľavého kruhu 2",
+         "_l9u" : "Farba pruhu pokroku ľavého kruhu nevyplnený",
+
+         "_l10p" : "Farba pruhu pokroku pravého kruhu 1",
+         "_l10b" : "Farba pruhu pokroku pravého kruhu 2",
+         "_l10u" : "Farba pruhu pokroku pravého kruhu nevyplnený",
+
+         "ls" : "Rovnaká farba ako pruh pokroku",
+
+         "_lc0" : "Farba bočného poľa vrch",
+         "_lc1" : "Farba bočného poľa spodok",
+
+         "_lh0" : "Počiatočná farba grafu",
+         "_lh1" : "Koncová farba grafu",
+
+         "_lcr" : "Farba obrysu kruhov",
+         "_lcl" : "Farba čiar pozadia",
+         "_lcc" : "Farba obrysu pozadia (veľký kruh)",
+         "_lcb" : "Farba pozadia času + kruhov",
+         "_btc" : "Farba značiek ciferníka",
+
+         "_bgs" : "Obrázok pozadia",
+         "_bgt" : "Farba odtieňa obrázka pozadia",
+        
+         "bg0" : "Žiadny obrázok pozadia",
+         "bg1" : "Kamufláž",
+         "bg2" : "Hex",
+         "bg3" : "Elipsa",
+         "bg4" : "Svet",
+         "bg5" : "Hex miznúci",
+         "bg10" : "Len kruh",
+
+         "_aas" : "Sekundy vždy zapnuté",
+
+         "_aod" : "Režim AOD (Vždy zapnutý displej)",
+         "_aodct" : "Farba odtieňa času AOD",
+         "_aodc" : "Farba odtieňa dát AOD",
+         "_aodT" : "Jas času AOD",
+         "_aodD" : "Jas dát AOD. Ak sa obrazovka vypne počas AOD, znížte toto číslo. Nižšie číslo = menšie využitie batérie ale menší jas. Pozrite FAQ)",
+         "_aodS" : "Posun AOD - počet pixelov o ktoré sa obrazovka náhodne posunie za minútu pre zabránenie vypálenia)",
+         
+
+         "ad0" : "Vypnúť obrazovku",
+         "ad100" : "Plný AOD (Predvolený)",
+         "ad102" : "Plný AOD - Čierne pozadie - Skryť grafy",
+
+         "ad1" : "Len čas",
+         "ad2" : "Len čas - Vycentrovaný",
+         "ad3" : "Len čas - Pohyblivý",
+
+         "ad4" : "Čas + dátové pole (Vyberte nižšie)",
+         "ad5" : "Čas vycentrovaný + dátové pole",
+         "ad6" : "Čas pohyblivý + dátové pole",
+
+         "_f14" : "Dáta poľa AOD",
+         "_l14" : "Štítok poľa AOD",
+
+         "_gq" : "Kvalita prechodu",
+         "mg" : "MIPS prechod",
+         "ng" : "Bez prechodu"
+
+
+
+    }
+
+}

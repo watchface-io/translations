@@ -1,0 +1,181 @@
+{
+    "settings" : {
+        "_tr" : "👉 COMENZI RAPIDE ATINGERE",
+        "_tc" : "🎨 CULORI",
+        "_tt" : "🔤 FONTURI",
+        "_ta" : "🖼️ SETĂRI AOD (Mereu pe ecran)",
+        "_to" : "💡 ALTELE",
+        
+        "_t0" : "Comandă rapidă atingere oră",
+        "_t1" : "Comandă rapidă atingere minut",
+
+        "_f1" : "1. Câmp 1 (Sus)",
+        "_l1" : "1. Etichetă 1",
+
+         "_f2" : "2. Câmp 2",
+         "_l2" : "2. Etichetă 2",
+
+         "_s3" : "3. Stil câmp 3",
+         "_f3" : "3. Câmp 3",
+         "_l3" : "3. Etichetă 3",
+         "_c3" : "3. Grafic 3",
+
+         "_s4" : "4. Stil câmp 4",
+         "_f4" : "4. Câmp 4",
+         "_l4" : "4. Etichetă 4",
+         "_c4" : "4. Grafic 4",
+         "_f5" : "5. Câmp 5 (când stilul F4 = 2 câmpuri)",
+         "_l5" : "5. Etichetă 5 (când stilul F4 = 2 câmpuri)",
+
+         "_0f" : "1 Câmp",
+         "_1f" : "1 Câmp + Grafic mare",
+         "_2f" : "Grafic complet",
+         "_3f" : "2 Câmpuri",
+         "_4f" : "Grafic",
+         "_16f" : "1 Câmp aliniat la stânga",
+         "_17f" : "1 Câmp + Grafic mic",
+
+         "_5f" : "Arată progresul câmpului",
+         "_6f" : "Complet",
+         "_7f" : "Gol",
+         "_8f" : "Ascunde",
+         
+         "pss" : "Progres evenimente solare (înlocuiește barele de progres de jos)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Secunde",
+         "_11f" : "Iconiță alarmă",
+         "_12f" : "Iconiță DND",
+         "_13f" : "Iconiță baterie",
+         "_14f" : "Iconiță Bluetooth",
+         "_15f" : "Iconiță notificare",
+         "_18f" : "Iconițe stare active",
+
+        "_s6" : "6. Stil câmp 6",
+         "_f6" : "6. Date câmp 6",
+         "_l6" : "6. Etichetă 6",
+         "_f7" : "7. Câmp 7",
+         "_l7" : "7. Etichetă 7",
+
+         "_s8" : "8. Stil câmp 8 (Jos)",
+         "_f8" : "8. Câmp 8",
+         "_l8" : "8. Etichetă 8",
+         "_c8" : "8. Grafic 8",
+
+         "_f9" : "Date cerc stânga",
+         "_l9" : "Etichetă cerc stânga",
+         "_s9" : "Stil progres cerc dreapta",
+
+         "_f10" : "Date cerc dreapta",
+         "_l10" : "Etichetă cerc dreapta",
+         "_s10" : "Stil progres cerc dreapta",
+
+         "_p11" : "Date bară progres centru",
+         "_p12" : "Date bară progres jos stânga",
+         "_p13" : "Date bară progres jos dreapta",
+
+         "_ct" : "Câmp lateral sus",
+         "_cb" : "Câmp lateral jos",
+         "_cs" : "Aliniază câmpurile laterale la dreapta",
+
+         "_ft" : "Font text",
+         "_fs" : "Dimensiune font text",
+
+         "_hf" : "Font oră",
+         "_hfa" : "Font oră (AOD, Mereu pe ecran)",
+         "_hfs" : "Dimensiune font oră",
+
+         "_sf" : "Dimensiune font câmpuri laterale",
+         "_fc" : "Dimensiune font cerc dreapta",
+
+         "fn1" : "Roboto Mono (nu se poate redimensiona)",
+         "fn2" : "Roboto Mono Italics (nu se poate redimensiona)",
+         "fn3" : "Barlow (nu se poate redimensiona)",
+
+         "_lt" : "Culoare text",
+         "_ll" : "Culoare etichetă",
+         "_bgc" : "Culoare fundal",
+
+         "_hc" : "Culoare oră",
+         "_hc2" : "Culoare oră 2",
+         "_mc" : "Culoare minut",
+         "_mc2" : "Culoare minut 2",
+         "_dc" : "Culoare separator",
+
+         "_ox" : "Deplasare X oră, 50 = centru",
+         "_oy" : "Deplasare Y oră, 50 = centru",
+
+         "_lp1" : "Culoare bară progres 1",
+         "_lp2" : "Culoare bară progres 2",
+         "_lpu" : "Culoare bară progres neumpluată",
+
+        "_l12" : "Culoare bară progres jos stânga 1",
+         "_l12b" : "Culoare bară progres jos stânga 2",
+         "_l12u" : "Culoare bară progres jos stânga neumpluată",
+
+         "_l13" : "Culoare bară progres jos dreapta 1",
+         "_l13b" : "Culoare bară progres jos dreapta 2",
+         "_l13u" : "Culoare bară progres jos dreapta neumpluată",
+
+         "_l9p" : "Culoare bară progres cerc stânga 1",
+         "_l9b" : "Culoare bară progres cerc stânga 2",
+         "_l9u" : "Culoare bară progres cerc stânga neumpluată",
+
+         "_l10p" : "Culoare bară progres cerc dreapta 1",
+         "_l10b" : "Culoare bară progres cerc dreapta 2",
+         "_l10u" : "Culoare bară progres cerc dreapta neumpluată",
+
+         "ls" : "Aceeași culoare ca bara de progres",
+
+         "_lc0" : "Culoare câmp lateral sus",
+         "_lc1" : "Culoare câmp lateral jos",
+
+         "_lh0" : "Culoare început grafic",
+         "_lh1" : "Culoare sfârșit grafic",
+
+         "_lcr" : "Culoare contur cercuri",
+         "_lcl" : "Culoare linii fundal",
+         "_lcc" : "Culoare contur fundal (cerc mare)",
+         "_lcb" : "Culoare fundal oră + cercuri",
+         "_btc" : "Culoare marcaje cadran",
+
+         "_bgs" : "Imagine fundal",
+         "_bgt" : "Culoare nuanță imagine fundal",
+        
+         "bg0" : "Fără imagine fundal",
+         "bg1" : "Camuflaj",
+         "bg2" : "Hex",
+         "bg3" : "Elipsă",
+         "bg4" : "Lume",
+         "bg5" : "Hex estompat",
+         "bg10" : "Doar cerc",
+
+         "_aas" : "Secunde mereu pe ecran",
+
+         "_aod" : "Mod AOD (Mereu pe ecran)",
+         "_aodct" : "Culoare nuanță oră AOD",
+         "_aodc" : "Culoare nuanță date AOD",
+         "_aodT" : "Luminozitate oră AOD",
+         "_aodD" : "Luminozitate date AOD. Dacă ecranul se închide în timpul AOD, scade această valoare. Număr mai mic = consum baterie redus dar mai puțin luminos. Vezi FAQ)",
+         "_aodS" : "Deplasare AOD - numărul de pixeli cu care ecranul se deplasează aleatoriu pe minut pentru a preveni arderea)",
+         
+         "ad0" : "Închide ecranul",
+         "ad100" : "AOD complet (Implicit)",
+         "ad102" : "AOD complet - Fundal negru - Ascunde graficele",
+
+         "ad1" : "Doar ora",
+         "ad2" : "Doar ora - Centrat",
+         "ad3" : "Doar ora - În mișcare",
+
+         "ad4" : "Ora + câmp date (Selectează mai jos)",
+         "ad5" : "Ora centrată + câmp date",
+         "ad6" : "Ora în mișcare + câmp date",
+
+         "_f14" : "Date câmp AOD",
+         "_l14" : "Etichetă câmp AOD",
+
+         "_gq" : "Calitate gradient",
+         "mg" : "Gradient MIPS",
+         "ng" : "Fără gradient"
+    }
+}

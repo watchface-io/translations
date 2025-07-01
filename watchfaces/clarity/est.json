@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 PUUTEKLAHVI",
+        "_tc" : "🎨 VÄRVID",
+        "_tt" : "🔤 FONDID",
+        "_ta" : "🖼️ AOD SEADED (Alati sisselülitatud ekraan)",
+        "_to" : "💡 MUUD",
+        
+        "_t0" : "Puuteklahv tund",
+        "_t1" : "Puuteklahv minut",
+
+        "_f1" : "1. Väli 1 (Üleval)",
+        "_l1" : "1. Silt 1",
+
+         "_f2" : "2. Väli 2",
+         "_l2" : "2. Silt 2",
+
+         "_s3" : "3. Väli 3 stiil",
+         "_f3" : "3. Väli 3",
+         "_l3" : "3. Silt 3",
+         "_c3" : "3. Diagramm 3",
+
+         "_s4" : "4. Väli 4 stiil",
+         "_f4" : "4. Väli 4",
+         "_l4" : "4. Silt 4",
+         "_c4" : "4. Diagramm 4",
+         "_f5" : "5. Väli 5 (kui F4 stiil = 2 välja)",
+         "_l5" : "5. Silt 5 (kui F4 stiil = 2 välja)",
+
+         "_0f" : "1 väli",
+         "_1f" : "1 väli + suur diagramm",
+         "_2f" : "Täis diagramm",
+         "_3f" : "2 välja",
+         "_4f" : "Diagramm",
+         "_16f" : "1 väli vasakule joondatud",
+         "_17f" : "1 väli + väike diagramm",
+
+         "_5f" : "Näita välja edenemist",
+         "_6f" : "Täis",
+         "_7f" : "Tühi",
+         "_8f" : "Peida",
+         
+         "pss" : "Päikesesündmuste edenemine (tühistab alumised eduribad)",
+
+         "_9f" : "EL/PL",
+         "_10f" : "Sekundid",
+         "_11f" : "Äratuse ikoon",
+         "_12f" : "Mitte segada ikoon",
+         "_13f" : "Aku ikoon",
+         "_14f" : "Bluetooth ikoon",
+         "_15f" : "Teavituste ikoon",
+         "_18f" : "Aktiivsed oleku ikoonid",
+
+
+        "_s6" : "6. Väli 6 stiil",
+         "_f6" : "6. Väli 6 andmed",
+         "_l6" : "6. Silt 6",
+         "_f7" : "7. Väli 7",
+         "_l7" : "7. Silt 7",
+
+         "_s8" : "8. Väli 8 stiil (All)",
+         "_f8" : "8. Väli 8",
+         "_l8" : "8. Silt 8",
+         "_c8" : "8. Diagramm 8",
+
+         "_f9" : "Vasaku ringi andmed",
+         "_l9" : "Vasaku ringi silt",
+         "_s9" : "Vasaku ringi edenemise stiil",
+
+         "_f10" : "Parema ringi andmed",
+         "_l10" : "Parema ringi silt",
+         "_s10" : "Parema ringi edenemise stiil",
+
+         "_p11" : "Keskmine eduriba andmed",
+         "_p12" : "Alumine vasak eduriba andmed",
+         "_p13" : "Alumine parem eduriba andmed",
+
+         "_ct" : "Külgväli üleval",
+         "_cb" : "Külgväli all",
+         "_cs" : "Külgväljad joonda paremale",
+
+
+         "_ft" : "Teksti font",
+         "_fs" : "Teksti fondi suurus",
+
+         "_hf" : "Aja font",
+         "_hfa" : "Aja font (AOD, alati sisselülitatud)",
+         "_hfs" : "Aja fondi suurus",
+
+         "_sf" : "Külgväljade fondi suurus",
+         "_fc" : "Parema ringi fondi suurus",
+
+         "fn1" : "Roboto Mono (ei saa suurust muuta)",
+         "fn2" : "Roboto Mono Italics (ei saa suurust muuta)",
+         "fn3" : "Barlow (ei saa suurust muuta)",
+
+
+         "_lt" : "Teksti värv",
+         "_ll" : "Sildi värv",
+         "_bgc" : "Tausta värv",
+
+         "_hc" : "Tunni värv",
+         "_hc2" : "Tunni värv 2",
+         "_mc" : "Minuti värv",
+         "_mc2" : "Minuti värv 2",
+         "_dc" : "Eraldaja värv",
+
+         "_ox" : "Aja X nihe, 50 = keskpunkt",
+         "_oy" : "Aja Y nihe, 50 = keskpunkt",
+
+         "_lp1" : "Eduriba värv 1",
+         "_lp2" : "Eduriba värv 2",
+         "_lpu" : "Täitmata eduriba värv",
+
+        "_l12" : "Alumine vasak eduriba värv 1",
+         "_l12b" : "Alumine vasak eduriba värv 2",
+         "_l12u" : "Täitmata alumine vasak eduriba värv",
+
+         "_l13" : "Alumine parem eduriba värv 1",
+         "_l13b" : "Alumine parem eduriba värv 2",
+         "_l13u" : "Täitmata alumine parem eduriba värv",
+
+         "_l9p" : "Vasaku ringi eduriba värv 1",
+         "_l9b" : "Vasaku ringi eduriba värv 2",
+         "_l9u" : "Täitmata vasaku ringi eduriba värv",
+
+         "_l10p" : "Parema ringi eduriba värv 1",
+         "_l10b" : "Parema ringi eduriba värv 2",
+         "_l10u" : "Täitmata parema ringi eduriba värv",
+
+         "ls" : "Sama värv kui eduriba",
+
+         "_lc0" : "Ülemise külgvälja värv",
+         "_lc1" : "Alumise külgvälja värv",
+
+         "_lh0" : "Diagrammi algusvärv",
+         "_lh1" : "Diagrammi lõppvärv",
+
+         "_lcr" : "Ringide kontuuriværv",
+         "_lcl" : "Taustajoonte värv",
+         "_lcc" : "Tausta kontuuri (suur ring) värv",
+         "_lcb" : "Aja + ringide tausta värv",
+         "_btc" : "Kellaketta märkide värv",
+
+         "_bgs" : "Taustapilt",
+         "_bgt" : "Taustapildi värvitoon",
+        
+         "bg0" : "Taustapilti pole",
+         "bg1" : "Kamuflaž",
+         "bg2" : "Kuusnurk",
+         "bg3" : "Ellips",
+         "bg4" : "Maailm",
+         "bg5" : "Kuusnurga hägunemine",
+         "bg10" : "Ainult ring",
+
+         "_aas" : "Alati sisselülitatud sekundid",
+
+         "_aod" : "AOD režiim (Alati sisselülitatud ekraan)",
+         "_aodct" : "AOD aja värvitoon",
+         "_aodc" : "AOD andmete värvitoon",
+         "_aodT" : "AOD aja heledus",
+         "_aodD" : "AOD andmete heledus. Kui ekraan lülitub AOD ajal välja, tehke see number väiksemaks. Väiksem number = vähem akukasutust, kuid vähem hele. Vaata KKK)",
+         "_aodS" : "AOD nihe - pikslite arv, mille võrra ekraan juhuslikult minutis liigub, et vältida sissepõlemist)",
+         
+
+         "ad0" : "Lülita ekraan VÄLJA",
+         "ad100" : "Täielik AOD (vaikimisi)",
+         "ad102" : "Täielik AOD - must taust - peida diagrammid",
+
+         "ad1" : "Ainult aeg",
+         "ad2" : "Ainult aeg - keskele",
+         "ad3" : "Ainult aeg - liikuv",
+
+         "ad4" : "Aeg + andmeväli (vali allpool)",
+         "ad5" : "Aeg keskele + andmeväli",
+         "ad6" : "Aeg liikuv + andmeväli",
+
+         "_f14" : "AOD välja andmed",
+         "_l14" : "AOD välja silt",
+
+         "_gq" : "Ülemineku kvaliteet",
+         "mg" : "MIPS üleminek",
+         "ng" : "Ilma üleminekuta"
+
+
+
+    }
+
+}

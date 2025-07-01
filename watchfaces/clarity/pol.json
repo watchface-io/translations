@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 SKRÓTY DOTYKOWE",
+        "_tc" : "🎨 KOLORY",
+        "_tt" : "🔤 CZCIONKI",
+        "_ta" : "🖼️ USTAWIENIA AOD (Zawsze włączony wyświetlacz)",
+        "_to" : "💡 INNE",
+        
+        "_t0" : "Skrót dotykowy godziny",
+        "_t1" : "Skrót dotykowy minuty",
+
+        "_f1" : "1. Pole 1 (Góra)",
+        "_l1" : "1. Etykieta 1",
+
+         "_f2" : "2. Pole 2",
+         "_l2" : "2. Etykieta 2",
+
+         "_s3" : "3. Styl pola 3",
+         "_f3" : "3. Pole 3",
+         "_l3" : "3. Etykieta 3",
+         "_c3" : "3. Wykres 3",
+
+         "_s4" : "4. Styl pola 4",
+         "_f4" : "4. Pole 4",
+         "_l4" : "4. Etykieta 4",
+         "_c4" : "4. Wykres 4",
+         "_f5" : "5. Pole 5 (gdy styl F4 = 2 pola)",
+         "_l5" : "5. Etykieta 5 (gdy styl F4 = 2 pola)",
+
+         "_0f" : "1 Pole",
+         "_1f" : "1 Pole + Duży wykres",
+         "_2f" : "Pełny wykres",
+         "_3f" : "2 Pola",
+         "_4f" : "Wykres",
+         "_16f" : "1 Pole wyrównane do lewej",
+         "_17f" : "1 Pole + Mały wykres",
+
+         "_5f" : "Pokaż postęp pola",
+         "_6f" : "Pełny",
+         "_7f" : "Pusty",
+         "_8f" : "Ukryj",
+         
+         "pss" : "Postęp wydarzeń słonecznych (nadpisuje dolne paski postępu)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekundy",
+         "_11f" : "Ikona alarmu",
+         "_12f" : "Ikona DND",
+         "_13f" : "Ikona baterii",
+         "_14f" : "Ikona Bluetooth",
+         "_15f" : "Ikona powiadomień",
+         "_18f" : "Aktywne ikony statusu",
+
+
+        "_s6" : "6. Styl pola 6",
+         "_f6" : "6. Dane pola 6",
+         "_l6" : "6. Etykieta 6",
+         "_f7" : "7. Pole 7",
+         "_l7" : "7. Etykieta 7",
+
+         "_s8" : "8. Styl pola 8 (Dół)",
+         "_f8" : "8. Pole 8",
+         "_l8" : "8. Etykieta 8",
+         "_c8" : "8. Wykres 8",
+
+         "_f9" : "Dane lewego koła",
+         "_l9" : "Etykieta lewego koła",
+         "_s9" : "Styl postępu prawego koła",
+
+         "_f10" : "Dane prawego koła",
+         "_l10" : "Etykieta prawego koła",
+         "_s10" : "Styl postępu prawego koła",
+
+         "_p11" : "Dane paska postępu środkowego",
+         "_p12" : "Dane paska postępu lewy dół",
+         "_p13" : "Dane paska postępu prawy dół",
+
+         "_ct" : "Pole boczne góra",
+         "_cb" : "Pole boczne dół",
+         "_cs" : "Pola boczne wyrównaj do prawej",
+
+
+         "_ft" : "Czcionka tekstu",
+         "_fs" : "Rozmiar czcionki tekstu",
+
+         "_hf" : "Czcionka czasu",
+         "_hfa" : "Czcionka czasu (AOD, Zawsze włączona)",
+         "_hfs" : "Rozmiar czcionki czasu",
+
+         "_sf" : "Rozmiar czcionki pól bocznych",
+         "_fc" : "Rozmiar czcionki prawego koła",
+
+         "fn1" : "Roboto Mono (nie można zmieniać rozmiaru)",
+         "fn2" : "Roboto Mono Italics (nie można zmieniać rozmiaru)",
+         "fn3" : "Barlow (nie można zmieniać rozmiaru)",
+
+
+         "_lt" : "Kolor tekstu",
+         "_ll" : "Kolor etykiety",
+         "_bgc" : "Kolor tła",
+
+         "_hc" : "Kolor godziny",
+         "_hc2" : "Kolor godziny 2",
+         "_mc" : "Kolor minuty",
+         "_mc2" : "Kolor minuty 2",
+         "_dc" : "Kolor separatora",
+
+         "_ox" : "Przesunięcie X czasu, 50 = środek",
+         "_oy" : "Przesunięcie Y czasu, 50 = środek",
+
+         "_lp1" : "Kolor paska postępu 1",
+         "_lp2" : "Kolor paska postępu 2",
+         "_lpu" : "Kolor paska postępu niewypełniony",
+
+        "_l12" : "Kolor paska postępu lewy dół 1",
+         "_l12b" : "Kolor paska postępu lewy dół 2",
+         "_l12u" : "Kolor paska postępu lewy dół niewypełniony",
+
+         "_l13" : "Kolor paska postępu prawy dół 1",
+         "_l13b" : "Kolor paska postępu prawy dół 2",
+         "_l13u" : "Kolor paska postępu prawy dół niewypełniony",
+
+         "_l9p" : "Kolor paska postępu lewego koła 1",
+         "_l9b" : "Kolor paska postępu lewego koła 2",
+         "_l9u" : "Kolor paska postępu lewego koła niewypełniony",
+
+         "_l10p" : "Kolor paska postępu prawego koła 1",
+         "_l10b" : "Kolor paska postępu prawego koła 2",
+         "_l10u" : "Kolor paska postępu prawego koła niewypełniony",
+
+         "ls" : "Ten sam kolor co pasek postępu",
+
+         "_lc0" : "Kolor pola bocznego góra",
+         "_lc1" : "Kolor pola bocznego dół",
+
+         "_lh0" : "Kolor początkowy wykresu",
+         "_lh1" : "Kolor końcowy wykresu",
+
+         "_lcr" : "Kolor obrysu kół",
+         "_lcl" : "Kolor linii tła",
+         "_lcc" : "Kolor obrysu tła (duże koło)",
+         "_lcb" : "Kolor tła czasu + kół",
+         "_btc" : "Kolor kresek tarczy",
+
+         "_bgs" : "Obraz tła",
+         "_bgt" : "Kolor odcienia obrazu tła",
+        
+         "bg0" : "Brak obrazu tła",
+         "bg1" : "Kamuflaż",
+         "bg2" : "Hex",
+         "bg3" : "Elipsa",
+         "bg4" : "Świat",
+         "bg5" : "Hex zanikający",
+         "bg10" : "Tylko koło",
+
+         "_aas" : "Sekundy zawsze włączone",
+
+         "_aod" : "Tryb AOD (Zawsze włączony wyświetlacz)",
+         "_aodct" : "Kolor odcienia czasu AOD",
+         "_aodc" : "Kolor odcienia danych AOD",
+         "_aodT" : "Jasność czasu AOD",
+         "_aodD" : "Jasność danych AOD. Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Mniejsza liczba = mniejsze zużycie baterii ale mniejsza jasność. Zobacz FAQ)",
+         "_aodS" : "Przesunięcie AOD - liczba pikseli o które ekran losowo przesuwa się co minutę aby zapobiec wypaleniu)",
+         
+
+         "ad0" : "Wyłącz ekran",
+         "ad100" : "Pełny AOD (Domyślny)",
+         "ad102" : "Pełny AOD - Czarne tło - Ukryj wykresy",
+
+         "ad1" : "Tylko czas",
+         "ad2" : "Tylko czas - Wyśrodkowany",
+         "ad3" : "Tylko czas - Ruchomy",
+
+         "ad4" : "Czas + pole danych (Wybierz poniżej)",
+         "ad5" : "Czas wyśrodkowany + pole danych",
+         "ad6" : "Czas ruchomy + pole danych",
+
+         "_f14" : "Dane pola AOD",
+         "_l14" : "Etykieta pola AOD",
+
+         "_gq" : "Jakość gradientu",
+         "mg" : "Gradient MIPS",
+         "ng" : "Bez gradientu"
+
+
+
+    }
+
+}

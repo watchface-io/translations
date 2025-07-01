@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 DODIRNI PREČACI",
+        "_tc" : "🎨 BOJE",
+        "_tt" : "🔤 FONTOVI",
+        "_ta" : "🖼️ AOD POSTAVKE (Uvijek uključen zaslon)",
+        "_to" : "💡 OSTALO",
+        
+        "_t0" : "Dodirni prečac sat",
+        "_t1" : "Dodirni prečac minuta",
+
+        "_f1" : "1. Polje 1 (Vrh)",
+        "_l1" : "1. Oznaka 1",
+
+         "_f2" : "2. Polje 2",
+         "_l2" : "2. Oznaka 2",
+
+         "_s3" : "3. Stil polja 3",
+         "_f3" : "3. Polje 3",
+         "_l3" : "3. Oznaka 3",
+         "_c3" : "3. Grafikon 3",
+
+         "_s4" : "4. Stil polja 4",
+         "_f4" : "4. Polje 4",
+         "_l4" : "4. Oznaka 4",
+         "_c4" : "4. Grafikon 4",
+         "_f5" : "5. Polje 5 (kada je F4 stil = 2 polja)",
+         "_l5" : "5. Oznaka 5 (kada je F4 stil = 2 polja)",
+
+         "_0f" : "1 polje",
+         "_1f" : "1 polje + veliki grafikon",
+         "_2f" : "Puni grafikon",
+         "_3f" : "2 polja",
+         "_4f" : "Grafikon",
+         "_16f" : "1 polje poravnato lijevo",
+         "_17f" : "1 polje + mali grafikon",
+
+         "_5f" : "Prikaži napredak polja",
+         "_6f" : "Puno",
+         "_7f" : "Prazno",
+         "_8f" : "Sakrij",
+         
+         "pss" : "Napredak sunčanih događaja (zamjenjuje donje trake napretka)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekunde",
+         "_11f" : "Ikona alarma",
+         "_12f" : "Ikona ne ometaj",
+         "_13f" : "Ikona baterije",
+         "_14f" : "Bluetooth ikona",
+         "_15f" : "Ikona obavijesti",
+         "_18f" : "Aktivne ikone statusa",
+
+
+        "_s6" : "6. Stil polja 6",
+         "_f6" : "6. Podaci polja 6",
+         "_l6" : "6. Oznaka 6",
+         "_f7" : "7. Polje 7",
+         "_l7" : "7. Oznaka 7",
+
+         "_s8" : "8. Stil polja 8 (Dno)",
+         "_f8" : "8. Polje 8",
+         "_l8" : "8. Oznaka 8",
+         "_c8" : "8. Grafikon 8",
+
+         "_f9" : "Podaci lijevog kruga",
+         "_l9" : "Oznaka lijevog kruga",
+         "_s9" : "Stil napretka lijevog kruga",
+
+         "_f10" : "Podaci desnog kruga",
+         "_l10" : "Oznaka desnog kruga",
+         "_s10" : "Stil napretka desnog kruga",
+
+         "_p11" : "Podaci središnje trake napretka",
+         "_p12" : "Podaci donje lijeve trake napretka",
+         "_p13" : "Podaci donje desne trake napretka",
+
+         "_ct" : "Bočno polje vrh",
+         "_cb" : "Bočno polje dno",
+         "_cs" : "Poravnaj bočna polja desno",
+
+
+         "_ft" : "Font teksta",
+         "_fs" : "Veličina fonta teksta",
+
+         "_hf" : "Font vremena",
+         "_hfa" : "Font vremena (AOD, uvijek uključen)",
+         "_hfs" : "Veličina fonta vremena",
+
+         "_sf" : "Veličina fonta bočnih polja",
+         "_fc" : "Veličina fonta desnog kruga",
+
+         "fn1" : "Roboto Mono (ne može se promijeniti veličina)",
+         "fn2" : "Roboto Mono Italics (ne može se promijeniti veličina)",
+         "fn3" : "Barlow (ne može se promijeniti veličina)",
+
+
+         "_lt" : "Boja teksta",
+         "_ll" : "Boja oznake",
+         "_bgc" : "Boja pozadine",
+
+         "_hc" : "Boja sata",
+         "_hc2" : "Boja sata 2",
+         "_mc" : "Boja minute",
+         "_mc2" : "Boja minute 2",
+         "_dc" : "Boja razdjelnika",
+
+         "_ox" : "X pomak vremena, 50 = centar",
+         "_oy" : "Y pomak vremena, 50 = centar",
+
+         "_lp1" : "Boja trake napretka 1",
+         "_lp2" : "Boja trake napretka 2",
+         "_lpu" : "Boja nepopunjene trake napretka",
+
+        "_l12" : "Boja donje lijeve trake napretka 1",
+         "_l12b" : "Boja donje lijeve trake napretka 2",
+         "_l12u" : "Boja nepopunjene donje lijeve trake napretka",
+
+         "_l13" : "Boja donje desne trake napretka 1",
+         "_l13b" : "Boja donje desne trake napretka 2",
+         "_l13u" : "Boja nepopunjene donje desne trake napretka",
+
+         "_l9p" : "Boja trake napretka lijevog kruga 1",
+         "_l9b" : "Boja trake napretka lijevog kruga 2",
+         "_l9u" : "Boja nepopunjene trake napretka lijevog kruga",
+
+         "_l10p" : "Boja trake napretka desnog kruga 1",
+         "_l10b" : "Boja trake napretka desnog kruga 2",
+         "_l10u" : "Boja nepopunjene trake napretka desnog kruga",
+
+         "ls" : "Ista boja kao traka napretka",
+
+         "_lc0" : "Boja gornjeg bočnog polja",
+         "_lc1" : "Boja donjeg bočnog polja",
+
+         "_lh0" : "Početna boja grafikona",
+         "_lh1" : "Završna boja grafikona",
+
+         "_lcr" : "Boja obruba krugova",
+         "_lcl" : "Boja pozadinskih linija",
+         "_lcc" : "Boja pozadinskog obruba (veliki krug)",
+         "_lcb" : "Boja pozadine vremena + krugova",
+         "_btc" : "Boja oznaka brojčanika",
+
+         "_bgs" : "Pozadinska slika",
+         "_bgt" : "Boja nijanse pozadinske slike",
+        
+         "bg0" : "Nema pozadinske slike",
+         "bg1" : "Kamuflaža",
+         "bg2" : "Šesterokut",
+         "bg3" : "Elipsa",
+         "bg4" : "Svijet",
+         "bg5" : "Šesterokut sa zamućenjem",
+         "bg10" : "Samo krug",
+
+         "_aas" : "Uvijek uključene sekunde",
+
+         "_aod" : "AOD način rada (Uvijek uključen zaslon)",
+         "_aodct" : "Boja nijanse vremena AOD",
+         "_aodc" : "Boja nijanse podataka AOD",
+         "_aodT" : "Svjetlina vremena AOD",
+         "_aodD" : "Svjetlina podataka AOD. Ako se zaslon isključi tijekom AOD-a, smanjite ovaj broj. Manji broj = manja potrošnja baterije ali manja svjetlina. Pogledajte ČPP)",
+         "_aodS" : "AOD pomak - broj piksela za koje se zaslon nasumično pomiče po minuti kako bi se spriječilo ugaranje)",
+         
+
+         "ad0" : "Isključi zaslon",
+         "ad100" : "Puni AOD (zadano)",
+         "ad102" : "Puni AOD - crna pozadina - sakrij grafikone",
+
+         "ad1" : "Samo vrijeme",
+         "ad2" : "Samo vrijeme - centrirano",
+         "ad3" : "Samo vrijeme - pokretno",
+
+         "ad4" : "Vrijeme + polje podataka (odaberite dolje)",
+         "ad5" : "Vrijeme centrirano + polje podataka",
+         "ad6" : "Vrijeme pokretno + polje podataka",
+
+         "_f14" : "Podaci AOD polja",
+         "_l14" : "Oznaka AOD polja",
+
+         "_gq" : "Kvaliteta gradijenta",
+         "mg" : "MIPS gradijent",
+         "ng" : "Bez gradijenta"
+
+
+
+    }
+
+}

@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 PINTASAN SENTUH",
+        "_tc" : "🎨 WARNA",
+        "_tt" : "🔤 FONT",
+        "_ta" : "🖼️ PENGATURAN AOD (Always on Display)",
+        "_to" : "💡 LAINNYA",
+        
+        "_t0" : "Pintasan Sentuh Jam",
+        "_t1" : "Pintasan Sentuh Menit",
+
+        "_f1" : "1. Bidang 1 (Atas)",
+        "_l1" : "1. Label 1",
+
+         "_f2" : "2. Bidang 2",
+         "_l2" : "2. Label 2",
+
+         "_s3" : "3. Gaya Bidang 3",
+         "_f3" : "3. Bidang 3",
+         "_l3" : "3. Label 3",
+         "_c3" : "3. Grafik 3",
+
+         "_s4" : "4. Gaya Bidang 4",
+         "_f4" : "4. Bidang 4",
+         "_l4" : "4. Label 4",
+         "_c4" : "4. Grafik 4",
+         "_f5" : "5. Bidang 5 (ketika gaya F4 = 2 bidang)",
+         "_l5" : "5. Label 5 (ketika gaya F4 = 2 bidang)",
+
+         "_0f" : "1 Bidang",
+         "_1f" : "1 Bidang + Grafik Besar",
+         "_2f" : "Grafik Penuh",
+         "_3f" : "2 Bidang",
+         "_4f" : "Grafik",
+         "_16f" : "1 Bidang Rata Kiri",
+         "_17f" : "1 Bidang + Grafik Kecil",
+
+         "_5f" : "Tampilkan Progress Bidang",
+         "_6f" : "Penuh",
+         "_7f" : "Kosong",
+         "_8f" : "Sembunyikan",
+         
+         "pss" : "Progress Peristiwa Matahari (menimpa bilah progress bawah)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Detik",
+         "_11f" : "Ikon Alarm",
+         "_12f" : "Ikon Jangan Ganggu",
+         "_13f" : "Ikon Baterai",
+         "_14f" : "Ikon Bluetooth",
+         "_15f" : "Ikon Notifikasi",
+         "_18f" : "Ikon Status Aktif",
+
+
+        "_s6" : "6. Gaya Bidang 6",
+         "_f6" : "6. Data Bidang 6",
+         "_l6" : "6. Label 6",
+         "_f7" : "7. Bidang 7",
+         "_l7" : "7. Label 7",
+
+         "_s8" : "8. Gaya Bidang 8 (Bawah)",
+         "_f8" : "8. Bidang 8",
+         "_l8" : "8. Label 8",
+         "_c8" : "8. Grafik 8",
+
+         "_f9" : "Data Lingkaran Kiri",
+         "_l9" : "Label Lingkaran Kiri",
+         "_s9" : "Gaya Progress Lingkaran Kiri",
+
+         "_f10" : "Data Lingkaran Kanan",
+         "_l10" : "Label Lingkaran Kanan",
+         "_s10" : "Gaya Progress Lingkaran Kanan",
+
+         "_p11" : "Data Bilah Progress Tengah",
+         "_p12" : "Data Bilah Progress Kiri Bawah",
+         "_p13" : "Data Bilah Progress Kanan Bawah",
+
+         "_ct" : "Bidang Samping Atas",
+         "_cb" : "Bidang Samping Bawah",
+         "_cs" : "Ratakan Bidang Samping Kanan",
+
+
+         "_ft" : "Font Teks",
+         "_fs" : "Ukuran Font Teks",
+
+         "_hf" : "Font Waktu",
+         "_hfa" : "Font Waktu (AOD, Selalu hidup)",
+         "_hfs" : "Ukuran Font Waktu",
+
+         "_sf" : "Ukuran Font Bidang Samping",
+         "_fc" : "Ukuran Font Lingkaran Kanan",
+
+         "fn1" : "Roboto Mono (tidak dapat diubah ukurannya)",
+         "fn2" : "Roboto Mono Italics (tidak dapat diubah ukurannya)",
+         "fn3" : "Barlow (tidak dapat diubah ukurannya)",
+
+
+         "_lt" : "Warna Teks",
+         "_ll" : "Warna Label",
+         "_bgc" : "Warna Latar Belakang",
+
+         "_hc" : "Warna Jam",
+         "_hc2" : "Warna Jam 2",
+         "_mc" : "Warna Menit",
+         "_mc2" : "Warna Menit 2",
+         "_dc" : "Warna Pemisah",
+
+         "_ox" : "Offset X Waktu, 50 = tengah",
+         "_oy" : "Offset Y Waktu, 50 = tengah",
+
+         "_lp1" : "Warna Bilah Progress 1",
+         "_lp2" : "Warna Bilah Progress 2",
+         "_lpu" : "Warna Bilah Progress Tidak Terisi",
+
+        "_l12" : "Warna Bilah Progress Kiri Bawah 1",
+         "_l12b" : "Warna Bilah Progress Kiri Bawah 2",
+         "_l12u" : "Warna Bilah Progress Kiri Bawah Tidak Terisi",
+
+         "_l13" : "Warna Bilah Progress Kanan Bawah 1",
+         "_l13b" : "Warna Bilah Progress Kanan Bawah 2",
+         "_l13u" : "Warna Bilah Progress Kanan Bawah Tidak Terisi",
+
+         "_l9p" : "Warna Bilah Progress Lingkaran Kiri 1",
+         "_l9b" : "Warna Bilah Progress Lingkaran Kiri 2",
+         "_l9u" : "Warna Bilah Progress Lingkaran Kiri Tidak Terisi",
+
+         "_l10p" : "Warna Bilah Progress Lingkaran Kanan 1",
+         "_l10b" : "Warna Bilah Progress Lingkaran Kanan 2",
+         "_l10u" : "Warna Bilah Progress Lingkaran Kanan Tidak Terisi",
+
+         "ls" : "Warna sama dengan Bilah Progress",
+
+         "_lc0" : "Warna Bidang Samping Atas",
+         "_lc1" : "Warna Bidang Samping Bawah",
+
+         "_lh0" : "Warna Awal Grafik",
+         "_lh1" : "Warna Akhir Grafik",
+
+         "_lcr" : "Warna Garis Lingkaran",
+         "_lcl" : "Warna Garis Latar Belakang",
+         "_lcc" : "Warna Garis Latar Belakang (lingkaran besar)",
+         "_lcb" : "Warna Latar Belakang Waktu + Lingkaran",
+         "_btc" : "Warna Tanda Dial",
+
+         "_bgs" : "Gambar Latar Belakang",
+         "_bgt" : "Warna Tint Gambar Latar Belakang",
+        
+         "bg0" : "Tidak Ada Gambar Latar Belakang",
+         "bg1" : "Kamuflase",
+         "bg2" : "Heksagon",
+         "bg3" : "Elips",
+         "bg4" : "Dunia",
+         "bg5" : "Heksagon Pudar",
+         "bg10" : "Lingkaran Saja",
+
+         "_aas" : "Detik selalu hidup",
+
+         "_aod" : "Mode AOD (Always on Display)",
+         "_aodct" : "Warna Tint Waktu AOD",
+         "_aodc" : "Warna Tint Data AOD",
+         "_aodT" : "Kecerahan Waktu AOD",
+         "_aodD" : "Kecerahan Data AOD. Jika layar mati saat AOD, buat angka ini lebih kecil. Angka lebih kecil = penggunaan baterai lebih sedikit tapi kurang terang. Lihat FAQ)",
+         "_aodS" : "Pergeseran AOD - jumlah piksel layar bergeser secara acak per menit untuk mencegah burn-in)",
+         
+
+         "ad0" : "Matikan Layar",
+         "ad100" : "AOD Penuh (Default)",
+         "ad102" : "AOD Penuh - Latar Belakang Hitam - Sembunyikan Grafik",
+
+         "ad1" : "Waktu Saja",
+         "ad2" : "Waktu Saja - Tengah",
+         "ad3" : "Waktu Saja - Bergerak",
+
+         "ad4" : "Waktu + bidang data (Pilih Di Bawah)",
+         "ad5" : "Waktu Tengah + bidang data",
+         "ad6" : "Waktu Bergerak + bidang data",
+
+         "_f14" : "Data Bidang AOD",
+         "_l14" : "Label Bidang AOD",
+
+         "_gq" : "Kualitas Gradien",
+         "mg" : "Gradien MIPS",
+         "ng" : "Tanpa Gradien"
+
+
+
+    }
+
+}

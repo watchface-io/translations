@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 PIESKĀRIENA SAĪSNES",
+        "_tc" : "🎨 KRĀSAS",
+        "_tt" : "🔤 FONTI",
+        "_ta" : "🖼️ AOD IESTATĪJUMI (Vienmēr ieslēgts ekrāns)",
+        "_to" : "💡 CITS",
+        
+        "_t0" : "Pieskāriena saīsne stunda",
+        "_t1" : "Pieskāriena saīsne minūte",
+
+        "_f1" : "1. Lauks 1 (Augšā)",
+        "_l1" : "1. Etiķete 1",
+
+         "_f2" : "2. Lauks 2",
+         "_l2" : "2. Etiķete 2",
+
+         "_s3" : "3. Lauka 3 stils",
+         "_f3" : "3. Lauks 3",
+         "_l3" : "3. Etiķete 3",
+         "_c3" : "3. Diagramma 3",
+
+         "_s4" : "4. Lauka 4 stils",
+         "_f4" : "4. Lauks 4",
+         "_l4" : "4. Etiķete 4",
+         "_c4" : "4. Diagramma 4",
+         "_f5" : "5. Lauks 5 (kad F4 stils = 2 lauki)",
+         "_l5" : "5. Etiķete 5 (kad F4 stils = 2 lauki)",
+
+         "_0f" : "1 lauks",
+         "_1f" : "1 lauks + liela diagramma",
+         "_2f" : "Pilna diagramma",
+         "_3f" : "2 lauki",
+         "_4f" : "Diagramma",
+         "_16f" : "1 lauks pa kreisi līdzināts",
+         "_17f" : "1 lauks + maza diagramma",
+
+         "_5f" : "Rādīt lauka progresu",
+         "_6f" : "Pilns",
+         "_7f" : "Tukšs",
+         "_8f" : "Paslēpt",
+         
+         "pss" : "Saules notikumu progress (pārraksta apakšējās progresa joslas)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekundes",
+         "_11f" : "Modinātāja ikona",
+         "_12f" : "Netraucēt ikona",
+         "_13f" : "Baterijas ikona",
+         "_14f" : "Bluetooth ikona",
+         "_15f" : "Paziņojumu ikona",
+         "_18f" : "Aktīvās statusa ikonas",
+
+
+        "_s6" : "6. Lauka 6 stils",
+         "_f6" : "6. Lauka 6 dati",
+         "_l6" : "6. Etiķete 6",
+         "_f7" : "7. Lauks 7",
+         "_l7" : "7. Etiķete 7",
+
+         "_s8" : "8. Lauka 8 stils (Apakšā)",
+         "_f8" : "8. Lauks 8",
+         "_l8" : "8. Etiķete 8",
+         "_c8" : "8. Diagramma 8",
+
+         "_f9" : "Kreisā apļa dati",
+         "_l9" : "Kreisā apļa etiķete",
+         "_s9" : "Kreisā apļa progresa stils",
+
+         "_f10" : "Labā apļa dati",
+         "_l10" : "Labā apļa etiķete",
+         "_s10" : "Labā apļa progresa stils",
+
+         "_p11" : "Centrālās progresa joslas dati",
+         "_p12" : "Apakšējās kreisās progresa joslas dati",
+         "_p13" : "Apakšējās labās progresa joslas dati",
+
+         "_ct" : "Sānu lauks augšā",
+         "_cb" : "Sānu lauks apakšā",
+         "_cs" : "Sānu lauki līdzināti pa labi",
+
+
+         "_ft" : "Teksta fonts",
+         "_fs" : "Teksta fonta izmērs",
+
+         "_hf" : "Laika fonts",
+         "_hfa" : "Laika fonts (AOD, vienmēr ieslēgts)",
+         "_hfs" : "Laika fonta izmērs",
+
+         "_sf" : "Sānu lauku fonta izmērs",
+         "_fc" : "Labā apļa fonta izmērs",
+
+         "fn1" : "Roboto Mono (nav mērogojams)",
+         "fn2" : "Roboto Mono Italics (nav mērogojams)",
+         "fn3" : "Barlow (nav mērogojams)",
+
+
+         "_lt" : "Teksta krāsa",
+         "_ll" : "Etiķetes krāsa",
+         "_bgc" : "Fona krāsa",
+
+         "_hc" : "Stundas krāsa",
+         "_hc2" : "Stundas krāsa 2",
+         "_mc" : "Minūtes krāsa",
+         "_mc2" : "Minūtes krāsa 2",
+         "_dc" : "Dalītāja krāsa",
+
+         "_ox" : "Laika X nobīde, 50 = centrs",
+         "_oy" : "Laika Y nobīde, 50 = centrs",
+
+         "_lp1" : "Progresa joslas krāsa 1",
+         "_lp2" : "Progresa joslas krāsa 2",
+         "_lpu" : "Neaizpildītās progresa joslas krāsa",
+
+        "_l12" : "Apakšējās kreisās progresa joslas krāsa 1",
+         "_l12b" : "Apakšējās kreisās progresa joslas krāsa 2",
+         "_l12u" : "Neaizpildītās apakšējās kreisās progresa joslas krāsa",
+
+         "_l13" : "Apakšējās labās progresa joslas krāsa 1",
+         "_l13b" : "Apakšējās labās progresa joslas krāsa 2",
+         "_l13u" : "Neaizpildītās apakšējās labās progresa joslas krāsa",
+
+         "_l9p" : "Kreisā apļa progresa joslas krāsa 1",
+         "_l9b" : "Kreisā apļa progresa joslas krāsa 2",
+         "_l9u" : "Neaizpildītās kreisā apļa progresa joslas krāsa",
+
+         "_l10p" : "Labā apļa progresa joslas krāsa 1",
+         "_l10b" : "Labā apļa progresa joslas krāsa 2",
+         "_l10u" : "Neaizpildītās labā apļa progresa joslas krāsa",
+
+         "ls" : "Tāda pati krāsa kā progresa joslai",
+
+         "_lc0" : "Augšējā sānu lauka krāsa",
+         "_lc1" : "Apakšējā sānu lauka krāsa",
+
+         "_lh0" : "Diagrammas sākuma krāsa",
+         "_lh1" : "Diagrammas beigu krāsa",
+
+         "_lcr" : "Apļu kontūras krāsa",
+         "_lcl" : "Fona līniju krāsa",
+         "_lcc" : "Fona kontūras (lielā apļa) krāsa",
+         "_lcb" : "Laika + apļu fona krāsa",
+         "_btc" : "Ciparnīcas atzīmju krāsa",
+
+         "_bgs" : "Fona attēls",
+         "_bgt" : "Fona attēla toņa krāsa",
+        
+         "bg0" : "Nav fona attēla",
+         "bg1" : "Maskēšanās",
+         "bg2" : "Sešstūris",
+         "bg3" : "Elipse",
+         "bg4" : "Pasaule",
+         "bg5" : "Sešstūra izblāvums",
+         "bg10" : "Tikai aplis",
+
+         "_aas" : "Vienmēr ieslēgtās sekundes",
+
+         "_aod" : "AOD režīms (Vienmēr ieslēgts ekrāns)",
+         "_aodct" : "AOD laika toņa krāsa",
+         "_aodc" : "AOD datu toņa krāsa",
+         "_aodT" : "AOD laika spožums",
+         "_aodD" : "AOD datu spožums. Ja ekrāns izslēdzas AOD laikā, samaziniet šo skaitli. Zemāks skaitlis = mazāks baterijas patēriņš, bet mazāks spožums. Skatīt BUJ)",
+         "_aodS" : "AOD nobīde - pikseļu skaits, par kuru ekrāns nejauši pārvietojas minūtē, lai novērstu iedegsmi)",
+         
+
+         "ad0" : "Izslēgt ekrānu",
+         "ad100" : "Pilns AOD (noklusējuma)",
+         "ad102" : "Pilns AOD - melns fons - paslēpt diagrammas",
+
+         "ad1" : "Tikai laiks",
+         "ad2" : "Tikai laiks - centrēts",
+         "ad3" : "Tikai laiks - kustīgs",
+
+         "ad4" : "Laiks + datu lauks (izvēlieties zemāk)",
+         "ad5" : "Laiks centrēts + datu lauks",
+         "ad6" : "Laiks kustīgs + datu lauks",
+
+         "_f14" : "AOD lauka dati",
+         "_l14" : "AOD lauka etiķete",
+
+         "_gq" : "Gradienta kvalitāte",
+         "mg" : "MIPS gradients",
+         "ng" : "Nav gradienta"
+
+
+
+    }
+
+}

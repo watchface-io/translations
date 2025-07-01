@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 LIETIMO TRUMPINIAI",
+        "_tc" : "🎨 SPALVOS",
+        "_tt" : "🔤 ŠRIFTAI",
+        "_ta" : "🖼️ AOD NUSTATYMAI (Visuomet įjungtas ekranas)",
+        "_to" : "💡 KITA",
+        
+        "_t0" : "Lietimo trumpinys valanda",
+        "_t1" : "Lietimo trumpinys minutė",
+
+        "_f1" : "1. Laukas 1 (Viršus)",
+        "_l1" : "1. Etiketė 1",
+
+         "_f2" : "2. Laukas 2",
+         "_l2" : "2. Etiketė 2",
+
+         "_s3" : "3. Lauko 3 stilius",
+         "_f3" : "3. Laukas 3",
+         "_l3" : "3. Etiketė 3",
+         "_c3" : "3. Diagrama 3",
+
+         "_s4" : "4. Lauko 4 stilius",
+         "_f4" : "4. Laukas 4",
+         "_l4" : "4. Etiketė 4",
+         "_c4" : "4. Diagrama 4",
+         "_f5" : "5. Laukas 5 (kai F4 stilius = 2 laukai)",
+         "_l5" : "5. Etiketė 5 (kai F4 stilius = 2 laukai)",
+
+         "_0f" : "1 laukas",
+         "_1f" : "1 laukas + didelė diagrama",
+         "_2f" : "Pilna diagrama",
+         "_3f" : "2 laukai",
+         "_4f" : "Diagrama",
+         "_16f" : "1 laukas sulygiuotas kairėje",
+         "_17f" : "1 laukas + maža diagrama",
+
+         "_5f" : "Rodyti lauko progresą",
+         "_6f" : "Pilnas",
+         "_7f" : "Tuščias",
+         "_8f" : "Slėpti",
+         
+         "pss" : "Saulės įvykių progresas (pakeičia apatinius progreso juosteles)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekundės",
+         "_11f" : "Žadintuvo piktograma",
+         "_12f" : "Netrukdyti piktograma",
+         "_13f" : "Baterijos piktograma",
+         "_14f" : "Bluetooth piktograma",
+         "_15f" : "Pranešimų piktograma",
+         "_18f" : "Aktyvios būsenos piktogramos",
+
+
+        "_s6" : "6. Lauko 6 stilius",
+         "_f6" : "6. Lauko 6 duomenys",
+         "_l6" : "6. Etiketė 6",
+         "_f7" : "7. Laukas 7",
+         "_l7" : "7. Etiketė 7",
+
+         "_s8" : "8. Lauko 8 stilius (Apačia)",
+         "_f8" : "8. Laukas 8",
+         "_l8" : "8. Etiketė 8",
+         "_c8" : "8. Diagrama 8",
+
+         "_f9" : "Kairės apskritimo duomenys",
+         "_l9" : "Kairės apskritimo etiketė",
+         "_s9" : "Kairės apskritimo progreso stilius",
+
+         "_f10" : "Dešinės apskritimo duomenys",
+         "_l10" : "Dešinės apskritimo etiketė",
+         "_s10" : "Dešinės apskritimo progreso stilius",
+
+         "_p11" : "Centrinės progreso juostelės duomenys",
+         "_p12" : "Apatinės kairės progreso juostelės duomenys",
+         "_p13" : "Apatinės dešinės progreso juostelės duomenys",
+
+         "_ct" : "Šoninis laukas viršuje",
+         "_cb" : "Šoninis laukas apačioje",
+         "_cs" : "Sulygiuoti šoninius laukus dešinėje",
+
+
+         "_ft" : "Teksto šriftas",
+         "_fs" : "Teksto šrifto dydis",
+
+         "_hf" : "Laiko šriftas",
+         "_hfa" : "Laiko šriftas (AOD, visuomet įjungtas)",
+         "_hfs" : "Laiko šrifto dydis",
+
+         "_sf" : "Šoninių laukų šrifto dydis",
+         "_fc" : "Dešinės apskritimo šrifto dydis",
+
+         "fn1" : "Roboto Mono (nekeičiamas dydis)",
+         "fn2" : "Roboto Mono Italics (nekeičiamas dydis)",
+         "fn3" : "Barlow (nekeičiamas dydis)",
+
+
+         "_lt" : "Teksto spalva",
+         "_ll" : "Etiketės spalva",
+         "_bgc" : "Fono spalva",
+
+         "_hc" : "Valandos spalva",
+         "_hc2" : "Valandos spalva 2",
+         "_mc" : "Minutės spalva",
+         "_mc2" : "Minutės spalva 2",
+         "_dc" : "Skirtuko spalva",
+
+         "_ox" : "Laiko X poslinkis, 50 = centras",
+         "_oy" : "Laiko Y poslinkis, 50 = centras",
+
+         "_lp1" : "Progreso juostelės spalva 1",
+         "_lp2" : "Progreso juostelės spalva 2",
+         "_lpu" : "Neužpildytos progreso juostelės spalva",
+
+        "_l12" : "Apatinės kairės progreso juostelės spalva 1",
+         "_l12b" : "Apatinės kairės progreso juostelės spalva 2",
+         "_l12u" : "Neužpildytos apatinės kairės progreso juostelės spalva",
+
+         "_l13" : "Apatinės dešinės progreso juostelės spalva 1",
+         "_l13b" : "Apatinės dešinės progreso juostelės spalva 2",
+         "_l13u" : "Neužpildytos apatinės dešinės progreso juostelės spalva",
+
+         "_l9p" : "Kairės apskritimo progreso juostelės spalva 1",
+         "_l9b" : "Kairės apskritimo progreso juostelės spalva 2",
+         "_l9u" : "Neužpildytos kairės apskritimo progreso juostelės spalva",
+
+         "_l10p" : "Dešinės apskritimo progreso juostelės spalva 1",
+         "_l10b" : "Dešinės apskritimo progreso juostelės spalva 2",
+         "_l10u" : "Neužpildytos dešinės apskritimo progreso juostelės spalva",
+
+         "ls" : "Tokia pati spalva kaip progreso juostelė",
+
+         "_lc0" : "Viršutinio šoninio lauko spalva",
+         "_lc1" : "Apatinio šoninio lauko spalva",
+
+         "_lh0" : "Diagramos pradžios spalva",
+         "_lh1" : "Diagramos pabaigos spalva",
+
+         "_lcr" : "Apskritimų kontūro spalva",
+         "_lcl" : "Fono linijų spalva",
+         "_lcc" : "Fono kontūro (didelio apskritimo) spalva",
+         "_lcb" : "Laiko + apskritimų fono spalva",
+         "_btc" : "Ciferblato žymių spalva",
+
+         "_bgs" : "Fono paveikslėlis",
+         "_bgt" : "Fono paveikslėlio atspalvio spalva",
+        
+         "bg0" : "Nėra fono paveikslėlio",
+         "bg1" : "Maskuotė",
+         "bg2" : "Šešiakampis",
+         "bg3" : "Elipsė",
+         "bg4" : "Pasaulis",
+         "bg5" : "Šešiakampio išblukimas",
+         "bg10" : "Tik apskritimas",
+
+         "_aas" : "Visuomet įjungtos sekundės",
+
+         "_aod" : "AOD režimas (Visuomet įjungtas ekranas)",
+         "_aodct" : "AOD laiko atspalvio spalva",
+         "_aodc" : "AOD duomenų atspalvio spalva",
+         "_aodT" : "AOD laiko ryškumas",
+         "_aodD" : "AOD duomenų ryškumas. Jei ekranas išsijungia AOD metu, sumažinkite šį skaičių. Mažesnis skaičius = mažesnis baterijos naudojimas, bet mažesnis ryškumas. Žr. DUK)",
+         "_aodS" : "AOD poslinkis - pikselių skaičius, kuriuo ekranas atsitiktinai pasislenka per minutę, kad būtų išvengta sudegimo)",
+         
+
+         "ad0" : "Išjungti ekraną",
+         "ad100" : "Pilnas AOD (numatytasis)",
+         "ad102" : "Pilnas AOD - juodas fonas - slėpti diagramas",
+
+         "ad1" : "Tik laikas",
+         "ad2" : "Tik laikas - centruotas",
+         "ad3" : "Tik laikas - judantis",
+
+         "ad4" : "Laikas + duomenų laukas (pasirinkite žemiau)",
+         "ad5" : "Laikas centruotas + duomenų laukas",
+         "ad6" : "Laikas judantis + duomenų laukas",
+
+         "_f14" : "AOD lauko duomenys",
+         "_l14" : "AOD lauko etiketė",
+
+         "_gq" : "Perėjimo kokybė",
+         "mg" : "MIPS perėjimas",
+         "ng" : "Be perėjimo"
+
+
+
+    }
+
+}

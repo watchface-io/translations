@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 PEKGENVÄGAR",
+        "_tc" : "🎨 FÄRGER",
+        "_tt" : "🔤 TYPSNITT",
+        "_ta" : "🖼️ AOD-INSTÄLLNINGAR (Alltid på-skärm)",
+        "_to" : "💡 ÖVRIGT",
+        
+        "_t0" : "Pekgenväg timme",
+        "_t1" : "Pekgenväg minut",
+
+        "_f1" : "1. Fält 1 (Topp)",
+        "_l1" : "1. Etikett 1",
+
+         "_f2" : "2. Fält 2",
+         "_l2" : "2. Etikett 2",
+
+         "_s3" : "3. Fält 3-stil",
+         "_f3" : "3. Fält 3",
+         "_l3" : "3. Etikett 3",
+         "_c3" : "3. Diagram 3",
+
+         "_s4" : "4. Fält 4-stil",
+         "_f4" : "4. Fält 4",
+         "_l4" : "4. Etikett 4",
+         "_c4" : "4. Diagram 4",
+         "_f5" : "5. Fält 5 (när F4-stil = 2 fält)",
+         "_l5" : "5. Etikett 5 (när F4-stil = 2 fält)",
+
+         "_0f" : "1 Fält",
+         "_1f" : "1 Fält + Stort diagram",
+         "_2f" : "Fullständigt diagram",
+         "_3f" : "2 Fält",
+         "_4f" : "Diagram",
+         "_16f" : "1 Fält vänsterjusterat",
+         "_17f" : "1 Fält + Litet diagram",
+
+         "_5f" : "Visa fältframsteg",
+         "_6f" : "Fullständig",
+         "_7f" : "Tom",
+         "_8f" : "Dölj",
+         
+         "pss" : "Solhändelseframsteg (åsidosätter nedre framstegsstaplar)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Sekunder",
+         "_11f" : "Alarmikon",
+         "_12f" : "DND-ikon",
+         "_13f" : "Batteriikon",
+         "_14f" : "Bluetooth-ikon",
+         "_15f" : "Notifikationsikon",
+         "_18f" : "Aktiva statusikoner",
+
+
+        "_s6" : "6. Fält 6-stil",
+         "_f6" : "6. Fält 6-data",
+         "_l6" : "6. Etikett 6",
+         "_f7" : "7. Fält 7",
+         "_l7" : "7. Etikett 7",
+
+         "_s8" : "8. Fält 8-stil (Botten)",
+         "_f8" : "8. Fält 8",
+         "_l8" : "8. Etikett 8",
+         "_c8" : "8. Diagram 8",
+
+         "_f9" : "Vänster cirkeldata",
+         "_l9" : "Vänster cirkeletikett",
+         "_s9" : "Höger cirkelframstegsstil",
+
+         "_f10" : "Höger cirkeldata",
+         "_l10" : "Höger cirkeletikett",
+         "_s10" : "Höger cirkelframstegsstil",
+
+         "_p11" : "Mittframstegsstapeldata",
+         "_p12" : "Nedre vänstra framstegsstapeldata",
+         "_p13" : "Nedre högra framstegsstapeldata",
+
+         "_ct" : "Sidfält topp",
+         "_cb" : "Sidfält botten",
+         "_cs" : "Högerställ sidfält",
+
+
+         "_ft" : "Texttypsnitt",
+         "_fs" : "Texttypsnittsstorlek",
+
+         "_hf" : "Tidstypsnitt",
+         "_hfa" : "Tidstypsnitt (AOD, Alltid på)",
+         "_hfs" : "Tidstypsnittsstorlek",
+
+         "_sf" : "Sidfältstypsnittsstorlek",
+         "_fc" : "Höger cirkeltypsnittsstorlek",
+
+         "fn1" : "Roboto Mono (ej skalbar)",
+         "fn2" : "Roboto Mono Italics (ej skalbar)",
+         "fn3" : "Barlow (ej skalbar)",
+
+
+         "_lt" : "Textfärg",
+         "_ll" : "Etikettfärg",
+         "_bgc" : "Bakgrundsfärg",
+
+         "_hc" : "Timmefärg",
+         "_hc2" : "Timmefärg 2",
+         "_mc" : "Minutfärg",
+         "_mc2" : "Minutfärg 2",
+         "_dc" : "Avdelarfärg",
+
+         "_ox" : "Tidsförskjutning X, 50 = centrum",
+         "_oy" : "Tidsförskjutning Y, 50 = centrum",
+
+         "_lp1" : "Framstegsstapelfärg 1",
+         "_lp2" : "Framstegsstapelfärg 2",
+         "_lpu" : "Framstegsstapelfärg ofylld",
+
+        "_l12" : "Nedre vänstra framstegsstapelfärg 1",
+         "_l12b" : "Nedre vänstra framstegsstapelfärg 2",
+         "_l12u" : "Nedre vänstra framstegsstapelfärg ofylld",
+
+         "_l13" : "Nedre högra framstegsstapelfärg 1",
+         "_l13b" : "Nedre högra framstegsstapelfärg 2",
+         "_l13u" : "Nedre högra framstegsstapelfärg ofylld",
+
+         "_l9p" : "Vänster cirkelframstegsstapelfärg 1",
+         "_l9b" : "Vänster cirkelframstegsstapelfärg 2",
+         "_l9u" : "Vänster cirkelframstegsstapelfärg ofylld",
+
+         "_l10p" : "Höger cirkelframstegsstapelfärg 1",
+         "_l10b" : "Höger cirkelframstegsstapelfärg 2",
+         "_l10u" : "Höger cirkelframstegsstapelfärg ofylld",
+
+         "ls" : "Samma färg som framstegsstapel",
+
+         "_lc0" : "Sidfält toppfärg",
+         "_lc1" : "Sidfält bottenfärg",
+
+         "_lh0" : "Diagramstartfärg",
+         "_lh1" : "Diagramslutfärg",
+
+         "_lcr" : "Cirkelkonturfärg",
+         "_lcl" : "Bakgrundslinjefärg",
+         "_lcc" : "Bakgrundskonturfärg (stor cirkel)",
+         "_lcb" : "Tids- + cirkelbakgrundsfärg",
+         "_btc" : "Urtavlestreckfärg",
+
+         "_bgs" : "Bakgrundsbild",
+         "_bgt" : "Bakgrundsbildstonsfärg",
+        
+         "bg0" : "Ingen bakgrundsbild",
+         "bg1" : "Kamouflage",
+         "bg2" : "Hex",
+         "bg3" : "Ellips",
+         "bg4" : "Värld",
+         "bg5" : "Hex-toning",
+         "bg10" : "Endast cirkel",
+
+         "_aas" : "Sekunder alltid på",
+
+         "_aod" : "AOD-läge (Alltid på-skärm)",
+         "_aodct" : "AOD-tidstonfärg",
+         "_aodc" : "AOD-datatonfärg",
+         "_aodT" : "AOD-tidsljusstyrka",
+         "_aodD" : "AOD-datalijusstyrka. Om skärmen stängs av under AOD, minska denna siffra. Lägre siffra = mindre batterianvändning men mindre ljusstyrka. Se FAQ)",
+         "_aodS" : "AOD-förskjutning - antal pixlar som skärmen slumpmässigt förskjuts per minut för att förhindra inbränning)",
+         
+
+         "ad0" : "Stäng av skärm",
+         "ad100" : "Full AOD (Standard)",
+         "ad102" : "Full AOD - Svart bakgrund - Dölj diagram",
+
+         "ad1" : "Endast tid",
+         "ad2" : "Endast tid - Centrerad",
+         "ad3" : "Endast tid - Rörlig",
+
+         "ad4" : "Tid + datafält (Välj nedan)",
+         "ad5" : "Tid centrerad + datafält",
+         "ad6" : "Tid rörlig + datafält",
+
+         "_f14" : "AOD-fältdata",
+         "_l14" : "AOD-fältetikett",
+
+         "_gq" : "Gradientkvalitet",
+         "mg" : "MIPS-gradient",
+         "ng" : "Ingen gradient"
+
+
+
+    }
+
+}

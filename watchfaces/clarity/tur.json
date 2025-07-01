@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 DOKUNMA KISAYOLLARI",
+        "_tc" : "🎨 RENKLER",
+        "_tt" : "🔤 FONTLAR",
+        "_ta" : "🖼️ AOD AYARLARI (Her zaman açık ekran)",
+        "_to" : "💡 DİĞER",
+        
+        "_t0" : "Saat dokunma kısayolu",
+        "_t1" : "Dakika dokunma kısayolu",
+
+        "_f1" : "1. Alan 1 (Üst)",
+        "_l1" : "1. Etiket 1",
+
+         "_f2" : "2. Alan 2",
+         "_l2" : "2. Etiket 2",
+
+         "_s3" : "3. Alan 3 stili",
+         "_f3" : "3. Alan 3",
+         "_l3" : "3. Etiket 3",
+         "_c3" : "3. Grafik 3",
+
+         "_s4" : "4. Alan 4 stili",
+         "_f4" : "4. Alan 4",
+         "_l4" : "4. Etiket 4",
+         "_c4" : "4. Grafik 4",
+         "_f5" : "5. Alan 5 (F4 stili = 2 alan olduğunda)",
+         "_l5" : "5. Etiket 5 (F4 stili = 2 alan olduğunda)",
+
+         "_0f" : "1 Alan",
+         "_1f" : "1 Alan + Büyük grafik",
+         "_2f" : "Tam grafik",
+         "_3f" : "2 Alan",
+         "_4f" : "Grafik",
+         "_16f" : "1 Alan sola hizalı",
+         "_17f" : "1 Alan + Küçük grafik",
+
+         "_5f" : "Alan ilerlemesini göster",
+         "_6f" : "Tam",
+         "_7f" : "Boş",
+         "_8f" : "Gizle",
+         
+         "pss" : "Güneş olayı ilerlemesi (alt ilerleme çubuklarını geçersiz kılar)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Saniye",
+         "_11f" : "Alarm simgesi",
+         "_12f" : "DND simgesi",
+         "_13f" : "Pil simgesi",
+         "_14f" : "Bluetooth simgesi",
+         "_15f" : "Bildirim simgesi",
+         "_18f" : "Aktif durum simgeleri",
+
+
+        "_s6" : "6. Alan 6 stili",
+         "_f6" : "6. Alan 6 verisi",
+         "_l6" : "6. Etiket 6",
+         "_f7" : "7. Alan 7",
+         "_l7" : "7. Etiket 7",
+
+         "_s8" : "8. Alan 8 stili (Alt)",
+         "_f8" : "8. Alan 8",
+         "_l8" : "8. Etiket 8",
+         "_c8" : "8. Grafik 8",
+
+         "_f9" : "Sol daire verisi",
+         "_l9" : "Sol daire etiketi",
+         "_s9" : "Sağ daire ilerleme stili",
+
+         "_f10" : "Sağ daire verisi",
+         "_l10" : "Sağ daire etiketi",
+         "_s10" : "Sağ daire ilerleme stili",
+
+         "_p11" : "Merkez ilerleme çubuğu verisi",
+         "_p12" : "Sol alt ilerleme çubuğu verisi",
+         "_p13" : "Sağ alt ilerleme çubuğu verisi",
+
+         "_ct" : "Yan alan üst",
+         "_cb" : "Yan alan alt",
+         "_cs" : "Yan alanları sağa hizala",
+
+
+         "_ft" : "Metin fontu",
+         "_fs" : "Metin font boyutu",
+
+         "_hf" : "Saat fontu",
+         "_hfa" : "Saat fontu (AOD, Her zaman açık)",
+         "_hfs" : "Saat font boyutu",
+
+         "_sf" : "Yan alan font boyutu",
+         "_fc" : "Sağ daire font boyutu",
+
+         "fn1" : "Roboto Mono (boyutlandırılamaz)",
+         "fn2" : "Roboto Mono Italics (boyutlandırılamaz)",
+         "fn3" : "Barlow (boyutlandırılamaz)",
+
+
+         "_lt" : "Metin rengi",
+         "_ll" : "Etiket rengi",
+         "_bgc" : "Arka plan rengi",
+
+         "_hc" : "Saat rengi",
+         "_hc2" : "Saat rengi 2",
+         "_mc" : "Dakika rengi",
+         "_mc2" : "Dakika rengi 2",
+         "_dc" : "Ayırıcı rengi",
+
+         "_ox" : "Saat X kayması, 50 = merkez",
+         "_oy" : "Saat Y kayması, 50 = merkez",
+
+         "_lp1" : "İlerleme çubuğu rengi 1",
+         "_lp2" : "İlerleme çubuğu rengi 2",
+         "_lpu" : "İlerleme çubuğu rengi doldurulmamış",
+
+        "_l12" : "Sol alt ilerleme çubuğu rengi 1",
+         "_l12b" : "Sol alt ilerleme çubuğu rengi 2",
+         "_l12u" : "Sol alt ilerleme çubuğu rengi doldurulmamış",
+
+         "_l13" : "Sağ alt ilerleme çubuğu rengi 1",
+         "_l13b" : "Sağ alt ilerleme çubuğu rengi 2",
+         "_l13u" : "Sağ alt ilerleme çubuğu rengi doldurulmamış",
+
+         "_l9p" : "Sol daire ilerleme çubuğu rengi 1",
+         "_l9b" : "Sol daire ilerleme çubuğu rengi 2",
+         "_l9u" : "Sol daire ilerleme çubuğu rengi doldurulmamış",
+
+         "_l10p" : "Sağ daire ilerleme çubuğu rengi 1",
+         "_l10b" : "Sağ daire ilerleme çubuğu rengi 2",
+         "_l10u" : "Sağ daire ilerleme çubuğu rengi doldurulmamış",
+
+         "ls" : "İlerleme çubuğu ile aynı renk",
+
+         "_lc0" : "Yan alan üst rengi",
+         "_lc1" : "Yan alan alt rengi",
+
+         "_lh0" : "Grafik başlangıç rengi",
+         "_lh1" : "Grafik bitiş rengi",
+
+         "_lcr" : "Daire çerçeve rengi",
+         "_lcl" : "Arka plan çizgi rengi",
+         "_lcc" : "Arka plan çerçeve rengi (büyük daire)",
+         "_lcb" : "Saat + daireler arka plan rengi",
+         "_btc" : "Kadran işaret rengi",
+
+         "_bgs" : "Arka plan resmi",
+         "_bgt" : "Arka plan resmi ton rengi",
+        
+         "bg0" : "Arka plan resmi yok",
+         "bg1" : "Kamuflaj",
+         "bg2" : "Hex",
+         "bg3" : "Elips",
+         "bg4" : "Dünya",
+         "bg5" : "Hex soluk",
+         "bg10" : "Sadece daire",
+
+         "_aas" : "Saniyeler her zaman açık",
+
+         "_aod" : "AOD modu (Her zaman açık ekran)",
+         "_aodct" : "AOD saat ton rengi",
+         "_aodc" : "AOD veri ton rengi",
+         "_aodT" : "AOD saat parlaklığı",
+         "_aodD" : "AOD veri parlaklığı. AOD sırasında ekran kapanırsa bu sayıyı azaltın. Düşük sayı = daha az pil kullanımı ama daha az parlaklık. SSS'ye bakın)",
+         "_aodS" : "AOD kayması - ekranın yanık önlemek için dakikada rastgele kaydığı piksel sayısı)",
+         
+
+         "ad0" : "Ekranı kapat",
+         "ad100" : "Tam AOD (Varsayılan)",
+         "ad102" : "Tam AOD - Siyah arka plan - Grafikleri gizle",
+
+         "ad1" : "Sadece saat",
+         "ad2" : "Sadece saat - Ortalı",
+         "ad3" : "Sadece saat - Hareketli",
+
+         "ad4" : "Saat + veri alanı (Aşağıdan seçin)",
+         "ad5" : "Saat ortalı + veri alanı",
+         "ad6" : "Saat hareketli + veri alanı",
+
+         "_f14" : "AOD alan verisi",
+         "_l14" : "AOD alan etiketi",
+
+         "_gq" : "Gradyan kalitesi",
+         "mg" : "MIPS gradyanı",
+         "ng" : "Gradyan yok"
+
+
+
+    }
+
+}

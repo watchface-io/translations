@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 RACCOURCIS TACTILES",
+        "_tc" : "🎨 COULEURS",
+        "_tt" : "🔤 POLICES",
+        "_ta" : "🖼️ PARAMÈTRES AOD (Always on Display)",
+        "_to" : "💡 AUTRES",
+        
+        "_t0" : "Raccourci tactile heure",
+        "_t1" : "Raccourci tactile minute",
+
+        "_f1" : "1. Champ 1 (Haut)",
+        "_l1" : "1. Étiquette 1",
+
+         "_f2" : "2. Champ 2",
+         "_l2" : "2. Étiquette 2",
+
+         "_s3" : "3. Style du champ 3",
+         "_f3" : "3. Champ 3",
+         "_l3" : "3. Étiquette 3",
+         "_c3" : "3. Graphique 3",
+
+         "_s4" : "4. Style du champ 4",
+         "_f4" : "4. Champ 4",
+         "_l4" : "4. Étiquette 4",
+         "_c4" : "4. Graphique 4",
+         "_f5" : "5. Champ 5 (quand style F4 = 2 champs)",
+         "_l5" : "5. Étiquette 5 (quand style F4 = 2 champs)",
+
+         "_0f" : "1 champ",
+         "_1f" : "1 champ + grand graphique",
+         "_2f" : "Graphique complet",
+         "_3f" : "2 champs",
+         "_4f" : "Graphique",
+         "_16f" : "1 champ aligné à gauche",
+         "_17f" : "1 champ + petit graphique",
+
+         "_5f" : "Afficher la progression du champ",
+         "_6f" : "Complet",
+         "_7f" : "Vide",
+         "_8f" : "Masquer",
+         
+         "pss" : "Progression des événements solaires (remplace les barres de progression inférieures)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Secondes",
+         "_11f" : "Icône alarme",
+         "_12f" : "Icône ne pas déranger",
+         "_13f" : "Icône batterie",
+         "_14f" : "Icône Bluetooth",
+         "_15f" : "Icône notification",
+         "_18f" : "Icônes de statut actives",
+
+
+        "_s6" : "6. Style du champ 6",
+         "_f6" : "6. Données du champ 6",
+         "_l6" : "6. Étiquette 6",
+         "_f7" : "7. Champ 7",
+         "_l7" : "7. Étiquette 7",
+
+         "_s8" : "8. Style du champ 8 (Bas)",
+         "_f8" : "8. Champ 8",
+         "_l8" : "8. Étiquette 8",
+         "_c8" : "8. Graphique 8",
+
+         "_f9" : "Données du cercle gauche",
+         "_l9" : "Étiquette du cercle gauche",
+         "_s9" : "Style de progression du cercle gauche",
+
+         "_f10" : "Données du cercle droit",
+         "_l10" : "Étiquette du cercle droit",
+         "_s10" : "Style de progression du cercle droit",
+
+         "_p11" : "Données de la barre de progression centrale",
+         "_p12" : "Données de la barre de progression en bas à gauche",
+         "_p13" : "Données de la barre de progression en bas à droite",
+
+         "_ct" : "Champ latéral haut",
+         "_cb" : "Champ latéral bas",
+         "_cs" : "Aligner les champs latéraux à droite",
+
+
+         "_ft" : "Police du texte",
+         "_fs" : "Taille de la police du texte",
+
+         "_hf" : "Police de l'heure",
+         "_hfa" : "Police de l'heure (AOD, toujours allumé)",
+         "_hfs" : "Taille de la police de l'heure",
+
+         "_sf" : "Taille de la police des champs latéraux",
+         "_fc" : "Taille de la police du cercle droit",
+
+         "fn1" : "Roboto Mono (non redimensionnable)",
+         "fn2" : "Roboto Mono Italics (non redimensionnable)",
+         "fn3" : "Barlow (non redimensionnable)",
+
+
+         "_lt" : "Couleur du texte",
+         "_ll" : "Couleur de l'étiquette",
+         "_bgc" : "Couleur d'arrière-plan",
+
+         "_hc" : "Couleur de l'heure",
+         "_hc2" : "Couleur de l'heure 2",
+         "_mc" : "Couleur de la minute",
+         "_mc2" : "Couleur de la minute 2",
+         "_dc" : "Couleur du séparateur",
+
+         "_ox" : "Décalage X de l'heure, 50 = centre",
+         "_oy" : "Décalage Y de l'heure, 50 = centre",
+
+         "_lp1" : "Couleur de la barre de progression 1",
+         "_lp2" : "Couleur de la barre de progression 2",
+         "_lpu" : "Couleur de la barre de progression non remplie",
+
+        "_l12" : "Couleur de la barre de progression en bas à gauche 1",
+         "_l12b" : "Couleur de la barre de progression en bas à gauche 2",
+         "_l12u" : "Couleur de la barre de progression en bas à gauche non remplie",
+
+         "_l13" : "Couleur de la barre de progression en bas à droite 1",
+         "_l13b" : "Couleur de la barre de progression en bas à droite 2",
+         "_l13u" : "Couleur de la barre de progression en bas à droite non remplie",
+
+         "_l9p" : "Couleur de la barre de progression du cercle gauche 1",
+         "_l9b" : "Couleur de la barre de progression du cercle gauche 2",
+         "_l9u" : "Couleur de la barre de progression du cercle gauche non remplie",
+
+         "_l10p" : "Couleur de la barre de progression du cercle droit 1",
+         "_l10b" : "Couleur de la barre de progression du cercle droit 2",
+         "_l10u" : "Couleur de la barre de progression du cercle droit non remplie",
+
+         "ls" : "Même couleur que la barre de progression",
+
+         "_lc0" : "Couleur du champ latéral haut",
+         "_lc1" : "Couleur du champ latéral bas",
+
+         "_lh0" : "Couleur de début du graphique",
+         "_lh1" : "Couleur de fin du graphique",
+
+         "_lcr" : "Couleur du contour des cercles",
+         "_lcl" : "Couleur des lignes d'arrière-plan",
+         "_lcc" : "Couleur du contour d'arrière-plan (grand cercle)",
+         "_lcb" : "Couleur d'arrière-plan de l'heure + cercles",
+         "_btc" : "Couleur des graduations du cadran",
+
+         "_bgs" : "Image d'arrière-plan",
+         "_bgt" : "Couleur de teinte de l'image d'arrière-plan",
+        
+         "bg0" : "Pas d'image d'arrière-plan",
+         "bg1" : "Camouflage",
+         "bg2" : "Hexagone",
+         "bg3" : "Ellipse",
+         "bg4" : "Monde",
+         "bg5" : "Dégradé hexagonal",
+         "bg10" : "Cercle uniquement",
+
+         "_aas" : "Secondes toujours allumées",
+
+         "_aod" : "Mode AOD (Always on Display)",
+         "_aodct" : "Couleur de teinte de l'heure AOD",
+         "_aodc" : "Couleur de teinte des données AOD",
+         "_aodT" : "Luminosité de l'heure AOD",
+         "_aodD" : "Luminosité des données AOD. Si l'écran s'éteint pendant l'AOD, diminuez ce nombre. Nombre plus bas = moins d'utilisation de batterie mais moins lumineux. Voir FAQ)",
+         "_aodS" : "Décalage AOD - nombre de pixels dont l'écran se décale aléatoirement par minute pour éviter le marquage)",
+         
+
+         "ad0" : "Éteindre l'écran",
+         "ad100" : "AOD complet (par défaut)",
+         "ad102" : "AOD complet - arrière-plan noir - masquer les graphiques",
+
+         "ad1" : "Heure uniquement",
+         "ad2" : "Heure uniquement - centrée",
+         "ad3" : "Heure uniquement - mobile",
+
+         "ad4" : "Heure + champ de données (sélectionner ci-dessous)",
+         "ad5" : "Heure centrée + champ de données",
+         "ad6" : "Heure mobile + champ de données",
+
+         "_f14" : "Données du champ AOD",
+         "_l14" : "Étiquette du champ AOD",
+
+         "_gq" : "Qualité du dégradé",
+         "mg" : "Dégradé MIPS",
+         "ng" : "Pas de dégradé"
+
+
+
+    }
+
+}

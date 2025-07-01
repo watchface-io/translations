@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 DOTYKOVÁ ZKRATKA",
+        "_tc" : "🎨 BARVY",
+        "_tt" : "🔤 PÍSMA",
+        "_ta" : "🖼️ NASTAVENÍ AOD (Vždy zapnutý displej)",
+        "_to" : "💡 OSTATNÍ",
+        
+        "_t0" : "Dotyková zkratka hodina",
+        "_t1" : "Dotyková zkratka minuta",
+
+        "_f1" : "1. Pole 1 (Nahoře)",
+        "_l1" : "1. Popisek 1",
+
+         "_f2" : "2. Pole 2",
+         "_l2" : "2. Popisek 2",
+
+         "_s3" : "3. Styl pole 3",
+         "_f3" : "3. Pole 3",
+         "_l3" : "3. Popisek 3",
+         "_c3" : "3. Graf 3",
+
+         "_s4" : "4. Styl pole 4",
+         "_f4" : "4. Pole 4",
+         "_l4" : "4. Popisek 4",
+         "_c4" : "4. Graf 4",
+         "_f5" : "5. Pole 5 (když styl F4 = 2 pole)",
+         "_l5" : "5. Popisek 5 (když styl F4 = 2 pole)",
+
+         "_0f" : "1 Pole",
+         "_1f" : "1 Pole + Velký graf",
+         "_2f" : "Celý graf",
+         "_3f" : "2 Pole",
+         "_4f" : "Graf",
+         "_16f" : "1 Pole zarovnané vlevo",
+         "_17f" : "1 Pole + Malý graf",
+
+         "_5f" : "Zobrazit pokrok pole",
+         "_6f" : "Plný",
+         "_7f" : "Prázdný",
+         "_8f" : "Skrýt",
+         
+         "pss" : "Pokrok slunečních událostí (přepíše spodní indikátory pokroku)",
+
+         "_9f" : "dop./odp.",
+         "_10f" : "Sekundy",
+         "_11f" : "Ikona budíku",
+         "_12f" : "Ikona nerušit",
+         "_13f" : "Ikona baterie",
+         "_14f" : "Bluetooth ikona",
+         "_15f" : "Ikona oznámení",
+         "_18f" : "Aktivní stavové ikony",
+
+
+        "_s6" : "6. Styl pole 6",
+         "_f6" : "6. Data pole 6",
+         "_l6" : "6. Popisek 6",
+         "_f7" : "7. Pole 7",
+         "_l7" : "7. Popisek 7",
+
+         "_s8" : "8. Styl pole 8 (Dole)",
+         "_f8" : "8. Pole 8",
+         "_l8" : "8. Popisek 8",
+         "_c8" : "8. Graf 8",
+
+         "_f9" : "Data levého kruhu",
+         "_l9" : "Popisek levého kruhu",
+         "_s9" : "Styl pokroku levého kruhu",
+
+         "_f10" : "Data pravého kruhu",
+         "_l10" : "Popisek pravého kruhu",
+         "_s10" : "Styl pokroku pravého kruhu",
+
+         "_p11" : "Data středního indikátoru pokroku",
+         "_p12" : "Data spodního levého indikátoru pokroku",
+         "_p13" : "Data spodního pravého indikátoru pokroku",
+
+         "_ct" : "Horní boční pole",
+         "_cb" : "Dolní boční pole",
+         "_cs" : "Zarovnat boční pole vpravo",
+
+
+         "_ft" : "Písmo textu",
+         "_fs" : "Velikost písma textu",
+
+         "_hf" : "Písmo času",
+         "_hfa" : "Písmo času (AOD, Vždy zapnuto)",
+         "_hfs" : "Velikost písma času",
+
+         "_sf" : "Velikost písma bočních polí",
+         "_fc" : "Velikost písma pravého kruhu",
+
+         "fn1" : "Roboto Mono (nelze měnit velikost)",
+         "fn2" : "Roboto Mono Italics (nelze měnit velikost)",
+         "fn3" : "Barlow (nelze měnit velikost)",
+
+
+         "_lt" : "Barva textu",
+         "_ll" : "Barva popisku",
+         "_bgc" : "Barva pozadí",
+
+         "_hc" : "Barva hodiny",
+         "_hc2" : "Barva hodiny 2",
+         "_mc" : "Barva minuty",
+         "_mc2" : "Barva minuty 2",
+         "_dc" : "Barva oddělovače",
+
+         "_ox" : "Posun času X, 50 = střed",
+         "_oy" : "Posun času Y, 50 = střed",
+
+         "_lp1" : "Barva indikátoru pokroku 1",
+         "_lp2" : "Barva indikátoru pokroku 2",
+         "_lpu" : "Barva nevyplněného indikátoru pokroku",
+
+        "_l12" : "Barva spodního levého indikátoru pokroku 1",
+         "_l12b" : "Barva spodního levého indikátoru pokroku 2",
+         "_l12u" : "Barva nevyplněného spodního levého indikátoru pokroku",
+
+         "_l13" : "Barva spodního pravého indikátoru pokroku 1",
+         "_l13b" : "Barva spodního pravého indikátoru pokroku 2",
+         "_l13u" : "Barva nevyplněného spodního pravého indikátoru pokroku",
+
+         "_l9p" : "Barva indikátoru pokroku levého kruhu 1",
+         "_l9b" : "Barva indikátoru pokroku levého kruhu 2",
+         "_l9u" : "Barva nevyplněného indikátoru pokroku levého kruhu",
+
+         "_l10p" : "Barva indikátoru pokroku pravého kruhu 1",
+         "_l10b" : "Barva indikátoru pokroku pravého kruhu 2",
+         "_l10u" : "Barva nevyplněného indikátoru pokroku pravého kruhu",
+
+         "ls" : "Stejná barva jako indikátor pokroku",
+
+         "_lc0" : "Barva horního bočního pole",
+         "_lc1" : "Barva dolního bočního pole",
+
+         "_lh0" : "Počáteční barva grafu",
+         "_lh1" : "Koncová barva grafu",
+
+         "_lcr" : "Barva obrysu kruhů",
+         "_lcl" : "Barva čar pozadí",
+         "_lcc" : "Barva obrysu pozadí (velký kruh)",
+         "_lcb" : "Barva pozadí času + kruhů",
+         "_btc" : "Barva značek číselníku",
+
+         "_bgs" : "Obrázek pozadí",
+         "_bgt" : "Barva tónu obrázku pozadí",
+        
+         "bg0" : "Žádný obrázek pozadí",
+         "bg1" : "Maskování",
+         "bg2" : "Šestiúhelník",
+         "bg3" : "Elipsa",
+         "bg4" : "Svět",
+         "bg5" : "Šestiúhelník s přechodem",
+         "bg10" : "Pouze kruh",
+
+         "_aas" : "Sekundy vždy zapnuto",
+
+         "_aod" : "AOD režim (Vždy zapnutý displej)",
+         "_aodct" : "Barva tónu času AOD",
+         "_aodc" : "Barva tónu dat AOD",
+         "_aodT" : "Jas času AOD",
+         "_aodD" : "Jas dat AOD. Pokud se obrazovka vypne během AOD, snižte toto číslo. Nižší číslo = menší spotřeba baterie, ale menší jas. Viz FAQ)",
+         "_aodS" : "AOD posun - počet pixelů, o které se obrazovka náhodně posune za minutu pro prevenci vyhoření)",
+         
+
+         "ad0" : "Vypnout obrazovku",
+         "ad100" : "Plný AOD (Výchozí)",
+         "ad102" : "Plný AOD - Černé pozadí - Skrýt grafy",
+
+         "ad1" : "Pouze čas",
+         "ad2" : "Pouze čas - Vystředěný",
+         "ad3" : "Pouze čas - Pohybující se",
+
+         "ad4" : "Čas + datové pole (Vyberte níže)",
+         "ad5" : "Čas vystředěný + datové pole",
+         "ad6" : "Čas pohybující se + datové pole",
+
+         "_f14" : "Data pole AOD",
+         "_l14" : "Popisek pole AOD",
+
+         "_gq" : "Kvalita přechodu",
+         "mg" : "MIPS přechod",
+         "ng" : "Bez přechodu"
+
+
+
+    }
+
+}

@@ -1,0 +1,189 @@
+{
+    "settings" : {
+        "_tr" : "👉 SCORCIATOIE TOUCH",
+        "_tc" : "🎨 COLORI",
+        "_tt" : "🔤 CARATTERI",
+        "_ta" : "🖼️ IMPOSTAZIONI AOD (Always on Display)",
+        "_to" : "💡 ALTRO",
+        
+        "_t0" : "Scorciatoia Touch Ora",
+        "_t1" : "Scorciatoia Touch Minuto",
+
+        "_f1" : "1. Campo 1 (Alto)",
+        "_l1" : "1. Etichetta 1",
+
+         "_f2" : "2. Campo 2",
+         "_l2" : "2. Etichetta 2",
+
+         "_s3" : "3. Stile Campo 3",
+         "_f3" : "3. Campo 3",
+         "_l3" : "3. Etichetta 3",
+         "_c3" : "3. Grafico 3",
+
+         "_s4" : "4. Stile Campo 4",
+         "_f4" : "4. Campo 4",
+         "_l4" : "4. Etichetta 4",
+         "_c4" : "4. Grafico 4",
+         "_f5" : "5. Campo 5 (quando stile F4 = 2 campi)",
+         "_l5" : "5. Etichetta 5 (quando stile F4 = 2 campi)",
+
+         "_0f" : "1 Campo",
+         "_1f" : "1 Campo + Grafico Grande",
+         "_2f" : "Grafico Completo",
+         "_3f" : "2 Campi",
+         "_4f" : "Grafico",
+         "_16f" : "1 Campo Allineato a Sinistra",
+         "_17f" : "1 Campo + Grafico Piccolo",
+
+         "_5f" : "Mostra Progresso Campo",
+         "_6f" : "Pieno",
+         "_7f" : "Vuoto",
+         "_8f" : "Nascondi",
+         
+         "pss" : "Progresso Eventi Solari (sovrascrive le barre di progresso inferiori)",
+
+         "_9f" : "AM/PM",
+         "_10f" : "Secondi",
+         "_11f" : "Icona Sveglia",
+         "_12f" : "Icona Non Disturbare",
+         "_13f" : "Icona Batteria",
+         "_14f" : "Icona Bluetooth",
+         "_15f" : "Icona Notifica",
+         "_18f" : "Icone Stato Attive",
+
+
+        "_s6" : "6. Stile Campo 6",
+         "_f6" : "6. Dati Campo 6",
+         "_l6" : "6. Etichetta 6",
+         "_f7" : "7. Campo 7",
+         "_l7" : "7. Etichetta 7",
+
+         "_s8" : "8. Stile Campo 8 (Basso)",
+         "_f8" : "8. Campo 8",
+         "_l8" : "8. Etichetta 8",
+         "_c8" : "8. Grafico 8",
+
+         "_f9" : "Dati Cerchio Sinistro",
+         "_l9" : "Etichetta Cerchio Sinistro",
+         "_s9" : "Stile Progresso Cerchio Sinistro",
+
+         "_f10" : "Dati Cerchio Destro",
+         "_l10" : "Etichetta Cerchio Destro",
+         "_s10" : "Stile Progresso Cerchio Destro",
+
+         "_p11" : "Dati Barra Progresso Centrale",
+         "_p12" : "Dati Barra Progresso Sinistra Inferiore",
+         "_p13" : "Dati Barra Progresso Destra Inferiore",
+
+         "_ct" : "Campo Laterale Alto",
+         "_cb" : "Campo Laterale Basso",
+         "_cs" : "Allinea Campi Laterali a Destra",
+
+
+         "_ft" : "Carattere Testo",
+         "_fs" : "Dimensione Carattere Testo",
+
+         "_hf" : "Carattere Ora",
+         "_hfa" : "Carattere Ora (AOD, Sempre acceso)",
+         "_hfs" : "Dimensione Carattere Ora",
+
+         "_sf" : "Dimensione Carattere Campi Laterali",
+         "_fc" : "Dimensione Carattere Cerchio Destro",
+
+         "fn1" : "Roboto Mono (non ridimensionabile)",
+         "fn2" : "Roboto Mono Italics (non ridimensionabile)",
+         "fn3" : "Barlow (non ridimensionabile)",
+
+
+         "_lt" : "Colore Testo",
+         "_ll" : "Colore Etichetta",
+         "_bgc" : "Colore Sfondo",
+
+         "_hc" : "Colore Ora",
+         "_hc2" : "Colore Ora 2",
+         "_mc" : "Colore Minuto",
+         "_mc2" : "Colore Minuto 2",
+         "_dc" : "Colore Divisore",
+
+         "_ox" : "Offset X Ora, 50 = centro",
+         "_oy" : "Offset Y Ora, 50 = centro",
+
+         "_lp1" : "Colore Barra Progresso 1",
+         "_lp2" : "Colore Barra Progresso 2",
+         "_lpu" : "Colore Barra Progresso Non Riempita",
+
+        "_l12" : "Colore Barra Progresso Sinistra Inferiore 1",
+         "_l12b" : "Colore Barra Progresso Sinistra Inferiore 2",
+         "_l12u" : "Colore Barra Progresso Sinistra Inferiore Non Riempita",
+
+         "_l13" : "Colore Barra Progresso Destra Inferiore 1",
+         "_l13b" : "Colore Barra Progresso Destra Inferiore 2",
+         "_l13u" : "Colore Barra Progresso Destra Inferiore Non Riempita",
+
+         "_l9p" : "Colore Barra Progresso Cerchio Sinistro 1",
+         "_l9b" : "Colore Barra Progresso Cerchio Sinistro 2",
+         "_l9u" : "Colore Barra Progresso Cerchio Sinistro Non Riempita",
+
+         "_l10p" : "Colore Barra Progresso Cerchio Destro 1",
+         "_l10b" : "Colore Barra Progresso Cerchio Destro 2",
+         "_l10u" : "Colore Barra Progresso Cerchio Destro Non Riempita",
+
+         "ls" : "Stesso colore della Barra Progresso",
+
+         "_lc0" : "Colore Campo Laterale Alto",
+         "_lc1" : "Colore Campo Laterale Basso",
+
+         "_lh0" : "Colore Inizio Grafico",
+         "_lh1" : "Colore Fine Grafico",
+
+         "_lcr" : "Colore Contorno Cerchi",
+         "_lcl" : "Colore Linee Sfondo",
+         "_lcc" : "Colore Contorno Sfondo (cerchio grande)",
+         "_lcb" : "Colore Sfondo Ora + Cerchi",
+         "_btc" : "Colore Tacche Quadrante",
+
+         "_bgs" : "Immagine Sfondo",
+         "_bgt" : "Colore Tinta Immagine Sfondo",
+        
+         "bg0" : "Nessuna Immagine Sfondo",
+         "bg1" : "Mimetico",
+         "bg2" : "Esagono",
+         "bg3" : "Ellisse",
+         "bg4" : "Mondo",
+         "bg5" : "Esagono Sfumato",
+         "bg10" : "Solo Cerchio",
+
+         "_aas" : "Secondi sempre accesi",
+
+         "_aod" : "Modalità AOD (Always on Display)",
+         "_aodct" : "Colore Tinta Ora AOD",
+         "_aodc" : "Colore Tinta Dati AOD",
+         "_aodT" : "Luminosità Ora AOD",
+         "_aodD" : "Luminosità Dati AOD. Se lo schermo si spegne durante AOD, riduci questo numero. Numero più basso = meno consumo batteria ma meno luminoso. Vedi FAQ)",
+         "_aodS" : "Spostamento AOD - numero di pixel di cui lo schermo si sposta casualmente al minuto per prevenire il burn-in)",
+         
+
+         "ad0" : "Spegni Schermo",
+         "ad100" : "AOD Completo (Predefinito)",
+         "ad102" : "AOD Completo - Sfondo Nero - Nascondi Grafici",
+
+         "ad1" : "Solo Ora",
+         "ad2" : "Solo Ora - Centrato",
+         "ad3" : "Solo Ora - In Movimento",
+
+         "ad4" : "Ora + campo dati (Seleziona Sotto)",
+         "ad5" : "Ora Centrata + campo dati",
+         "ad6" : "Ora In Movimento + campo dati",
+
+         "_f14" : "Dati Campo AOD",
+         "_l14" : "Etichetta Campo AOD",
+
+         "_gq" : "Qualità Gradiente",
+         "mg" : "Gradiente MIPS",
+         "ng" : "Nessun Gradiente"
+
+
+
+    }
+
+}

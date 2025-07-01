@@ -1,0 +1,65 @@
+{
+    "settings" : {
+        "_tr" : "👉 AANRAAKINSTELLINGEN",
+        "_tc" : "🎨 KLEUREN",
+        "_tt" : "🔤 LETTERTYPEN",
+        "_ta" : "🖼️ AOD INSTELLINGEN (Altijd Aan Display)",
+        "_to" : "💡 OVERIG",
+        
+        "_t1" : "Aanraak Snelkoppeling Uur",
+        "_t2" : "Aanraak Snelkoppeling Minuut",
+
+        "_f1" : "1. Veld 1 (Bovenkant)",
+        "_l1" : "1. Label 1",
+
+         "_f2" : "2. Veld 2",
+         "_l2" : "2. Label 2",
+
+         "_s3" : "3. Veld 3 Stijl",
+         "_f3" : "3. Veld 3",
+         "_l3" : "3. Label 3",
+         "_c3" : "3. Grafiek 3",
+
+         "_s4" : "4. Veld 4 Stijl",
+         "_f4" : "4. Veld 4",
+         "_l4" : "4. Label 4",
+         "_c4" : "4. Grafiek 4",
+         "_f5" : "4. 2e veld (wanneer 2 velden geselecteerd zijn)",
+         "_l5" : "4. 2e label (wanneer 2 velden geselecteerd zijn)",
+
+         "_f6" : "Veld 6",
+         "_l6" : "Label 6",
+         "_f7" : "Veld 7",
+         "_l7" : "Label 7",
+
+         "_s8" : "8. Veld 8 Stijl (Onderkant)",
+         "_f8" : "8. Veld 8",
+         "_l8" : "8. Label 8",
+         "_c8" : "8. Grafiek 8",
+
+         "_f9" : "Cirkel Links Data",
+         "_l9" : "Cirkel Links Label",
+         "_s9" : "Cirkel Links Voortgang Stijl",
+
+         "_f10" : "Cirkel Midden Data",
+         "_l10" : "Cirkel Midden Label",
+         "_s10" : "Cirkel Midden Voortgang Stijl",
+
+         "_p11" : "Voortgangsbalk Midden Data",
+         "_p12" : "Voortgangsbalk Linksonder Data",
+         "_p13" : "Voortgangsbalk Rechtsonder Data",
+
+         "_ft" : "Tekst Lettertype",
+         "_fs" : "Test Lettertype Grootte",
+
+         "_lt" : "Tekst Kleur",
+         "_ll" : "Label Kleur",
+         "_bgc" : "Achtergrond Kleur",
+
+         "_hc" : "Uur Kleur",
+         "_hc2" : "Uur Kleur 2",
+         "_mc" : "Minuut Kleur",
+         "_mc2" : "Minuut Kleur 2",
+         "_dc" : "Verdeler Kleur"
+    }
+}
