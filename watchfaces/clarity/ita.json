@@ -49,7 +49,7 @@
          "_13f" : "Icona Batteria",
          "_14f" : "Icona Bluetooth",
          "_15f" : "Icona Notifica",
-         "_18f" : "Icone Stato Attive",
+         "_18f" : "Icone Di Stato Attive",
 
 
         "_s6" : "6. Stile Campo 6",
@@ -91,7 +91,7 @@
          "_fc" : "Dimensione Carattere Cerchio Destro",
 
          "fn1" : "Roboto Mono (non ridimensionabile)",
-         "fn2" : "Roboto Mono Italics (non ridimensionabile)",
+         "fn2" : "Roboto Mono Italico (non ridimensionabile)",
          "fn3" : "Barlow (non ridimensionabile)",
 
 
@@ -103,7 +103,7 @@
          "_hc2" : "Colore Ora 2",
          "_mc" : "Colore Minuto",
          "_mc2" : "Colore Minuto 2",
-         "_dc" : "Colore Divisore",
+         "_dc" : "Colore Separatore",
 
          "_ox" : "Offset X Ora, 50 = centro",
          "_oy" : "Offset Y Ora, 50 = centro",
@@ -153,14 +153,14 @@
          "bg5" : "Esagono Sfumato",
          "bg10" : "Solo Cerchio",
 
-         "_aas" : "Secondi sempre accesi",
+         "_aas" : "Secondi sempre visibili",
 
          "_aod" : "Modalità AOD (Always on Display)",
          "_aodct" : "Colore Tinta Ora AOD",
          "_aodc" : "Colore Tinta Dati AOD",
          "_aodT" : "Luminosità Ora AOD",
-         "_aodD" : "Luminosità Dati AOD. Se lo schermo si spegne durante AOD, riduci questo numero. Numero più basso = meno consumo batteria ma meno luminoso. Vedi FAQ)",
-         "_aodS" : "Spostamento AOD - numero di pixel di cui lo schermo si sposta casualmente al minuto per prevenire il burn-in)",
+         "_aodD" : "Attenuazione Dati AOD. Se lo schermo si spegne durante l'AOD, riduci questo numero. Numero più basso = meno consumo batteria, ma meno luminoso. Vedi FAQ)",
+         "_aodS" : "Scostamento AOD - numero di pixel di cui lo schermo si sposta casualmente ogni minuto per prevenire il burn-in)",
          
 
          "ad0" : "Spegni Schermo",
@@ -169,11 +169,11 @@
 
          "ad1" : "Solo Ora",
          "ad2" : "Solo Ora - Centrato",
-         "ad3" : "Solo Ora - In Movimento",
+         "ad3" : "Solo Ora - Con scostamento",
 
          "ad4" : "Ora + campo dati (Seleziona Sotto)",
          "ad5" : "Ora Centrata + campo dati",
-         "ad6" : "Ora In Movimento + campo dati",
+         "ad6" : "Ora Con Scostamento + campo dati",
 
          "_f14" : "Dati Campo AOD",
          "_l14" : "Etichetta Campo AOD",
