@@ -1,0 +1,21 @@
+Mostrador rico em dados com campos personalizáveis, gráficos e barras de progresso. Apresenta múltiplos estilos de exibição de dados, atalhos por toque, fontes personalizadas, suporte AOD e extensas opções de personalização de cores para uma experiência personalizada.
+
+⭐️ Gratuito vs Pro ⭐️
+Este mostrador está disponível gratuitamente com todas as funções básicas. Recursos premium (marcados com [*]) requerem uma Chave Pro para desbloquear. Você pode comprar uma Chave Pro aqui: https://ko-fi.com/s/3e208d705d Ou comprar a versão PRO aqui: https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Este mostrador é totalmente otimizado para MIPS, mas as cores parecerão diferentes das imagens, pois estas foram tiradas em um dispositivo Amoled.
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Obter chave PRO: https://ko-fi.com/s/3e208d705d
+* Lista de temas: https://watchface.io/clarity/themes
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Existem dois lugares diferentes com configurações:
+* App Garmin IQ (no seu telefone): Configure campos de dados, cores e configurações gerais
+* Configurações no relógio: Acesse opções mais detalhadas como formato de hora, metas e unidades diretamente no relógio mantendo pressionado o botão menu, selecionando mostrador e tocando em personalizar
+
+*** Se você encontrar bugs ou problemas, entre em contato comigo pressionando "Contatar desenvolvedor" ao invés de usar o sistema de avaliações. Posso responder emails rapidamente, enquanto posso não ver avaliações por vários dias. ***

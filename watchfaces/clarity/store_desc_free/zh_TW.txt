@@ -1,0 +1,21 @@
+資料豐富的錶面，具有可自訂欄位、圖表和進度條。提供多種資料顯示樣式、觸控快捷方式、自訂字型、AOD支援，以及廣泛的顏色自訂選項，帶來個人化體驗。
+
+⭐️ 免費版 vs 專業版 ⭐️
+此錶面免費提供所有基本功能。進階功能（標有[*]）需要專業版金鑰來解鎖。您可以在此處購買專業版金鑰：https://ko-fi.com/s/3e208d705d 或在此處購買PRO版本：https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
+
+⭐️ MIPS裝置（Fenix 7、Enduro、Fr255等） ⭐️
+此錶面已為MIPS完全最佳化，但顏色會看起來與圖片中不同，因為這些是在Amoled裝置上拍攝的。
+
+⭐️ 資源 ⭐️
+* 常見問題：https://watchface.io/faq
+* 獲取PRO金鑰：https://ko-fi.com/s/3e208d705d
+* 主題清單：https://watchface.io/clarity/themes
+* 顏色指南：https://watchface.io/docs/color-list
+* 可用資料欄位：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有兩個不同的設定位置：
+* Garmin IQ應用程式（在您的手機上）：配置資料欄位、顏色和一般設定
+* 手錶上的設定：透過長按選單按鈕、選擇錶面並點選自訂，直接在手錶上存取更詳細的選項，如時間格式、目標和單位
+
+*** 如果您遇到任何錯誤或問題，請透過按「聯絡開發者」與我聯絡，而不是使用評論系統。我可以快速回覆電子郵件，而我可能幾天都看不到評論。 ***

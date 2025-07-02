@@ -1,0 +1,21 @@
+Brojčanik bogat podacima s prilagodljivim poljima, grafikonima i trakama napretka. Nudi više stilova prikaza podataka, dodirne prečace, prilagođene fontove, AOD podršku i opsežne opcije prilagođavanja boja za personalizirano iskustvo.
+
+⭐️ Besplatno vs Pro ⭐️
+Ovaj brojčanik je dostupan besplatno sa svim osnovnim funkcijama. Premium značajke (označene sa [*]) zahtijevaju Pro ključ za otključavanje. Možete kupiti Pro ključ ovdje: https://ko-fi.com/s/3e208d705d Ili kupiti PRO verziju ovdje: https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
+
+⭐️ MIPS uređaji (Fenix 7, Enduro, Fr255, itd.) ⭐️
+Ovaj brojčanik je potpuno optimiziran za MIPS, ali boje će izgledati drugačije nego na slikama, jer su snimljene na Amoled uređaju.
+
+⭐️ Resursi ⭐️
+* FAQ: https://watchface.io/faq
+* Nabavite PRO ključ: https://ko-fi.com/s/3e208d705d
+* Lista tema: https://watchface.io/clarity/themes
+* Vodič za boje: https://watchface.io/docs/color-list
+* Dostupna polja podataka: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Napomena: Postoje dva različita mjesta s postavkama:
+* Garmin IQ aplikacija (na vašem telefonu): Konfigurirajte polja podataka, boje i opće postavke
+* Postavke na satu: Pristupite detaljnijim opcijama poput formata vremena, ciljeva i jedinica direktno na satu držanjem gumba izbornika, odabirom brojčanika i dodirom na prilagodi
+
+*** Ako naiđete na greške ili probleme, molimo kontaktirajte me pritiskom na "Kontaktiraj razvojnog programera" umjesto korištenja sustava recenzija. Mogu odgovoriti na emailove brzo, dok možda neću vidjeti recenzije nekoliko dana. ***

@@ -1,0 +1,20 @@
+Quadrante ricco di dati con campi personalizzabili, grafici e barre di progresso. Offre molteplici stili di visualizzazione dati, scorciatoie touch, font personalizzati, supporto AOD e ampie opzioni di personalizzazione colori per un'esperienza personalizzata.
+
+⭐️ Prova prima di acquistare! ⭐️
+Prima di acquistare questo quadrante, prova prima la versione gratuita per assicurarti che sia quello che vuoi e che ti piaccia come appare sul tuo orologio: https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
+
+⭐️ Dispositivi MIPS (Fenix 7, Enduro, Fr255, ecc.) ⭐️
+Questo quadrante è completamente ottimizzato per MIPS, ma assicurati di provare la versione gratuita prima di acquistarlo. Le immagini mostrate sono scattate su un dispositivo Amoled e appariranno diverse sul tuo dispositivo MIPS.
+
+⭐️ Risorse ⭐️
+* FAQ: https://watchface.io/faq
+* Elenco temi: https://watchface.io/clarity/themes
+* Guida colori: https://watchface.io/docs/color-list
+* Campi dati disponibili: https://watchface.io/docs/datafields
+
+⭐️ Configurazione ⭐️
+Nota: Ci sono due luoghi diversi con le impostazioni:
+* App Garmin IQ (sul tuo telefono): Configura campi dati, colori e impostazioni generali
+* Impostazioni sull'orologio: Accedi a opzioni più dettagliate come formato ora, obiettivi e unità direttamente sull'orologio tenendo premuto il pulsante menu, selezionando il quadrante e toccando personalizza
+
+*** Se riscontri bug o problemi, contattami premendo "Contatta sviluppatore" invece di usare il sistema di recensioni. Posso rispondere alle email rapidamente, mentre potrei non vedere le recensioni per diversi giorni. ***

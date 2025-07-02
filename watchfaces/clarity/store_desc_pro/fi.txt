@@ -1,0 +1,20 @@
+Datarikas kellotaulu mukautettavilla kentillä, kaavioilla ja edistymispalkeilla. Tarjoaa useita datanäyttötyylejä, kosketusoikoteitä, mukautettuja fontteja, AOD-tukea ja laajoja värinmuokkaustoimintoja personoidun kokemuksen saamiseksi.
+
+⭐️ Kokeile ennen ostamista! ⭐️
+Ennen kuin ostat tämän kellotaulun, kokeile ensin ilmaista versiota varmistaaksesi, että se on sitä mitä haluat ja että pidät siitä, miltä se näyttää kellossasi: https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Fr255, jne.) ⭐️
+Tämä kellotaulu on täysin optimoitu MIPS:lle, mutta varmista, että kokeilet ilmaista versiota ennen ostamista. Näytetyt kuvat on otettu Amoled-laitteella ja näyttävät erilaisilta MIPS-laitteessasi.
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Teemaluettelo: https://watchface.io/clarity/themes
+* Väriohje: https://watchface.io/docs/color-list
+* Saatavilla olevat datakentät: https://watchface.io/docs/datafields
+
+⭐️ Määritykset ⭐️
+Huomaa: Asetuksille on kaksi eri paikkaa:
+* Garmin IQ -sovellus (puhelimessasi): Määritä datakentät, värit ja yleiset asetukset
+* Kellon asetukset: Pääse yksityiskohtaisempiin vaihtoehtoihin kuten aikamuoto, tavoitteet ja yksiköt suoraan kellossa pitämällä valikkonappia painettuna, valitsemalla kellotaulun ja napauttamalla mukauta
+
+*** Jos kohtaat bugeja tai ongelmia, ota minuun yhteyttä painamalla "Ota yhteyttä kehittäjään" arvostelujärjestelmän käytön sijaan. Voin vastata sähköposteihin nopeasti, kun taas en ehkä näe arvosteluja useisiin päiviin. ***

@@ -1,0 +1,21 @@
+Datenreiches Zifferblatt mit anpassbaren Feldern, Diagrammen und Fortschrittsbalken. Bietet mehrere Datenanzeigestile, Touch-Shortcuts, benutzerdefinierte Schriftarten, AOD-Unterstützung und umfangreiche Farbanpassungsoptionen für ein personalisiertes Erlebnis.
+
+⭐️ Kostenlos vs Pro ⭐️
+Dieses Zifferblatt ist kostenlos mit allen Grundfunktionen verfügbar. Premium-Features (markiert mit [*]) erfordern einen Pro-Schlüssel zum Freischalten. Sie können einen Pro-Schlüssel hier kaufen: https://ko-fi.com/s/3e208d705d Oder die PRO-Version hier kaufen: https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
+
+⭐️ MIPS-Geräte (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Dieses Zifferblatt ist vollständig für MIPS optimiert, aber die Farben werden anders aussehen als in den Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden.
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Pro-Schlüssel erhalten: https://ko-fi.com/s/3e208d705d
+* Theme-Liste: https://watchface.io/clarity/themes
+* Farbleitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen
+* Einstellungen auf der Uhr: Zugriff auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr durch Halten der Menütaste, Auswahl des Zifferblatts und Tippen auf Anpassen
+
+*** Wenn Sie auf Fehler oder Probleme stoßen, kontaktieren Sie mich bitte durch Drücken von "Entwickler kontaktieren" anstatt das Bewertungssystem zu verwenden. Ich kann E-Mails prompt beantworten, während ich Bewertungen möglicherweise mehrere Tage nicht sehe. ***

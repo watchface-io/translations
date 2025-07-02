@@ -1,0 +1,20 @@
+Watchface kaya data dengan bidang yang dapat disesuaikan, grafik, dan bilah kemajuan. Menyediakan berbagai gaya tampilan data, pintasan sentuh, font khusus, dukungan AOD, dan opsi kustomisasi warna yang luas untuk pengalaman yang dipersonalisasi.
+
+⭐️ Coba sebelum membeli! ⭐️
+Sebelum membeli watchface ini, coba dulu versi gratisnya untuk memastikan ini yang Anda inginkan dan Anda menyukai tampilannya di jam Anda: https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
+
+⭐️ Perangkat MIPS (Fenix 7, Enduro, Fr255, dll) ⭐️
+Watchface ini sepenuhnya dioptimalkan untuk MIPS, tetapi pastikan untuk mencoba versi gratis sebelum membelinya. Gambar yang ditampilkan diambil pada perangkat Amoled, dan akan terlihat berbeda pada perangkat MIPS Anda.
+
+⭐️ Sumber Daya ⭐️
+* FAQ: https://watchface.io/faq
+* Daftar Tema: https://watchface.io/clarity/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Bidang Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Catatan: Ada dua tempat berbeda dengan pengaturan:
+* Aplikasi Garmin IQ (di ponsel Anda): Konfigurasi bidang data, warna, dan pengaturan umum
+* Pengaturan di Jam: Akses opsi lebih detail seperti format waktu, tujuan, dan unit langsung di jam dengan menahan tombol menu, memilih watchface, dan mengetuk sesuaikan
+
+*** Jika Anda mengalami bug atau masalah, silakan hubungi saya dengan menekan "Hubungi Developer" alih-alih menggunakan sistem review. Saya dapat merespons email dengan cepat, sedangkan saya mungkin tidak melihat review selama beberapa hari. ***

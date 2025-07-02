@@ -1,0 +1,20 @@
+Datarijke wijzerplaat met aanpasbare velden, grafieken en voortgangsbalken. Biedt meerdere data-weergavestijlen, aanraaksnelkoppelingen, aangepaste lettertypen, AOD-ondersteuning en uitgebreide kleurmogelijkheden voor een gepersonaliseerde ervaring.
+
+⭐️ Probeer voor je koopt! ⭐️
+Voordat je deze wijzerplaat koopt, probeer eerst de gratis versie om er zeker van te zijn dat het is wat je wilt en dat je het mooi vindt op je horloge: https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
+
+⭐️ MIPS-apparaten (Fenix 7, Enduro, Fr255, enz.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar zorg ervoor dat je de gratis versie test voordat je hem koopt. De getoonde afbeeldingen zijn genomen op een Amoled-apparaat en zullen er anders uitzien op je MIPS-apparaat.
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Themalijst: https://watchface.io/clarity/themes
+* Kleurgids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Opmerking: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ-app (op je telefoon): Configureer datavelden, kleuren en algemene instellingen
+* Instellingen op horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en aanpassen aan te raken
+
+*** Als je bugs of problemen tegenkomt, neem dan contact met me op door "Contact ontwikkelaar" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan e-mails snel beantwoorden, terwijl ik beoordelingen mogelijk meerdere dagen niet zie. ***

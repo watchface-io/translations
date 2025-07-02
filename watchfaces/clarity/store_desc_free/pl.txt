@@ -1,0 +1,21 @@
+Bogata w dane tarcza zegarka z dostosowywalnymi polami, wykresami i paskami postępu. Oferuje wiele stylów wyświetlania danych, skróty dotykowe, niestandardowe czcionki, obsługę AOD i rozbudowane opcje dostosowywania kolorów dla spersonalizowanego doświadczenia.
+
+⭐️ Darmowa vs Pro ⭐️
+Ta tarcza zegarka jest dostępna za darmo ze wszystkimi podstawowymi funkcjami. Funkcje premium (oznaczone [*]) wymagają klucza Pro do odblokowania. Możesz kupić klucz Pro tutaj: https://ko-fi.com/s/3e208d705d Lub kup wersję PRO tutaj: https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
+
+⭐️ Urządzenia MIPS (Fenix 7, Enduro, Fr255, itp.) ⭐️
+Ta tarcza jest w pełni zoptymalizowana dla MIPS, ale kolory będą wyglądać inaczej niż na zdjęciach, ponieważ zostały one wykonane na urządzeniu Amoled.
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Uzyskaj klucz PRO: https://ko-fi.com/s/3e208d705d
+* Lista motywów: https://watchface.io/clarity/themes
+* Przewodnik kolorów: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Istnieją dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie): Skonfiguruj pola danych, kolory i ustawienia ogólne
+* Ustawienia na zegarku: Dostęp do bardziej szczegółowych opcji, takich jak format czasu, cele i jednostki bezpośrednio na zegarku, przytrzymując przycisk menu, wybierając tarczę zegarka i dotykając dostosuj
+
+*** Jeśli napotkasz błędy lub problemy, skontaktuj się ze mną, naciskając "Skontaktuj się z deweloperem" zamiast korzystać z systemu recenzji. Mogę szybko odpowiadać na e-maile, podczas gdy mogę nie widzieć recenzji przez kilka dni. ***

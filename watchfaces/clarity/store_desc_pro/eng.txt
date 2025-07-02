@@ -1,0 +1,22 @@
+Data rich watchface with customizable fields, charts, and progress bars. Features multiple data display styles, touch shortcuts, custom fonts, AOD support, and extensive color customization options for a personalized experience.
+
+⭐️ Try before you buy! ⭐️
+Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Fr255, etc) ⭐️
+This watchface is fully optimized for MIPS, but make sure to check out the free version before your buy it. The images shown are taking on an Amoled device, and will look different on your MIPS device.
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Themes List: https://watchface.io/clarity/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone): Configure datafields, colors, and general settings
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize
+
+
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***

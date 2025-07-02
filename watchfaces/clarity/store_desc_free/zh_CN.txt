@@ -1,0 +1,21 @@
+数据丰富的表盘，具有可自定义字段、图表和进度条。提供多种数据显示样式、触摸快捷方式、自定义字体、AOD支持，以及广泛的颜色自定义选项，带来个性化体验。
+
+⭐️ 免费版 vs 专业版 ⭐️
+此表盘免费提供所有基本功能。高级功能（标有[*]）需要专业版密钥来解锁。您可以在此处购买专业版密钥：https://ko-fi.com/s/3e208d705d 或在此处购买PRO版本：https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
+
+⭐️ MIPS设备（Fenix 7、Enduro、Fr255等） ⭐️
+此表盘已为MIPS完全优化，但颜色会看起来与图片中不同，因为这些是在Amoled设备上拍摄的。
+
+⭐️ 资源 ⭐️
+* 常见问题：https://watchface.io/faq
+* 获取PRO密钥：https://ko-fi.com/s/3e208d705d
+* 主题列表：https://watchface.io/clarity/themes
+* 颜色指南：https://watchface.io/docs/color-list
+* 可用数据字段：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有两个不同的设置位置：
+* Garmin IQ应用（在您的手机上）：配置数据字段、颜色和常规设置
+* 手表上的设置：通过长按菜单按钮、选择表盘并点击自定义，直接在手表上访问更详细的选项，如时间格式、目标和单位
+
+*** 如果您遇到任何错误或问题，请通过按"联系开发者"与我联系，而不是使用评论系统。我可以快速回复电子邮件，而我可能几天都看不到评论。 ***

@@ -1,0 +1,20 @@
+Adatgazdag óralap testreszabható mezőkkel, diagramokkal és előrehaladási sávokkal. Több adatmegjelenítési stílust, érintési gyorsbillentyűket, egyéni betűtípusokat, AOD támogatást és kiterjedt színtestreszabási lehetőségeket kínál személyre szabott élményért.
+
+⭐️ Próbáld ki vásárlás előtt! ⭐️
+Mielőtt megvásárolnád ezt az óralapot, először próbáld ki az ingyenes verziót, hogy meggyőződj arról, hogy ez az, amit akarsz, és tetszik, hogyan néz ki az órádon: https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
+
+⭐️ MIPS eszközök (Fenix 7, Enduro, Fr255, stb.) ⭐️
+Ez az óralap teljesen optimalizálva van MIPS-re, de győződj meg róla, hogy kipróbálod az ingyenes verziót vásárlás előtt. A bemutatott képek Amoled eszközön készültek és másképp fognak kinézni a MIPS eszközödön.
+
+⭐️ Források ⭐️
+* GYIK: https://watchface.io/faq
+* Témalista: https://watchface.io/clarity/themes
+* Színkalauz: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+Megjegyzés: Két különböző hely van beállításokkal:
+* Garmin IQ alkalmazás (a telefonodon): Adatmezők, színek és általános beállítások konfigurálása
+* Órán lévő beállítások: Részletesebb opciók elérése, mint időformátum, célok és mértékegységek közvetlenül az órán a menü gomb nyomva tartásával, óralap kiválasztásával és testreszabás megérintésével
+
+*** Ha hibákat vagy problémákat tapasztalsz, kérlek lépj kapcsolatba velem a "Fejlesztő kapcsolatfelvétel" megnyomásával az értékelési rendszer használata helyett. Gyorsan tudok válaszolni emailekre, míg lehet, hogy az értékeléseket nem látom napokig. ***

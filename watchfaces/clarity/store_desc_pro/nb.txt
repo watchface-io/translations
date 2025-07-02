@@ -1,0 +1,20 @@
+Datarik urskive med tilpassbare felt, diagrammer og fremdriftslinjer. Har flere datavisningsstiler, berøringssnarveier, tilpassede fonter, AOD-støtte og omfattende fargetilpasningsmuligheter for en personlig opplevelse.
+
+⭐️ Prøv før du kjøper! ⭐️
+Før du kjøper denne urskiven, sjekk den gratis versjonen først for å forsikre deg om at det er det du vil ha og at du liker hvordan den ser ut på klokka di: https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
+
+⭐️ MIPS-enheter (Fenix 7, Enduro, Fr255, osv.) ⭐️
+Denne urskiven er fullt optimalisert for MIPS, men sørg for å sjekke den gratis versjonen før du kjøper den. Bildene som vises er tatt på en Amoled-enhet og vil se annerledes ut på din MIPS-enhet.
+
+⭐️ Ressurser ⭐️
+* FAQ: https://watchface.io/faq
+* Temaliste: https://watchface.io/clarity/themes
+* Fargeguide: https://watchface.io/docs/color-list
+* Tilgjengelige datafelt: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ-app (på telefonen): Konfigurer datafelt, farger og generelle innstillinger
+* Innstillinger på klokka: Få tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde inne menyknappen, velge urskive og trykke på tilpass
+
+*** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke "Kontakt utvikler" i stedet for å bruke anmeldelsessystemet. Jeg kan svare på e-post raskt, mens jeg kanskje ikke ser anmeldelser på flere dager. ***

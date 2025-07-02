@@ -1,0 +1,21 @@
+Ciferník bohatý na dáta s prispôsobiteľnými poľami, grafmi a indikátormi pokroku. Ponúka viacero štýlov zobrazenia dát, dotykové skratky, vlastné písma, podporu AOD a rozsiahle možnosti prispôsobenia farieb pre personalizovaný zážitok.
+
+⭐️ Zadarmo vs Pro ⭐️
+Tento ciferník je k dispozícii zadarmo so všetkými základnými funkciami. Prémiové funkcie (označené [*]) vyžadujú Pro kľúč na odomknutie. Pro kľúč si môžete kúpiť tu: https://ko-fi.com/s/3e208d705d Alebo zakúpte PRO verziu tu: https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
+
+⭐️ MIPS zariadenia (Fenix 7, Enduro, Fr255, atď.) ⭐️
+Tento ciferník je plne optimalizovaný pre MIPS, ale farby budú vyzerať inak ako na obrázkoch, pretože tie sú nasnímané na Amoled zariadení.
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Získať PRO kľúč: https://ko-fi.com/s/3e208d705d
+* Zoznam tém: https://watchface.io/clarity/themes
+* Sprievodca farbami: https://watchface.io/docs/color-list
+* Dostupné dátové polia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurácia ⭐️
+Poznámka: Existujú dve rôzne miesta s nastaveniami:
+* Garmin IQ aplikácia (na telefóne): Konfigurácia dátových polí, farieb a všeobecných nastavení
+* Nastavenia na hodinkách: Prístup k podrobnejším možnostiam ako formát času, ciele a jednotky priamo na hodinkách podržaním tlačidla menu, výberom ciferníka a ťuknutím na prispôsobiť
+
+*** Ak narazíte na chyby alebo problémy, kontaktujte ma stlačením "Kontaktovať vývojára" namiesto používania systému recenzií. Na e-maily môžem odpovedať rýchlo, zatiaľ čo recenzie nemusím vidieť niekoľko dní. ***
