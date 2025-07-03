@@ -499,10 +499,10 @@
         
         },
     "background" : {
-
+        "lang" : "ro"
     },
     "foreground" : {
-        "lang" : "ro",
+        
         
         "m1" : "Ianuarie",
         "m2" : "Februarie",

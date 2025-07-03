@@ -494,10 +494,10 @@
         
         },
     "background" : {
-
+        "lang" : "nl"
     },
     "foreground" : {
-        "lang" : "nl",
+        
         "d1" : "Zondag",
         "d2" : "Maandag", 
         "d3" : "Dinsdag",

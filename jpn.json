@@ -499,10 +499,10 @@
         
         },
     "background" : {
-
+        "lang" : "ja"
     },
     "foreground" : {
-        "lang" : "ja",
+        
         
         "m1" : "1月",
         "m2" : "2月",

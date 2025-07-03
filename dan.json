@@ -498,10 +498,10 @@
         
         },
     "background" : {
-
+         "lang" : "da"
     },
     "foreground" : {
-        "lang" : "dk",
+       
         
         "m1" : "Januar",
         "m2" : "Februar",

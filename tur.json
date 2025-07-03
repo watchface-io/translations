@@ -498,10 +498,10 @@
         
         },
     "background" : {
-
+        "lang" : "tr"
     },
     "foreground" : {
-        "lang" : "tr",
+        
         
         "m1" : "Ocak",
         "m2" : "Şubat",

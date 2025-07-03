@@ -498,10 +498,10 @@
         
         },
     "background" : {
-
+        "lang" : "he"
     },
     "foreground" : {
-        "lang" : "he",
+        
         
         "m1" : "ינואר",
         "m2" : "פברואר",

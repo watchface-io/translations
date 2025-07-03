@@ -487,10 +487,10 @@
         "_tc" : "🎨 顏色"
     },
     "background" : {
-
+        "lang" : "zh_tw"
     },
     "foreground" : {
-        "lang" : "zh-tw",
+        
         
         "m1" : "一月",
         "m2" : "二月",

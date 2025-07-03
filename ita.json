@@ -487,10 +487,10 @@
         "_tc" : "🎨 COLORI"
     },
     "background" : {
-
+        "lang" : "it"
     },
     "foreground" : {
-        "lang" : "it",
+        
         
         "m1" : "Gennaio",
         "m2" : "Febbraio",

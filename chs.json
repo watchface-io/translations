@@ -499,10 +499,10 @@
         
         },
     "background" : {
-
+        "lang" : "zh_cn"
     },
     "foreground" : {
-        "lang" : "zhs",
+        
         
         "m1" : "一月",
         "m2" : "二月",

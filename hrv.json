@@ -499,10 +499,10 @@
         
         },
     "background" : {
-
+         "lang" : "hr"
     },
     "foreground" : {
-        "lang" : "hr",
+       
         
         "m1" : "Siječanj",
         "m2" : "Veljača",

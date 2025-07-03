@@ -498,10 +498,10 @@
         
         },
     "background" : {
-
+        "lang" : "cz"
     },
     "foreground" : {
-        "lang" : "cs",
+        
         
         "m1" : "Leden",
         "m2" : "Únor",

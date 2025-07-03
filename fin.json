@@ -498,10 +498,10 @@
         
         },
     "background" : {
-
+        "lang" : "fi"
     },
     "foreground" : {
-        "lang" : "fi",
+        
         
         "m1" : "Tammikuu",
         "m2" : "Helmikuu",

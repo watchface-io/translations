@@ -498,10 +498,9 @@
         
         },
     "background" : {
-
+         "lang" : "vi"
     },
     "foreground" : {
-        "lang" : "vi",
         
         "m1" : "Tháng Một",
         "m2" : "Tháng Hai",

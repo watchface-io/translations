@@ -499,10 +499,10 @@
         
         },
     "background" : {
-
+         "lang" : "sk"
     },
     "foreground" : {
-        "lang" : "sk",
+       
         
         "m1" : "Január",
         "m2" : "Február",

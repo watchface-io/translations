@@ -498,10 +498,10 @@
         
         },
     "background" : {
-
+         "lang" : "th"
     },
     "foreground" : {
-        "lang" : "th",
+       
         
         "m1" : "มกราคม",
         "m2" : "กุมภาพันธ์",

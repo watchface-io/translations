@@ -498,10 +498,10 @@
         
         },
     "background" : {
-
+        "lang" : "uk"
     },
     "foreground" : {
-        "lang" : "uk",
+        
         
         "m1" : "Січень",
         "m2" : "Лютий",
