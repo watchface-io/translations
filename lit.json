@@ -664,7 +664,38 @@
         "s18": "Išsaugoti",
         "s19": "Šablonas",
         "s20": "Atsitiktinis su RI",
-        "s21": "Atsitiktinis su AI"
+        "s21": "Atsitiktinis su AI",
+
+        "g0": "Atstumas Dviratis",
+        "g1": "Atstumas Bėgimas",
+        "g2": "Atstumas Plaukimas",
+        "g3": "Atstumas Sportas 1",
+        "g4": "Atstumas Sportas 2",
+        "g5": "Minutės Sportas 1",
+        "g6": "Minutės Sportas 2",
+        "g20": "Viso Aktyvių Minučių",
+        "g21": "Vidutiniškai Aktyvių Minučių",
+        "g22": "Intensyviai Aktyvių Minučių",
+        "g26": "Aukštai",
+        "g27": "Kilimo Atstumas",
+        "g29": "Gliukozė",
+        "g30": "Atkūrimo Laikas",
+        "g31": "Kvėpavimo Dažnis",
+        "g32": "Svorio Tikslas",
+        "g33": "Diena",
+        "g34": "Savaitė",
+        "g35": "Mėnesis",
+        "g36": "7 Dienos",
+        "g37": "28 Dienos",
+        "g38": "Aktyvi Diena",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Pradžia",
+        "g42": "Tikslas",
+        "g50": "Nerasta kitų programų",
+        "g51": "PRO Aktyvus",
+        "g52": "PRO Neaktyvus"
+
     }
         
 

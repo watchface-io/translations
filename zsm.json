@@ -663,7 +663,38 @@
         "s18": "Simpan",
         "s19": "Pratetap",
         "s20": "Rawak dengan RI",
-        "s21": "Rawak dengan AI"
+        "s21": "Rawak dengan AI",
+
+        "g0": "Jarak Basikal",
+        "g1": "Jarak Lari",
+        "g2": "Jarak Renang",
+        "g3": "Jarak Sukan 1",
+        "g4": "Jarak Sukan 2",
+        "g5": "Minit Sukan 1",
+        "g6": "Minit Sukan 2",
+        "g20": "Jumlah Minit Aktif",
+        "g21": "Minit Aktif Sederhana",
+        "g22": "Minit Aktif Kuat",
+        "g26": "Tingkat",
+        "g27": "Jarak Pendakian",
+        "g29": "Glukosa",
+        "g30": "Masa Pemulihan",
+        "g31": "Kadar Pernafasan",
+        "g32": "Sasaran Berat",
+        "g33": "Hari",
+        "g34": "Minggu",
+        "g35": "Bulan",
+        "g36": "7 Hari",
+        "g37": "28 Hari",
+        "g38": "Hari Aktif",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Mula",
+        "g42": "Sasaran",
+        "g50": "Tiada aplikasi lain dijumpai",
+        "g51": "PRO Aktif",
+        "g52": "PRO Tidak Aktif"
+
     }
         
 

@@ -664,7 +664,38 @@
         "s18": "Shrani",
         "s19": "Prednastavitev",
         "s20": "Naključno z RI",
-        "s21": "Naključno z AI"
+        "s21": "Naključno z AI",
+
+        "g0": "Razdalja Kolesarstvo",
+        "g1": "Razdalja Tek",
+        "g2": "Razdalja Plavanje",
+        "g3": "Razdalja Šport 1",
+        "g4": "Razdalja Šport 2",
+        "g5": "Minute Šport 1",
+        "g6": "Minute Šport 2",
+        "g20": "Skupno Aktivnih Minut",
+        "g21": "Zmerno Aktivnih Minut",
+        "g22": "Intenzivno Aktivnih Minut",
+        "g26": "Nadstropja",
+        "g27": "Razdalja Vzpona",
+        "g29": "Glukoza",
+        "g30": "Čas Okrevanja",
+        "g31": "Dihalna Frekvenca",
+        "g32": "Cilj Teže",
+        "g33": "Dan",
+        "g34": "Teden",
+        "g35": "Mesec",
+        "g36": "7 Dni",
+        "g37": "28 Dni",
+        "g38": "Aktiven Dan",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Začetek",
+        "g42": "Cilj",
+        "g50": "Niso bile najdene druge aplikacije",
+        "g51": "PRO Aktivno",
+        "g52": "PRO Neaktivno"
+
     }
         
 

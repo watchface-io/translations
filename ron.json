@@ -664,7 +664,38 @@
         "s18": "Salvează",
         "s19": "Preset",
         "s20": "Aleatoriu cu RI",
-        "s21": "Aleatoriu cu AI"
+        "s21": "Aleatoriu cu AI",
+
+        "g0": "Distanță Bicicletă",
+        "g1": "Distanță Alergare",
+        "g2": "Distanță Înot",
+        "g3": "Distanță Sport 1",
+        "g4": "Distanță Sport 2",
+        "g5": "Minute Sport 1",
+        "g6": "Minute Sport 2",
+        "g20": "Total Minute Active",
+        "g21": "Minute Active Moderate",
+        "g22": "Minute Active Intense",
+        "g26": "Etaje",
+        "g27": "Distanță Ascensiune",
+        "g29": "Glucoză",
+        "g30": "Timp Recuperare",
+        "g31": "Rata Respiratorie",
+        "g32": "Obiectiv Greutate",
+        "g33": "Zi",
+        "g34": "Săptămână",
+        "g35": "Lună",
+        "g36": "7 Zile",
+        "g37": "28 Zile",
+        "g38": "Zi Activă",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Start",
+        "g42": "Obiectiv",
+        "g50": "Nu s-au găsit alte aplicații",
+        "g51": "PRO Activ",
+        "g52": "PRO Inactiv"
+
     }
         
 

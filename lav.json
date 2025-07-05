@@ -664,7 +664,38 @@
         "s18": "Saglabāt",
         "s19": "Priekšiestatījums",
         "s20": "Nejaušs ar RI",
-        "s21": "Nejaušs ar AI"
+        "s21": "Nejaušs ar AI",
+
+        "g0": "Attālums Velosipēds",
+        "g1": "Attālums Skrējiens",
+        "g2": "Attālums Peldēšana",
+        "g3": "Attālums Sports 1",
+        "g4": "Attālums Sports 2",
+        "g5": "Minūtes Sports 1",
+        "g6": "Minūtes Sports 2",
+        "g20": "Kopējās Aktīvās Minūtes",
+        "g21": "Mērenas Aktīvās Minūtes",
+        "g22": "Intensīvas Aktīvās Minūtes",
+        "g26": "Stāvi",
+        "g27": "Kāpiena Attālums",
+        "g29": "Glikoze",
+        "g30": "Atjaunošanās Laiks",
+        "g31": "Elpošanas Ātrums",
+        "g32": "Svara Mērķis",
+        "g33": "Diena",
+        "g34": "Nedēļa",
+        "g35": "Mēnesis",
+        "g36": "7 Dienas",
+        "g37": "28 Dienas",
+        "g38": "Aktīva Diena",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Sākums",
+        "g42": "Mērķis",
+        "g50": "Netika atrastas citas lietotnes",
+        "g51": "PRO Aktīvs",
+        "g52": "PRO Neaktīvs"
+
     }
         
 

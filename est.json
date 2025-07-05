@@ -666,7 +666,37 @@
         "s18": "Salvesta",
         "s19": "Eelseade",
         "s20": "Juhuslik RI-ga",
-        "s21": "Juhuslik AI-ga"
+        "s21": "Juhuslik AI-ga",
+
+        "g0": "Kaugus Jalgratas",
+        "g1": "Kaugus Jooks",
+        "g2": "Kaugus Ujumine",
+        "g3": "Kaugus Sport 1",
+        "g4": "Kaugus Sport 2",
+        "g5": "Minutid Sport 1",
+        "g6": "Minutid Sport 2",
+        "g20": "Aktiivsed Min Kokku",
+        "g21": "Aktiivsed Min Mõõdukas",
+        "g22": "Aktiivsed Min Intensiivne",
+        "g26": "Korruseid",
+        "g27": "Tõusu kaugus",
+        "g29": "Glükoos",
+        "g30": "Taastumisaeg",
+        "g31": "Hingamissagedus",
+        "g32": "Kaalu eesmärk",
+        "g33": "Päev",
+        "g34": "Nädal",
+        "g35": "Kuu",
+        "g36": "7 Päeva",
+        "g37": "28 Päeva",
+        "g38": "Aktiivne Päev",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Algus",
+        "g42": "Eesmärk",
+        "g50": "Teisi rakendusi ei leitud",
+        "g51": "PRO Aktiivne",
+        "g52": "PRO Mitteaktiivne"
 
     }
         

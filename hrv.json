@@ -667,7 +667,37 @@
         "s18": "Spremi",
         "s19": "Predložak",
         "s20": "Nasumično s RI",
-        "s21": "Nasumično s AI"
+        "s21": "Nasumično s AI",
+
+        "g0": "Udaljenost Bicikl",
+        "g1": "Udaljenost Trčanje",
+        "g2": "Udaljenost Plivanje",
+        "g3": "Udaljenost Sport 1",
+        "g4": "Udaljenost Sport 2",
+        "g5": "Minute Sport 1",
+        "g6": "Minute Sport 2",
+        "g20": "Ukupno Aktivnih Minuta",
+        "g21": "Umjereno Aktivnih Minuta",
+        "g22": "Snažno Aktivnih Minuta",
+        "g26": "Katovi",
+        "g27": "Udaljenost Uspona",
+        "g29": "Glukoza",
+        "g30": "Vrijeme Oporavka",
+        "g31": "Brzina Disanja",
+        "g32": "Cilj Težine",
+        "g33": "Dan",
+        "g34": "Tjedan",
+        "g35": "Mjesec",
+        "g36": "7 Dana",
+        "g37": "28 Dana",
+        "g38": "Aktivni Dan",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Početak",
+        "g42": "Cilj",
+        "g50": "Nema drugih aplikacija",
+        "g51": "PRO Aktivno",
+        "g52": "PRO Neaktivno"
 
     }
         
