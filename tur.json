@@ -663,7 +663,38 @@
         "s18": "Kaydet",
         "s19": "Hazır ayar",
         "s20": "RI ile rastgele",
-        "s21": "AI ile rastgele"
+        "s21": "AI ile rastgele",
+
+        "g0": "Mesafe Bisiklet",
+        "g1": "Mesafe Koşu",
+        "g2": "Mesafe Yüzme",
+        "g3": "Mesafe Spor 1",
+        "g4": "Mesafe Spor 2",
+        "g5": "Dakika Spor 1",
+        "g6": "Dakika Spor 2",
+        "g20": "Aktif Dak Toplam",
+        "g21": "Aktif Dak Orta",
+        "g22": "Aktif Dak Yoğun",
+        "g26": "Katlar",
+        "g27": "Tırmanış Mesafesi",
+        "g29": "Glikoz",
+        "g30": "Toparlanma Süresi",
+        "g31": "Nefes Alma Sıklığı",
+        "g32": "Kilo Hedefi",
+        "g33": "Gün",
+        "g34": "Hafta",
+        "g35": "Ay",
+        "g36": "7 Gün",
+        "g37": "28 Gün",
+        "g38": "Aktif Gün",
+        "g39": "Min",
+        "g40": "Maks",
+        "g41": "Başlangıç",
+        "g42": "Hedef",
+        "g50": "Başka uygulama bulunamadı",
+        "g51": "PRO Aktif",
+        "g52": "PRO Pasif"
+
     }
         
 

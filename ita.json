@@ -653,7 +653,37 @@
         "s18": "Salva",
         "s19": "Preimpostazione",
         "s20": "Casuale con RI",
-        "s21": "Casuale con AI"
+        "s21": "Casuale con AI",
+
+        "g0": "Distanza Bicicletta",
+        "g1": "Distanza Corsa",
+        "g2": "Distanza Nuoto",
+        "g3": "Distanza Sport 1",
+        "g4": "Distanza Sport 2",
+        "g5": "Minuti Sport 1",
+        "g6": "Minuti Sport 2",
+        "g20": "Min Attivi Totali",
+        "g21": "Min Attivi Moderati",
+        "g22": "Min Attivi Intensi",
+        "g26": "Piani",
+        "g27": "Distanza Salita",
+        "g29": "Glucosio",
+        "g30": "Tempo Recupero",
+        "g31": "Frequenza Respiratoria",
+        "g32": "Obiettivo Peso",
+        "g33": "Giorno",
+        "g34": "Settimana",
+        "g35": "Mese",
+        "g36": "7 Giorni",
+        "g37": "28 Giorni",
+        "g38": "Giorno Attivo",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Inizio",
+        "g42": "Obiettivo",
+        "g50": "Nessuna altra app trovata",
+        "g51": "PRO Attivo",
+        "g52": "PRO Inattivo"
 
     }
 }

@@ -663,7 +663,38 @@
         "s18": "Speichern",
         "s19": "Vorlage",
         "s20": "Zufällig mit RI",
-        "s21": "Zufällig mit AI"
+        "s21": "Zufällig mit AI",
+
+        "g0": "Distanz Fahrrad",
+        "g1": "Distanz Laufen",
+        "g2": "Distanz Schwimmen",
+        "g3": "Distanz Sport 1",
+        "g4": "Distanz Sport 2",
+        "g5": "Minuten Sport 1",
+        "g6": "Minuten Sport 2",
+        "g20": "Aktive Min Gesamt",
+        "g21": "Aktive Min Moderat",
+        "g22": "Aktive Min Intensiv",
+        "g26": "Etagen",
+        "g27": "Aufstiegsstrecke",
+        "g29": "Glukose",
+        "g30": "Erholungszeit",
+        "g31": "Atemfrequenz",
+        "g32": "Gewichtsziel",
+        "g33": "Tag",
+        "g34": "Woche",
+        "g35": "Monat",
+        "g36": "7 Tage",
+        "g37": "28 Tage",
+        "g38": "Aktiver Tag",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Start",
+        "g42": "Ziel",
+        "g50": "Keine anderen Apps gefunden",
+        "g51": "PRO Aktiv",
+        "g52": "PRO Inaktiv"
+
     }
         
 

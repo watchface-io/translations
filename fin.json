@@ -666,7 +666,37 @@
         "s18": "Tallenna",
         "s19": "Esiasetus",
         "s20": "Satunnainen RI:llä",
-        "s21": "Satunnainen AI:llä"
+        "s21": "Satunnainen AI:llä",
+
+        "g0": "Etäisyys Pyöräily",
+        "g1": "Etäisyys Juoksu",
+        "g2": "Etäisyys Uinti",
+        "g3": "Etäisyys Laji 1",
+        "g4": "Etäisyys Laji 2",
+        "g5": "Minuutit Laji 1",
+        "g6": "Minuutit Laji 2",
+        "g20": "Aktiiviset Min Yhteensä",
+        "g21": "Aktiiviset Min Kohtalainen",
+        "g22": "Aktiiviset Min Voimakas",
+        "g26": "Kerrokset",
+        "g27": "Nousu Etäisyys",
+        "g29": "Glukoosi",
+        "g30": "Palautumisaika",
+        "g31": "Hengitystaajuus",
+        "g32": "Painotavoite",
+        "g33": "Päivä",
+        "g34": "Viikko",
+        "g35": "Kuukausi",
+        "g36": "7 Päivää",
+        "g37": "28 Päivää",
+        "g38": "Aktiivinen Päivä",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Alku",
+        "g42": "Tavoite",
+        "g50": "Muita sovelluksia ei löytynyt",
+        "g51": "PRO Aktiivinen",
+        "g52": "PRO Ei-aktiivinen"
 
     }
         

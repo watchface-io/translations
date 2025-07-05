@@ -667,7 +667,37 @@
         "s18": "Lagre",
         "s19": "Forhåndsinnstilling",
         "s20": "Tilfeldig med RI",
-        "s21": "Tilfeldig med AI"
+        "s21": "Tilfeldig med AI",
+
+        "g0": "Avstand Sykkel",
+        "g1": "Avstand Løp",
+        "g2": "Avstand Svømming",
+        "g3": "Avstand Sport 1",
+        "g4": "Avstand Sport 2",
+        "g5": "Minutter Sport 1",
+        "g6": "Minutter Sport 2",
+        "g20": "Aktive Min Totalt",
+        "g21": "Aktive Min Moderat",
+        "g22": "Aktive Min Intens",
+        "g26": "Etasjer",
+        "g27": "Oppstigning Avstand",
+        "g29": "Glukose",
+        "g30": "Restitusjonstid",
+        "g31": "Pustefrekvens",
+        "g32": "Vektmål",
+        "g33": "Dag",
+        "g34": "Uke",
+        "g35": "Måned",
+        "g36": "7 Dager",
+        "g37": "28 Dager",
+        "g38": "Aktiv Dag",
+        "g39": "Min",
+        "g40": "Maks",
+        "g41": "Start",
+        "g42": "Mål",
+        "g50": "Ingen andre apper funnet",
+        "g51": "PRO Aktiv",
+        "g52": "PRO Inaktiv"
 
     }
         

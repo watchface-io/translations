@@ -664,7 +664,37 @@
         "s18": "Uložit",
         "s19": "Přednastavené",
         "s20": "Náhodně s RI",
-        "s21": "Náhodně s AI"
+        "s21": "Náhodně s AI",
+
+        "g0": "Vzdálenost Kolo",
+        "g1": "Vzdálenost Běh",
+        "g2": "Vzdálenost Plavání",
+        "g3": "Vzdálenost Sport 1",
+        "g4": "Vzdálenost Sport 2",
+        "g5": "Minuty Sport 1",
+        "g6": "Minuty Sport 2",
+        "g20": "Aktivní Min Celkem",
+        "g21": "Aktivní Min Mírné",
+        "g22": "Aktivní Min Intenzivní",
+        "g26": "Patra",
+        "g27": "Vzdálenost Výstupu",
+        "g29": "Glukóza",
+        "g30": "Čas Zotavení",
+        "g31": "Frekvence Dýchání",
+        "g32": "Cíl Hmotnosti",
+        "g33": "Den",
+        "g34": "Týden",
+        "g35": "Měsíc",
+        "g36": "7 Dní",
+        "g37": "28 Dní",
+        "g38": "Aktivní Den",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Start",
+        "g42": "Cíl",
+        "g50": "Žádné jiné aplikace nenalezeny",
+        "g51": "PRO Aktivní",
+        "g52": "PRO Neaktivní"
 
     }
         

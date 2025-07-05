@@ -662,7 +662,39 @@
         "s18": "Save",
         "s19": "Preset",
         "s20": "Random with RI",
-        "s21": "Random with AI"
+        "s21": "Random with AI",
+
+        "g0": "Distance Bike",
+        "g1": "Distance Run",
+        "g2": "Distance Swim",
+        "g3": "Distance Sport 1",
+        "g4": "Distance Sport 2",
+        "g5": "Minutes Sport 1",
+        "g6": "Minutes Sport 2",
+        "g20": "Active Min Total",
+        "g21": "Active Min Moderate",
+        "g22": "Active Min Vigorous",
+        "g26": "Floors",
+        "g27": "Ascent Distance",
+        "g29": "Glucose",
+        "g30": "Recovery Time",
+        "g31": "Respiratory Rate",
+        "g32": "Weight Goal",
+        "g33": "Day",
+        "g34": "Week",
+        "g35": "Month",
+        "g36": "7 Day",
+        "g37": "28 Day",
+        "g38": "Active Day",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Start",
+        "g42": "Goal",
+        "g50": "No other apps found",
+        "g51": "PRO Active",
+        "g52": "PRO Inactive"
+
+        
 
     },
     "labels" : {

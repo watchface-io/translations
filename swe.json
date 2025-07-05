@@ -667,7 +667,37 @@
         "s18": "Spara",
         "s19": "Förinställning",
         "s20": "Slumpmässig med RI",
-        "s21": "Slumpmässig med AI"
+        "s21": "Slumpmässig med AI",
+
+        "g0": "Avstånd Cykel",
+        "g1": "Avstånd Löpning",
+        "g2": "Avstånd Simning",
+        "g3": "Avstånd Sport 1",
+        "g4": "Avstånd Sport 2",
+        "g5": "Minuter Sport 1",
+        "g6": "Minuter Sport 2",
+        "g20": "Aktiva Min Totalt",
+        "g21": "Aktiva Min Måttliga",
+        "g22": "Aktiva Min Intensiva",
+        "g26": "Våningar",
+        "g27": "Uppstigning Avstånd",
+        "g29": "Glukos",
+        "g30": "Återhämtningstid",
+        "g31": "Andningsfrekvens",
+        "g32": "Viktmål",
+        "g33": "Dag",
+        "g34": "Vecka",
+        "g35": "Månad",
+        "g36": "7 Dagar",
+        "g37": "28 Dagar",
+        "g38": "Aktiv Dag",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Start",
+        "g42": "Mål",
+        "g50": "Inga andra appar hittades",
+        "g51": "PRO Aktiv",
+        "g52": "PRO Inaktiv"
 
     }
         

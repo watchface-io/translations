@@ -655,7 +655,38 @@
         "s18": "Opslaan",
         "s19": "Preset",
         "s20": "Willekeurig met RI",
-        "s21": "Willekeurig met AI"
+        "s21": "Willekeurig met AI",
+
+        "g0": "Afstand Fiets",
+        "g1": "Afstand Hardlopen",
+        "g2": "Afstand Zwemmen",
+        "g3": "Afstand Sport 1",
+        "g4": "Afstand Sport 2",
+        "g5": "Minuten Sport 1",
+        "g6": "Minuten Sport 2",
+        "g20": "Actieve Min Totaal",
+        "g21": "Actieve Min Matig",
+        "g22": "Actieve Min Intensief",
+        "g26": "Verdiepingen",
+        "g27": "Klim Afstand",
+        "g29": "Glucose",
+        "g30": "Hersteltijd",
+        "g31": "Ademhalingsfrequentie",
+        "g32": "Gewichtsdoel",
+        "g33": "Dag",
+        "g34": "Week",
+        "g35": "Maand",
+        "g36": "7 Dagen",
+        "g37": "28 Dagen",
+        "g38": "Actief Dag",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Start",
+        "g42": "Doel",
+        "g50": "Geen andere apps gevonden",
+        "g51": "PRO Actief",
+        "g52": "PRO Inactief"
+
     }
         
 

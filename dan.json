@@ -664,7 +664,37 @@
         "s18": "Gem",
         "s19": "Forudindstillet",
         "s20": "Tilfældig med RI",
-        "s21": "Tilfældig med AI"
+        "s21": "Tilfældig med AI",
+
+        "g0": "Afstand Cykel",
+        "g1": "Afstand Løb",
+        "g2": "Afstand Svømning",
+        "g3": "Afstand Sport 1",
+        "g4": "Afstand Sport 2",
+        "g5": "Minutter Sport 1",
+        "g6": "Minutter Sport 2",
+        "g20": "Aktive Min Total",
+        "g21": "Aktive Min Moderate",
+        "g22": "Aktive Min Intensive",
+        "g26": "Etager",
+        "g27": "Opstigning Afstand",
+        "g29": "Glukose",
+        "g30": "Restitutionsid",
+        "g31": "Åndedrætsfrekvens",
+        "g32": "Vægtmål",
+        "g33": "Dag",
+        "g34": "Uge",
+        "g35": "Måned",
+        "g36": "7 Dage",
+        "g37": "28 Dage",
+        "g38": "Aktiv Dag",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Start",
+        "g42": "Mål",
+        "g50": "Ingen andre apps fundet",
+        "g51": "PRO Aktiv",
+        "g52": "PRO Inaktiv"
 
     }
         

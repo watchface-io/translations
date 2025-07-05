@@ -666,7 +666,37 @@
         "s18": "Sauvegarder",
         "s19": "Préréglage",
         "s20": "Aléatoire avec RI",
-        "s21": "Aléatoire avec AI"
+        "s21": "Aléatoire avec AI",
+
+        "g0": "Distance Vélo",
+        "g1": "Distance Course",
+        "g2": "Distance Natation",
+        "g3": "Distance Sport 1",
+        "g4": "Distance Sport 2",
+        "g5": "Minutes Sport 1",
+        "g6": "Minutes Sport 2",
+        "g20": "Min Actives Total",
+        "g21": "Min Actives Modérées",
+        "g22": "Min Actives Intenses",
+        "g26": "Étages",
+        "g27": "Distance Ascension",
+        "g29": "Glucose",
+        "g30": "Temps de Récupération",
+        "g31": "Fréquence Respiratoire",
+        "g32": "Objectif Poids",
+        "g33": "Jour",
+        "g34": "Semaine",
+        "g35": "Mois",
+        "g36": "7 Jours",
+        "g37": "28 Jours",
+        "g38": "Jour Actif",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Début",
+        "g42": "Objectif",
+        "g50": "Aucune autre app trouvée",
+        "g51": "PRO Actif",
+        "g52": "PRO Inactif"
 
     }
         

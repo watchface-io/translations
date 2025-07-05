@@ -667,7 +667,37 @@
         "s18": "Guardar",
         "s19": "Preajuste",
         "s20": "Aleatorio con RI",
-        "s21": "Aleatorio con AI"
+        "s21": "Aleatorio con AI",
+
+        "g0": "Distancia Bicicleta",
+        "g1": "Distancia Correr",
+        "g2": "Distancia Natación",
+        "g3": "Distancia Deporte 1",
+        "g4": "Distancia Deporte 2",
+        "g5": "Minutos Deporte 1",
+        "g6": "Minutos Deporte 2",
+        "g20": "Min Activos Total",
+        "g21": "Min Activos Moderados",
+        "g22": "Min Activos Intensos",
+        "g26": "Pisos",
+        "g27": "Distancia Ascenso",
+        "g29": "Glucosa",
+        "g30": "Tiempo Recuperación",
+        "g31": "Frecuencia Respiratoria",
+        "g32": "Objetivo Peso",
+        "g33": "Día",
+        "g34": "Semana",
+        "g35": "Mes",
+        "g36": "7 Días",
+        "g37": "28 Días",
+        "g38": "Día Activo",
+        "g39": "Mín",
+        "g40": "Máx",
+        "g41": "Inicio",
+        "g42": "Objetivo",
+        "g50": "No se encontraron otras apps",
+        "g51": "PRO Activo",
+        "g52": "PRO Inactivo"
 
     }
         
