@@ -667,7 +667,37 @@
         "s18": "Mentés",
         "s19": "Előbeállítás",
         "s20": "Véletlenszerű RI-vel",
-        "s21": "Véletlenszerű AI-vel"
+        "s21": "Véletlenszerű AI-vel",
+
+        "g0": "Távolság Kerékpár",
+        "g1": "Távolság Futás",
+        "g2": "Távolság Úszás",
+        "g3": "Távolság Sport 1",
+        "g4": "Távolság Sport 2",
+        "g5": "Percek Sport 1",
+        "g6": "Percek Sport 2",
+        "g20": "Aktív Perc Összesen",
+        "g21": "Aktív Perc Mérsékelt",
+        "g22": "Aktív Perc Intenzív",
+        "g26": "Emeletek",
+        "g27": "Emelkedési Távolság",
+        "g29": "Glükóz",
+        "g30": "Helyreállási Idő",
+        "g31": "Légzési Frekvencia",
+        "g32": "Súlycél",
+        "g33": "Nap",
+        "g34": "Hét",
+        "g35": "Hónap",
+        "g36": "7 Nap",
+        "g37": "28 Nap",
+        "g38": "Aktív Nap",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Kezdés",
+        "g42": "Cél",
+        "g50": "Nem található más alkalmazás",
+        "g51": "PRO Aktív",
+        "g52": "PRO Inaktív"
 
     }
         

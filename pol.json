@@ -667,7 +667,37 @@
         "s18": "Zapisz",
         "s19": "Preset",
         "s20": "Losowo z RI",
-        "s21": "Losowo z AI"
+        "s21": "Losowo z AI",
+
+        "g0": "Dystans Rower",
+        "g1": "Dystans Bieg",
+        "g2": "Dystans Pływanie",
+        "g3": "Dystans Sport 1",
+        "g4": "Dystans Sport 2",
+        "g5": "Minuty Sport 1",
+        "g6": "Minuty Sport 2",
+        "g20": "Aktywne Min Razem",
+        "g21": "Aktywne Min Umiarkowane",
+        "g22": "Aktywne Min Intensywne",
+        "g26": "Piętra",
+        "g27": "Dystans Wzniesienia",
+        "g29": "Glukoza",
+        "g30": "Czas Regeneracji",
+        "g31": "Częstotliwość Oddychania",
+        "g32": "Cel Wagi",
+        "g33": "Dzień",
+        "g34": "Tydzień",
+        "g35": "Miesiąc",
+        "g36": "7 Dni",
+        "g37": "28 Dni",
+        "g38": "Aktywny Dzień",
+        "g39": "Min",
+        "g40": "Max",
+        "g41": "Start",
+        "g42": "Cel",
+        "g50": "Nie znaleziono innych aplikacji",
+        "g51": "PRO Aktywny",
+        "g52": "PRO Nieaktywny"
 
     }
         
