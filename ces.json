@@ -523,8 +523,6 @@
         "d5" : "Čtvrtek",
         "d6" : "Pátek",
         "d7" : "Sobota",
-
-        "d" : "d",
         
         "w1" : "N",
         "w2" : "P",
@@ -540,7 +538,64 @@
 
     },
     "menu" : {
+        "d" : "Čas obnovení dat",
+        "d1" : "Rychlé (TF, stres)",
+        "d2" : "Střední (kroky)",
+        "d3" : "Pomalé (počasí, aktivní minuty)",
+        "d4" : "Čas aktualizace OWM",
 
+        "u" : "Jednotky",
+        "u0": "Jednotka teploty",
+        "u1": "Jednotka vzdálenosti", 
+        "u2": "Nadmořská výška",
+        "u3": "Jednotka tempa",
+        "u4": "Jednotka hmotnosti",
+        "u5": "Jednotka větru",
+        "u6": "Formát tlaku",
+        "u7": "Jednotka deště",
+        "u8": "Zobrazit znak procent",
+        "u9": "Zobrazit BPM pro TF",
+        "u10": "Čas zotavení zobrazit h/m",
+        "u11": "Baterie zobrazit d",
+        "u12": "Stupně zobrazit jednotku",
+        "u13": "Předpovědník závodu zobrazit jednotku",
+   
+        "u31": "Použít nastavení zařízení",
+        "u32": "Fahrenheit",
+        "u33": "Celsius",
+        "u34": "Zobrazit jednotku",
+        "u35": "skrýt",
+        "u36": "zobrazit",
+        "u37": "Míle",
+        "u38": "Kilometry",
+        "u39": "Stopy",
+        "u40": "Metry",
+        "u41": "Minuta na míli",
+        "u42": "Minuta na kilometr",
+        
+        "u44": " m",
+        "u45": " km",
+        "u46": " ft",
+        "u47": "m/mi",
+        "u48": "m/km",
+        "u49": " lb",
+        "u50": " kg",
+        "u51": " m/s",
+        "u52": " km/h",
+        "u53": " mph",
+        "u54": " kts",
+        "u55": " bft",
+        "u56": " mmHg",
+        "u57": " inHg",
+        "u58": " mb",
+        "u59": " psi",
+        "u60": "in",
+        "u61": "mm",
+
+        "u64": " bpm",
+        "u65": "h,m",
+        "u66": "d,h",
+        "u67": " d"
     }
         
 

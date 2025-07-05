@@ -523,8 +523,6 @@
         "d5" : "Torsdag",
         "d6" : "Fredag",
         "d7" : "Lørdag",
-
-        "d" : "d",
         
         "w1" : "S",
         "w2" : "M",
@@ -540,7 +538,64 @@
 
     },
     "menu" : {
+        "d" : "Dataopdateringstid",
+        "d1" : "Hurtig (puls, stress)",
+        "d2" : "Medium (skridt)",
+        "d3" : "Langsom (vejr, aktive minutter)",
+        "d4" : "OWM opdateringstid",
 
+        "u" : "Enheder",
+        "u0": "Temperaturenhed",
+        "u1": "Afstandsenhed", 
+        "u2": "Højde",
+        "u3": "Tempoenhed",
+        "u4": "Vægtenhed",
+        "u5": "Vindenhed",
+        "u6": "Trykformat",
+        "u7": "Regnenhed",
+        "u8": "Vis procentsymbol",
+        "u9": "Vis BPM for puls",
+        "u10": "Restitueringstid vis t/m",
+        "u11": "Batteri vis d",
+        "u12": "Grader vis enhed",
+        "u13": "Løbsprediktor vis enhed",
+   
+        "u31": "Brug enhedsindstillinger",
+        "u32": "Fahrenheit",
+        "u33": "Celsius",
+        "u34": "Vis enhed",
+        "u35": "skjul",
+        "u36": "vis",
+        "u37": "Miles",
+        "u38": "Kilometer",
+        "u39": "Fod",
+        "u40": "Meter",
+        "u41": "Minut per mile",
+        "u42": "Minut per kilometer",
+
+        "u44": " m",
+        "u45": " km",
+        "u46": " ft",
+        "u47": "m/mi",
+        "u48": "m/km",
+        "u49": " lb",
+        "u50": " kg",
+        "u51": " m/s",
+        "u52": " km/t",
+        "u53": " mph",
+        "u54": " kts",
+        "u55": " bft",
+        "u56": " mmHg",
+        "u57": " inHg",
+        "u58": " mb",
+        "u59": " psi",
+        "u60": "in",
+        "u61": "mm",
+
+        "u64": " bpm",
+        "u65": "t,m",
+        "u66": "d,t",
+        "u67": " d"
     }
         
 

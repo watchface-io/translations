@@ -506,8 +506,6 @@
         "d6" : "Vrijdag",
         "d7" : "Zaterdag",
 
-        "d" : "d",
-
         "m1" : "Januari",
         "m2" : "Februari",
         "m3" : "Maart",
@@ -534,7 +532,64 @@
 
     },
     "menu" : {
+        "d" : "Data Update Tijd",
+        "d1" : "Snel (HF, stress)",
+        "d2" : "Gemiddeld (Stappen)",
+        "d3" : "Langzaam (weer, actieve minuten)",
+        "d4" : "OWM Update Tijd",
 
+        "u" : "Eenheden",
+        "u0": "Temperatuur Eenheid",
+        "u1": "Afstand Eenheid", 
+        "u2": "Hoogte",
+        "u3": "Tempo Eenheid",
+        "u4": "Gewicht Eenheid",
+        "u5": "Wind Eenheid",
+        "u6": "Druk Formaat",
+        "u7": "Regen Eenheid",
+        "u8": "Procentteken tonen",
+        "u9": "BPM voor HF tonen",
+        "u10": "Hersteltijd h/m tonen",
+        "u11": "Batterij d tonen",
+        "u12": "Graden eenheid tonen",
+        "u13": "Race Voorspelling eenheid tonen",
+   
+        "u31": "Gebruik Apparaat Instellingen",
+        "u32": "Fahrenheit",
+        "u33": "Celsius",
+        "u34": "Eenheid Tonen",
+        "u35": "verbergen",
+        "u36": "tonen",
+        "u37": "Mijlen",
+        "u38": "Kilometers",
+        "u39": "Voet",
+        "u40": "Meters",
+        "u41": "Minuut per Mijl",
+        "u42": "Minuut per Kilometer",
+        
+        "u44": " m",
+        "u45": " km",
+        "u46": " ft",
+        "u47": "m/mi",
+        "u48": "m/km",
+        "u49": " lb",
+        "u50": " kg",
+        "u51": " m/s",
+        "u52": " km/h",
+        "u53": " mph",
+        "u54": " kts",
+        "u55": " bft",
+        "u56": " mmHg",
+        "u57": " inHg",
+        "u58": " mb",
+        "u59": " psi",
+        "u60": "in",
+        "u61": "mm",
+
+        "u64": " bpm",
+        "u65": "h,m",
+        "u66": "d,h",
+        "u67": " d"
     }
         
 

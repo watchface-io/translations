@@ -524,8 +524,6 @@
         "d5" : "Donnerstag",
         "d6" : "Freitag",
         "d7" : "Samstag",
-
-        "d" : "T",
         
         "w1" : "S",
         "w2" : "M",
@@ -541,7 +539,64 @@
 
     },
     "menu" : {
+        "d" : "Daten Aktualisierungszeit",
+        "d1" : "Schnell (HF, Stress)",
+        "d2" : "Mittel (Schritte)",
+        "d3" : "Langsam (Wetter, Aktive Minuten)",
+        "d4" : "OWM Aktualisierungszeit",
 
+        "u" : "Einheiten",
+        "u0": "Temperatureinheit",
+        "u1": "Entfernungseinheit", 
+        "u2": "Höhe",
+        "u3": "Tempo Einheit",
+        "u4": "Gewichtseinheit",
+        "u5": "Windeinheit",
+        "u6": "Druckformat",
+        "u7": "Regeneinheit",
+        "u8": "Prozentzeichen anzeigen",
+        "u9": "BPM für HF anzeigen",
+        "u10": "Erholungszeit h/m anzeigen",
+        "u11": "Batterie T anzeigen",
+        "u12": "Grad Einheit anzeigen",
+        "u13": "Rennvorhersage Einheit anzeigen",
+   
+        "u31": "Geräteeinstellungen verwenden",
+        "u32": "Fahrenheit",
+        "u33": "Celsius",
+        "u34": "Einheit anzeigen",
+        "u35": "verbergen",
+        "u36": "anzeigen",
+        "u37": "Meilen",
+        "u38": "Kilometer",
+        "u39": "Fuß",
+        "u40": "Meter",
+        "u41": "Minute pro Meile",
+        "u42": "Minute pro Kilometer",
+        
+        "u44": " m",
+        "u45": " km",
+        "u46": " ft",
+        "u47": "m/mi",
+        "u48": "m/km",
+        "u49": " lb",
+        "u50": " kg",
+        "u51": " m/s",
+        "u52": " km/h",
+        "u53": " mph",
+        "u54": " kts",
+        "u55": " bft",
+        "u56": " mmHg",
+        "u57": " inHg",
+        "u58": " mb",
+        "u59": " psi",
+        "u60": "in",
+        "u61": "mm",
+
+        "u64": " bpm",
+        "u65": "h,m",
+        "u66": "d,h",
+        "u67": " T"
     }
         
 
