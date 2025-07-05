@@ -539,10 +539,12 @@
     },
     "menu" : {
         "d" : "Čas obnovení dat",
-        "f13" : "Rychlé (TF, stres)",
-        "f14" : "Střední (kroky)",
-        "f15" : "Pomalé (počasí, aktivní minuty)",
-        "f16" : "Čas aktualizace OWM",
+        "d1" : "Rychlé (TF, stres)",
+        "d2" : "Střední (kroky)",
+        "d3" : "Pomalé (počasí, aktivní minuty)",
+        "d4" : "Čas aktualizace OWM",
+
+        "d20" : "Okamžitě",
 
         "u" : "Jednotky",
         "u0": "Jednotka teploty",
@@ -595,7 +597,75 @@
         "u64": " bpm",
         "u65": "h,m",
         "u66": "d,h",
-        "u67": " d"
+        "u67": " d",
+        "u68": "ZAPNUTO",
+        "u69": "VYPNUTO",
+        
+
+        "t": "Nastavení času",
+        "t0": "První den týdne",
+        "t1": "12/24h hodiny", 
+        "t2": "Formát času (Čas)",
+        "t3": "Formát času (Data)",
+        
+        "t31": "Použít nastavení zařízení",
+        "t35": "12hodinový",
+        "t36": "24hodinový",
+        "t43": "Vojenský (0700)",
+        "t44": "Zobrazit am/pm",
+        "t45": "Skrýt am/pm",
+
+        
+        "m1": "Info",
+        "m2": "Témata",
+        "m3": "Načíst přednastavené",
+        "m4": "Načíst uložená nastavení",
+        "m5": "Uložit přednastavené",
+        "m6": "Uložit nastavení",
+        "m7": "Pro více nastavení",
+        "m8": "Otevřít IQ aplikaci na telefonu",
+
+        "m9": "Informace",
+        "m10": "Název aplikace",
+        "m11": "Verze",
+        "m12": "Identifikátor zařízení",
+        "m13": "Pro klíč",
+        "m14": "Obnovit nastavení",
+        "m15": "Obnovit úložiště",
+        "m16": "Komplikace",
+        "m17": "Aplikace 1",
+        "m18": "Aplikace 2",
+        "m19": "Aplikace 3",
+        "m20": "Aplikace 4",
+        "m21": "Aplikace 5",
+        "m22": "Jste si jisti?",
+        "m23": "Ano",
+        "m24": "Ne",
+        "m25": "Jít zpět",
+
+        "s": "Nastavení",
+        "s1": "Formáty času",
+        "s2": "Den týdne, 12/24h, atd",
+        "s3": "Jednotky",
+        "s4": "KM/M, Metry/FT, atd",
+        "s5": "Sportovní cíle",
+        "s6": "Kolo/běh/plavání atd",
+        "s7": "Další cíle",
+        "s8": "Kalorie, kroky atd",
+        "s9": "Vlastní komplikace",
+        "s10": "Zobrazit data z jiných aplikací",
+        "s11": "Čas aktualizace dat",
+        "s12": "Čas mezi aktualizacemi dat",
+        "s13": "Datová pole",
+        "s14": "Upravit v IQ aplikaci",
+        "s15": "Viz FAQ",
+        "s16": "Vybrat téma",
+        "s17": "Načíst",
+        "s18": "Uložit",
+        "s19": "Přednastavené",
+        "s20": "Náhodně s RI",
+        "s21": "Náhodně s AI"
+
     }
         
 
