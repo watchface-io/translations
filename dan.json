@@ -539,10 +539,12 @@
     },
     "menu" : {
         "d" : "Dataopdateringstid",
-        "f13" : "Hurtig (puls, stress)",
-        "f14" : "Medium (skridt)",
-        "f15" : "Langsom (vejr, aktive minutter)",
-        "f16" : "OWM opdateringstid",
+        "d1" : "Hurtig (puls, stress)",
+        "d2" : "Medium (skridt)",
+        "d3" : "Langsom (vejr, aktive minutter)",
+        "d4" : "OWM opdateringstid",
+
+        "d20" : "Øjeblikkeligt",
 
         "u" : "Enheder",
         "u0": "Temperaturenhed",
@@ -595,7 +597,75 @@
         "u64": " bpm",
         "u65": "t,m",
         "u66": "d,t",
-        "u67": " d"
+        "u67": " d",
+        "u68": "TIL",
+        "u69": "FRA",
+        
+
+        "t": "Tidsindstillinger",
+        "t0": "Første dag i ugen",
+        "t1": "12/24t ur", 
+        "t2": "Tidsformat (Tid)",
+        "t3": "Tidsformat (Data)",
+        
+        "t31": "Brug enhedsindstillinger",
+        "t35": "12-timers",
+        "t36": "24-timers",
+        "t43": "Militær (0700)",
+        "t44": "Vis am/pm",
+        "t45": "Skjul am/pm",
+
+        
+        "m1": "Info",
+        "m2": "Temaer",
+        "m3": "Indlæs forudindstillet",
+        "m4": "Indlæs gemte indstillinger",
+        "m5": "Gem forudindstillet",
+        "m6": "Gem indstillinger",
+        "m7": "For flere indstillinger",
+        "m8": "Åbn IQ-app på telefon",
+
+        "m9": "Information",
+        "m10": "Appnavn",
+        "m11": "Version",
+        "m12": "Enheds-ID",
+        "m13": "Pro-nøgle",
+        "m14": "Nulstil indstillinger",
+        "m15": "Nulstil lager",
+        "m16": "Komplikationer",
+        "m17": "App 1",
+        "m18": "App 2",
+        "m19": "App 3",
+        "m20": "App 4",
+        "m21": "App 5",
+        "m22": "Er du sikker?",
+        "m23": "Ja",
+        "m24": "Nej",
+        "m25": "Gå tilbage",
+
+        "s": "Indstillinger",
+        "s1": "Tidsformater",
+        "s2": "Ugedag, 12/24t, osv",
+        "s3": "Enheder",
+        "s4": "KM/M, Meter/FT, osv",
+        "s5": "Sportsmål",
+        "s6": "Cykel/løb/svømning osv",
+        "s7": "Andre mål",
+        "s8": "Kalorier, skridt osv",
+        "s9": "Brugerdefinerede komplikationer",
+        "s10": "Vis data fra andre apps",
+        "s11": "Dataopdateringstid",
+        "s12": "Tid mellem dataopdateringer",
+        "s13": "Datafelter",
+        "s14": "Rediger i IQ-app",
+        "s15": "Se FAQ",
+        "s16": "Vælg tema",
+        "s17": "Indlæs",
+        "s18": "Gem",
+        "s19": "Forudindstillet",
+        "s20": "Tilfældig med RI",
+        "s21": "Tilfældig med AI"
+
     }
         
 
