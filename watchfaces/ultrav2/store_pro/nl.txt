@@ -1,0 +1,22 @@
+Eenvoudige Ultra Analoge wijzerplaat. Meer dan 100 datavelden, volledig aanpasbaar met voorinstellingen, kleurverlopen en vele verschillende wijzeropties
+
+⭐️ Probeer voor je koopt! ⭐️
+
+Voordat je deze wijzerplaat koopt, bekijk eerst de gratis versie om er zeker van te zijn dat het is wat je wilt en dat je het uiterlijk op je horloge mooi vindt: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ MIPS-apparaten (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar bekijk zeker de gratis versie voordat je hem koopt. De getoonde afbeeldingen zijn gemaakt op een Amoled-apparaat en zien er anders uit op je MIPS-apparaat.
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Themalijst: https://watchface.io/ultrav2/themes
+* Kleurengids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+
+Opmerking: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ-app (op je telefoon): Configureer datavelden, kleuren en algemene instellingen
+* Instellingen op het horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden rechtstreeks op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en aanpassen aan te tikken
+
+*** Als je bugs of problemen tegenkomt, neem dan contact met me op door op "Contact opnemen met ontwikkelaar" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan snel reageren op e-mails, terwijl ik beoordelingen mogelijk pas na enkele dagen zie. ***

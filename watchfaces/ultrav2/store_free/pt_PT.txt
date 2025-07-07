@@ -1,0 +1,21 @@
+Mostrador analógico simples com muitas barras de progresso, gradientes e opções de cores.
+Mais de 100 campos de dados diferentes, suporte para Open Weather, suporte para CGM, etc.
+
+
+⭐️ Gratuito vs Pro ⭐️
+Este mostrador está disponível sem custos com todas as funções básicas. Funcionalidades premium (marcadas com [*]) requerem uma Chave Pro para desbloquear. Pode comprar uma Chave Pro aqui: https://ko-fi.com/s/96bbcd749b Ou adquirir a versão PRO aqui: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Este mostrador está totalmente otimizado para MIPS, mas as cores terão um aspeto ligeiramente diferente das imagens, pois estas foram tiradas num dispositivo Amoled.
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Obter uma chave PRO: https://ko-fi.com/s/96bbcd749b
+* Lista de temas: https://watchface.io/ultrav2/themes
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Existem dois locais diferentes com definições:
+* Aplicação Garmin IQ (no seu telemóvel): Configure campos de dados, cores e definições gerais
+* Definições no relógio: Aceda a opções mais detalhadas como formato de hora, objetivos e unidades diretamente no relógio mantendo premido o botão de menu, selecionando o mostrador e tocando em personalizar

@@ -1,0 +1,22 @@
+Paparan jam Ultra Analog yang ringkas. Lebih daripada 100 medan data, boleh disesuaikan sepenuhnya dengan pratetapan, warna kecerunan dan pelbagai pilihan jarum jam yang berbeza
+
+⭐️ Cuba sebelum anda membeli! ⭐️
+
+Sebelum membeli paparan jam ini, periksa versi percuma terlebih dahulu untuk memastikan ia adalah apa yang anda mahukan dan anda menyukai rupa paparan tersebut pada jam tangan anda: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ Peranti MIPS (Fenix 7, Enduro, Fr255, dll) ⭐️
+Paparan jam ini dioptimumkan sepenuhnya untuk MIPS, tetapi pastikan anda memeriksa versi percuma sebelum membelinya. Imej yang ditunjukkan diambil pada peranti Amoled, dan akan kelihatan berbeza pada peranti MIPS anda.
+
+⭐️ Sumber ⭐️
+* FAQ: https://watchface.io/faq
+* Senarai Tema: https://watchface.io/ultrav2/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data yang Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Aplikasi Garmin IQ (pada telefon anda): Konfigurasikan medan data, warna, dan tetapan umum
+* Tetapan Pada-Jam: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit terus pada jam dengan menekan dan menahan butang menu, memilih paparan jam, dan mengetik sesuaikan
+
+*** Jika anda menghadapi sebarang pepijat atau masalah, sila hubungi saya dengan menekan "Hubungi Pembangun" dan bukannya menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan selama beberapa hari. ***

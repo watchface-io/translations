@@ -1,0 +1,22 @@
+Esfera de reloj analógica Ultra simple. Más de 100 campos de datos, completamente personalizable con ajustes preestablecidos, colores degradados y muchas opciones diferentes de manecillas
+
+⭐️ ¡Prueba antes de comprar! ⭐️
+
+Antes de comprar esta esfera, consulta primero la versión gratuita para asegurarte de que es lo que deseas y que te gusta cómo se ve en tu reloj: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Esta esfera está completamente optimizada para MIPS, pero asegúrate de revisar la versión gratuita antes de comprarla. Las imágenes mostradas están tomadas en un dispositivo Amoled y se verán diferentes en tu dispositivo MIPS.
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Lista de temas: https://watchface.io/ultrav2/themes
+* Guía de colores: https://watchface.io/docs/color-list
+* Campos de datos disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+
+Nota: Hay dos lugares diferentes con ajustes:
+* Aplicación Garmin IQ (en tu teléfono): Configura campos de datos, colores y ajustes generales
+* Ajustes en el reloj: Accede a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo pulsado el botón de menú, seleccionando esfera y tocando personalizar
+
+*** Si encuentras algún error o problema, por favor contáctame presionando "Contactar con el desarrollador" en lugar de usar el sistema de reseñas. Puedo responder a los correos electrónicos rápidamente, mientras que podría no ver las reseñas durante varios días. ***

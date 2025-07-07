@@ -1,0 +1,21 @@
+Enkel analog urtavla med många framstegsfält, gradienter och färgalternativ.
+Över 100 olika datafält, stöd för Open Weather, CGM-stöd, etc.
+
+
+⭐️ Gratis vs Pro ⭐️
+Denna urtavla är tillgänglig utan kostnad med alla grundläggande funktioner. Premiumfunktioner (markerade med [*]) kräver en Pro-nyckel för att låsas upp. Du kan köpa en Pro-nyckel här: https://ko-fi.com/s/96bbcd749b Eller köp PRO-versionen här: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS-enheter (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Denna urtavla är fullt optimerad för MIPS, men färgerna kommer att se något annorlunda ut än på bilderna, eftersom dessa är tagna på en Amoled-enhet.
+
+⭐️ Resurser ⭐️
+* FAQ: https://watchface.io/faq
+* Skaffa en PRO-nyckel: https://ko-fi.com/s/96bbcd749b
+* Temalista: https://watchface.io/ultrav2/themes
+* Färgguide: https://watchface.io/docs/color-list
+* Tillgängliga datafält: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Obs: Det finns två olika platser med inställningar:
+* Garmin IQ-appen (på din telefon): Konfigurera datafält, färger och allmänna inställningar
+* På-klockan inställningar: Få tillgång till mer detaljerade alternativ som tidsformat, mål och enheter direkt på klockan genom att hålla menyknappen, välja urtavla och trycka på anpassa

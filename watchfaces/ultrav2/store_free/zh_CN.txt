@@ -1,0 +1,21 @@
+简洁的模拟表盘，配有多种进度条、渐变效果和颜色选项。
+超过100种不同的数据字段、Open Weather支持、CGM支持等。
+
+
+⭐️ 免费版与专业版 ⭐️
+此表盘免费提供所有基本功能。高级功能（标有[*]）需要Pro密钥才能解锁。您可以在这里购买Pro密钥：https://ko-fi.com/s/96bbcd749b 或在这里购买PRO版本：https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS设备（Fenix 7、Enduro、Fr255等）⭐️
+此表盘已完全针对MIPS优化，但颜色看起来会与图片略有不同，因为这些图片是在Amoled设备上拍摄的。
+
+⭐️ 资源 ⭐️
+* 常见问题：https://watchface.io/faq
+* 获取PRO密钥：https://ko-fi.com/s/96bbcd749b
+* 主题列表：https://watchface.io/ultrav2/themes
+* 颜色指南：https://watchface.io/docs/color-list
+* 可用数据字段：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有两个不同的设置位置：
+* Garmin IQ应用程序（在您的手机上）：配置数据字段、颜色和常规设置
+* 手表上的设置：通过按住菜单按钮，选择表盘并点击自定义，直接在手表上访问更详细的选项，如时间格式、目标和单位

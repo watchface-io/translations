@@ -1,0 +1,22 @@
+Mostrador de relógio Ultra Analógico simples. Mais de 100 campos de dados, totalmente personalizável com predefinições, cores gradientes e muitas opções diferentes de ponteiros
+
+⭐️ Experimente antes de comprar! ⭐️
+
+Antes de comprar este mostrador, verifique primeiro a versão gratuita para garantir que é o que deseja e que gosta da sua aparência no seu relógio: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Este mostrador está totalmente otimizado para MIPS, mas certifique-se de verificar a versão gratuita antes de o comprar. As imagens mostradas são tiradas num dispositivo Amoled e parecerão diferentes no seu dispositivo MIPS.
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Lista de Temas: https://watchface.io/ultrav2/themes
+* Guia de Cores: https://watchface.io/docs/color-list
+* Campos de Dados Disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+
+Nota: Existem dois locais diferentes com definições:
+* Aplicação Garmin IQ (no seu telemóvel): Configure campos de dados, cores e definições gerais
+* Definições no Relógio: Aceda a opções mais detalhadas como formato de hora, objetivos e unidades diretamente no relógio mantendo premido o botão de menu, selecionando o mostrador e tocando em personalizar
+
+*** Se encontrar algum erro ou problema, contacte-me premindo "Contactar Programador" em vez de utilizar o sistema de avaliação. Posso responder a e-mails prontamente, enquanto posso não ver avaliações durante vários dias. ***

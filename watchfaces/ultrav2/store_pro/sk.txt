@@ -1,0 +1,22 @@
+Jednoduchý Ultra analógový ciferník. Viac ako 100 dátových polí, plne prispôsobiteľný s predvoľbami, gradientovými farbami a množstvom rôznych možností ručičiek
+
+⭐️ Vyskúšajte pred kúpou! ⭐️
+
+Pred zakúpením tohto ciferníka si najprv vyskúšajte bezplatnú verziu, aby ste sa uistili, že je to to, čo chcete, a že sa vám páči, ako vyzerá na vašich hodinkách: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ Zariadenia MIPS (Fenix 7, Enduro, Fr255 atď.) ⭐️
+Tento ciferník je plne optimalizovaný pre MIPS, ale pred zakúpením si nezabudnite vyskúšať bezplatnú verziu. Zobrazené obrázky sú vytvorené na zariadení Amoled a na vašom zariadení MIPS budú vyzerať inak.
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Zoznam tém: https://watchface.io/ultrav2/themes
+* Sprievodca farbami: https://watchface.io/docs/color-list
+* Dostupné dátové polia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurácia ⭐️
+
+Poznámka: Existujú dve rôzne miesta s nastaveniami:
+* Aplikácia Garmin IQ (vo vašom telefóne): Nakonfigurujte dátové polia, farby a všeobecné nastavenia
+* Nastavenia na hodinkách: Prístup k podrobnejším možnostiam, ako je formát času, ciele a jednotky priamo na hodinkách podržaním tlačidla ponuky, výberom ciferníka a ťuknutím na prispôsobiť
+
+*** Ak narazíte na akékoľvek chyby alebo problémy, kontaktujte ma stlačením tlačidla "Kontaktovať vývojára" namiesto použitia systému recenzií. Na e-maily môžem odpovedať pohotovo, zatiaľ čo recenzie by som nemusel vidieť niekoľko dní. ***

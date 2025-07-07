@@ -1,0 +1,21 @@
+Eenvoudige analoge wijzerplaat met veel voortgangsbalken, kleurovergangen en kleuropties.
+Meer dan 100 verschillende datavelden, Open Weather-ondersteuning, CGM-ondersteuning, enz.
+
+
+⭐️ Gratis vs Pro ⭐️
+Deze wijzerplaat is gratis beschikbaar met alle basisfuncties. Premium-functies (gemarkeerd met [*]) vereisen een Pro-sleutel om te ontgrendelen. Je kunt een Pro-sleutel hier kopen: https://ko-fi.com/s/96bbcd749b Of koop de PRO-versie hier: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS-apparaten (Fenix 7, Enduro, Fr255, enz.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar kleuren zullen er iets anders uitzien dan op de afbeeldingen, aangezien deze zijn gemaakt op een Amoled-apparaat.
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* PRO-sleutel verkrijgen: https://ko-fi.com/s/96bbcd749b
+* Themalijst: https://watchface.io/ultrav2/themes
+* Kleurengids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Opmerking: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ-app (op je telefoon): Configureer datavelden, kleuren en algemene instellingen
+* Op-horloge instellingen: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden rechtstreeks op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en aan te passen

@@ -1,0 +1,22 @@
+Jednostavni Ultra analogni sat. Više od 100 polja podataka, potpuno prilagodljiv s unaprijed postavljenim postavkama, prijelaznim bojama i mnogim različitim opcijama kazaljki
+
+⭐️ Isprobajte prije kupnje! ⭐️
+
+Prije kupnje ovog sata, prvo provjerite besplatnu verziju kako biste bili sigurni da je to ono što želite i da vam se sviđa kako izgleda na vašem satu: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ MIPS uređaji (Fenix 7, Enduro, Fr255, itd.) ⭐️
+Ovaj sat je potpuno optimiziran za MIPS, ali svakako provjerite besplatnu verziju prije kupnje. Prikazane slike su snimljene na Amoled uređaju i izgledat će drugačije na vašem MIPS uređaju.
+
+⭐️ Resursi ⭐️
+* FAQ: https://watchface.io/faq
+* Popis tema: https://watchface.io/ultrav2/themes
+* Vodič za boje: https://watchface.io/docs/color-list
+* Dostupna polja podataka: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+
+Napomena: Postoje dva različita mjesta s postavkama:
+* Garmin IQ aplikacija (na vašem telefonu): Konfigurirajte polja podataka, boje i opće postavke
+* Postavke na satu: Pristupite detaljnijim opcijama poput formata vremena, ciljeva i jedinica izravno na satu držanjem tipke izbornika, odabirom sata i dodirom za prilagodbu
+
+*** Ako naiđete na bilo kakve pogreške ili probleme, molim vas da me kontaktirate pritiskom na "Kontaktirajte developera" umjesto korištenja sustava za recenzije. Mogu brzo odgovoriti na e-mailove, dok recenzije možda neću vidjeti nekoliko dana. ***

@@ -1,0 +1,21 @@
+Egyszerű analóg óralap számos folyamatjelzővel, színátmenetekkel és színopciókkal.
+Több mint 100 különböző adatmező, Open Weather támogatás, CGM támogatás, stb.
+
+
+⭐️ Ingyenes vs Pro ⭐️
+Ez az óralap ingyenesen elérhető minden alapvető funkcióval. A prémium funkciók (amelyeket [*] jelöl) feloldásához Pro kulcs szükséges. Pro kulcsot itt vásárolhat: https://ko-fi.com/s/96bbcd749b Vagy vásárolja meg a PRO verziót itt: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS eszközök (Fenix 7, Enduro, Fr255, stb.) ⭐️
+Ez az óralap teljesen optimalizált MIPS-re, de a színek kissé másképp fognak kinézni, mint a képeken, mivel ezeket Amoled eszközön készítették.
+
+⭐️ Erőforrások ⭐️
+* GYIK: https://watchface.io/faq
+* PRO kulcs beszerzése: https://ko-fi.com/s/96bbcd749b
+* Témalista: https://watchface.io/ultrav2/themes
+* Színútmutató: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+Megjegyzés: Két különböző helyen találhatók beállítások:
+* Garmin IQ alkalmazás (a telefonján): Adatmezők, színek és általános beállítások konfigurálása
+* Órán lévő beállítások: Részletesebb opciók elérése, mint időformátum, célok és mértékegységek közvetlenül az órán a menügomb nyomva tartásával, az óralap kiválasztásával és a testreszabás megérintésével

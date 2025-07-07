@@ -1,0 +1,21 @@
+Paparan jam analog ringkas dengan banyak bar kemajuan, kecerunan dan pilihan warna.
+Lebih daripada 100 medan data berbeza, sokongan Open Weather, sokongan CGM, dan banyak lagi.
+
+
+⭐️ Percuma lwn Pro ⭐️
+Paparan jam ini tersedia secara percuma dengan semua fungsi asas. Ciri premium (ditandakan dengan [*]) memerlukan Kunci Pro untuk membuka. Anda boleh membeli Kunci Pro di sini: https://ko-fi.com/s/96bbcd749b Atau beli versi PRO di sini: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ Peranti MIPS (Fenix 7, Enduro, Fr255, dll) ⭐️
+Paparan jam ini dioptimumkan sepenuhnya untuk MIPS, tetapi warna akan kelihatan sedikit berbeza seperti dalam gambar, kerana ini diambil pada peranti Amoled.
+
+⭐️ Sumber ⭐️
+* Soalan Lazim: https://watchface.io/faq
+* Dapatkan kunci PRO: https://ko-fi.com/s/96bbcd749b
+* Senarai Tema: https://watchface.io/ultrav2/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data yang Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Aplikasi Garmin IQ (di telefon anda): Konfigurasikan medan data, warna, dan tetapan umum
+* Tetapan Pada-Jam: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit terus pada jam dengan menekan butang menu, memilih paparan jam, dan mengetik penyesuaian

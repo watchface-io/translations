@@ -1,0 +1,22 @@
+Cadran analogique Ultra simple. Plus de 100 champs de données, entièrement personnalisable avec des préréglages, des couleurs dégradées et de nombreuses options d'aiguilles différentes
+
+⭐️ Essayez avant d'acheter ! ⭐️
+
+Avant d'acheter ce cadran, consultez d'abord la version gratuite pour vous assurer que c'est ce que vous voulez et que vous aimez son apparence sur votre montre : https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ Appareils MIPS (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Ce cadran est entièrement optimisé pour MIPS, mais assurez-vous de vérifier la version gratuite avant de l'acheter. Les images présentées sont prises sur un appareil Amoled et auront un aspect différent sur votre appareil MIPS.
+
+⭐️ Ressources ⭐️
+* FAQ : https://watchface.io/faq
+* Liste des thèmes : https://watchface.io/ultrav2/themes
+* Guide des couleurs : https://watchface.io/docs/color-list
+* Champs de données disponibles : https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+
+Remarque : Il existe deux endroits différents avec des paramètres :
+* Application Garmin IQ (sur votre téléphone) : Configurez les champs de données, les couleurs et les paramètres généraux
+* Paramètres sur la montre : Accédez à des options plus détaillées comme le format de l'heure, les objectifs et les unités directement sur la montre en maintenant le bouton menu, en sélectionnant le cadran et en appuyant sur personnaliser
+
+*** Si vous rencontrez des bugs ou des problèmes, veuillez me contacter en appuyant sur "Contacter le développeur" au lieu d'utiliser le système d'évaluation. Je peux répondre aux e-mails rapidement, alors que je pourrais ne pas voir les évaluations pendant plusieurs jours. ***

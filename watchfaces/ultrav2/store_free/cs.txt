@@ -1,0 +1,21 @@
+Jednoduchý analogový ciferník s mnoha ukazateli průběhu, přechody a možnostmi barev.
+Více než 100 různých datových polí, podpora Open Weather, podpora CGM atd.
+
+
+⭐️ Free vs Pro ⭐️
+Tento ciferník je k dispozici zdarma se všemi základními funkcemi. Prémiové funkce (označené [*]) vyžadují Pro klíč pro odemknutí. Pro klíč můžete zakoupit zde: https://ko-fi.com/s/96bbcd749b Nebo si zakupte verzi PRO zde: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ Zařízení MIPS (Fenix 7, Enduro, Fr255, atd.) ⭐️
+Tento ciferník je plně optimalizován pro MIPS, ale barvy budou vypadat mírně odlišně než na obrázcích, protože ty jsou pořízeny na zařízení Amoled.
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Získat PRO klíč: https://ko-fi.com/s/96bbcd749b
+* Seznam témat: https://watchface.io/ultrav2/themes
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dvě různá místa s nastaveními:
+* Aplikace Garmin IQ (ve vašem telefonu): Konfigurace datových polí, barev a obecných nastavení
+* Nastavení na hodinkách: Přístup k podrobnějším možnostem jako je formát času, cíle a jednotky přímo na hodinkách podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobení

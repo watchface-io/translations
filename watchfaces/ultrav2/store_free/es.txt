@@ -1,0 +1,21 @@
+Esfera de reloj analógica simple con muchas barras de progreso, degradados y opciones de color.
+Más de 100 campos de datos diferentes, soporte para Open Weather, soporte para CGM, etc.
+
+
+⭐️ Gratis vs Pro ⭐️
+Esta esfera de reloj está disponible sin costo con todas las funciones básicas. Las características premium (marcadas con [*]) requieren una Clave Pro para desbloquearlas. Puedes comprar una Clave Pro aquí: https://ko-fi.com/s/96bbcd749b O comprar la versión PRO aquí: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Fr255, etc.) ⭐️
+Esta esfera está completamente optimizada para MIPS, pero los colores se verán ligeramente diferentes a los de las imágenes, ya que estas fueron tomadas en un dispositivo Amoled.
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Obtener una clave PRO: https://ko-fi.com/s/96bbcd749b
+* Lista de temas: https://watchface.io/ultrav2/themes
+* Guía de colores: https://watchface.io/docs/color-list
+* Campos de datos disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con ajustes:
+* Aplicación Garmin IQ (en tu teléfono): Configura campos de datos, colores y ajustes generales
+* Ajustes en el reloj: Accede a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón de menú, seleccionando la esfera del reloj y tocando personalizar

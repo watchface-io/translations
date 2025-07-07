@@ -1,0 +1,21 @@
+Simpelt analogt urskive med mange fremskridtsbjælker, gradienter og farveindstillinger.
+Over 100 forskellige datafelter, Open Weather-understøttelse, CGM-understøttelse osv.
+
+
+⭐️ Gratis vs Pro ⭐️
+Denne urskive er tilgængelig uden omkostninger med alle grundlæggende funktioner. Premium-funktioner (markeret med [*]) kræver en Pro-nøgle for at låse op. Du kan købe en Pro-nøgle her: https://ko-fi.com/s/96bbcd749b Eller køb PRO-versionen her: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS-enheder (Fenix 7, Enduro, Fr255, osv.) ⭐️
+Denne urskive er fuldt optimeret til MIPS, men farverne vil se lidt anderledes ud end på billederne, da disse er taget på en Amoled-enhed.
+
+⭐️ Ressourcer ⭐️
+* FAQ: https://watchface.io/faq
+* Få en PRO-nøgle: https://ko-fi.com/s/96bbcd749b
+* Temaliste: https://watchface.io/ultrav2/themes
+* Farveguide: https://watchface.io/docs/color-list
+* Tilgængelige datafelter: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Bemærk: Der er to forskellige steder med indstillinger:
+* Garmin IQ-app (på din telefon): Konfigurer datafelter, farver og generelle indstillinger
+* På-ur-indstillinger: Adgang til mere detaljerede muligheder som tidsformat, mål og enheder direkte på uret ved at holde menu-knappen nede, vælge urskive og trykke på tilpas

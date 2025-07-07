@@ -1,0 +1,22 @@
+Preprosta Ultra analogna številčnica. Več kot 100 podatkovnih polj, popolnoma prilagodljiva s prednastavitvami, prelivi barv in številnimi različnimi možnostmi kazalcev
+
+⭐️ Preizkusite pred nakupom! ⭐️
+
+Pred nakupom te številčnice najprej preverite brezplačno različico, da se prepričate, da je to tisto, kar želite, in da vam je všeč, kako izgleda na vaši uri: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ Naprave MIPS (Fenix 7, Enduro, Fr255 itd.) ⭐️
+Ta številčnica je popolnoma optimizirana za MIPS, vendar pred nakupom obvezno preverite brezplačno različico. Prikazane slike so posnete na napravi Amoled in bodo na vaši napravi MIPS videti drugače.
+
+⭐️ Viri ⭐️
+* Pogosta vprašanja: https://watchface.io/faq
+* Seznam tem: https://watchface.io/ultrav2/themes
+* Vodnik po barvah: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+
+Opomba: Obstajata dva različna mesta z nastavitvami:
+* Aplikacija Garmin IQ (na vašem telefonu): Konfigurirajte podatkovna polja, barve in splošne nastavitve
+* Nastavitve na uri: Dostopajte do podrobnejših možnosti, kot so format časa, cilji in enote, neposredno na uri z dolgim pritiskom na gumb za meni, izbiro številčnice in tapom na prilagodi
+
+*** Če naletite na kakršne koli napake ali težave, me prosim kontaktirajte s pritiskom na "Kontaktirajte razvijalca" namesto uporabe sistema za ocene. Na e-pošto lahko odgovorim takoj, medtem ko ocen morda ne bom videl več dni. ***

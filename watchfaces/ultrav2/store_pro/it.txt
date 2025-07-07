@@ -1,0 +1,22 @@
+Quadrante analogico Ultra semplice. Oltre 100 campi dati, completamente personalizzabile con preset, colori sfumati e molte diverse opzioni per le lancette
+
+⭐️ Prova prima di acquistare! ⭐️
+
+Prima di acquistare questo quadrante, controlla prima la versione gratuita per assicurarti che sia ciò che desideri e che ti piaccia come appare sul tuo orologio: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ Dispositivi MIPS (Fenix 7, Enduro, Fr255, ecc.) ⭐️
+Questo quadrante è completamente ottimizzato per MIPS, ma assicurati di controllare la versione gratuita prima di acquistarlo. Le immagini mostrate sono scattate su un dispositivo Amoled e appariranno diverse sul tuo dispositivo MIPS.
+
+⭐️ Risorse ⭐️
+* FAQ: https://watchface.io/faq
+* Elenco temi: https://watchface.io/ultrav2/themes
+* Guida colori: https://watchface.io/docs/color-list
+* Campi dati disponibili: https://watchface.io/docs/datafields
+
+⭐️ Configurazione ⭐️
+
+Nota: Ci sono due luoghi diversi con impostazioni:
+* App Garmin IQ (sul tuo telefono): Configura campi dati, colori e impostazioni generali
+* Impostazioni sull'orologio: Accedi a opzioni più dettagliate come formato orario, obiettivi e unità direttamente sull'orologio tenendo premuto il pulsante menu, selezionando il quadrante e toccando personalizza
+
+*** Se riscontri bug o problemi, contattami premendo "Contatta sviluppatore" invece di utilizzare il sistema di recensioni. Posso rispondere alle email prontamente, mentre potrei non vedere le recensioni per diversi giorni. ***

@@ -1,0 +1,22 @@
+Yksinkertainen Ultra-analoginen kellotaulu. Yli 100 tietokenttää, täysin muokattavissa esiasetuksilla, liukuväreillä ja monilla erilaisilla viisarivaihtoehdoilla
+
+⭐️ Kokeile ennen ostamista! ⭐️
+
+Ennen tämän kellotaulun ostamista, tutustu ensin ilmaisversioon varmistaaksesi, että se on sitä mitä haluat ja että pidät siitä, miltä se näyttää kellossasi: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Fr255 jne.) ⭐️
+Tämä kellotaulu on täysin optimoitu MIPS:lle, mutta muista tarkistaa ilmaisversio ennen ostamista. Näytetyt kuvat on otettu Amoled-laitteella, ja ne näyttävät erilaisilta MIPS-laitteessasi.
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Teemaluettelo: https://watchface.io/ultrav2/themes
+* Väriopas: https://watchface.io/docs/color-list
+* Saatavilla olevat tietokentät: https://watchface.io/docs/datafields
+
+⭐️ Määritykset ⭐️
+
+Huomaa: Asetuksia on kahdessa eri paikassa:
+* Garmin IQ -sovellus (puhelimessasi): Määritä tietokentät, värit ja yleiset asetukset
+* Kellon asetukset: Käytä yksityiskohtaisempia vaihtoehtoja, kuten aikamuotoa, tavoitteita ja yksiköitä suoraan kellossa pitämällä valikkonäppäintä painettuna, valitsemalla kellotaulu ja napauttamalla mukauta
+
+*** Jos kohtaat bugeja tai ongelmia, ota yhteyttä minuun painamalla "Ota yhteyttä kehittäjään" arvostelujärjestelmän käyttämisen sijaan. Voin vastata sähköposteihin nopeasti, kun taas saatan olla näkemättä arvosteluja useita päiviä. ***

@@ -1,0 +1,22 @@
+Tampilan jam analog Ultra yang sederhana. Lebih dari 100 bidang data, dapat disesuaikan sepenuhnya dengan preset, warna gradien, dan berbagai pilihan jarum jam
+
+⭐️ Coba sebelum membeli! ⭐️
+
+Sebelum membeli tampilan jam ini, periksa versi gratisnya terlebih dahulu untuk memastikan bahwa ini adalah yang Anda inginkan dan Anda menyukai tampilannya di jam tangan Anda: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ Perangkat MIPS (Fenix 7, Enduro, Fr255, dll) ⭐️
+Tampilan jam ini sepenuhnya dioptimalkan untuk MIPS, tetapi pastikan untuk memeriksa versi gratisnya sebelum Anda membelinya. Gambar yang ditampilkan diambil pada perangkat Amoled, dan akan terlihat berbeda pada perangkat MIPS Anda.
+
+⭐️ Sumber Daya ⭐️
+* FAQ: https://watchface.io/faq
+* Daftar Tema: https://watchface.io/ultrav2/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Bidang Data yang Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+
+Catatan: Ada dua tempat berbeda dengan pengaturan:
+* Aplikasi Garmin IQ (di ponsel Anda): Konfigurasikan bidang data, warna, dan pengaturan umum
+* Pengaturan di Jam: Akses opsi yang lebih detail seperti format waktu, target, dan unit langsung di jam dengan menahan tombol menu, memilih tampilan jam, dan mengetuk kustomisasi
+
+*** Jika Anda menemukan bug atau masalah, silakan hubungi saya dengan menekan "Hubungi Pengembang" daripada menggunakan sistem ulasan. Saya dapat merespons email dengan cepat, sedangkan saya mungkin tidak melihat ulasan selama beberapa hari. ***

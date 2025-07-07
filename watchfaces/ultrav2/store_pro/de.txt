@@ -1,0 +1,22 @@
+Einfaches Ultra-Analog-Zifferblatt. Über 100 Datenfelder, vollständig anpassbar mit Voreinstellungen, Farbverläufen und vielen verschiedenen Zeigeroptionen
+
+⭐️ Vor dem Kauf testen! ⭐️
+
+Bevor Sie dieses Zifferblatt kaufen, probieren Sie zuerst die kostenlose Version aus, um sicherzustellen, dass es Ihren Wünschen entspricht und Ihnen das Aussehen auf Ihrer Uhr gefällt: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ MIPS-Geräte (Fenix 7, Enduro, Fr255, usw.) ⭐️
+Dieses Zifferblatt ist vollständig für MIPS optimiert. Bitte probieren Sie die kostenlose Version vor dem Kauf aus. Die gezeigten Bilder wurden auf einem Amoled-Gerät aufgenommen und werden auf Ihrem MIPS-Gerät anders aussehen.
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Themenliste: https://watchface.io/ultrav2/themes
+* Farbleitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen
+* Einstellungen auf der Uhr: Greifen Sie auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr zu, indem Sie die Menütaste gedrückt halten, Zifferblatt auswählen und auf Anpassen tippen
+
+*** Falls Sie auf Fehler oder Probleme stoßen, kontaktieren Sie mich bitte über "Entwickler kontaktieren", anstatt das Bewertungssystem zu nutzen. Ich kann schnell auf E-Mails antworten, während ich Bewertungen möglicherweise mehrere Tage lang nicht sehe. ***

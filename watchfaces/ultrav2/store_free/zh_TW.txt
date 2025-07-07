@@ -1,0 +1,21 @@
+簡單的類比錶面，配有多種進度條、漸層效果和顏色選項。
+超過100種不同的數據欄位、Open Weather支援、CGM支援等。
+
+
+⭐️ 免費版與專業版 ⭐️
+此錶面免費提供所有基本功能。進階功能（標有[*]）需要Pro金鑰才能解鎖。您可以在這裡購買Pro金鑰：https://ko-fi.com/s/96bbcd749b 或在這裡購買PRO版本：https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS裝置（Fenix 7、Enduro、Fr255等）⭐️
+此錶面已完全針對MIPS最佳化，但顏色看起來會與圖片略有不同，因為這些圖片是在Amoled裝置上拍攝的。
+
+⭐️ 資源 ⭐️
+* 常見問題：https://watchface.io/faq
+* 獲取PRO金鑰：https://ko-fi.com/s/96bbcd749b
+* 主題列表：https://watchface.io/ultrav2/themes
+* 顏色指南：https://watchface.io/docs/color-list
+* 可用數據欄位：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有兩個不同的設置位置：
+* Garmin IQ應用程式（在您的手機上）：配置數據欄位、顏色和一般設置
+* 手錶上的設置：透過按住選單按鈕，選擇錶面並點擊自訂，直接在手錶上訪問更詳細的選項，如時間格式、目標和單位

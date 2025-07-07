@@ -1,0 +1,21 @@
+Yksinkertainen analoginen kellotaulu monilla edistymispalkeilla, liukuväreillä ja värivalinnoilla.
+Yli 100 erilaista tietokenttää, Open Weather -tuki, CGM-tuki jne.
+
+
+⭐️ Ilmainen vs Pro ⭐️
+Tämä kellotaulu on saatavilla ilmaiseksi kaikilla perustoiminnoilla. Premium-ominaisuuksien (merkitty [*]) avaamiseen tarvitaan Pro-avain. Voit ostaa Pro-avaimen täältä: https://ko-fi.com/s/96bbcd749b Tai ostaa PRO-version täältä: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Fr255, jne.) ⭐️
+Tämä kellotaulu on täysin optimoitu MIPS:lle, mutta värit näyttävät hieman erilaisilta kuin kuvissa, sillä ne on otettu Amoled-laitteella.
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Hanki PRO-avain: https://ko-fi.com/s/96bbcd749b
+* Teemaluettelo: https://watchface.io/ultrav2/themes
+* Väriopas: https://watchface.io/docs/color-list
+* Saatavilla olevat tietokentät: https://watchface.io/docs/datafields
+
+⭐️ Konfigurointi ⭐️
+Huomaa: Asetuksia on kahdessa eri paikassa:
+* Garmin IQ -sovellus (puhelimessasi): Määritä tietokentät, värit ja yleiset asetukset
+* Kellon asetukset: Käytä yksityiskohtaisempia vaihtoehtoja kuten aikamuoto, tavoitteet ja yksiköt suoraan kellosta pitämällä valikkonäppäintä painettuna, valitsemalla kellotaulu ja napauttamalla mukauta

@@ -1,0 +1,21 @@
+Preprosta analogna številčnica z veliko vrsticami napredka, prelivi in barvnimi možnostmi.
+Več kot 100 različnih podatkovnih polj, podpora za Open Weather, podpora za CGM itd.
+
+
+⭐️ Brezplačno proti Pro ⭐️
+Ta številčnica je na voljo brezplačno z vsemi osnovnimi funkcijami. Premium funkcije (označene z [*]) zahtevajo Pro ključ za odklepanje. Pro ključ lahko kupite tukaj: https://ko-fi.com/s/96bbcd749b Ali kupite PRO različico tukaj: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS naprave (Fenix 7, Enduro, Fr255, itd.) ⭐️
+Ta številčnica je popolnoma optimizirana za MIPS, vendar bodo barve videti nekoliko drugače kot na slikah, saj so te posnete na napravi Amoled.
+
+⭐️ Viri ⭐️
+* FAQ: https://watchface.io/faq
+* Pridobite PRO ključ: https://ko-fi.com/s/96bbcd749b
+* Seznam tem: https://watchface.io/ultrav2/themes
+* Vodič po barvah: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Aplikacija Garmin IQ (na vašem telefonu): Konfigurirajte podatkovna polja, barve in splošne nastavitve
+* Nastavitve na uri: Dostopajte do podrobnejših možnosti, kot so oblika časa, cilji in enote, neposredno na uri z dolgim pritiskom na gumb za meni, izberite številčnico in tapnite prilagodi

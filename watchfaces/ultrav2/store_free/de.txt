@@ -1,0 +1,21 @@
+Einfaches analoges Zifferblatt mit vielen Fortschrittsbalken, Farbverläufen und Farboptionen.
+Über 100 verschiedene Datenfelder, Open Weather-Unterstützung, CGM-Unterstützung usw.
+
+
+⭐️ Kostenlos vs. Pro ⭐️
+Dieses Zifferblatt ist kostenlos mit allen Grundfunktionen verfügbar. Premium-Funktionen (gekennzeichnet mit [*]) erfordern einen Pro-Schlüssel zum Freischalten. Sie können einen Pro-Schlüssel hier erwerben: https://ko-fi.com/s/96bbcd749b Oder kaufen Sie die PRO-Version hier: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS-Geräte (Fenix 7, Enduro, Fr255 usw.) ⭐️
+Dieses Zifferblatt ist vollständig für MIPS optimiert, aber die Farben werden etwas anders aussehen als auf den Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden.
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* PRO-Schlüssel erhalten: https://ko-fi.com/s/96bbcd749b
+* Themenliste: https://watchface.io/ultrav2/themes
+* Farbleitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Stellen mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen
+* Einstellungen auf der Uhr: Zugriff auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr durch Halten der Menütaste, Auswahl des Zifferblatts und Tippen auf Anpassen

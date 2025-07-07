@@ -1,0 +1,21 @@
+Prosta analogowa tarcza zegarka z wieloma paskami postępu, gradientami i opcjami kolorów.
+Ponad 100 różnych pól danych, obsługa Open Weather, obsługa CGM itp.
+
+
+⭐️ Darmowa vs Pro ⭐️
+Ta tarcza zegarka jest dostępna bezpłatnie ze wszystkimi podstawowymi funkcjami. Funkcje premium (oznaczone [*]) wymagają klucza Pro do odblokowania. Możesz kupić klucz Pro tutaj: https://ko-fi.com/s/96bbcd749b Lub kupić wersję PRO tutaj: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ Urządzenia MIPS (Fenix 7, Enduro, Fr255, itp.) ⭐️
+Ta tarcza zegarka jest w pełni zoptymalizowana dla MIPS, ale kolory będą wyglądać nieco inaczej niż na zdjęciach, ponieważ zostały one wykonane na urządzeniu Amoled.
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Uzyskaj klucz PRO: https://ko-fi.com/s/96bbcd749b
+* Lista motywów: https://watchface.io/ultrav2/themes
+* Przewodnik po kolorach: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Istnieją dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie): Konfiguracja pól danych, kolorów i ustawień ogólnych
+* Ustawienia na zegarku: Dostęp do bardziej szczegółowych opcji, takich jak format czasu, cele i jednostki, bezpośrednio na zegarku poprzez przytrzymanie przycisku menu, wybranie tarczy zegarka i dotknięcie dostosuj

@@ -1,0 +1,21 @@
+Simple Analog watchface with many progress bars, grandients and color options.
+Over 100 different datafields, Open weather support, CGM support, etc.
+
+
+⭐️ Free vs Pro ⭐️
+This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/96bbcd749b Or purchace the PRO version here: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Fr255, etc) ⭐️
+This watchface is fully optimized for MIPS, but colors will look slightly different as in the pictures, as these are taken on an Amoled device.
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Get a PRO key: https://ko-fi.com/s/96bbcd749b
+* Theme List: https://watchface.io/ultrav2/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone): Configure datafields, colors, and general settings
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize

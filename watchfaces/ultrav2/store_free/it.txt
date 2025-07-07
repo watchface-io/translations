@@ -1,0 +1,21 @@
+Quadrante analogico semplice con molte barre di avanzamento, sfumature e opzioni di colore.
+Oltre 100 diversi campi dati, supporto Open Weather, supporto CGM, ecc.
+
+
+⭐️ Gratuito vs Pro ⭐️
+Questo quadrante è disponibile gratuitamente con tutte le funzioni di base. Le funzionalità premium (contrassegnate con [*]) richiedono una Chiave Pro per essere sbloccate. Puoi acquistare una Chiave Pro qui: https://ko-fi.com/s/96bbcd749b Oppure acquistare la versione PRO qui: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+
+⭐️ Dispositivi MIPS (Fenix 7, Enduro, Fr255, ecc.) ⭐️
+Questo quadrante è completamente ottimizzato per MIPS, ma i colori appariranno leggermente diversi rispetto alle immagini, poiché queste sono state scattate su un dispositivo Amoled.
+
+⭐️ Risorse ⭐️
+* FAQ: https://watchface.io/faq
+* Ottieni una chiave PRO: https://ko-fi.com/s/96bbcd749b
+* Elenco temi: https://watchface.io/ultrav2/themes
+* Guida ai colori: https://watchface.io/docs/color-list
+* Campi dati disponibili: https://watchface.io/docs/datafields
+
+⭐️ Configurazione ⭐️
+Nota: Ci sono due diversi luoghi con impostazioni:
+* App Garmin IQ (sul tuo telefono): Configura campi dati, colori e impostazioni generali
+* Impostazioni sull'orologio: Accedi a opzioni più dettagliate come formato dell'ora, obiettivi e unità direttamente sull'orologio tenendo premuto il pulsante menu, selezionando il quadrante e toccando personalizza

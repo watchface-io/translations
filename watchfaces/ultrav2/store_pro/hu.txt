@@ -1,0 +1,22 @@
+Egyszerű Ultra analóg számlap. Több mint 100 adatmező, teljesen testreszabható előbeállításokkal, színátmenetekkel és sokféle mutatóopcióval
+
+⭐️ Próbáld ki vásárlás előtt! ⭐️
+
+Mielőtt megvásárolnád ezt a számlapot, először nézd meg az ingyenes verziót, hogy meggyőződj arról, hogy ez az, amit szeretnél, és tetszik, ahogy az órádon kinéz: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
+
+⭐️ MIPS eszközök (Fenix 7, Enduro, Fr255, stb.) ⭐️
+Ez a számlap teljesen optimalizált MIPS-re, de mindenképpen nézd meg az ingyenes verziót a vásárlás előtt. A bemutatott képek egy Amoled eszközön készültek, és másképp fognak kinézni a MIPS eszközödön.
+
+⭐️ Források ⭐️
+* GYIK: https://watchface.io/faq
+* Témalista: https://watchface.io/ultrav2/themes
+* Színútmutató: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+
+Megjegyzés: Két különböző helyen vannak beállítások:
+* Garmin IQ alkalmazás (a telefonodon): Adatmezők, színek és általános beállítások konfigurálása
+* Órán lévő beállítások: Részletesebb opciók elérése, mint időformátum, célok és mértékegységek közvetlenül az órán a menügomb nyomva tartásával, a számlap kiválasztásával és a testreszabás megérintésével
+
+*** Ha bármilyen hibát vagy problémát tapasztalsz, kérlek, vedd fel velem a kapcsolatot a "Kapcsolat a fejlesztővel" gombra kattintva, ne az értékelési rendszert használd. Az e-mailekre azonnal tudok válaszolni, míg az értékeléseket lehet, hogy nem látom több napig. ***
