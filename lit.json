@@ -688,6 +688,12 @@
         "g4": "Atstumas Sportas 2",
         "g5": "Minutės Sportas 1",
         "g6": "Minutės Sportas 2",
+
+        "g19" : "Širdies ritmas",
+        "g23": "Žingsniai",
+        "g24": "Atstumas",
+        "g25": "Kalorijos",
+
         "g20": "Viso Aktyvių Minučių",
         "g21": "Vidutiniškai Aktyvių Minučių",
         "g22": "Intensyviai Aktyvių Minučių",

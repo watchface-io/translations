@@ -687,10 +687,17 @@
         "g4": "Distance Sport 2",
         "g5": "Minutes Sport 1",
         "g6": "Minutes Sport 2",
+
+        
         "g20": "Active Min Total",
         "g21": "Active Min Moderate",
         "g22": "Active Min Vigorous",
+        "g19" : "Heart Rate",
+        "g23": "Steps",
+        "g24": "Distance",
+        "g25": "Calories",
         "g26": "Floors",
+        
         "g27": "Ascent Distance",
         "g29": "Glucose",
         "g30": "Recovery Time",

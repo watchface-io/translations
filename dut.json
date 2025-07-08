@@ -679,6 +679,12 @@
         "g4": "Afstand Sport 2",
         "g5": "Minuten Sport 1",
         "g6": "Minuten Sport 2",
+
+        "g19" : "Hartslag",
+        "g23": "Stappen",
+        "g24": "Afstand",
+        "g25": "Calorieën",
+
         "g20": "Actieve Min Totaal",
         "g21": "Actieve Min Matig",
         "g22": "Actieve Min Intensief",

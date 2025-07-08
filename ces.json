@@ -688,6 +688,12 @@
         "g4": "Vzdálenost Sport 2",
         "g5": "Minuty Sport 1",
         "g6": "Minuty Sport 2",
+
+        "g19" : "Srdeční tep",
+        "g23": "Kroky",
+        "g24": "Vzdálenost",
+        "g25": "Kalorie",
+
         "g20": "Aktivní Min Celkem",
         "g21": "Aktivní Min Mírné",
         "g22": "Aktivní Min Intenzivní",

@@ -691,6 +691,12 @@
         "g4": "Avstand Sport 2",
         "g5": "Minutter Sport 1",
         "g6": "Minutter Sport 2",
+
+        "g19" : "Puls",
+        "g23": "Skritt",
+        "g24": "Avstand",
+        "g25": "Kalorier",
+
         "g20": "Aktive Min Totalt",
         "g21": "Aktive Min Moderat",
         "g22": "Aktive Min Intens",

@@ -690,6 +690,12 @@
         "g4": "Etäisyys Laji 2",
         "g5": "Minuutit Laji 1",
         "g6": "Minuutit Laji 2",
+
+        "g19" : "Syke",
+        "g23": "Askeleet",
+        "g24": "Etäisyys",
+        "g25": "Kalorit",
+
         "g20": "Aktiiviset Min Yhteensä",
         "g21": "Aktiiviset Min Kohtalainen",
         "g22": "Aktiiviset Min Voimakas",

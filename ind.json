@@ -688,6 +688,12 @@
         "g4": "Jarak Olahraga 2",
         "g5": "Menit Olahraga 1",
         "g6": "Menit Olahraga 2",
+
+        "g19" : "Detak Jantung",
+        "g23": "Langkah",
+        "g24": "Jarak",
+        "g25": "Kalori",
+
         "g20": "Total Menit Aktif",
         "g21": "Menit Aktif Sedang",
         "g22": "Menit Aktif Berat",

@@ -691,6 +691,12 @@
         "g4": "Udaljenost Sport 2",
         "g5": "Minute Sport 1",
         "g6": "Minute Sport 2",
+
+        "g19" : "Otkucaji srca",
+        "g23": "Koraci",
+        "g24": "Udaljenost",
+        "g25": "Kalorije",
+
         "g20": "Ukupno Aktivnih Minuta",
         "g21": "Umjereno Aktivnih Minuta",
         "g22": "Snažno Aktivnih Minuta",

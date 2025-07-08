@@ -688,6 +688,12 @@
         "g4": "Razdalja Šport 2",
         "g5": "Minute Šport 1",
         "g6": "Minute Šport 2",
+
+        "g19" : "Srčni utrip",
+        "g23": "Koraki",
+        "g24": "Razdalja",
+        "g25": "Kalorije",
+
         "g20": "Skupno Aktivnih Minut",
         "g21": "Zmerno Aktivnih Minut",
         "g22": "Intenzivno Aktivnih Minut",

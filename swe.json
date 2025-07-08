@@ -691,6 +691,12 @@
         "g4": "Avstånd Sport 2",
         "g5": "Minuter Sport 1",
         "g6": "Minuter Sport 2",
+
+        "g19" : "Puls",
+        "g23": "Steg",
+        "g24": "Avstånd",
+        "g25": "Kalorier",
+
         "g20": "Aktiva Min Totalt",
         "g21": "Aktiva Min Måttliga",
         "g22": "Aktiva Min Intensiva",

@@ -687,6 +687,12 @@
         "g4": "Mesafe Spor 2",
         "g5": "Dakika Spor 1",
         "g6": "Dakika Spor 2",
+
+        "g19" : "Kalp Hızı",
+        "g23": "Adım",
+        "g24": "Mesafe",
+        "g25": "Kalori",
+
         "g20": "Aktif Dak Toplam",
         "g21": "Aktif Dak Orta",
         "g22": "Aktif Dak Yoğun",

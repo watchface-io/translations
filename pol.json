@@ -691,6 +691,12 @@
         "g4": "Dystans Sport 2",
         "g5": "Minuty Sport 1",
         "g6": "Minuty Sport 2",
+
+        "g19" : "Tętno",
+        "g23": "Kroki",
+        "g24": "Odległość",
+        "g25": "Kalorie",
+
         "g20": "Aktywne Min Razem",
         "g21": "Aktywne Min Umiarkowane",
         "g22": "Aktywne Min Intensywne",

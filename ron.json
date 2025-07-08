@@ -688,6 +688,12 @@
         "g4": "Distanță Sport 2",
         "g5": "Minute Sport 1",
         "g6": "Minute Sport 2",
+
+        "g19" : "Puls",
+        "g23": "Pași",
+        "g24": "Distanță",
+        "g25": "Calorii",
+
         "g20": "Total Minute Active",
         "g21": "Minute Active Moderate",
         "g22": "Minute Active Intense",

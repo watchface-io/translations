@@ -677,6 +677,12 @@
         "g4": "Distanza Sport 2",
         "g5": "Minuti Sport 1",
         "g6": "Minuti Sport 2",
+
+        "g19" : "Frequenza cardiaca",
+        "g23": "Passi",
+        "g24": "Distanza",
+        "g25": "Calorie",
+
         "g20": "Min Attivi Totali",
         "g21": "Min Attivi Moderati",
         "g22": "Min Attivi Intensi",

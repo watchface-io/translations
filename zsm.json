@@ -687,6 +687,12 @@
         "g4": "Jarak Sukan 2",
         "g5": "Minit Sukan 1",
         "g6": "Minit Sukan 2",
+
+        "g19" : "Kadar Degupan Jantung",
+        "g23": "Langkah",
+        "g24": "Jarak",
+        "g25": "Kalori",
+
         "g20": "Jumlah Minit Aktif",
         "g21": "Minit Aktif Sederhana",
         "g22": "Minit Aktif Kuat",

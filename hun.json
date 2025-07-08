@@ -691,6 +691,12 @@
         "g4": "Távolság Sport 2",
         "g5": "Percek Sport 1",
         "g6": "Percek Sport 2",
+
+        "g19" : "Pulzus",
+        "g23": "Lépések",
+        "g24": "Távolság",
+        "g25": "Kalóriák",
+
         "g20": "Aktív Perc Összesen",
         "g21": "Aktív Perc Mérsékelt",
         "g22": "Aktív Perc Intenzív",
