@@ -192,7 +192,7 @@
         "f730" : "Sensor Pressure 2 decimals (sea level)",
         "f615" : "Altitude",
         "f616" : "Sea Level Pressure",
-        "f660" : "Sea Level 2 decimals",
+        "f660" : "Sea Level Pressure 2 decimals",
         "f733" : "Ambient Pressure",
 
         "f613" : "Sunrise (from Garmin)",
