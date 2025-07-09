@@ -1,23 +1,23 @@
-📱 数据密集型表盘
+⭐️ 丰富数据表盘 ⭐️
 支持自定义数据字段、图表及进度条，提供多种数据显示样式、触控快捷功能、定制字体、常亮显示（AOD）及丰富的色彩配置选项，打造个性化体验。
 
 ⭐️ 先试后买！⭐️
 购买前请先体验免费版，确保表盘功能与显示效果符合您的预期：
 https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
 
-⚙️ MIPS设备兼容性（Fenix 7、Enduro、Forerunner 255等）
+⭐️ MIPS设备兼容性（Fenix 7、Enduro、Forerunner 255等） ⭐️
 本表盘已针对MIPS屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED设备拍摄，实际在MIPS设备显示效果会有差异。
 
-⭐️ 资源中心　⭐️
+⭐️ 资源中心 ⭐️
 常见问题FAQ：https://watchface.io/faq
 主题列表：https://watchface.io/clarity/themes
 配色指南：https://watchface.io/docs/color-list
 可用数据字段：https://watchface.io/docs/datafields
 
-⭐️ 配置说明　⭐️
+⭐️ 配置说明 ⭐️
 请注意设置入口有两个：
 *佳明ConnectIQ手机应用: 配置数据字段/色彩/常规设置。
 *手表端设置: 长按菜单键 → 选择表盘 → 点击"自定义"：可调整时间格式/运动目标/单位等高级选项。
 
-⭐️  重要提示　⭐️
+⭐️ 重要提示 ⭐️
 如遇任何问题，请点击"报告问题"反馈（而不是使用评论），报告问题可获得邮件快速。　评论可能很多天后才能看到，回复也大大延迟。
