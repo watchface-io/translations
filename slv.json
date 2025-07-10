@@ -2,7 +2,7 @@
     "settings" : {
         "c0" : "Nič",
         "c1" : "Aktivne minute (8 dni)",
-        "c2" : "Aktivne kalorije (8 dni)",
+        "c2" : "Kalorije (8 dni)",
         "c3" : "Razdalja (8 dni)",
         "c4" : "Nadstropja navzgor (8 dni)",
         "c5" : "Nadstropja navzdol (8 dni)",

@@ -2,7 +2,7 @@
     "settings" : {
         "c0" : "Nothing",
         "c1" : "Active Minutes (8 days)",
-        "c2" : "Active Calories (8 days)",
+        "c2" : "Calories (8 days)",
         "c3" : "Distance (8 days)",
         "c4" : "Floors Climbed (8 days)",
         "c5" : "Floors Descended (8 days)",
