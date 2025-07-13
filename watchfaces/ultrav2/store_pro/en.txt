@@ -4,7 +4,7 @@ Simple Ultra Analog watchface. Over 100 datafields, fully customizeable with pre
 
 Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/762eb8ff-e291-4afb-af31-b78063effcbc
 
-⭐️ MIPS Devices (Fenix 7, Enduro, Fr255, etc) ⭐️
+⭐️ MIPS Devices (Fenix 7, Enduro 2, Forerunner 255, etc) ⭐️
 This watchface is fully optimized for MIPS, but make sure to check out the free version before your buy it. The images shown are taking on an Amoled device, and will look different on your MIPS device.
 
 ⭐️ Resources ⭐️
