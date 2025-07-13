@@ -3,7 +3,7 @@ Data rich watchface with customizable fields, charts, and progress bars. Feature
 ⭐️ Try before you buy! ⭐️
 Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
 
-⭐️ MIPS Devices (Fenix 7, Enduro 2, Forerunner 255, etc) ⭐️
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
 This watchface is fully optimized for MIPS, but make sure to check out the free version before your buy it. The images shown are taking on an Amoled device, and will look different on your MIPS device.
 
 ⭐️ Resources ⭐️
