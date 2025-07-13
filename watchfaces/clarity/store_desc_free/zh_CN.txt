@@ -7,8 +7,8 @@
 1. 已安装免费版用户，购买专业版密匙访问：https://ko-fi.com/s/3e208d705d 
 2. 直接下载专业版应用：https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
 
-⭐️MIP设备兼容性（Fenix 7、Enduro 2、Forerunner 255等）⭐️
-本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED设备拍摄，在MIP设备上显示效果会有差异。
+⭐️MIP屏幕兼容性（Fenix 7、Enduro 2、Forerunner 255等）⭐️
+本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。
 
 ⭐️资源中心⭐️
 常见问题FAQ：https://watchface.io/faq
