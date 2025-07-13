@@ -22,29 +22,55 @@
          "_pi" : "Show Progress Bar Icons",
          "_pd" : "Show Progress Bar Data",
 
-         "_s1" : "1. Field 1 Style",
-         "_s2" : "2. Field 2 Style",
-         "_s3" : "3. Field 3 Style",
+        
+        
+        
+         "_f1" : "Top Field",
+        "_l1" : "Top Label",
+
+         "_f2" : "Bottom Field",
+         "_l2" : "Bottom Label",
+         
+         "_s3" : "1. Top 1 Style",
+         "_f3" : "1. Top 1 Data",
+         "_l3" : "1. Top 1 Label",
+         "_s4" : "2. Top 2 Style",
+         "_f4" : "2. Top 2 Data",
+         "_l4" : "2. Top 2 Label",
+         "_s5" : "3. Top 3 Style",
+         "_f5" : "3. Top 3 Data",
+         "_l5" : "3. Top 3 Label",
+
+        "_s6" : "1. Top 1 Style",
+         "_f6" : "1. Top 1 Data",
+         "_l6" : "1. Top 1 Label",
+         "_s7" : "2. Top 2 Style",
+         "_f7" : "2. Top 2 Data",
+         "_l7" : "2. Top 2 Label",
+         "_s8" : "3. Top 3 Style",
+         "_f8" : "3. Top 3 Data",
+         "_l8" : "3. Top 3 Label",
+
+         "_s9" : "1. Top 1 Style",
+         "_f9" : "1. Top 1 Data",
+         "_l9" : "1. Top 1 Label",
+         "_s10" : "2. Top 2 Style",
+         "_f10" : "2. Top 2 Data",
+         "_l10" : "2. Top 2 Label",
+         "_s11" : "3. Top 3 Style",
+         "_f11" : "3. Top 3 Data",
+         "_l11" : "3. Top 3 Label",
 
 
-
-        "_f1" : "1. Field 1 (Top)",
-        "_l1" : "1. Label 1",
-
-         "_f2" : "2. Field 2",
-         "_l2" : "2. Label 2",
+        
 
        
-         "_f3" : "3. Field 3",
-         "_l3" : "3. Label 3",
+         
          "_c3" : "3. Chart 3",
 
-         "_s4" : "4. Field 4 Style",
-         "_f4" : "4. Field 4",
-         "_l4" : "4. Label 4",
+
          "_c4" : "4. Chart 4",
-         "_f5" : "5. Field 5 (when F4 style = 2 fields)",
-         "_l5" : "5. Label 5 (when F4 style = 2 fields)",
+
 
          "_0f" : "1 Field",
          "_1f" : "1 Field + Large Chart",
@@ -68,25 +94,6 @@
          "_15f" : "Notification Icon",
          "_18f" : "Active Status Icons",
 
-
-        "_s6" : "6. Field 6 Style",
-         "_f6" : "6. Field 6 Data",
-         "_l6" : "6. Label 6",
-         "_f7" : "7. Field 7",
-         "_l7" : "7. Label 7",
-
-         "_s8" : "8. Field 8 Style (Bottom)",
-         "_f8" : "8. Field 8 ",
-         "_l8" : "8. Label 8",
-         "_c8" : "8. Chart 8",
-
-         "_f9" : "Circle Left Data",
-         "_l9" : "Circle Left Label",
-         "_s9" : "Circle Left Progress Style",
-
-         "_f10" : "Circle Right Data",
-         "_l10" : "Circle Right Label",
-         "_s10" : "Circle Right Progress Style",
 
          "_p11" : "Progress Bar Center Data",
          "_p12" : "Progress Bar Bottom Left Data",
@@ -125,17 +132,19 @@
          "_ox" : "Time X Offset, 50 = center",
          "_oy" : "Time Y Offset, 50 = center",
 
-         "_lp1" : "Progress Bar Color 1",
-         "_lp2" : "Progress Bar Color 2",
-         "_lpu" : "Progress Bar Color Unfilled",
 
-        "_l12" : "Bottom Left Progress Bar Color 1",
-         "_l12b" : "Bottom Left Progress Bar Color 2",
-         "_l12u" : "Bottom Left Progress Bar Color Unfilled",
+        "_l3p" : "Circle Left Progress Bar Color 1",
+         "_l3b" : "Circle Left Progress Bar Color 2",
+         "_l3u" : "Circle Left Progress Bar Color Unfilled",
+         "_l4p" : "Circle Left Progress Bar Color 1",
+         "_l4b" : "Circle Left Progress Bar Color 2",
+         "_l4u" : "Circle Left Progress Bar Color Unfilled",
+        "_l5p" : "Circle Left Progress Bar Color 1",
+         "_l5b" : "Circle Left Progress Bar Color 2",
+         "_l5u" : "Circle Left Progress Bar Color Unfilled",
 
-         "_l13" : "Bottom Right Progress Bar Color 1",
-         "_l13b" : "Bottom Right Progress Bar Color 2",
-         "_l13u" : "Bottom Right Progress Bar Color Unfilled",
+
+
 
          "_l9p" : "Circle Left Progress Bar Color 1",
          "_l9b" : "Circle Left Progress Bar Color 2",
@@ -144,6 +153,21 @@
          "_l10p" : "Circle Right Progress Bar Color 1",
          "_l10b" : "Circle Right Progress Bar Color 2",
          "_l10u" : "Circle Right Progress Bar Color Unfilled",
+
+         "_l11p" : "Circle Left Progress Bar Color 1",
+         "_l11b" : "Circle Left Progress Bar Color 2",
+         "_l11u" : "Circle Left Progress Bar Color Unfilled",
+
+
+        "_sh" : "Time Shade",
+        "sh0" : "No Shade",
+        "sh1" : "1px",
+        "sh2" : "2px",
+        "sh3" : "3px",
+        "sh4" : "4px",
+
+
+
 
          "ls" : "Same color as Progress Bar",
 
