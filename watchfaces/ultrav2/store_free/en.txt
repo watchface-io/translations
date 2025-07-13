@@ -5,7 +5,7 @@ Over 100 different datafields, Open weather support, CGM support, etc.
 ⭐️ Free vs Pro ⭐️
 This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/96bbcd749b Or purchace the PRO version here: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
 
-⭐️ MIPS Devices (Fenix 7, Enduro, Fr255, etc) ⭐️
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
 This watchface is fully optimized for MIPS, but colors will look slightly different as in the pictures, as these are taken on an Amoled device.
 
 ⭐️ Resources ⭐️
@@ -17,5 +17,7 @@ This watchface is fully optimized for MIPS, but colors will look slightly differ
 
 ⭐️ Configuration ⭐️
 Note: There are two different places with settings:
-* Garmin IQ App (on your phone): Configure datafields, colors, and general settings
-* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize
+* Garmin IQ App (on your phone): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***

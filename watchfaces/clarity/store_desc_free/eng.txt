@@ -3,7 +3,7 @@ Data rich watchface with customizable fields, charts, and progress bars. Feature
 ⭐️ Free vs Pro ⭐️
 This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/3e208d705d Or purchace the PRO version here: https://apps.garmin.com/apps/ebccf5aa-a7fd-4a54-96f6-949c111ab3e5
 
-⭐️ MIPS Devices (Fenix 7, Enduro, Fr255, etc) ⭐️
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
 This watchface is fully optimized for MIPS, but colors will look different as in the pictures, as these are taken on an Amoled device.
 
 
@@ -17,8 +17,8 @@ This watchface is fully optimized for MIPS, but colors will look different as in
 
 ⭐️ Configuration ⭐️
 Note: There are two different places with settings:
-* Garmin IQ App (on your phone): Configure datafields, colors, and general settings
-* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize
+* Garmin IQ App (on your phone): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
 
 
 
