@@ -22,9 +22,10 @@
         "_e8": "Išjungti Ekraną",
         "_e9": "Pilnas AOD",
         "_e10": "Tik Laikas",
-        "_e11": "Laikas + Būsenos Piktogramos",
-        "_e12": "Laikas + Skaičiai + būsena",
-        "_e13": "Laikas + Ciferblatai + būsena",
+        "_e11": "Laikas + Pranešimų Piktograma",
+        "_e12": "Laikas + Skaičiai + Pranešimų Piktograma",
+        "_e13": "Laikas + Ciferblatai + Pranešimų Piktograma",
+        "_e35": "Laikas + Ciferblatai",
         
         "_e14": "Pašalinti",
         "_e15": "Nustatyti ties 12",

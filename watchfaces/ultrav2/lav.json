@@ -22,9 +22,10 @@
         "_e8": "Izslēgt Ekrānu",
         "_e9": "Pilns AOD",
         "_e10": "Tikai Laiks",
-        "_e11": "Laiks + Statusa Ikonas",
-        "_e12": "Laiks + Cipari + statuss",
-        "_e13": "Laiks + Ciparnīca + statuss",
+        "_e11": "Laiks + Paziņojumu Ikona",
+        "_e12": "Laiks + Cipari + Paziņojumu Ikona",
+        "_e13": "Laiks + Ciparnīca + Paziņojumu Ikona",
+        "_e35": "Laiks + Ciparnīca",
         
         "_e14": "Noņemt",
         "_e15": "Iestatīt uz 12",

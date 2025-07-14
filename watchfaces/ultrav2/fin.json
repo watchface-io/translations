@@ -22,9 +22,10 @@
         "_e8": "Sammuta Näyttö",
         "_e9": "Täysi AOD",
         "_e10": "Vain Aika",
-        "_e11": "Aika + Tilakuvakkeet",
-        "_e12": "Aika + Numerot + tila",
-        "_e13": "Aika + Kehä + tila",
+        "_e11": "Aika + Ilmoituskuvake",
+        "_e12": "Aika + Numerot + Ilmoituskuvake",
+        "_e13": "Aika + Kehä + Ilmoituskuvake",
+        "_e35": "Aika + Kehä",
         
         "_e14": "Poista",
         "_e15": "Aseta kello 12:een",

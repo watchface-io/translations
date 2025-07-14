@@ -22,9 +22,10 @@
         "_e8": "Vypnout obrazovku",
         "_e9": "Plný AOD",
         "_e10": "Pouze čas",
-        "_e11": "Čas + ikony stavu",
-        "_e12": "Čas + čísla + stav",
-        "_e13": "Čas + ciferník + stav",
+        "_e11": "Čas + ikona oznámení",
+        "_e12": "Čas + čísla + ikona oznámení",
+        "_e13": "Čas + ciferník + ikona oznámení",
+        "_e35": "Čas + ciferník",
         
         "_e14": "Odstranit",
         "_e15": "Nastavit na 12",

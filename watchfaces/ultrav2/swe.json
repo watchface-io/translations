@@ -22,9 +22,10 @@
         "_e8": "Stäng av skärmen",
         "_e9": "Full AOD",
         "_e10": "Endast tid",
-        "_e11": "Tid + Statusikoner",
-        "_e12": "Tid + Siffror + status",
-        "_e13": "Tid + Urtavla + status",
+        "_e11": "Tid + Notifikationsikon",
+        "_e12": "Tid + Siffror + Notifikationsikon",
+        "_e13": "Tid + Urtavla + Notifikationsikon",
+        "_e35": "Tid + Urtavla",
         
         "_e14": "Ta bort",
         "_e15": "Sätt vid 12",

@@ -22,9 +22,10 @@
         "_e8": "Matikan Layar",
         "_e9": "AOD Penuh",
         "_e10": "Hanya Waktu",
-        "_e11": "Waktu + Ikon Status",
-        "_e12": "Waktu + Angka + status",
-        "_e13": "Waktu + Dial + status",
+        "_e11": "Waktu + Ikon Notifikasi",
+        "_e12": "Waktu + Angka + Ikon Notifikasi",
+        "_e13": "Waktu + Dial + Ikon Notifikasi",
+        "_e35": "Waktu + Dial",
         
         "_e14": "Hapus",
         "_e15": "Atur di posisi 12",

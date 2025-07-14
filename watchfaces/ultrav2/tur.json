@@ -22,9 +22,10 @@
         "_e8": "Ekranı Kapat",
         "_e9": "Tam AOD",
         "_e10": "Sadece Saat",
-        "_e11": "Saat + Durum Simgeleri",
-        "_e12": "Saat + Rakamlar + durum",
-        "_e13": "Saat + Kadran + durum",
+        "_e11": "Saat + Bildirim simgesi",
+        "_e12": "Saat + Rakamlar + Bildirim simgesi",
+        "_e13": "Saat + Kadran + Bildirim simgesi",
+        "_e35": "Saat + Kadran",
         
         "_e14": "Kaldır",
         "_e15": "12'ye Ayarla",

@@ -22,9 +22,10 @@
         "_e8": "Wyłącz ekran",
         "_e9": "Pełny AOD",
         "_e10": "Tylko czas",
-        "_e11": "Czas + Ikony statusu",
-        "_e12": "Czas + Cyfry + status",
-        "_e13": "Czas + Tarcza + status",
+        "_e11": "Czas + Ikona powiadomień",
+        "_e12": "Czas + Cyfry + Ikona powiadomień",
+        "_e13": "Czas + Tarcza + Ikona powiadomień",
+        "_e35": "Czas + Tarcza",
         
         "_e14": "Usuń",
         "_e15": "Ustaw na godzinie 12",

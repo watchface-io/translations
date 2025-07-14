@@ -22,9 +22,10 @@
         "_e8": "Turn Screen Off",
         "_e9": "Full AOD",
         "_e10": "Time Only",
-        "_e11": "Time + Status Icons",
-        "_e12": "Time + Numbers + status",
-        "_e13": "Time + Dial + status",
+        "_e11": "Time + Notification icon",
+        "_e12": "Time + Numbers + Notification icon",
+        "_e13": "Time + Dial + Notification icon",
+        "_e35": "Time + Dial",
         
         "_e14": "Remove",
         "_e15": "Set at 12",

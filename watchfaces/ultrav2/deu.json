@@ -22,9 +22,10 @@
         "_e8": "Bildschirm ausschalten",
         "_e9": "Vollständiges AOD",
         "_e10": "Nur Zeit",
-        "_e11": "Zeit + Statussymbole",
-        "_e12": "Zeit + Ziffern + Status",
-        "_e13": "Zeit + Zifferblatt + Status",
+        "_e11": "Zeit + Benachrichtigungssymbol",
+        "_e12": "Zeit + Ziffern + Benachrichtigungssymbol",
+        "_e13": "Zeit + Zifferblatt + Benachrichtigungssymbol",
+        "_e35": "Zeit + Zifferblatt",
         
         "_e14": "Entfernen",
         "_e15": "Auf 12 Uhr setzen",
