@@ -22,9 +22,10 @@
         "_e8": "Oprește Ecranul",
         "_e9": "AOD Complet",
         "_e10": "Doar Ora",
-        "_e11": "Ora + Pictograme Stare",
-        "_e12": "Ora + Numere + stare",
-        "_e13": "Ora + Cadran + stare",
+        "_e11": "Ora + Pictograma notificare",
+        "_e12": "Ora + Numere + Pictograma notificare",
+        "_e13": "Ora + Cadran + Pictograma notificare",
+        "_e35": "Ora + Cadran",
         
         "_e14": "Elimină",
         "_e15": "Setează la ora 12",

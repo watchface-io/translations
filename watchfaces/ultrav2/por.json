@@ -22,9 +22,10 @@
         "_e8": "Desligar Tela",
         "_e9": "AOD Completo",
         "_e10": "Apenas Hora",
-        "_e11": "Hora + Ícones de Status",
-        "_e12": "Hora + Números + status",
-        "_e13": "Hora + Mostrador + status",
+        "_e11": "Hora + Ícone de notificação",
+        "_e12": "Hora + Números + Ícone de notificação",
+        "_e13": "Hora + Mostrador + Ícone de notificação",
+        "_e35": "Hora + Mostrador",
         
         "_e14": "Remover",
         "_e15": "Definir às 12 horas",

@@ -22,9 +22,10 @@
         "_e8": "Éteindre l'écran",
         "_e9": "AOD complet",
         "_e10": "Heure seulement",
-        "_e11": "Heure + Icônes d'état",
-        "_e12": "Heure + Chiffres + état",
-        "_e13": "Heure + Cadran + état",
+        "_e11": "Heure + Icône de notification",
+        "_e12": "Heure + Chiffres + Icône de notification",
+        "_e13": "Heure + Cadran + Icône de notification",
+        "_e35": "Heure + Cadran",
         
         "_e14": "Supprimer",
         "_e15": "Régler à 12h",

@@ -22,9 +22,10 @@
         "_e8": "Slå Av Skjermen",
         "_e9": "Full AOD",
         "_e10": "Kun Tid",
-        "_e11": "Tid + Statusikoner",
-        "_e12": "Tid + Tall + status",
-        "_e13": "Tid + Urskive + status",
+        "_e11": "Tid + Varselsikon",
+        "_e12": "Tid + Tall + Varselsikon",
+        "_e13": "Tid + Urskive + Varselsikon",
+        "_e35": "Tid + Urskive",
         
         "_e14": "Fjern",
         "_e15": "Sett til kl. 12",

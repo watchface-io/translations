@@ -22,9 +22,10 @@
         "_e8": "Isključi Zaslon",
         "_e9": "Puni AOD",
         "_e10": "Samo Vrijeme",
-        "_e11": "Vrijeme + Ikone Statusa",
-        "_e12": "Vrijeme + Brojevi + status",
-        "_e13": "Vrijeme + Brojčanik + status",
+        "_e11": "Vrijeme + Ikona Obavijesti",
+        "_e12": "Vrijeme + Brojevi + Ikona Obavijesti",
+        "_e13": "Vrijeme + Brojčanik + Ikona Obavijesti",
+        "_e35": "Vrijeme + Brojčanik",
         
         "_e14": "Ukloni",
         "_e15": "Postavi na 12",

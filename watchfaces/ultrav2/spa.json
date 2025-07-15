@@ -22,9 +22,10 @@
         "_e8": "Apagar pantalla",
         "_e9": "AOD completo",
         "_e10": "Solo hora",
-        "_e11": "Hora + Iconos de estado",
-        "_e12": "Hora + Números + estado",
-        "_e13": "Hora + Esfera + estado",
+        "_e11": "Hora + Icono de notificación",
+        "_e12": "Hora + Números + Icono de notificación",
+        "_e13": "Hora + Esfera + Icono de notificación",
+        "_e35": "Hora + Esfera",
         
         "_e14": "Eliminar",
         "_e15": "Colocar a las 12",

@@ -22,9 +22,10 @@
         "_e8": "Scherm Uitschakelen",
         "_e9": "Volledige AOD",
         "_e10": "Alleen Tijd",
-        "_e11": "Tijd + Status Pictogrammen",
-        "_e12": "Tijd + Cijfers + status",
-        "_e13": "Tijd + Wijzerplaat + status",
+        "_e11": "Tijd + Notificatie Pictogram",
+        "_e12": "Tijd + Cijfers + Notificatie Pictogram",
+        "_e13": "Tijd + Wijzerplaat + Notificatie Pictogram",
+        "_e35": "Tijd + Wijzerplaat",
         
         "_e14": "Verwijderen",
         "_e15": "Op 12 uur plaatsen",

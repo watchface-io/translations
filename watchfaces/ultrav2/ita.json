@@ -22,9 +22,10 @@
         "_e8": "Spegni lo schermo",
         "_e9": "AOD completo",
         "_e10": "Solo ora",
-        "_e11": "Ora + Icone di stato",
-        "_e12": "Ora + Numeri + stato",
-        "_e13": "Ora + Quadrante + stato",
+        "_e11": "Ora + Icona notifica",
+        "_e12": "Ora + Numeri + Icona notifica",
+        "_e13": "Ora + Quadrante + Icona notifica",
+        "_e35": "Ora + Quadrante",
         
         "_e14": "Rimuovi",
         "_e15": "Imposta a ore 12",

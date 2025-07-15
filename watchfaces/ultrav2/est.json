@@ -22,9 +22,10 @@
         "_e8": "Lülita Ekraan Välja",
         "_e9": "Täielik AOD",
         "_e10": "Ainult Aeg",
-        "_e11": "Aeg + Olekuikoonid",
-        "_e12": "Aeg + Numbrid + olek",
-        "_e13": "Aeg + Numbrilaud + olek",
+        "_e11": "Aeg + Teavituste Ikoon",
+        "_e12": "Aeg + Numbrid + Teavituste Ikoon",
+        "_e13": "Aeg + Numbrilaud + Teavituste Ikoon",
+        "_e35": "Aeg + Numbrilaud",
         
         "_e14": "Eemalda",
         "_e15": "Seadista kella 12 peale",
