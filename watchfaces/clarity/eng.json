@@ -24,8 +24,8 @@
          "_f4" : "4. Field 4",
          "_l4" : "4. Label 4",
          "_c4" : "4. Chart 4",
-         "_f5" : "5. Field 5 (when F4 style = 2 fields)",
-         "_l5" : "5. Label 5 (when F4 style = 2 fields)",
+         "_f5" : "5. Field 5 (when Field 4 style = 2 fields)",
+         "_l5" : "5. Label 5 (when Field 4 style = 2 fields)",
 
          "_0f" : "1 Field",
          "_1f" : "1 Field + Large Chart",
@@ -55,8 +55,8 @@
         "_s6" : "6. Field 6 Style",
          "_f6" : "6. Field 6 Data",
          "_l6" : "6. Label 6",
-         "_f7" : "7. Field 7",
-         "_l7" : "7. Label 7",
+         "_f7" : "7. Field 7 (when Field 6 style = 2 fields)",
+         "_l7" : "7. Label 7 (when Field 6 style = 2 fields)",
 
          "_s8" : "8. Field 8 Style (Bottom)",
          "_f8" : "8. Field 8 ",
