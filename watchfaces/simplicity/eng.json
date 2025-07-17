@@ -13,15 +13,36 @@
         "_o2" : "↔️ Center Layout",
         "_o3" : "↔️ Bottom Layout",
 
-         "_6f" : "Full",
-         "_7f" : "Empty",
-         "_8f" : "Hide",
+         "_40f" : "Progress",
+         "_6f" : "Progress Full",
+         "_7f" : "Progress Empty",
+         "_8f" : "No Progress",
+         "_cc" : "3 Rings",
+         "_wt" : "Weather",
 
          "_p1" : "Progress Bar Left",
          "_p2" : "Progress Bar Right",
          "_pi" : "Show Progress Bar Icons",
          "_pd" : "Show Progress Bar Data",
 
+         "_p1c" : "Progress Bar Left Color 1",
+         "_p1b" : "Progress Bar Left Color 2",
+         "_p1u" : "Progress Bar Left Color Unfilled",
+         "_p2c" : "Progress Bar Right Color 1",
+         "_p2b" : "Progress Bar Right Color 2",
+         "_p2u" : "Progress Bar Right Color Unfilled",
+
+         "_l9p" : "Bottom 1 Progress Bar Color 1",
+         "_l9b" : "Bottom 1 Progress Bar Color 2",
+         "_l9u" : "Bottom 1 Progress Bar Color Unfilled",
+
+         "_l10p" : "Bottom 2 Progress Bar Color 1",
+         "_l10b" : "Bottom 2 Progress Bar Color 2",
+         "_l10u" : "Bottom 2 Progress Bar Color Unfilled",
+
+         "_l11p" : "Bottom 3 Progress Bar Color 1",
+         "_l11b" : "Bottom 3 Progress Bar Color 2",
+         "_l11u" : "Bottom 3 Progress Bar Color Unfilled",
         
         
         
@@ -41,27 +62,38 @@
          "_f5" : "3. Top 3 Data",
          "_l5" : "3. Top 3 Label",
 
-        "_s6" : "1. Top 1 Style",
-         "_f6" : "1. Top 1 Data",
-         "_l6" : "1. Top 1 Label",
-         "_s7" : "2. Top 2 Style",
-         "_f7" : "2. Top 2 Data",
-         "_l7" : "2. Top 2 Label",
-         "_s8" : "3. Top 3 Style",
-         "_f8" : "3. Top 3 Data",
-         "_l8" : "3. Top 3 Label",
+        "_s6" : "4. Center 1 Style",
+         "_f6" : "4. Center 1 Data",
+         "_l6" : "4. Center 1 Label",
+         "_s7" : "5. Center 2 Style",
+         "_f7" : "5. Center 2 Data",
+         "_l7" : "5. Center 2 Label",
+         "_s8" : "6. Center 3 Style",
+         "_f8" : "6. Center 3 Data",
+         "_l8" : "6. Center 3 Label",
 
-         "_s9" : "1. Top 1 Style",
-         "_f9" : "1. Top 1 Data",
-         "_l9" : "1. Top 1 Label",
-         "_s10" : "2. Top 2 Style",
-         "_f10" : "2. Top 2 Data",
-         "_l10" : "2. Top 2 Label",
-         "_s11" : "3. Top 3 Style",
-         "_f11" : "3. Top 3 Data",
-         "_l11" : "3. Top 3 Label",
+         "_s9" : "7. Bottom 1 Style",
+         "_f9" : "7. Bottom 1 Data",
+         "_l9" : "7. Bottom 1 Label",
+         "_s10" : "8. Bottom 2 Style",
+         "_f10" : "8. Bottom 2 Data",
+         "_l10" : "8. Bottom 2 Label",
+         "_s11" : "9. Bottom 3 Style",
+         "_f11" : "9. Bottom 3 Data",
+         "_l11" : "9. Bottom 3 Label",
+
+         "lcd" : "50% Darker",
+         "_cc0" : "3 ring Outer ring Color",
+         "_cc1" : "3 ring Center ring Color",
+         "_cc2" : "3 ring Inner ring Color",
+         "_ccu" : "3 ring Unfilled Color",
+        
+         "_r0" : "3 Ring Outer ring Data",
+         "_r1" : "3 Ring Center ring Data",
+         "_r2" : "3 Ring Inner ring Data",
 
 
+         
         
 
        
@@ -77,6 +109,8 @@
          "_2f" : "Full Chart",
          "_3f" : "2 Fields",
          "_4f" : "Chart",
+        
+
          "_16f" : "1 Field Left Aligned",
          "_17f" : "1 Field + Small Chart",
 
@@ -133,30 +167,21 @@
          "_oy" : "Time Y Offset, 50 = center",
 
 
-        "_l3p" : "Circle Left Progress Bar Color 1",
-         "_l3b" : "Circle Left Progress Bar Color 2",
-         "_l3u" : "Circle Left Progress Bar Color Unfilled",
-         "_l4p" : "Circle Left Progress Bar Color 1",
-         "_l4b" : "Circle Left Progress Bar Color 2",
-         "_l4u" : "Circle Left Progress Bar Color Unfilled",
-        "_l5p" : "Circle Left Progress Bar Color 1",
-         "_l5b" : "Circle Left Progress Bar Color 2",
-         "_l5u" : "Circle Left Progress Bar Color Unfilled",
+         "_l3p" : "Top 1 Progress Bar Color 1",
+         "_l3b" : "Top 1 Progress Bar Color 2",
+         "_l3u" : "Top 1 Progress Bar Color Unfilled",
+
+         "_l4p" : "Top 2 Progress Bar Color 1",
+         "_l4b" : "Top 2 Progress Bar Color 2",
+         "_l4u" : "Top 2 Progress Bar Color Unfilled",
+        "_l5p" : "Top 3 Progress Bar Color 1",
+         "_l5b" : "Top 3 Progress Bar Color 2",
+         "_l5u" : "Top 3 Progress Bar Color Unfilled",
 
 
 
 
-         "_l9p" : "Circle Left Progress Bar Color 1",
-         "_l9b" : "Circle Left Progress Bar Color 2",
-         "_l9u" : "Circle Left Progress Bar Color Unfilled",
 
-         "_l10p" : "Circle Right Progress Bar Color 1",
-         "_l10b" : "Circle Right Progress Bar Color 2",
-         "_l10u" : "Circle Right Progress Bar Color Unfilled",
-
-         "_l11p" : "Circle Left Progress Bar Color 1",
-         "_l11b" : "Circle Left Progress Bar Color 2",
-         "_l11u" : "Circle Left Progress Bar Color Unfilled",
 
 
         "_sh" : "Time Shade",

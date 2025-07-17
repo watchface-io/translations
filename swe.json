@@ -162,6 +162,8 @@
         "f11" : "Andningsfrekvens",
         "f623" : "Kroppsbatteri",
         "f8" : "Rörelsefält",
+        "f15" : "Omvänd rörelsefält",
+        
         "f276" : "Vilopuls",
         "f275" : "Genomsnittlig vilopuls",
         "f281" : "Vikt",

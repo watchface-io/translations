@@ -160,6 +160,8 @@
         "f11" : "Frequenza Respiratoria",
         "f623" : "Body Battery",
         "f8" : "Barra Movimento",
+        "f15" : "Barra di movimento invertita",
+
         "f276" : "Frequenza Cardiaca a Riposo",
         "f275" : "Frequenza Cardiaca a Riposo Media",
         "f281" : "Peso",

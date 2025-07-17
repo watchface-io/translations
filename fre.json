@@ -162,6 +162,7 @@
         "f11" : "Fréquence respiratoire",
         "f623" : "Batterie corporelle",
         "f8" : "Barre de mouvement",
+        "f15": "Barre de mouvement inversée",
         "f276" : "Fréquence cardiaque au repos",
         "f275" : "Fréquence cardiaque moyenne au repos",
         "f281" : "Poids",

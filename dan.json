@@ -162,6 +162,8 @@
         "f11" : "Åndedrætsfrekvens",
         "f623" : "Kropsbatteri",
         "f8" : "Bevægelsesbjælke",
+        "f15": "Omvendt bevægelsesbjælke",
+        
         "f276" : "Hvilepuls",
         "f275" : "Gennemsnitlig hvilepuls",
         "f281" : "Vægt",

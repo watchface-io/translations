@@ -161,6 +161,8 @@
         "f11" : "Ademhalingsfrequentie",
         "f623" : "Body Battery",
         "f8" : "Beweegbalk",
+        "f15": "Omgekeerde bewegingsbalk",
+        
         "f276" : "Rusthartslag",
         "f275" : "Gemiddelde Rusthartslag",
         "f281" : "Gewicht",

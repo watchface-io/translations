@@ -162,6 +162,8 @@
         "f11" : "Respiration Rate",
         "f623" : "Body Battery",
         "f8" : "Move Bar",
+        "f15" : "Move Bar Reversed",
+        
         "f276" : "Resting Heart Rate",
         "f275" : "Average Resting Heart Rate",
         "f281" : "Weight",

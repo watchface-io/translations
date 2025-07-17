@@ -161,7 +161,9 @@
         "f635" : "Pulse Ox",
         "f11" : "Atemfrequenz",
         "f623" : "Body Battery",
-        "f8" : "Bewegen Balken",
+        "f8" : "Bewegungsleiste",
+        "f15": "Umgekehrte Bewegungsleiste",
+
         "f276" : "Ruheherzfrequenz",
         "f275" : "Durchschnittliche Ruheherzfrequenz",
         "f281" : "Gewicht",

@@ -162,6 +162,8 @@
         "f11" : "Kadar Pernafasan",
         "f623" : "Bateri Badan",
         "f8" : "Bar Bergerak",
+        "f15" : "Bar Pergerakan Terbalik",
+
         "f276" : "Kadar Denyut Jantung Rehat",
         "f275" : "Purata Kadar Denyut Jantung Rehat",
         "f281" : "Berat",
