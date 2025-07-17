@@ -1,255 +1,197 @@
 {
-    "settings" : {
-        "_tr" : "👉 TOUCH SHORTCUTS",
-        "_tc" : "🎨 COLORS",
-        "_tt" : "🔤 FONTS",
-        "_ta" : "🖼️ AOD SETTINGS (Always on Display)",
-        "_to" : "💡 OTHER",
+    "settings": {
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_t0": "Touch Shortcut Hour",
+        "_t1": "Touch Shortcut Minute",
+        "_o0": "↔️ Top Layout",
+        "_o1": "↔️ Center Layout",
+        "_o2": "↔️ Bottom Layout",
+
+        "_40f": "Progress",
+        "_6f": "Progress Full",
+        "_7f": "Progress Empty",
+        "_8f": "No Progress",
+        "_cc": "3 Rings",
+        "_wt": "Weather",
+        "_rd": "Regular Data",
+
+        "_p1": "Progress Bar Left",
+        "_p2": "Progress Bar Right",
+
+        "_pi": "Show Progress Bar Icons",
+        "_pd": "Show Progress Bar Data",
+
+        "_p1c": "Left Progress Bar Color 1",
+        "_p1b": "Left Progress Bar Color 2",
+        "_p1u": "Left Progress Bar Color Unfilled",
+        "_p2c": "Right Progress Bar Color 1",
+        "_p2b": "Right Progress Bar Color 2",
+        "_p2u": "Right Progress Bar Color Unfilled",
+
+        "_l3p": "Top 1 Color 1",
+        "_l3b": "Top 1 Color 2",
+        "_l3u": "Top 1 Color Unfilled",
+        "_l4p": "Top 2 Color 1",
+        "_l4b": "Top 2 Color 2",
+        "_l4u": "Top 2 Color Unfilled",
+        "_l5p": "Top 3 Color 1",
+        "_l5b": "Top 3 Color 2",
+        "_l5u": "Top 3 Color Unfilled",
+
+        "_l6p": "Center Chart Color 1",
+        "_l6b": "Center Chart Color 2",
+        "_l9p": "Bottom 1 Color 1",
+        "_l9b": "Bottom 1 Color 2",
+        "_l9u": "Bottom 1 Color Unfilled",
+        "_l10p": "Bottom 2 Color 1",
+        "_l10b": "Bottom 2 Color 2",
+        "_l10u": "Bottom 2 Color Unfilled",
+        "_l11p": "Bottom 3 Color 1",
+        "_l11b": "Bottom 3 Color 2",
+        "_l11u": "Bottom 3 Color Unfilled",
+
+        "ol0": "3 Fields",
+        "ol1": "2 Fields",
+        "ol2": "1 Fields",
+        "ol3": "Chart",
+
+        "_c0": "Top Chart",
+        "_c1": "Center Chart",
+        "_c2": "Bottom Chart",
+
+        "lct": "Same as Top",
+        "_tct": "🎨 Text and Label Colors",
+        "_tcp": "🎨 Progress Bar Colors",
+        "_ft": "Text Font",
+        "_fs1": "Font Size Top",
+        "_fs2": "Font Size Bottom",
+        "_fs3": "Font Size Row 1",
+        "_fs4": "Font Size Row 2",
+        "_fs5": "Font Size Row 3",
+
+        "_f1": "Top Field",
+        "_l1": "Top Label",
+        "_f2": "Bottom Field",
+        "_l2": "Bottom Label",
+
+        "_s3": "1. Top 1 Style",
+        "_f3": "1. Top 1 Data",
+        "_l3": "1. Top 1 Label",
+        "_s4": "2. Top 2 Style",
+        "_f4": "2. Top 2 Data",
+        "_l4": "2. Top 2 Label",
+        "_s5": "3. Top 3 Style",
+        "_f5": "3. Top 3 Data",
+        "_l5": "3. Top 3 Label",
+        "_s6": "4. Center 1 Style",
+        "_f6": "4. Center 1 Data",
+        "_l6": "4. Center 1 Label",
+        "_s7": "5. Center 2 Style",
+        "_f7": "5. Center 2 Data",
+        "_l7": "5. Center 2 Label",
+        "_s8": "6. Center 3 Style",
+        "_f8": "6. Center 3 Data",
+        "_l8": "6. Center 3 Label",
+        "_s9": "7. Bottom 1 Style",
+        "_f9": "7. Bottom 1 Data",
+        "_l9": "7. Bottom 1 Label",
+        "_s10": "8. Bottom 2 Style",
+        "_f10": "8. Bottom 2 Data",
+        "_l10": "8. Bottom 2 Label",
+        "_s11": "9. Bottom 3 Style",
+        "_f11": "9. Bottom 3 Data",
+        "_l11": "9. Bottom 3 Label",
+
+        "lcd": "50% Darker",
+        "_cc0": "3 ring Outer ring Color",
+        "_cc1": "3 ring Center ring Color",
+        "_cc2": "3 ring Inner ring Color",
+        "_ccu": "3 ring Unfilled Color",
+
+        "_r0": "3 Ring Outer ring Data",
+        "_r1": "3 Ring Center ring Data",
+        "_r2": "3 Ring Inner ring Data",
+
+        "_tc1": "Text Color Top field",
+        "_tc2": "Text Color Bottom Field",
+        "_tc3": "Text Color Top Row",
+        "_tc4": "Text Color Center Row",
+        "_tc5": "Text Color Bottom Row",
+
+        "_lc1": "Label Color Top",
+        "_lc2": "Label Color Bottom",
+        "_lc3": "Label Color Top Row",
+        "_lc4": "Label Color Center Row",
+        "_lc5": "Label Color Bottom Row",
+
+        "_0f": "1 Field",
+        "_1f": "1 Field + Large Chart",
+        "_2f": "Full Chart",
+        "_3f": "2 Fields",
+        "_4f": "Chart",
+
+
+
+
+
+
+        "_hf": "Time Font",
+        "_hfa": "Time Font (AOD, Always on)",
+        "_hfs": "Time Font Size",
+
+        "fn1": "Roboto Mono (not resizeable)",
+        "fn2": "Roboto Mono Italics (not resizeable)",
+        "fn3": "Barlow (not resizeable)",
+
+        "_bgc": "Background Color",
+        "_hc": "Hour Color",
+        "_hc2": "Hour Color 2",
+        "_mc": "Minute Color",
+        "_mc2": "Minute Color 2",
+        "_dc": "Divider Color",
+
+        "_oy": "Time Y Offset, 50 = center",
+        "_sh": "Time Shade",
+        "sh0": "No Shade",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "ls": "Same color as Progress Bar",
+
         
-        "_t0" : "Touch Shortcut Hour",
-        "_t1" : "Touch Shortcut Minute",
-
-        "_o1" : "↔️ Top Layout",
-        "_o2" : "↔️ Center Layout",
-        "_o3" : "↔️ Bottom Layout",
-
-         "_40f" : "Progress",
-         "_6f" : "Progress Full",
-         "_7f" : "Progress Empty",
-         "_8f" : "No Progress",
-         "_cc" : "3 Rings",
-         "_wt" : "Weather",
-
-         "_p1" : "Progress Bar Left",
-         "_p2" : "Progress Bar Right",
-         "_pi" : "Show Progress Bar Icons",
-         "_pd" : "Show Progress Bar Data",
-
-         "_p1c" : "Progress Bar Left Color 1",
-         "_p1b" : "Progress Bar Left Color 2",
-         "_p1u" : "Progress Bar Left Color Unfilled",
-         "_p2c" : "Progress Bar Right Color 1",
-         "_p2b" : "Progress Bar Right Color 2",
-         "_p2u" : "Progress Bar Right Color Unfilled",
-
-         "_l9p" : "Bottom 1 Progress Bar Color 1",
-         "_l9b" : "Bottom 1 Progress Bar Color 2",
-         "_l9u" : "Bottom 1 Progress Bar Color Unfilled",
-
-         "_l10p" : "Bottom 2 Progress Bar Color 1",
-         "_l10b" : "Bottom 2 Progress Bar Color 2",
-         "_l10u" : "Bottom 2 Progress Bar Color Unfilled",
-
-         "_l11p" : "Bottom 3 Progress Bar Color 1",
-         "_l11b" : "Bottom 3 Progress Bar Color 2",
-         "_l11u" : "Bottom 3 Progress Bar Color Unfilled",
+        "_bgs": "Background Image",
+        "_bgt": "Background Image Tint Color",
+        "bg0": "No Background Image",
+        "bg1": "Camouflage",
+        "bg2": "Hex",
+        "bg3": "Ellipse",
+        "bg4": "World",
+        "bg5": "Hex Fade",
         
-        
-        
-         "_f1" : "Top Field",
-        "_l1" : "Top Label",
-
-         "_f2" : "Bottom Field",
-         "_l2" : "Bottom Label",
-         
-         "_s3" : "1. Top 1 Style",
-         "_f3" : "1. Top 1 Data",
-         "_l3" : "1. Top 1 Label",
-         "_s4" : "2. Top 2 Style",
-         "_f4" : "2. Top 2 Data",
-         "_l4" : "2. Top 2 Label",
-         "_s5" : "3. Top 3 Style",
-         "_f5" : "3. Top 3 Data",
-         "_l5" : "3. Top 3 Label",
-
-        "_s6" : "4. Center 1 Style",
-         "_f6" : "4. Center 1 Data",
-         "_l6" : "4. Center 1 Label",
-         "_s7" : "5. Center 2 Style",
-         "_f7" : "5. Center 2 Data",
-         "_l7" : "5. Center 2 Label",
-         "_s8" : "6. Center 3 Style",
-         "_f8" : "6. Center 3 Data",
-         "_l8" : "6. Center 3 Label",
-
-         "_s9" : "7. Bottom 1 Style",
-         "_f9" : "7. Bottom 1 Data",
-         "_l9" : "7. Bottom 1 Label",
-         "_s10" : "8. Bottom 2 Style",
-         "_f10" : "8. Bottom 2 Data",
-         "_l10" : "8. Bottom 2 Label",
-         "_s11" : "9. Bottom 3 Style",
-         "_f11" : "9. Bottom 3 Data",
-         "_l11" : "9. Bottom 3 Label",
-
-         "lcd" : "50% Darker",
-         "_cc0" : "3 ring Outer ring Color",
-         "_cc1" : "3 ring Center ring Color",
-         "_cc2" : "3 ring Inner ring Color",
-         "_ccu" : "3 ring Unfilled Color",
-        
-         "_r0" : "3 Ring Outer ring Data",
-         "_r1" : "3 Ring Center ring Data",
-         "_r2" : "3 Ring Inner ring Data",
-
-
-         
-        
-
-       
-         
-         "_c3" : "3. Chart 3",
-
-
-         "_c4" : "4. Chart 4",
-
-
-         "_0f" : "1 Field",
-         "_1f" : "1 Field + Large Chart",
-         "_2f" : "Full Chart",
-         "_3f" : "2 Fields",
-         "_4f" : "Chart",
-        
-
-         "_16f" : "1 Field Left Aligned",
-         "_17f" : "1 Field + Small Chart",
-
-         "_5f" : "Show Field Progress",
-         
-         
-         "pss" : "Sunevent Progress (overrides bottom progress bars)",
-
-         "_9f" : "AM/PM",
-         "_10f" : "Seconds",
-         "_11f" : "Alarm Icon",
-         "_12f" : "DND Icon",
-         "_13f" : "Battery Icon",
-         "_14f" : "Bluetooth Icon",
-         "_15f" : "Notification Icon",
-         "_18f" : "Active Status Icons",
-
-
-         "_p11" : "Progress Bar Center Data",
-         "_p12" : "Progress Bar Bottom Left Data",
-         "_p13" : "Progress Bar Bottom Right Data",
-
-         "_ct" : "Side Field Top",
-         "_cb" : "Side Field Bottom",
-         "_cs" : "Side Fields Align Right",
-
-
-         "_ft" : "Text Font",
-         "_fs" : "Text Font Size",
-
-         "_hf" : "Time Font",
-         "_hfa" : "Time Font (AOD, Always on)",
-         "_hfs" : "Time Font Size",
-
-         "_sf" : "Side Fields Font Size",
-         "_fc" : "Right Circle Font Size",
-
-         "fn1" : "Roboto Mono (not resizeable)",
-         "fn2" : "Roboto Mono Italics (not resizeable)",
-         "fn3" : "Barlow (not resizeable)",
-
-
-         "_lt" : "Text Color",
-         "_ll" : "Label Color",
-         "_bgc" : "Background Color",
-
-         "_hc" : "Hour Color",
-         "_hc2" : "Hour Color 2",
-         "_mc" : "Minute Color",
-         "_mc2" : "Minute Color 2",
-         "_dc" : "Divider Color",
-
-         "_ox" : "Time X Offset, 50 = center",
-         "_oy" : "Time Y Offset, 50 = center",
-
-
-         "_l3p" : "Top 1 Progress Bar Color 1",
-         "_l3b" : "Top 1 Progress Bar Color 2",
-         "_l3u" : "Top 1 Progress Bar Color Unfilled",
-
-         "_l4p" : "Top 2 Progress Bar Color 1",
-         "_l4b" : "Top 2 Progress Bar Color 2",
-         "_l4u" : "Top 2 Progress Bar Color Unfilled",
-        "_l5p" : "Top 3 Progress Bar Color 1",
-         "_l5b" : "Top 3 Progress Bar Color 2",
-         "_l5u" : "Top 3 Progress Bar Color Unfilled",
-
-
-
-
-
-
-
-        "_sh" : "Time Shade",
-        "sh0" : "No Shade",
-        "sh1" : "1px",
-        "sh2" : "2px",
-        "sh3" : "3px",
-        "sh4" : "4px",
-
-
-
-
-         "ls" : "Same color as Progress Bar",
-
-         "_lc0" : "Side Field Top Color",
-         "_lc1" : "Side Field Bottom Color",
-
-         "_lh0" : "Chart Color Start",
-         "_lh1" : "Chart Color End",
-
-         "_lcr" : "Circles Outline Color",
-         "_lcl" : "Background Lines Color",
-         "_lcc" : "Background Outline (big circle) Color",
-         "_lcb" : "Time + Circles Background Color",
-         "_btc" : "Dial Ticks Color",
-
-         "_bgs" : "Background Image",
-         "_bgt" : "Background Image Tint Color",
-        
-         "bg0" : "No Background Image",
-         "bg1" : "Camouflage",
-         "bg2" : "Hex",
-         "bg3" : "Ellipse",
-         "bg4" : "World",
-         "bg5" : "Hex Fade",
-         "bg10" : "Circle Only",
-
-         "_aas" : "Always on seconds",
-
-         "_aod" : "AOD Mode (Always on Display)",
-         "_aodct" : "AOD Time Tint Color",
-         "_aodc" : "AOD Data Tint Color",
-         "_aodT" : "AOD Time Brightness",
-         "_aodD" : "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
-         "_aodS" : "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
-         
-
-         "ad0" : "Turn Screen OFF",
-         "ad100" : "Full AOD (Default)",
-         "ad102" : "Full AOD - Black Background - Hide Charts ",
-
-         "ad1" : "Time Only",
-         "ad2" : "Time Only - Centered",
-         "ad3" : "Time Only - Moving",
-
-         "ad4" : "Time + data field (Select Below)",
-         "ad5" : "Time Centered + data field",
-         "ad6" : "Time Moving + data field",
-
-         "_f14" : "AOD Field Data",
-         "_l14" : "AOD Field Label",
-
-         "_gq" : "Gradient Quality",
-         "mg" : "MIPS Gradient",
-         "ng" : "No Gradient"
-
-
-
+        "_aod": "AOD Mode (Always on Display)",
+        "_aodct": "AOD Time Tint Color",
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        "ad102": "Full AOD - Black Background - Hide Charts ",
+        "ad1": "Time Only",
+        "ad2": "Time Only - Centered",
+        "ad3": "Time Only - Moving",
+        "ad4": "Time + data field (Select Below)",
+        "ad5": "Time Centered + data field",
+        "ad6": "Time Moving + data field",
+        "_f14": "AOD Field Data",
+        "_l14": "AOD Field Label",
+        "_gq": "Gradient Quality",
+        "mg": "MIPS Gradient",
+        "ng": "No Gradient"
     }
-
 }
