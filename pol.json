@@ -488,6 +488,9 @@
 
         
         "x18" : "Załaduj następne ustawienie",
+        "x50" : "=== Niestandardowe Czcionki (Nie Skalowalne) ===",
+        "x51" : "=== Systemowe Czcionki Wektorowe (Skalowalne) ===",
+        "x52" : "=== Systemowe Czcionki (Nie Skalowalne) ===",
 
         "_theme" : "Motywy",
         "_preset" : "Ustawienia (zapisz/załaduj swoje ustawienia)",
