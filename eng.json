@@ -163,7 +163,7 @@
         "f623" : "Body Battery",
         "f8" : "Move Bar",
         "f15" : "Move Bar Reversed",
-        
+
         "f276" : "Resting Heart Rate",
         "f275" : "Average Resting Heart Rate",
         "f281" : "Weight",
@@ -485,10 +485,12 @@
         "x13" : "Save to Preset 2",
         "x14" : "Save to Preset 3",
         "x15" : "Save to Preset 4",
-        "x16" : "Save to Preset 5",
-
-        
+        "x16" : "Save to Preset 5",        
         "x18" : "Load Next preset",
+
+        "x50" : "=== Custom Fonts (Not Resizeable) ===",
+        "x51" : "=== System Vector Fonts (Resizeable) ===",
+        "x52" : "=== System Fonts (Not Resizeable) ===",
 
         "_theme" : "Themes",
         "_preset" : "Presets (Save/Load your settings)",

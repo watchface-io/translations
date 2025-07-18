@@ -476,7 +476,11 @@
         "x14" : "Salva in Preset 3",
         "x15" : "Salva in Preset 4",
         "x16" : "Salva in Preset 5",
-        "x18" : "Carica Prossimo preset",
+        "x18" : "Carica preset successivo",
+
+        "x50" : "=== Font personalizzati (Non ridimensionabili) ===",
+        "x51" : "=== Font vettoriali di sistema (Ridimensionabili) ===",
+        "x52" : "=== Font di sistema (Non ridimensionabili) ===",
 
         "_theme" : "Temi",
         "_preset" : "Preset (Salva/Carica le tue impostazioni)",

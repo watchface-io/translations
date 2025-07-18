@@ -488,6 +488,10 @@
         
         "x18" : "Tải cài đặt sẵn tiếp theo",
 
+        "x50" : "=== Phông chữ tùy chỉnh (Không thể thay đổi kích thước) ===",
+        "x51" : "=== Phông chữ vector hệ thống (Có thể thay đổi kích thước) ===",
+        "x52" : "=== Phông chữ hệ thống (Không thể thay đổi kích thước) ===",
+
         "_theme" : "Chủ đề",
         "_preset" : "Cài đặt sẵn (Lưu/Tải cài đặt của bạn)",
         "_timeF" : "Định dạng Thời gian (thời gian)",

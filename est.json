@@ -488,6 +488,10 @@
         
         "x18" : "Laadi järgmine eelseade",
 
+        "x50" : "=== Kohandatud fondid (Ei saa suurust muuta) ===",
+        "x51" : "=== Süsteemi vektorfondid (Saab suurust muuta) ===",
+        "x52" : "=== Süsteemifondid (Ei saa suurust muuta) ===",
+
         "_theme" : "Teemad",
         "_preset" : "Eelseaded (salvesta/laadi oma seaded)",
         "_timeF" : "Kellaaja vorming (aeg)",

@@ -489,6 +489,10 @@
         
         "x18" : "Cargar siguiente preajuste",
 
+        "x50" : "=== Fuentes personalizadas (No redimensionables) ===",
+        "x51" : "=== Fuentes vectoriales del sistema (Redimensionables) ===",
+        "x52" : "=== Fuentes del sistema (No redimensionables) ===",
+
         "_theme" : "Temas",
         "_preset" : "Preajustes (Guardar/Cargar tus configuraciones)",
         "_timeF" : "Formato de Hora (hora)",
@@ -632,8 +636,8 @@
         "t35": "12 horas",
         "t36": "24 horas",
         "t43": "Militar (0700)",
-        "t44": "Mostrar am/pm",
-        "t45": "Ocultar am/pm",
+        "t44" : "Mostrar am/pm",
+        "t45" : "Ocultar am/pm",
 
         
         "m1": "Info",

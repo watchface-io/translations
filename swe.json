@@ -489,6 +489,10 @@
         
         "x18" : "Ladda nästa förinställning",
 
+        "x50" : "=== Anpassade typsnitt (Ej skalningsbara) ===",
+        "x51" : "=== Systemvektortypsnitt (Skalningsbara) ===",
+        "x52" : "=== Systemtypsnitt (Ej skalningsbara) ===",
+
         "_theme" : "Teman",
         "_preset" : "Förinställningar (Spara/Ladda dina inställningar)",
         "_timeF" : "Tidsformat (tid)",
@@ -591,9 +595,9 @@
         "u37": "Miles",
         "u38": "Kilometer",
         "u39": "Fot",
-        "u40": "Meter",
-        "u41": "Minut per mile",
-        "u42": "Minut per kilometer",
+        "u40" : "Meter",
+        "u41" : "Minut per mile",
+        "u42" : "Minut per kilometer",
         
         "u44": " m",
         "u45": " km",
@@ -630,10 +634,10 @@
         
         "t31": "Använd enhetsinställningar",
         "t35": "12-timmar",
-        "t36": "24-timmar",
-        "t43": "Militär (0700)",
-        "t44": "Visa am/pm",
-        "t45": "Dölj am/pm",
+        "t36" : "24-timmar",
+        "t43" : "Militär (0700)",
+        "t44" : "Visa am/pm",
+        "t45" : "Dölj am/pm",
 
         
         "m1": "Info",
@@ -656,12 +660,12 @@
         "m17": "App 1",
         "m18": "App 2",
         "m19": "App 3",
-        "m20": "App 4",
-        "m21": "App 5",
-        "m22": "Är du säker?",
-        "m23": "Ja",
-        "m24": "Nej",
-        "m25": "Gå tillbaka",
+        "m20" : "App 4",
+        "m21" : "App 5",
+        "m22" : "Är du säker?",
+        "m23" : "Ja",
+        "m24" : "Nej",
+        "m25" : "Gå tillbaka",
 
         "s": "Inställningar",
         "s1": "Tidsformat",

@@ -488,6 +488,10 @@
         
         "x18" : "Muat preset berikutnya",
 
+        "x50" : "=== Font Kustom (Tidak Dapat Diubah Ukuran) ===",
+        "x51" : "=== Font Vektor Sistem (Dapat Diubah Ukuran) ===",
+        "x52" : "=== Font Sistem (Tidak Dapat Diubah Ukuran) ===",
+
         "_theme" : "Tema",
         "_preset" : "Preset (Simpan/Muat pengaturan Anda)",
         "_timeF" : "Format Waktu (waktu)",

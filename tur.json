@@ -488,6 +488,10 @@
         
         "x18" : "Sonraki preset'i yükle",
 
+        "x50" : "=== Özel Yazı Tipleri (Boyutlandırılamaz) ===",
+        "x51" : "=== Sistem Vektör Yazı Tipleri (Boyutlandırılabilir) ===",
+        "x52" : "=== Sistem Yazı Tipleri (Boyutlandırılamaz) ===",
+
         "_theme" : "Temalar",
         "_preset" : "Preset'ler (ayarlarınızı kaydet/yükle)",
         "_timeF" : "Saat Formatı (zaman)",
@@ -589,9 +593,9 @@
         "u37": "Mil",
         "u38": "Kilometre",
         "u39": "Fit",
-        "u40": "Metre",
-        "u41": "Mil başına dakika",
-        "u42": "Kilometre başına dakika",
+        "u40" : "Metre",
+        "u41" : "Mil başına dakika",
+        "u42" : "Kilometre başına dakika",
         
         "u44": " m",
         "u45": " km",
@@ -619,7 +623,7 @@
         "u68": "AÇIK",
         "u69": "KAPALI",
 
-        "t": "Zaman ayarları",
+        "t" : "Zaman ayarları",
         "t0": "Haftanın ilk günü",
         "t1": "12/24s saat", 
         "t2": "Zaman formatı (zaman)",
@@ -659,7 +663,7 @@
         "m24": "Hayır",
         "m25": "Geri dön",
 
-        "s": "Ayarlar",
+        "s" : "Ayarlar",
         "s1": "Zaman formatları",
         "s2": "Haftanın günü, 12/24s, vb.",
         "s3": "Birimler",

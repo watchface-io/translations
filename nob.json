@@ -487,7 +487,11 @@
         "x16" : "Lagre til forhåndsinnstilling 5",
 
         
-        "x18" : "Last neste forhåndsinnstilling",
+        "x18" : "Last inn neste forhåndsinnstilling",
+
+        "x50" : "=== Egendefinerte skrifttyper (Ikke skalerbare) ===",
+        "x51" : "=== System vektorskrifttyper (Skalerbare) ===",
+        "x52" : "=== Systemskrifttyper (Ikke skalerbare) ===",
 
         "_theme" : "Temaer",
         "_preset" : "Forhåndsinnstillinger (lagre/laste dine innstillinger)",
@@ -587,13 +591,13 @@
         "u33": "Celsius",
         "u34": "Vis enhet",
         "u35": "skjul",
-        "u36": "vis",
-        "u37": "Miles",
-        "u38": "Kilometer",
-        "u39": "Fot",
-        "u40": "Meter",
-        "u41": "Minutt per mile",
-        "u42": "Minutt per kilometer",
+        "u36" : "vis",
+        "u37" : "Miles",
+        "u38" : "Kilometer",
+        "u39" : "Fot",
+        "u40" : "Meter",
+        "u41" : "Minutt per mile",
+        "u42" : "Minutt per kilometer",
         
         "u44": " m",
         "u45": " km",
@@ -619,10 +623,10 @@
         "u66": "d,t",
         "u67": " d",
         "u68": "PÅ",
-        "u69": "AV",
+        "u69" : "AV",
         
 
-        "t": "Tidsinnstillinger",
+        "t" : "Tidsinnstillinger",
         "t0": "Første dag i uken",
         "t1": "12/24t klokke", 
         "t2": "Tidsformat (Tid)",

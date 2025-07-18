@@ -488,6 +488,10 @@
         
         "x18" : "Načíst další předvolbu",
 
+        "x50" : "=== Vlastní písma (Nelze měnit velikost) ===",
+        "x51" : "=== Systémová vektorová písma (Lze měnit velikost) ===",
+        "x52" : "=== Systémová písma (Nelze měnit velikost) ===",
+
         "_theme" : "Témata",
         "_preset" : "Předvolby (uložit/načíst vaše nastavení)",
         "_timeF" : "Formát času (čas)",

@@ -489,6 +489,10 @@
         
         "x18" : "Carregar próxima predefinição",
 
+        "x50" : "=== Fontes personalizadas (Não redimensionáveis) ===",
+        "x51" : "=== Fontes vetoriais do sistema (Redimensionáveis) ===",
+        "x52" : "=== Fontes do sistema (Não redimensionáveis) ===",
+
         "_theme" : "Temas",
         "_preset" : "Predefinições (Guardar/Carregar as suas configurações)",
         "_timeF" : "Formato de Hora (hora)",
@@ -630,10 +634,10 @@
         
         "t31": "Usar configurações do dispositivo",
         "t35": "12 horas",
-        "t36": "24 horas",
-        "t43": "Militar (0700)",
-        "t44": "Mostrar am/pm",
-        "t45": "Ocultar am/pm",
+        "t36" : "24 horas",
+        "t43" : "Militar (0700)",
+        "t44" : "Mostrar am/pm",
+        "t45" : "Ocultar am/pm",
 
         
         "m1": "Info",
@@ -653,15 +657,15 @@
         "m14": "Redefinir configurações",
         "m15": "Redefinir armazenamento",
         "m16": "Complicações",
-        "m17": "App 1",
-        "m18": "App 2",
-        "m19": "App 3",
-        "m20": "App 4",
-        "m21": "App 5",
-        "m22": "Tem certeza?",
-        "m23": "Sim",
-        "m24": "Não",
-        "m25": "Voltar",
+        "m17" : "App 1",
+        "m18" : "App 2",
+        "m19" : "App 3",
+        "m20" : "App 4",
+        "m21" : "App 5",
+        "m22" : "Tem certeza?",
+        "m23" : "Sim",
+        "m24" : "Não",
+        "m25" : "Voltar",
 
         "s": "Configurações",
         "s1": "Formatos de hora",

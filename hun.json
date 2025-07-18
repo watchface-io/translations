@@ -488,6 +488,10 @@
         
         "x18" : "Következő előbeállítás betöltése",
 
+        "x50" : "=== Egyéni betűtípusok (Nem átméretezhető) ===",
+        "x51" : "=== Rendszer vektorbetűtípusok (Átméretezhető) ===",
+        "x52" : "=== Rendszerbetűtípusok (Nem átméretezhető) ===",
+
         "_theme" : "Témák",
         "_preset" : "Előbeállítások (Beállítások mentése/betöltése)",
         "_timeF" : "Időformátum (idő)",

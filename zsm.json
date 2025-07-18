@@ -488,6 +488,10 @@
         
         "x18" : "Muat praset seterusnya",
 
+        "x50" : "=== Font Tersuai (Tidak Boleh Diubah Saiz) ===",
+        "x51" : "=== Font Vektor Sistem (Boleh Diubah Saiz) ===",
+        "x52" : "=== Font Sistem (Tidak Boleh Diubah Saiz) ===",
+
         "_theme" : "Tema",
         "_preset" : "Praset (Simpan/Muat tetapan anda)",
         "_timeF" : "Format Masa (masa)",

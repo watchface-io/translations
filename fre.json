@@ -485,7 +485,11 @@
         "x16" : "Sauvegarder dans préréglage 5",
 
         
-        "x18" : "Charger préréglage suivant",
+        "x18" : "Charger le préréglage suivant",
+
+        "x50" : "=== Polices personnalisées (Non redimensionnables) ===",
+        "x51" : "=== Polices vectorielles système (Redimensionnables) ===",
+        "x52" : "=== Polices système (Non redimensionnables) ===",
 
         "_theme" : "Thèmes",
         "_preset" : "Préréglages (sauvegarder/charger vos paramètres)",

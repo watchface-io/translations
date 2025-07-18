@@ -488,6 +488,10 @@
         
         "x18" : "Lataa seuraava esiasetus",
 
+        "x50" : "=== Mukautetut fontit (Ei skaalautuvia) ===",
+        "x51" : "=== Järjestelmän vektorifontit (Skaalautuvia) ===",
+        "x52" : "=== Järjestelmäfontit (Ei skaalautuvia) ===",
+
         "_theme" : "Teemat",
         "_preset" : "Esiasetukset (tallenna/lataa asetuksesi)",
         "_timeF" : "Aikamuoto (aika)",

@@ -489,6 +489,10 @@
         
         "x18" : "Ielādēt nākamo iestatījumu",
 
+        "x50" : "=== Pielāgoti fonti (Nav maināmi izmēri) ===",
+        "x51" : "=== Sistēmas vektora fonti (Maināmi izmēri) ===",
+        "x52" : "=== Sistēmas fonti (Nav maināmi izmēri) ===",
+
         "_theme" : "Tēmas",
         "_preset" : "Iestatījumi (saglabāt/ielādēt jūsu iestatījumus)",
         "_timeF" : "Laika formāts (laiks)",

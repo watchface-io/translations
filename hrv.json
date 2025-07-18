@@ -486,7 +486,11 @@
         "x16" : "Spremi u pretpostavku 5",
 
         
-        "x18" : "Učitaj sljedeću pretpostavku",
+        "x18" : "Učitaj sljedeću predloška",
+
+        "x50" : "=== Prilagođeni fontovi (Nije moguće mijenjati veličinu) ===",
+        "x51" : "=== Sustavi vektorski fontovi (Moguće mijenjanje veličine) ===",
+        "x52" : "=== Sustavski fontovi (Nije moguće mijenjati veličinu) ===",
 
         "_theme" : "Teme",
         "_preset" : "Pretpostavke (Spremi/Učitaj svoje postavke)",
