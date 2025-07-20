@@ -1,0 +1,21 @@
+Tietorikas kellotaulu 12 paikalla kaikille tiedoillesi, näytetty yksinkertaisella tavalla. Täysin mukautettavissa kaavioilla, edistymispalkeilla, 3 fontilla jne.
+
+⭐️ Ilmainen vs Pro ⭐️
+Tämä kellotaulu on saatavilla ilmaiseksi kaikilla perustoiminnoilla. Premium-ominaisuudet (merkitty [*]) vaativat Pro-avaimen lukituksen avaamiseen. Voit ostaa Pro-avaimen täältä: https://ko-fi.com/s/e33037b90e Tai ostaa PRO-version täältä: https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Forerunner 255 jne.) ⭐️
+Tämä kellotaulu on täysin optimoitu MIPS:lle, mutta värit näyttävät erilaisilta kuin kuvissa, koska ne on otettu Amoled-laitteella.
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Hanki PRO-avain: https://ko-fi.com/s/e33037b90e
+* Teemaluettelo: https://watchface.io/simplicity/themes
+* Väriohje: https://watchface.io/docs/color-list
+* Saatavilla olevat tietokentät: https://watchface.io/docs/datafields
+
+⭐️ Konfigurointi ⭐️
+Huomaa: On kaksi eri paikkaa asetuksille:
+* Garmin IQ -sovellus (puhelimessasi): Konfiguroi tietokentät, värit ja yleiset asetukset.
+* Kellossa olevat asetukset: Käytä yksityiskohtaisempia vaihtoehtoja kuten aikamuoto, tavoitteet ja yksiköt suoraan kellossa pitämällä valikkonäppäintä, valitsemalla kellotaulun ja napauttamalla mukautus.
+
+*** Jos kohtaat vikoja tai ongelmia, ota minuun yhteyttä painamalla "Contact Developer" arvostelujärjestelmän käyttämisen sijaan. Voin vastata sähköposteihin nopeasti, kun taas en ehkä näe arvosteluja useisiin päiviin. ***

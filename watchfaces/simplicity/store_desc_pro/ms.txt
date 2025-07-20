@@ -1,0 +1,22 @@
+Muka jam kaya data dengan 12 tempat untuk semua data anda, dipaparkan dengan cara yang mudah. Boleh disesuaikan sepenuhnya dengan graf, bar kemajuan, 3 fon, dll.
+
+⭐️ Cuba sebelum membeli! ⭐️
+Sebelum membeli muka jam ini, cuba versi percuma dahulu untuk memastikan ia adalah apa yang anda mahu dan anda suka penampilannya pada jam tangan anda: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ Peranti MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Muka jam ini dioptimumkan sepenuhnya untuk MIPS, tetapi pastikan untuk mencuba versi percuma sebelum membelinya. Imej yang ditunjukkan diambil pada peranti Amoled, dan akan kelihatan berbeza pada peranti MIPS anda.
+
+⭐️ Sumber ⭐️
+* FAQ: https://watchface.io/faq
+* Senarai Tema: https://watchface.io/simplicity/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Aplikasi Garmin IQ (pada telefon anda): Konfigur medan data, warna, dan tetapan am.
+* Tetapan Pada Jam Tangan: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit secara terus pada jam tangan dengan menekan dan menahan butang menu, memilih muka jam, dan mengetik sesuaikan.
+
+
+
+*** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Contact Developer" bukannya menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan selama beberapa hari. ***

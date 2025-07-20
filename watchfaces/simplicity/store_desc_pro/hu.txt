@@ -1,0 +1,22 @@
+Adatgazdag számlap 12 hellyel minden adatának, egyszerű módon megjelenítve. Teljesen testreszabható grafikonokkal, haladássávokkal, 3 betűtípussal, stb.
+
+⭐️ Vásárlás előtt próbálja ki! ⭐️
+Mielőtt megvásárolná ezt a számlapot, először próbálja ki az ingyenes verziót, hogy megbizonyosodjon arról, hogy ez az, amit szeretne, és tetszik-e, ahogy kinéz az órájában: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ MIPS eszközök (Fenix 7, Enduro, Forerunner 255, stb.) ⭐️
+Ez a számlap teljesen optimalizált MIPS-re, de mindenképpen próbálja ki az ingyenes verziót vásárlás előtt. A megjelenített képek Amoled eszközön készültek, és másképp fognak kinézni az Ön MIPS eszközén.
+
+⭐️ Források ⭐️
+* GYIK: https://watchface.io/faq
+* Témák listája: https://watchface.io/simplicity/themes
+* Színútmutató: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+Megjegyzés: Két különböző hely van beállításokkal:
+* Garmin IQ alkalmazás (a telefonján): Adatmezők, színek és általános beállítások konfigurálása.
+* Órán lévő beállítások: Részletesebb opciók elérése, mint időformátum, célok és mértékegységek közvetlenül az órán a menü gomb nyomva tartásával, számlap kiválasztásával és testreszabás megérintésével.
+
+
+
+*** Ha hibákba vagy problémákba ütközik, kérem lépjen kapcsolatba velem a "Contact Developer" megnyomásával az értékelési rendszer használata helyett. Gyorsan tudok válaszolni emailekre, miközben lehet, hogy nem látom az értékeléseket több napig. ***

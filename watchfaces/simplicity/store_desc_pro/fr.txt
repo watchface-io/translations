@@ -1,0 +1,22 @@
+Cadran riche en données avec 12 emplacements pour toutes vos données, affichées de manière simple. Entièrement personnalisable avec graphiques, barres de progression, 3 polices, etc.
+
+⭐️ Essayez avant d'acheter ! ⭐️
+Avant d'acheter ce cadran, essayez d'abord la version gratuite pour vous assurer que c'est ce que vous voulez et que vous aimez son apparence sur votre montre : https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ Appareils MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Ce cadran est entièrement optimisé pour MIPS, mais assurez-vous d'essayer la version gratuite avant de l'acheter. Les images montrées sont prises sur un appareil Amoled et auront un aspect différent sur votre appareil MIPS.
+
+⭐️ Ressources ⭐️
+* FAQ : https://watchface.io/faq
+* Liste des thèmes : https://watchface.io/simplicity/themes
+* Guide des couleurs : https://watchface.io/docs/color-list
+* Champs de données disponibles : https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note : Il y a deux endroits différents avec des paramètres :
+* App Garmin IQ (sur votre téléphone) : Configurez les champs de données, couleurs et paramètres généraux.
+* Paramètres sur la montre : Accédez à des options plus détaillées comme le format de l'heure, les objectifs et les unités directement sur la montre en maintenant le bouton menu, en sélectionnant le cadran et en appuyant sur personnaliser.
+
+
+
+*** Si vous rencontrez des bugs ou des problèmes, veuillez me contacter en appuyant sur "Contact Developer" au lieu d'utiliser le système d'avis. Je peux répondre aux emails rapidement, alors que je pourrais ne pas voir les avis pendant plusieurs jours. ***

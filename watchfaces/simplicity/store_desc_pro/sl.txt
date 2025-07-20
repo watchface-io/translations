@@ -1,0 +1,22 @@
+Podatkovno bogata številčnica z 12 mesti za vse vaše podatke, prikazane na preprost način. Popolnoma prilagodljiva z grafi, vrsticami napredka, 3 pisavami itd.
+
+⭐️ Preizkusite pred nakupom! ⭐️
+Pred nakupom te številčnice si najprej oglejte brezplačno različico, da se prepričate, da je to, kar želite, in da vam je všeč njen videz na vaši uri: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ MIPS naprave (Fenix 7, Enduro, Forerunner 255 itd.) ⭐️
+Ta številčnica je popolnoma optimizirana za MIPS, vendar se prepričajte, da si pred nakupom ogledate brezplačno različico. Prikazane slike so posnete na Amoled napravi in bodo na vaši MIPS napravi videti drugače.
+
+⭐️ Viri ⭐️
+* Pogosto zastavljena vprašanja: https://watchface.io/faq
+* Seznam tem: https://watchface.io/simplicity/themes
+* Vodnik za barve: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Garmin IQ aplikacija (na telefonu): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostopajte do podrobnejših možnosti, kot so format časa, cilji in enote, neposredno na uri z držanjem gumba za meni, izbiro številčnice in dotikom prilagodi.
+
+
+
+*** Če naletite na napake ali težave, me prosim kontaktirajte s pritiskom na "Kontaktiraj razvijalca" namesto uporabe sistema ocenjevanja. Na e-pošto lahko odgovorim hitro, medtem ko morda ocen ne vidim več dni. ***

@@ -1,0 +1,22 @@
+Datarik urtavla med 12 platser för all din data, visad på ett enkelt sätt. Helt anpassningsbar med grafer, framstegsbalkar, 3 typsnitt, etc.
+
+⭐️ Prova innan du köper! ⭐️
+Innan du köper denna urtavla, kolla först den gratis versionen för att säkerställa att det är vad du vill ha och att du gillar hur den ser ut på din klocka: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ MIPS-enheter (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+Denna urtavla är helt optimerad för MIPS, men se till att kolla den gratis versionen innan du köper den. Bilderna som visas är tagna på en Amoled-enhet och kommer att se annorlunda ut på din MIPS-enhet.
+
+⭐️ Resurser ⭐️
+* FAQ: https://watchface.io/faq
+* Temalista: https://watchface.io/simplicity/themes
+* Färgguide: https://watchface.io/docs/color-list
+* Tillgängliga datafält: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Obs: Det finns två olika platser med inställningar:
+* Garmin IQ-appen (på din telefon): Konfigurera datafält, färger och allmänna inställningar.
+* Klockinställningar: Få tillgång till mer detaljerade alternativ som tidsformat, mål och enheter direkt på klockan genom att hålla in menyknappen, välja urtavla och trycka på anpassa.
+
+
+
+*** Om du stöter på några buggar eller problem, vänligen kontakta mig genom att trycka på "Kontakta utvecklare" istället för att använda recensionssystemet. Jag kan svara på e-post snabbt, medan jag kanske inte ser recensioner på flera dagar. ***

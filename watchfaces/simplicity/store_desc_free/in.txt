@@ -1,0 +1,21 @@
+Watchface kaya data dengan 12 tempat untuk semua data Anda, ditampilkan dengan cara sederhana. Sepenuhnya dapat disesuaikan dengan grafik, progress bar, 3 font, dll.
+
+⭐️ Gratis vs Pro ⭐️
+Watchface ini tersedia tanpa biaya dengan semua fungsi dasar. Fitur premium (ditandai dengan [*]) memerlukan Pro Key untuk membuka kunci. Anda dapat membeli Pro Key di sini: https://ko-fi.com/s/e33037b90e Atau membeli versi PRO di sini: https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
+
+⭐️ Perangkat MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Watchface ini sepenuhnya dioptimalkan untuk MIPS, tetapi warna akan terlihat berbeda seperti di gambar, karena ini diambil pada perangkat Amoled.
+
+⭐️ Sumber Daya ⭐️
+* FAQ: https://watchface.io/faq
+* Dapatkan kunci PRO: https://ko-fi.com/s/e33037b90e
+* Daftar Tema: https://watchface.io/simplicity/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Datafield yang Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Catatan: Ada dua tempat berbeda dengan pengaturan:
+* Aplikasi Garmin IQ (di ponsel Anda): Konfigurasi datafield, warna, dan pengaturan umum.
+* Pengaturan di Jam: Akses opsi yang lebih detail seperti format waktu, tujuan, dan unit langsung di jam dengan menahan tombol menu, memilih watchface, dan ketuk sesuaikan.
+
+*** Jika Anda mengalami bug atau masalah, silakan hubungi saya dengan menekan "Contact Developer" alih-alih menggunakan sistem ulasan. Saya dapat merespons email dengan cepat, sedangkan saya mungkin tidak melihat ulasan selama beberapa hari. ***

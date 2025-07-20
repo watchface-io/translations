@@ -1,0 +1,22 @@
+Mostrador rico em dados com 12 espaços para todos os seus dados, exibidos de forma simples. Totalmente personalizável com gráficos, barras de progresso, 3 tipos de letra, etc.
+
+⭐️ Experimente antes de comprar! ⭐️
+Antes de comprar este mostrador, experimente primeiro a versão gratuita para se certificar de que é o que pretende e que gosta de como fica no seu relógio: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Este mostrador está totalmente optimizado para MIPS, mas certifique-se de experimentar a versão gratuita antes de o comprar. As imagens mostradas foram tiradas num dispositivo Amoled e terão aspecto diferente no seu dispositivo MIPS.
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Lista de temas: https://watchface.io/simplicity/themes
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Há dois sítios diferentes com definições:
+* Aplicação Garmin IQ (no seu telemóvel): Configure campos de dados, cores e definições gerais.
+* Definições no relógio: Aceda a opções mais detalhadas como formato de hora, objectivos e unidades directamente no relógio mantendo premido o botão menu, seleccionando mostrador e tocando em personalizar.
+
+
+
+*** Se encontrar bugs ou problemas, por favor contacte-me premindo "Contact Developer" em vez de usar o sistema de avaliações. Posso responder a emails rapidamente, enquanto posso não ver avaliações durante vários dias. ***

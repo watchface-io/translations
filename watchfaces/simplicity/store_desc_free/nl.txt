@@ -1,0 +1,21 @@
+Datarijke wijzerplaat met 12 plekken voor al je data, weergegeven op een eenvoudige manier. Volledig aanpasbaar met grafieken, voortgangsbalken, 3 lettertypen, enz.
+
+⭐️ Gratis vs Pro ⭐️
+Deze wijzerplaat is kosteloos beschikbaar met alle basisfuncties. Premium functies (gemarkeerd met [*]) vereisen een Pro sleutel om te ontgrendelen. Je kunt een Pro sleutel kopen hier: https://ko-fi.com/s/e33037b90e Of koop de PRO versie hier: https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
+
+⭐️ MIPS apparaten (Fenix 7, Enduro, Forerunner 255, enz.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar kleuren zullen er anders uitzien dan op de afbeeldingen, omdat deze zijn genomen op een Amoled apparaat.
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Krijg een PRO sleutel: https://ko-fi.com/s/e33037b90e
+* Themalijst: https://watchface.io/simplicity/themes
+* Kleurgids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Opmerking: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ app (op je telefoon): Configureer datavelden, kleuren en algemene instellingen.
+* Instellingen op horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en aanpassen aan te raken.
+
+*** Als je bugs of problemen tegenkomt, neem dan contact met me op door "Contact Developer" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan snel reageren op emails, terwijl ik beoordelingen mogelijk dagen niet zie. ***

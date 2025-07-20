@@ -1,0 +1,22 @@
+Esfera rica en datos con 12 espacios para todos tus datos, mostrados de manera simple. Completamente personalizable con gráficos, barras de progreso, 3 fuentes, etc.
+
+⭐️ ¡Prueba antes de comprar! ⭐️
+Antes de comprar esta esfera, prueba primero la versión gratuita para asegurarte de que es lo que quieres y que te gusta cómo se ve en tu reloj: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Esta esfera está completamente optimizada para MIPS, pero asegúrate de probar la versión gratuita antes de comprarla. Las imágenes mostradas fueron tomadas en un dispositivo Amoled y se verán diferentes en tu dispositivo MIPS.
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Lista de temas: https://watchface.io/simplicity/themes
+* Guía de colores: https://watchface.io/docs/color-list
+* Campos de datos disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuraciones:
+* App Garmin IQ (en tu teléfono): Configura campos de datos, colores y configuraciones generales.
+* Configuraciones en el reloj: Accede a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón de menú, seleccionando esfera y tocando personalizar.
+
+
+
+*** Si encuentras errores o problemas, por favor contáctame presionando "Contact Developer" en lugar de usar el sistema de reseñas. Puedo responder emails rápidamente, mientras que podría no ver las reseñas durante varios días. ***

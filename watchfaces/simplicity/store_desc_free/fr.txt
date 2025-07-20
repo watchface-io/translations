@@ -1,0 +1,21 @@
+Cadran riche en données avec 12 emplacements pour toutes vos données, affiché de manière simple. Entièrement personnalisable avec graphiques, barres de progression, 3 polices, etc.
+
+⭐️ Gratuit vs Pro ⭐️
+Ce cadran est disponible gratuitement avec toutes les fonctions de base. Les fonctionnalités premium (marquées avec [*]) nécessitent une Clé Pro pour débloquer. Vous pouvez acheter une Clé Pro ici: https://ko-fi.com/s/e33037b90e Ou acheter la version PRO ici: https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
+
+⭐️ Appareils MIPS (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+Ce cadran est entièrement optimisé pour MIPS, mais les couleurs apparaîtront différemment des images, car celles-ci sont prises sur un appareil Amoled.
+
+⭐️ Ressources ⭐️
+* FAQ: https://watchface.io/faq
+* Obtenir une clé PRO: https://ko-fi.com/s/e33037b90e
+* Liste des thèmes: https://watchface.io/simplicity/themes
+* Guide des couleurs: https://watchface.io/docs/color-list
+* Champs de données disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: Il y a deux endroits différents avec les paramètres:
+* App Garmin IQ (sur votre téléphone): Configurez les champs de données, couleurs et paramètres généraux.
+* Paramètres sur la montre: Accédez à des options plus détaillées comme le format de l'heure, les objectifs et les unités directement sur la montre en maintenant le bouton menu, sélectionnant le cadran et appuyant sur personnaliser.
+
+*** Si vous rencontrez des bugs ou des problèmes, veuillez me contacter en appuyant sur "Contact Developer" au lieu d'utiliser le système d'avis. Je peux répondre aux emails rapidement, alors que je pourrais ne pas voir les avis pendant plusieurs jours. ***

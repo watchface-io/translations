@@ -1,0 +1,22 @@
+Bogata w dane tarcza z 12 miejscami na wszystkie twoje dane, wyświetlane w prosty sposób. W pełni konfigurowalna z wykresami, paskami postępu, 3 czcionkami, itp.
+
+⭐️ Wypróbuj przed zakupem! ⭐️
+Przed zakupem tej tarczy, wypróbuj najpierw darmową wersję, aby upewnić się, że to jest to, czego chcesz i że podoba ci się jak wygląda na twoim zegarku: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ Urządzenia MIPS (Fenix 7, Enduro, Forerunner 255, itp.) ⭐️
+Ta tarcza jest w pełni zoptymalizowana dla MIPS, ale upewnij się, że wypróbujesz darmową wersję przed zakupem. Pokazane obrazy zostały zrobione na urządzeniu Amoled i będą wyglądać inaczej na twoim urządzeniu MIPS.
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Lista motywów: https://watchface.io/simplicity/themes
+* Przewodnik kolorów: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Są dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na twoim telefonie): Konfiguruj pola danych, kolory i ogólne ustawienia.
+* Ustawienia na zegarku: Uzyskaj dostęp do bardziej szczegółowych opcji jak format czasu, cele i jednostki bezpośrednio na zegarku przytrzymując przycisk menu, wybierając tarczę i dotykając dostosuj.
+
+
+
+*** Jeśli napotkasz błędy lub problemy, skontaktuj się ze mną naciskając "Contact Developer" zamiast używania systemu recenzji. Mogę szybko odpowiedzieć na e-maile, podczas gdy mogę nie widzieć recenzji przez kilka dni. ***

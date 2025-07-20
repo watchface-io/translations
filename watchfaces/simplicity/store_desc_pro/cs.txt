@@ -1,0 +1,22 @@
+Datově bohatý ciferník s 12 místy pro všechna vaše data, zobrazená jednoduchým způsobem. Plně přizpůsobitelný s grafy, progress bary, 3 fonty, atd.
+
+⭐️ Vyzkoušejte před koupí! ⭐️
+Před koupí tohoto ciferníku si nejprve vyzkoušejte bezplatnou verzi, abyste se ujistili, že je to to, co chcete, a že se vám líbí, jak vypadá na vašich hodinkách: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
+
+⭐️ MIPS zařízení (Fenix 7, Enduro, Forerunner 255, atd.) ⭐️
+Tento ciferník je plně optimalizovaný pro MIPS, ale před koupí si určitě vyzkoušejte bezplatnou verzi. Zobrazené obrázky jsou pořízené na Amoled zařízení a na vašem MIPS zařízení budou vypadat jinak.
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Seznam témat: https://watchface.io/simplicity/themes
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dvě různá místa s nastaveními:
+* Aplikace Garmin IQ (na vašem telefonu): Konfigurujte datová pole, barvy a obecná nastavení.
+* Nastavení na hodinkách: Přistupte k podrobnějším možnostem jako je formát času, cíle a jednotky přímo na hodinkách podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobit.
+
+
+
+*** Pokud narazíte na nějaké chyby nebo problémy, kontaktujte mě prosím stisknutím "Contact Developer" místo používání systému recenzí. Mohu rychle odpovědět na e-maily, zatímco recenze nemusím vidět několik dní. ***

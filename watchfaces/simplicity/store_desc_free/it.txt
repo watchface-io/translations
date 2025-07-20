@@ -1,0 +1,21 @@
+Quadrante ricco di dati con 12 spazi per tutti i tuoi dati, visualizzato in modo semplice. Completamente personalizzabile con grafici, barre di progresso, 3 font, ecc.
+
+⭐️ Gratuito vs Pro ⭐️
+Questo quadrante è disponibile gratuitamente con tutte le funzioni di base. Le funzionalità premium (contrassegnate con [*]) richiedono una Chiave Pro per sbloccare. Puoi acquistare una Chiave Pro qui: https://ko-fi.com/s/e33037b90e O acquistare la versione PRO qui: https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
+
+⭐️ Dispositivi MIPS (Fenix 7, Enduro, Forerunner 255, ecc.) ⭐️
+Questo quadrante è completamente ottimizzato per MIPS, ma i colori appariranno diversi dalle immagini, poiché queste sono state scattate su un dispositivo Amoled.
+
+⭐️ Risorse ⭐️
+* FAQ: https://watchface.io/faq
+* Ottieni chiave PRO: https://ko-fi.com/s/e33037b90e
+* Lista temi: https://watchface.io/simplicity/themes
+* Guida colori: https://watchface.io/docs/color-list
+* Campi dati disponibili: https://watchface.io/docs/datafields
+
+⭐️ Configurazione ⭐️
+Nota: Ci sono due posti diversi con le impostazioni:
+* App Garmin IQ (sul tuo telefono): Configura campi dati, colori e impostazioni generali.
+* Impostazioni sull'orologio: Accedi a opzioni più dettagliate come formato ora, obiettivi e unità direttamente sull'orologio tenendo premuto il pulsante menu, selezionando il quadrante e toccando personalizza.
+
+*** Se riscontri bug o problemi, ti prego di contattarmi premendo "Contact Developer" invece di usare il sistema di recensioni. Posso rispondere alle email rapidamente, mentre potrei non vedere le recensioni per diversi giorni. ***

@@ -1,0 +1,24 @@
+모든 데이터를 위한 12개의 위치가 있는 데이터가 풍부한 시계 페이스로, 간단하게 표시됩니다. 그래프, 진행률 표시줄, 3개의 폰트 등으로 완전히 사용자 정의 가능합니다.
+
+⭐️ 무료 vs Pro ⭐️
+이 시계 페이스는 모든 기본 기능과 함께 무료로 이용할 수 있습니다. 프리미엄 기능([*]로 표시)은 잠금 해제를 위해 Pro 키가 필요합니다. 여기서 Pro 키를 구매할 수 있습니다: https://ko-fi.com/s/e33037b90e 또는 여기서 PRO 버전을 구매하세요: https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
+
+⭐️ MIPS 기기 (Fenix 7, Enduro, Forerunner 255 등) ⭐️
+이 시계 페이스는 MIPS에 완전히 최적화되어 있지만, 사진과는 색상이 다르게 보일 것입니다. 이는 Amoled 기기에서 촬영되었기 때문입니다.
+
+
+⭐️ 리소스 ⭐️
+* FAQ: https://watchface.io/faq
+* PRO 키 받기: https://ko-fi.com/s/e33037b90e
+* 테마 목록: https://watchface.io/simplicity/themes
+* 색상 가이드: https://watchface.io/docs/color-list
+* 사용 가능한 데이터 필드: https://watchface.io/docs/datafields
+
+
+⭐️ 구성 ⭐️
+참고: 설정이 있는 두 개의 다른 위치가 있습니다:
+* Garmin IQ 앱 (휴대폰에서): 데이터 필드, 색상 및 일반 설정을 구성합니다.
+* 시계 내 설정: 메뉴 버튼을 길게 눌러 시계 페이스를 선택하고 사용자 정의를 탭하여 시간 형식, 목표 및 단위와 같은 더 자세한 옵션에 시계에서 직접 액세스합니다.
+
+
+*** 버그나 문제가 발생하면 리뷰 시스템을 사용하는 대신 "Contact Developer"를 눌러 저에게 연락해 주세요. 이메일에는 신속하게 응답할 수 있지만, 리뷰는 며칠 동안 보지 못할 수도 있습니다. ***
