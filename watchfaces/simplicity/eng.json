@@ -24,6 +24,7 @@
 
         "_pi": "Show Progress Bar Icons",
         "_pd": "Show Progress Bar Data",
+        "_pbg": "Progress Circles Gap",
 
         "_p1c": "Left Progress Bar Color 1",
         "_p1b": "Left Progress Bar Color 2",
@@ -58,6 +59,7 @@
         "ol1": "2 Fields",
         "ol2": "1 Fields",
         "ol3": "Chart",
+        "ol4": "Hide",
 
         "_c0": "Top Chart",
         "_c1": "Center Chart",
@@ -171,7 +173,8 @@
         "bg2": "Hex",
         "bg3": "Ellipse",
         "bg4": "World",
-        "bg5": "Hex Fade",
+        "bg5m": "Hex Fade",
+        "bg5": "Hex Big",
         
         "_aod": "AOD Mode (Always on Display)",
         "_aodct": "AOD Time Tint Color",
@@ -191,7 +194,6 @@
         "_f14": "AOD Field Data",
         "_l14": "AOD Field Label",
         "_gq": "Gradient Quality",
-        "mg": "MIPS Gradient",
         "ng": "No Gradient"
     }
 }
