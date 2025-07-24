@@ -8,15 +8,15 @@
 1. 已安装免费版用户，购买专业版密匙访问：https://ko-fi.com/s/96bbcd749b
 2. 直接下载专业版应用：https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
 
-⭐️MIP屏幕兼容性（Fenix 7、Enduro 2、Forerunner 255等）⭐️
+⭐️MIP屏幕兼容性（Fenix 7、Enduro、Forerunner 255等）⭐️
 本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。
 
 ⭐️资源中心⭐️
 * 常见问题FAQ：https://watchface.io/faq
 * 获取专业版密钥：https://ko-fi.com/s/96bbcd749b
-* 主题列表：https://watchface.io/ultrav2/themes
-* 颜色指南：https://watchface.io/docs/color-list
-* 可用数据字段：https://watchface.io/docs/datafields
+* 模式颜色：https://watchface.io/ultrav2/themes
+* 配色指南：https://watchface.io/docs/color-list
+* 栏位数据：https://watchface.io/docs/datafields
 
 ⭐️设置说明⭐️
 请注意设置入口有两个：

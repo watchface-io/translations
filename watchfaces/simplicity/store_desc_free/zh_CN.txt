@@ -1,26 +1,26 @@
-数据丰富的表盘，为您的所有数据提供12个位置，以简单的方式显示。完全可定制，包含图表、进度条、3种字体等。
+丰富数据表盘
+提供12个数据栏位，清晰呈现各项信息，可用图表、进度条、3种字体等多种元素来全面自定义表盘。
 
-⭐️ 免费 vs Pro ⭐️
-此表盘免费提供所有基本功能。高级功能（用[*]标记）需要Pro密钥解锁。您可以在这里购买Pro密钥：https://ko-fi.com/s/e33037b90e 或在这里购买PRO版本：https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
+⭐️免费版vs专业版⭐️
+此表盘免费提供所有基础功能，专业版功能（标注[*]）需要专业版密匙来解锁。
+您可通过以下方式获取专业版：
+1. 已安装免费版用户，购买专业版密匙访问：https://ko-fi.com/s/e33037b90e 
+2. 直接下载专业版应用：https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
 
-⭐️ MIPS设备（Fenix 7、Enduro、Forerunner 255等）⭐️
-此表盘针对MIPS完全优化，但颜色会与图片中的不同，因为这些图片是在Amoled设备上拍摄的。
+⭐️MIP屏幕兼容性（Fenix 7、Enduro、Forerunner 255等）⭐️
+本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。
 
-
-⭐️ 资源 ⭐️
+⭐️资源中心⭐️
 * 常见问题：https://watchface.io/faq
-* 获取PRO密钥：https://ko-fi.com/s/e33037b90e
-* 主题列表：https://watchface.io/simplicity/themes
-* 颜色指南：https://watchface.io/docs/color-list
-* 可用数据字段：https://watchface.io/docs/datafields
+* 获取专业版密钥：https://ko-fi.com/s/e33037b90e
+* 模式颜色：https://watchface.io/simplicity/themes
+* 配色指南：https://watchface.io/docs/color-list
+* 栏位数据：https://watchface.io/docs/datafields
 
+⭐️设置说明⭐️
+请注意设置入口有两个：
+*佳明Connect IQ手机应用: 配置数据字段/色彩/常规设置。
+*手表端设置: 长按菜单键 → 选择表盘 → 点击"自定义"：可调整时间格式/运动目标/单位等高级选项。
 
-⭐️ 配置 ⭐️
-注意：有两个不同的设置位置：
-* Garmin IQ应用（在您的手机上）：配置数据字段、颜色和常规设置。
-* 手表设置：通过长按菜单按钮、选择表盘并点击自定义，直接在手表上访问更详细的选项，如时间格式、目标和单位。
-
-
-*** 如果您遇到任何错误或问题，请通过按"Contact Developer"联系我，而不是使用评论系统。我可以迅速回复邮件，而我可能几天都看不到评论。***
 ⭐️重要提示⭐️
 如遇任何问题，请点击"报告问题"直接联系开发者，可获得快速回复。在评论区撰写评论可能很多天后才能看到，造成回复延迟。

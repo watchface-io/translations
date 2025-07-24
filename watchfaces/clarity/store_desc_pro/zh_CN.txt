@@ -5,14 +5,14 @@
 购买前请先体验免费版，确保表盘功能与显示效果符合您的预期：
 https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
 
-⭐️MIP屏幕兼容性（Fenix 7、Enduro 2、Forerunner 255等）⭐️
+⭐️MIP屏幕兼容性（Fenix 7、Enduro、Forerunner 255等）⭐️
 本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。
 
 ⭐️资源中心⭐️
 常见问题FAQ：https://watchface.io/faq
-主题列表：https://watchface.io/clarity/themes
+模式颜色：https://watchface.io/clarity/themes
 配色指南：https://watchface.io/docs/color-list
-可用数据字段：https://watchface.io/docs/datafields
+栏位数据：https://watchface.io/docs/datafields
 
 ⭐️设置说明⭐️
 请注意设置入口有两个：
