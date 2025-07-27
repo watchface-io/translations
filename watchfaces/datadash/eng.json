@@ -13,8 +13,10 @@
 
         "_f1": "Left Top Data",
         "_f1l": "Left Top Label",
+        "_s1": "Left Top Progress",
         "_f2": "Right Top Data",
         "_f2l": "Right Top Label",
+        "_s2": "Right Top Progress",
 
         "_f4": "Row 1 Left Data",
         "_f4l": "Row 1 Left Label",
@@ -90,6 +92,13 @@
         "_bglc": "Background Lines Color",
 
 
+        "_b0": "Chart on Top + One field on the Bottom",
+        "_b1": "Chart on Bottom + One field on Top",
+        "_b2": "Chart on Bottom + Two fields on Top",
+        "_b3": "Two fields with Progress Bars",
+        
+
+
 
         "_bgc": "Background Color",
         "_hc1": "Hour Color",
@@ -98,7 +107,17 @@
         "_mc2": "Minute Color 2",
         "_dividerC": "Divider Color",
         "_aas" : "Always on seconds",
-        
+
+        "_crcp": "Progress bar color 1",
+        "_crcp2": "Progress bar color 2",
+        "_crcu": "Progress bar color Unfilled",
+        "lcd": "75% Darker",
+
+         "_5f" : "Show Field Progress",
+         "_6f" : "Full",
+         "_7f" : "Empty",
+         "_8f" : "Hide",
+
         "_aod": "AOD Mode (Always on Display)",
         "_aodct": "AOD Time Tint Color",
         "_aodc": "AOD Data Tint Color",
