@@ -1,7 +1,7 @@
-Data-Rich watchface with 12 spots for all your data, displayed in a simple way. Fully customizeable with graphs, progress bars, 3 fonts, etc.
+Data-Rich watchface with 12 spots for all your data, displayed in a simple way. Fully customizable with graphs, progress bars, 3 fonts, etc.
 
 ⭐️ Free vs Pro ⭐️
-This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/e33037b90e Or purchace the PRO version here: https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
+This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/e33037b90e Or purchase the PRO version here: https://apps.garmin.com/apps/4fc31fcb-e422-414b-ac09-660e21ea6dff
 
 ⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
 This watchface is fully optimized for MIPS, but colors will look different as in the pictures, as these are taken on an Amoled device.
