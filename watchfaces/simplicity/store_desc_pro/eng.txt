@@ -1,4 +1,4 @@
-Data-Rich watchface with 12 spots for all your data, displayed in a simple way. Fully customizeable with graphs, progress bars, 3 fonts, etc.
+Data-Rich watchface with 12 spots for all your data, displayed in a simple way. Fully customizable with graphs, progress bars, 3 fonts, etc.
 
 ⭐️ Try before you buy! ⭐️
 Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/71470d7e-088d-427e-bf30-c0480b4779b0
