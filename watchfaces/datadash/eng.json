@@ -1,0 +1,120 @@
+{   
+    "settings": {
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_touch1": "Touch Shortcut Hour",
+        "_touch2": "Touch Shortcut Minute",
+        "_o0": "↔️ Top Layout",
+        "_o1": "↔️ Center Layout",
+        "_o2": "↔️ Bottom Layout",
+
+        "_f1": "Left Top Data",
+        "_f1l": "Left Top Label",
+        "_f2": "Right Top Data",
+        "_f2l": "Right Top Label",
+
+        "_f4": "Row 1 Left Data",
+        "_f4l": "Row 1 Left Label",
+        "_f5": "Row 1 Center Data",
+        "_f5l": "Row 1 Center Label",
+        "_f6": "Row 1 Right Data",
+        "_f6l": "Row 1 Right Label",
+
+        "_f7": "Row 2 Left Data",
+        "_f7l": "Row 2 Left Label",
+        "_f8": "Row 2 Center Data",
+        "_f8l": "Row 2 Center Label",
+        "_f9": "Row 2 Right Data",
+        "_f9l": "Row 2 Right Label",
+
+        "_f10": "Bottom Data",
+        "_f10l": "Bottom Label",
+        "_f11": "Bottom 2 Field (when using two bottom fields)",
+        "_f11l": "Bottom 2 Label",
+
+        "bg0": "No Background",
+        "bg1": "Iron Layer",
+        "bg2": "Iron Layer 2",
+        "bg3": "Iron Layer 3",
+        "bg4": "Outlines",
+        "bg5": "Lines (1px)",
+        "bg6": "Lines (2px)",
+        "bg7": "Lines (3px)",
+        "bg8": "Lines (4px)",
+        "bg9": "Lines (1px No separators)",
+        "bg10": "Lines (2px No separators)",
+        "bg11": "Lines (3px No separators)",
+        "bg12": "Lines (4px No separators)",
+        "bg_detailed": "=== Detailed Backgrounds: ===",
+        "bg_simple": "=== Simple Backgrounds: ===",
+        "_bgi": "Background Style",
+
+        "fnt0": "Play",
+        "fnt1": "Play Large",
+        "fnt2": "Play Outlined",
+        "fnt3": "Play Large Outlined",
+
+        "_afnt": "Use outlined time font in AOD",
+
+        "_hf": "Time Font",
+        "_hfa": "Time Font (AOD, Always on)",
+        "_hfs": "Time Font Size",
+
+
+         "_ox" : "Time X Offset, 50 = center",
+         "_oy" : "Time Y Offset, 50 = center",
+
+
+        "_bftype": "Bottom fields type",
+        "_gfont": "Text Font",
+        "_gfontS": "Time Font Size",
+
+        "_gradientq": "Gradient Quality",
+        "mg" : "MIPS Gradient",
+        "ng" : "No Gradient",
+
+        "_tfontsp": "Time Font spacing 50 = default", 
+        "_tfontsp3" : "Time X Offset, 50 = center",
+        "_tfontsp2" : "Time Y Offset, 50 = center",
+
+        "_pc": "Text color",
+        "_ic": "Label color",
+
+        "_graph": "Chart",
+        "_ccl": "Chart Color 1",
+        "_ccl2": "Chart Color 2",
+
+        "_bglc": "Background Lines Color",
+
+
+
+        "_bgc": "Background Color",
+        "_hc1": "Hour Color",
+        "_hc2": "Hour Color 2",
+        "_mc1": "Minute Color",
+        "_mc2": "Minute Color 2",
+        "_dividerC": "Divider Color",
+        "_aas" : "Always on seconds",
+        
+        "_aod": "AOD Mode (Always on Display)",
+        "_aodct": "AOD Time Tint Color",
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        "ad102": "Full AOD - Black Background - Hide Charts ",
+        "ad1": "Time Only",
+        "ad2": "Time Only - Centered",
+        "ad3": "Time Only - Moving",
+        "ad4": "Time + data field (Select Below)",
+        "ad5": "Time Centered + data field",
+        "ad6": "Time Moving + data field",
+        "_f14": "AOD Field Data",
+        "_l14": "AOD Field Label"
+    }
+}
