@@ -1,9 +1,9 @@
-Simple Analog watchface with many progress bars, grandients and color options.
+Simple Analog watchface with many progress bars, gradients and color options.
 Over 100 different datafields, Open weather support, CGM support, etc.
 
 
 ⭐️ Free vs Pro ⭐️
-This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/96bbcd749b Or purchace the PRO version here: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
+This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/96bbcd749b Or purchase the PRO version here: https://apps.garmin.com/apps/73b4bc91-5192-4fea-af37-ced213b4683b
 
 ⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
 This watchface is fully optimized for MIPS, but colors will look slightly different as in the pictures, as these are taken on an Amoled device.
