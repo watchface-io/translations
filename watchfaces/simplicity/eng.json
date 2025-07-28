@@ -33,8 +33,8 @@
         "_p2b": "Right Progress Bar Color 2",
         "_p2u": "Right Progress Bar Color Unfilled",
 
-        "_l3p": "Top 1 Color 1",
-        "_l3b": "Top 1 Color 2",
+        "_l3p": "Top 1/Top Chart Color 1",
+        "_l3b": "Top 1/Top Chart Color 2",
         "_l3u": "Top 1 Color Unfilled",
         "_l4p": "Top 2 Color 1",
         "_l4b": "Top 2 Color 2",
@@ -45,8 +45,8 @@
 
         "_l6p": "Center Chart Color 1",
         "_l6b": "Center Chart Color 2",
-        "_l9p": "Bottom 1 Color 1",
-        "_l9b": "Bottom 1 Color 2",
+        "_l9p": "Bottom 1/Bottom Chart Color 1",
+        "_l9b": "Bottom 1/Bottom Chart Color 2",
         "_l9u": "Bottom 1 Color Unfilled",
         "_l10p": "Bottom 2 Color 1",
         "_l10b": "Bottom 2 Color 2",
@@ -156,7 +156,7 @@
         "_mc2": "Minute Color 2",
         "_dc": "Divider Color",
 
-        "_oy": "Time Y Offset, 50 = center",
+        "_oy": "Time Y Offset(50 = center, <= 49 up,>= 51 down)",
         "_sh": "Time Shade",
         "sh0": "No Shade",
         "sh1": "1px",
