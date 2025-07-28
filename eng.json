@@ -20,7 +20,7 @@
         "c27" : "Temperature",
         
 
-        "b0" : "Nothing",
+        "b0" : "Nothing (remove)",
         "b_1" : "Hide Label",
         "b_100" : "Icon",
         "b_90" : "Label",
@@ -469,7 +469,7 @@
         "l62" : "62. Shalimar",
         "l63" : "63. White",
 
-        "x1" : "Don't override theme",
+        "x1" : "Select to override colors",
 
         "x3" : "Generate Theme with RI",
         "x4" : "Generate Theme with AI",
