@@ -48,36 +48,36 @@
         "_f11l": "底区栏位2 标签",
 
         "bg0": "无背景",
-        "bg1": "Iron Layer",
-        "bg2": "Iron Layer 2",
-        "bg3": "Iron Layer 3",
-        "bg4": "Outlines",
-        "bg5": "Lines (1px)",
-        "bg6": "Lines (2px)",
-        "bg7": "Lines (3px)",
-        "bg8": "Lines (4px)",
-        "bg9": "Lines (1px No separators)",
-        "bg10": "Lines (2px No separators)",
-        "bg11": "Lines (3px No separators)",
-        "bg12": "Lines (4px No separators)",
-        "bg_detailed": "=== Detailed Backgrounds: ===",
-        "bg_simple": "=== Simple Backgrounds: ===",
+        "bg1": "金属质感1",
+        "bg2": "金属质感2",
+        "bg3": "金属质感3",
+        "bg4": "轮廓线",
+        "bg5": "细线(1px)",
+        "bg6": "标准线(2px)",
+        "bg7": "粗线(3px)",
+        "bg8": "加粗线(4px)",
+        "bg9": "细线(1px 无分隔符)",
+        "bg10": "标准线(2px 无分隔符)",
+        "bg11": "粗线(3px 无分隔符)",
+        "bg12": "加粗线(4px 无分隔符)",
+        "bg_detailed": "=== 高级背景: ===",
+        "bg_simple": "=== 简洁背景: ===",
         "_bgi": "背景样式",
 
-        "fnt0": "Play Bold",        
-        "fnt1": "Play Bold Large",    
-        "fnt2": "Play Medium",    
+        "fnt0": "Play粗体",        
+        "fnt1": "Play粗体 大号",    
+        "fnt2": "Play中等",    
         "fnt3": "Russo",   
         "fnt4": "Barlow",   
         "fnt5": "Digital",
 
 
-        "fnt10": "Play Bold Outlined",
-        "fnt11": "Play Bold Large Outlined",
-        "fnt12": "Play Medium Outlined",
-        "fnt13": "Russo Outlined",
-        "fnt14": "Barlow Outlined",
-        "fnt15": "Digital Outlined",
+        "fnt10": "Play粗体 轮廓体",
+        "fnt11": "Play粗体 大号 轮廓体",
+        "fnt12": "Play中等 轮廓体",
+        "fnt13": "Russo轮廓体",
+        "fnt14": "Barlow轮廓体",
+        "fnt15": "Digital轮廓体",
         
         
       
@@ -88,7 +88,7 @@
         "_tfontsS": "秒数 字号",
 
 
-        "fnto": "Outlined (If available)",
+        "fnto": "轮廓体(如果支持)",
         "fnts": "保持相同",
 
 
