@@ -45,6 +45,10 @@
         "_f11": "Bidang bawah 2 (saat menggunakan dua bidang bawah)",
         "_f11l": "Label bawah 2",
 
+        "_gr": "Gradien Grafik",
+        "gr0": "Bergantung Nilai",
+        "gr1": "Kiri - Kanan",
+
         "_bgi": "Gaya latar belakang",
         "bg_detailed": "=== Latar belakang detail: ===",
         "bg0": "Tanpa latar belakang",

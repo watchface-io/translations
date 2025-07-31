@@ -45,6 +45,10 @@
         "_f11": "Câmp Inferior 2 (când folosești două câmpuri inferioare)",
         "_f11l": "Etichetă Inferior 2",
 
+        "_gr": "Gradient Grafic",
+    "gr0": "Dependent de Valoare",
+    "gr1": "Stânga - Dreapta",
+
         "_bgi": "Stil Fundal",
         "bg_detailed": "=== Fundaluri Detaliate: ===",
         "bg0": "Fără Fundal",

@@ -22,6 +22,10 @@
         "_f3": "Mitte links Daten",
         "_g0": "Mitte links Versatz (25=Mitte)",
 
+        "_gr": "Diagramm-Gradient",
+        "gr0": "Wertabhängig",
+        "gr1": "Links - Rechts",
+
         "_f12l": "Mitte rechts Beschriftung",
         "_f12": "Mitte rechts Daten",
         "_g1": "Mitte rechts Versatz (25=Mitte)",

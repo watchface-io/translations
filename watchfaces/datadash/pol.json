@@ -45,6 +45,10 @@
         "_f11": "Pole dolne 2 (przy użyciu dwóch pól dolnych)",
         "_f11l": "Etykieta dolna 2",
 
+        "_gr": "Gradient Wykresu",
+        "gr0": "Zależny od Wartości",
+        "gr1": "Lewo - Prawo",
+
         "_bgi": "Styl tła",
         "bg_detailed": "=== Szczegółowe tła: ===",
         "bg0": "Brak tła",

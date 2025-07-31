@@ -45,6 +45,10 @@
         "_f11": "Apakšējais 2. lauks (izmantojot divus apakšējos laukus)",
         "_f11l": "Apakšējā 2. etiķete",
 
+        "_gr": "Grafika Gradients",
+        "gr0": "Atkarīgs no Vērtības",
+        "gr1": "Pa Kreisi - Pa Labi",
+
         "_bgi": "Fona stils",
         "bg_detailed": "=== Detalizēti foni: ===",
         "bg0": "Nav fona",

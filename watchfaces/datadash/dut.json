@@ -25,6 +25,10 @@
         "_f12l": "Midden Rechts Label",
         "_f12": "Midden Rechts Data",
         "_g1": "Midden Rechts Verschuiving (25=midden)",
+
+        "_gr": "Grafiek Gradient",
+        "gr0": "Waarde Afhankelijk",
+        "gr1": "Links - Rechts",
         
         "_f4": "Rij 1 Links Data",
         "_f4l": "Rij 1 Links Label",

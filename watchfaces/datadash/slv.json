@@ -45,6 +45,10 @@
         "_f11": "Spodnje polje 2 (pri uporabi dveh spodnjih polj)",
         "_f11l": "Spodnja označba 2",
 
+        "_gr": "Gradient Grafa",
+        "gr0": "Odvisen od Vrednosti",
+        "gr1": "Levo - Desno",
+
         "_bgi": "Slog ozadja",
         "bg_detailed": "=== Podrobna ozadja: ===",
         "bg0": "Brez ozadja",

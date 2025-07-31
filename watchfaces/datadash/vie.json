@@ -45,6 +45,10 @@
         "_f11": "Trường dưới 2 (khi sử dụng hai trường dưới)",
         "_f11l": "Nhãn dưới 2",
 
+        "_gr": "Gradient Biểu Đồ",
+        "gr0": "Phụ Thuộc Giá Trị",
+        "gr1": "Trái - Phải",
+
         "_bgi": "Kiểu nền",
         "bg_detailed": "=== Nền chi tiết: ===",
         "bg0": "Không có nền",

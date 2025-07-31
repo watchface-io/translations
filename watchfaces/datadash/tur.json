@@ -45,6 +45,10 @@
         "_f11": "Alt 2 Alan (iki alt alan kullanırken)",
         "_f11l": "Alt 2 Etiket",
 
+        "_gr": "Grafik Gradyanı",
+        "gr0": "Değere Bağlı",
+        "gr1": "Sol - Sağ",
+
         "_bgi": "Arka Plan Stili",
         "bg_detailed": "=== Ayrıntılı Arka Planlar: ===",
         "bg0": "Arka Plan Yok",

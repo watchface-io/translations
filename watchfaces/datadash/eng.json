@@ -135,6 +135,9 @@
 
         "_gs": "Show Chart as Linechart",
         "_gg": "Add Graph Spacing (legacy style)",
+        "_gr": "Graph Gradient",
+        "gr0": "Value Dependent",
+        "gr1": "Left - Right",
         "_c0": "Chart",
         "_ccl": "Chart Color 1",
         "_ccl2": "Chart Color 2",

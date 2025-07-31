@@ -45,6 +45,10 @@
         "_f11": "Champ bas 2 (lors de l'utilisation de deux champs bas)",
         "_f11l": "Libellé bas 2",
 
+        "_gr": "Dégradé du Graphique",
+        "gr0": "Dépendant de la Valeur",
+        "gr1": "Gauche - Droite",
+
         "_bgi": "Style d'arrière-plan",
         "bg_detailed": "=== Arrière-plans détaillés : ===",
         "bg0": "Pas d'arrière-plan",

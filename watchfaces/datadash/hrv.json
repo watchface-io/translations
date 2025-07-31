@@ -45,6 +45,10 @@
         "_f11": "Polje Dolje 2 (kada koristite dva donja polja)",
         "_f11l": "Oznaka Dolje 2",
 
+        "_gr": "Gradijent Grafikona",
+        "gr0": "Ovisan o Vrijednosti",
+        "gr1": "Lijevo - Desno",
+
         "_bgi": "Stil Pozadine",
         "bg_detailed": "=== Detaljne Pozadine: ===",
         "bg0": "Bez Pozadine",

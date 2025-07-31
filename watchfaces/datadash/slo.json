@@ -45,6 +45,10 @@
         "_f11": "Dolné pole 2 (pri použití dvoch dolných polí)",
         "_f11l": "Dolný štítok 2",
 
+        "_gr": "Gradient Grafu",
+        "gr0": "Závislý od Hodnoty",
+        "gr1": "Vľavo - Vpravo",
+
         "_bgi": "Štýl pozadia",
         "bg_detailed": "=== Podrobné pozadia: ===",
         "bg0": "Žiadne pozadie",

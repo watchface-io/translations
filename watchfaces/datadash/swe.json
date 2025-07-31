@@ -45,6 +45,10 @@
         "_f11": "Nedre fält 2 (vid användning av två nedre fält)",
         "_f11l": "Nedre etikett 2",
 
+        "_gr": "Graf Gradient",
+        "gr0": "Värdeberoende",
+        "gr1": "Vänster - Höger",
+
         "_bgi": "Bakgrundsstil",
         "bg_detailed": "=== Detaljerade bakgrunder: ===",
         "bg0": "Ingen bakgrund",

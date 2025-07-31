@@ -45,6 +45,10 @@
         "_f11": "Alsó 2 mező (két alsó mező használatakor)",
         "_f11l": "Alsó 2 címke",
 
+        "_gr": "Grafikon Gradiens",
+        "gr0": "Értékfüggő",
+        "gr1": "Bal - Jobb",
+
         "_bgi": "Háttér stílus",
         "bg_detailed": "=== Részletes hátterek: ===",
         "bg0": "Nincs háttér",

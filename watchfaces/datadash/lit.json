@@ -45,6 +45,10 @@
         "_f11": "Apatinis 2 laukas (naudojant du apatinius laukus)",
         "_f11l": "Apatinė 2 etiketė",
 
+        "_gr": "Grafiko Gradientas",
+        "gr0": "Priklausomas nuo Vertės",
+        "gr1": "Kairė - Dešinė",
+
         "_bgi": "Fono stilius",
         "bg_detailed": "=== Detalūs fonai: ===",
         "bg0": "Nėra fono",

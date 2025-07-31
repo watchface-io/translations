@@ -45,6 +45,10 @@
         "_f11": "Ala 2 kenttä (kahden alakentän käytössä)",
         "_f11l": "Ala 2 tunniste",
 
+        "_gr": "Kaavion Liukuvärjäys",
+        "gr0": "Arvosta Riippuva",
+        "gr1": "Vasemmalta - Oikealle",
+
         "_bgi": "Taustatyyli",
         "bg_detailed": "=== Yksityiskohtaiset taustat: ===",
         "bg0": "Ei taustaa",

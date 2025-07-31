@@ -21,6 +21,10 @@
         "_f3l": "Střední levý popisek",
         "_f3": "Střední levá data",
         "_g0": "Střední levý posun (25=střed)",
+        
+        "_gr": "Gradient grafu",
+        "gr0": "Závislý na hodnotě",
+        "gr1": "Zleva - Doprava",
 
         "_f12l": "Střední pravý popisek",
         "_f12": "Střední pravá data",

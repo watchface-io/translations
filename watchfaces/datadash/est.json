@@ -45,6 +45,10 @@
         "_f11": "Alumine 2 väli (kahe alumise välja kasutamisel)",
         "_f11l": "Alumine 2 silt",
 
+        "_gr": "Graafiku Gradient",
+        "gr0": "Väärtusest Sõltuv",
+        "gr1": "Vasakult - Paremale",
+
         "_bgi": "Tausta stiil",
         "bg_detailed": "=== Detailsed taustad: ===",
         "bg0": "Taust puudub",

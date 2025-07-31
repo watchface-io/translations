@@ -18,6 +18,10 @@
         "_f2l": "Højre top etiket",
         "_s2": "Højre top fremskridt",
 
+        "_gr": "Graf Gradient",
+        "gr0": "Værdiafhængig",
+        "gr1": "Venstre - Højre",
+
         "_f3l": "Midte venstre etiket",
         "_f3": "Midte venstre data",
         "_g0": "Midte venstre forskydning (25=center)",

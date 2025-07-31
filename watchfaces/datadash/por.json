@@ -45,6 +45,10 @@
         "_f11": "Campo Inferior 2 (ao usar dois campos inferiores)",
         "_f11l": "Rótulo Inferior 2",
 
+        "_gr": "Gradiente do Gráfico",
+        "gr0": "Dependente do Valor",
+        "gr1": "Esquerda - Direita",
+
         "_bgi": "Estilo do Fundo",
         "bg_detailed": "=== Fundos Detalhados: ===",
         "bg0": "Sem Fundo",

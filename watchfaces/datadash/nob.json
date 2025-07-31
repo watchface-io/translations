@@ -45,6 +45,10 @@
         "_f11": "Bunn 2 felt (når du bruker to bunnfelter)",
         "_f11l": "Bunn 2 etikett",
 
+        "_gr": "Graf Gradient",
+        "gr0": "Verdiavhengig",
+        "gr1": "Venstre - Høyre",
+
         "_bgi": "Bakgrunnsstil",
         "bg_detailed": "=== Detaljerte bakgrunner: ===",
         "bg0": "Ingen bakgrunn",
