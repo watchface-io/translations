@@ -129,6 +129,7 @@
         "_ccl2": "Diagramfärg 2",
 
         "_bglc": "Bakgrundstonfärg",
+        "_fb": "Fyll inte tidsbakgrund (endast icke-mips-gradient)",
 
         "_b0": "Diagram överst + Ett fält nederst",
         "_b1": "Diagram nederst + Ett fält överst",

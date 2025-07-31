@@ -97,6 +97,8 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Nonaktifkan latar belakang waktu (hanya non mips-gradient)",
+
         "fnto": "Bergaris tepi (jika tersedia)",
         "fnts": "Tetap sama",
 

@@ -97,6 +97,8 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Tijdachtergrond uitschakelen (alleen niet-mips-gradiënt)",
+
         "fnto": "Omlijnd (Indien beschikbaar)",
         "fnts": "Hetzelfde houden",
 

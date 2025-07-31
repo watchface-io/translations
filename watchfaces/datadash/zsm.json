@@ -97,6 +97,8 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Lumpuhkan latar belakang masa (hanya bukan mips-gradient)",
+
         "fnto": "Bergaris (Jika ada)",
         "fnts": "Kekalkan sama",
 

@@ -97,6 +97,8 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Atspējot laika fonu (tikai bez mips-gradācijas)",
+
         "fnto": "Kontūrēts (ja pieejams)",
         "fnts": "Saglabāt to pašu",
 

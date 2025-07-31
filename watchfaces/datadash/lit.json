@@ -97,6 +97,8 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Išjungti laiko foną (tik be mips gradiento)",
+
         "fnto": "Kontūruotas (jei galimas)",
         "fnts": "Palikti tą patį",
 
@@ -129,7 +131,7 @@
         "_ccl2": "Diagramos spalva 2",
 
         "_bglc": "Fono atspalvio spalva",
-
+        
         "_b0": "Diagrama viršuje + Vienas laukas apačioje",
         "_b1": "Diagrama apačioje + Vienas laukas viršuje",
         "_b2": "Diagrama apačioje + Du laukai viršuje",

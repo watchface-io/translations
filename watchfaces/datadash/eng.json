@@ -140,6 +140,7 @@
         "_ccl2": "Chart Color 2",
 
         "_bglc": "Background Tint Color",
+        "_fb": "Disable time background (non mips-gradient only)",
 
 
         "_b0": "Chart on Top + One field on the Bottom",

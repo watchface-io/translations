@@ -129,6 +129,7 @@
         "_ccl2": "Color de gráfico 2",
 
         "_bglc": "Color de tinte de fondo",
+        "_fb": "No rellenar fondo del tiempo (solo sin gradiente mips)",
 
         "_b0": "Gráfico arriba + Un campo abajo",
         "_b1": "Gráfico abajo + Un campo arriba",

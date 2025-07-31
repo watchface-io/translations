@@ -96,6 +96,7 @@
         "sh2": "2px",
         "sh3": "3px",
         "sh4": "4px",
+        
 
         "fnto": "Obrysové (ak je dostupné)",
         "fnts": "Ponechať rovnaké",
@@ -129,6 +130,7 @@
         "_ccl2": "Farba grafu 2",
 
         "_bglc": "Farba odtieňa pozadia",
+        "_fb": "Nevyplňovať pozadie času (len bez mips gradientu)",
 
         "_b0": "Graf hore + Jedno pole dole",
         "_b1": "Graf dole + Jedno pole hore",

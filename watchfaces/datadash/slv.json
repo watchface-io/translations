@@ -129,6 +129,7 @@
         "_ccl2": "Barva grafa 2",
 
         "_bglc": "Barva odtenka ozadja",
+        "_fb": "Ne polni ozadja časa (samo brez mips preliva)",
 
         "_b0": "Graf zgoraj + Eno polje spodaj",
         "_b1": "Graf spodaj + Eno polje zgoraj",

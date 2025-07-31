@@ -97,6 +97,8 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Tắt nền thời gian (chỉ không có mips-gradient)",
+
         "fnto": "Có viền (Nếu có)",
         "fnts": "Giữ nguyên",
 

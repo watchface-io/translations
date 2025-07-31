@@ -97,6 +97,8 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Deaktiver tidsbakgrunn (kun ikke-mips-gradient)",
+
         "fnto": "Omriss (hvis tilgjengelig)",
         "fnts": "Behold samme",
 

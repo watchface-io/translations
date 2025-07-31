@@ -97,6 +97,9 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Saat arka planını devre dışı bırak (sadece mips-gradyansız)",
+
+
         "fnto": "Çerçeveli (Varsa)",
         "fnts": "Aynı tut",
 

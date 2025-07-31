@@ -97,6 +97,8 @@
         "sh3": "3px",
         "sh4": "4px",
 
+        "_fb": "Desabilitar fundo do horário (apenas sem gradiente mips)",
+
         "fnto": "Contornado (Se disponível)",
         "fnts": "Manter o mesmo",
 
