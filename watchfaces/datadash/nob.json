@@ -1,0 +1,182 @@
+{   
+    "settings": {
+        "_tr": "👉 BERØRINGSGENVEIER",
+        "_tc": "🎨 FARGER",
+        "_tt": "🔤 SKRIFTER",
+        "_ta": "🖼️ AOD INNSTILLINGER (Alltid på skjerm)",
+        "_to": "💡 ANNET",
+        "_touch1": "Berøringsgenvei time",
+        "_touch2": "Berøringsgenvei minutt",
+        "_o0": "↔️ Topp layout",
+        "_o1": "↔️ Senter layout",
+        "_o2": "↔️ Bunn layout",
+
+        "_f1": "Venstre topp data",
+        "_f1l": "Venstre topp etikett",
+        "_s1": "Venstre topp fremgang",
+        "_f2": "Høyre topp data",
+        "_f2l": "Høyre topp etikett",
+        "_s2": "Høyre topp fremgang",
+
+        "_f3l": "Senter venstre etikett",
+        "_f3": "Senter venstre data",
+        "_g0": "Senter venstre forskyvning (25=senter)",
+
+        "_f12l": "Senter høyre etikett",
+        "_f12": "Senter høyre data",
+        "_g1": "Senter høyre forskyvning (25=senter)",
+        
+        "_f4": "Rad 1 venstre data",
+        "_f4l": "Rad 1 venstre etikett",
+        "_f5": "Rad 1 senter data",
+        "_f5l": "Rad 1 senter etikett",
+        "_f6": "Rad 1 høyre data",
+        "_f6l": "Rad 1 høyre etikett",
+
+        "_f7": "Rad 2 venstre data",
+        "_f7l": "Rad 2 venstre etikett",
+        "_f8": "Rad 2 senter data",
+        "_f8l": "Rad 2 senter etikett",
+        "_f9": "Rad 2 høyre data",
+        "_f9l": "Rad 2 høyre etikett",
+
+        "_f10": "Bunn data",
+        "_f10l": "Bunn etikett",
+        "_f11": "Bunn 2 felt (når du bruker to bunnfelter)",
+        "_f11l": "Bunn 2 etikett",
+
+        "_bgi": "Bakgrunnsstil",
+        "bg_detailed": "=== Detaljerte bakgrunner: ===",
+        "bg0": "Ingen bakgrunn",
+        "bg1": "Jernlag",
+        "bg4": "Konturer",
+
+        "bg20": "Hex",
+        "bg21": "Verden",
+        "bg22": "Kamuflasje",
+        "bg23": "Ellipse",
+        "bg24": "Enkel",
+
+        "bg_simple": "=== Enkle bakgrunner: ===",
+        "bg5": "Linjer (1px)",
+        "bg6": "Linjer (2px)",
+        "bg7": "Linjer (3px)",
+        "bg8": "Linjer (4px)",
+        "bg9": "Linjer (1px ingen skilletegn)",
+        "bg10": "Linjer (2px ingen skilletegn)",
+        "bg11": "Linjer (3px ingen skilletegn)",
+        "bg12": "Linjer (4px ingen skilletegn)",
+        "bg_old": "=== Eldre bakgrunner: ===",
+        "bg2": "Jernlag 2",
+        "bg3": "Jernlag 3",
+
+        "fnt0": "Play fet",        
+        "fnt1": "Play fet stor",    
+        "fnt2": "Play medium",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Digital",
+
+        "fnt10": "Play fet omriss",
+        "fnt11": "Play fet stor omriss",
+        "fnt12": "Play medium omriss",
+        "fnt13": "Russo omriss",
+        "fnt14": "Barlow omriss",
+        "fnt15": "Digital omriss",
+        
+        "_tfont": "Time skrift",
+        "_tfontM": "Minutt skrift",
+        "_tfontAOD": "Tid skrift AOD",
+        "_tfontS": "Tid skriftstørrelse",
+        "_tfontsS": "Sekunder skriftstørrelse",
+
+        "_sh": "Tid skygge",
+        "sh0": "Ingen skygge",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Deaktiver tidsbakgrunn (kun ikke-mips-gradient)",
+
+        "fnto": "Omriss (hvis tilgjengelig)",
+        "fnts": "Behold samme",
+
+        "_hf": "Tid skrift",
+        "_hfa": "Tid skrift (AOD, alltid på)",
+        "_hfs": "Tid skriftstørrelse",
+
+        "_ox" : "Tid X forskyvning, 50 = senter",
+        "_oy" : "Tid Y forskyvning, 50 = senter",
+
+        "_bftype": "Bunn felter type",
+        "_gfont": "Tekst skrift",
+        "_gfontS": "Tid skriftstørrelse",
+
+        "_gradientq": "Gradient kvalitet",
+        "mg" : "MIPS gradient",
+        "ng" : "Ingen gradient",
+
+        "_tfontsp": "Tid skrift mellomrom 50 = standard", 
+        "_tfontsp3" : "Tid X forskyvning, 50 = senter",
+        "_tfontsp2" : "Tid Y forskyvning, 50 = senter",
+
+        "_pc": "Tekst farge",
+        "_ic": "Etikett farge",
+
+        "_gs": "Vis diagram som linjediagram",
+        "_gg": "Legg til diagram mellomrom (eldre stil)",
+        "_c0": "Diagram",
+        "_ccl": "Diagram farge 1",
+        "_ccl2": "Diagram farge 2",
+
+        "_bglc": "Bakgrunn tint farge",
+
+        "_b0": "Diagram på topp + Ett felt på bunnen",
+        "_b1": "Diagram på bunn + Ett felt på toppen",
+        "_b2": "Diagram på bunn + To felter på toppen",
+        "_b3": "To felter med fremdriftslinjer",
+
+        "_bgc": "Bakgrunnsfarge",
+        "_hc1": "Time farge",
+        "_hc2": "Time farge 2",
+        "_mc1": "Minutt farge",
+        "_mc2": "Minutt farge 2",
+        "_dividerC": "Skillelinje farge",
+        "_sc": "Senter høyre topp farge",
+        "_sc2": "Senter høyre bunn farge",
+        "_aas" : "Alltid på sekunder",
+
+        "_crcp": "Fremdriftslinje farge 1",
+        "_crcp2": "Fremdriftslinje farge 2",
+        "_crcu": "Fremdriftslinje farge ufylt",
+        "lcd": "75% mørkere",
+
+        "_5f" : "Vis felt fremgang",
+        "_6f" : "Full",
+        "_7f" : "Tom",
+        "_8f" : "Skjul",
+
+        "_aod": "AOD modus (Alltid på skjerm)",
+        "_aodct": "AOD tid tint farge",
+        "_aodc": "AOD data tint farge",
+        "_aodT": "AOD tid lysstyrke",
+        "_aodD": "AOD data lysstyrke. Hvis skjermen slår seg av under AOD, gjør dette tallet lavere. Lavere tall = mindre batteribruk men mindre lysstyrke. Se FAQ)",
+        "_aodS": "AOD forskyvning - antall piksler skjermen tilfeldig forskyver per minutt for å forhindre innbrenning)",
+        
+        "_f20": "AOD felt data",
+        "_l20": "AOD felt etikett",
+
+        "ad0": "Slå av skjerm",
+        "ad100": "Full AOD (standard)",
+        "ad102": "Full AOD - svart bakgrunn - skjul diagrammer",
+        "ad1": "Kun tid",
+        "ad2": "Kun tid - sentrert",
+        "ad3": "Kun tid - bevegelig",
+        "ad4": "Tid + datafelt (velg nedenfor)",
+        "ad5": "Tid sentrert + datafelt",
+        "ad6": "Tid bevegelig + datafelt",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}

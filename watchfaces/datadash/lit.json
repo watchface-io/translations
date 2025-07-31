@@ -1,0 +1,182 @@
+{   
+    "settings": {
+        "_tr": "👉 LIETIMO SPARTIEJI KLAVIŠAI",
+        "_tc": "🎨 SPALVOS",
+        "_tt": "🔤 ŠRIFTAI",
+        "_ta": "🖼️ AOD NUSTATYMAI (Visada įjungtas ekranas)",
+        "_to": "💡 KITA",
+        "_touch1": "Lietimo spartusis klavišas valandai",
+        "_touch2": "Lietimo spartusis klavišas minutei",
+        "_o0": "↔️ Viršutinis išdėstymas",
+        "_o1": "↔️ Centrinis išdėstymas",
+        "_o2": "↔️ Apatinis išdėstymas",
+
+        "_f1": "Kairės viršutinės duomenys",
+        "_f1l": "Kairės viršutinės etiketė",
+        "_s1": "Kairės viršutinės pažanga",
+        "_f2": "Dešinės viršutinės duomenys",
+        "_f2l": "Dešinės viršutinės etiketė",
+        "_s2": "Dešinės viršutinės pažanga",
+
+        "_f3l": "Centro kairės etiketė",
+        "_f3": "Centro kairės duomenys",
+        "_g0": "Centro kairės poslinkis (25=centras)",
+
+        "_f12l": "Centro dešinės etiketė",
+        "_f12": "Centro dešinės duomenys",
+        "_g1": "Centro dešinės poslinkis (25=centras)",
+        
+        "_f4": "1 eilutės kairės duomenys",
+        "_f4l": "1 eilutės kairės etiketė",
+        "_f5": "1 eilutės centro duomenys",
+        "_f5l": "1 eilutės centro etiketė",
+        "_f6": "1 eilutės dešinės duomenys",
+        "_f6l": "1 eilutės dešinės etiketė",
+
+        "_f7": "2 eilutės kairės duomenys",
+        "_f7l": "2 eilutės kairės etiketė",
+        "_f8": "2 eilutės centro duomenys",
+        "_f8l": "2 eilutės centro etiketė",
+        "_f9": "2 eilutės dešinės duomenys",
+        "_f9l": "2 eilutės dešinės etiketė",
+
+        "_f10": "Apatiniai duomenys",
+        "_f10l": "Apatinė etiketė",
+        "_f11": "Apatinis 2 laukas (naudojant du apatinius laukus)",
+        "_f11l": "Apatinė 2 etiketė",
+
+        "_bgi": "Fono stilius",
+        "bg_detailed": "=== Detalūs fonai: ===",
+        "bg0": "Nėra fono",
+        "bg1": "Geležies sluoksnis",
+        "bg4": "Kontūrai",
+
+        "bg20": "Šešiakampis",
+        "bg21": "Pasaulis",
+        "bg22": "Kamufliažas",
+        "bg23": "Elipsė",
+        "bg24": "Paprastas",
+
+        "bg_simple": "=== Paprasti fonai: ===",
+        "bg5": "Linijos (1px)",
+        "bg6": "Linijos (2px)",
+        "bg7": "Linijos (3px)",
+        "bg8": "Linijos (4px)",
+        "bg9": "Linijos (1px be skirtukų)",
+        "bg10": "Linijos (2px be skirtukų)",
+        "bg11": "Linijos (3px be skirtukų)",
+        "bg12": "Linijos (4px be skirtukų)",
+        "bg_old": "=== Pasenę fonai: ===",
+        "bg2": "Geležies sluoksnis 2",
+        "bg3": "Geležies sluoksnis 3",
+
+        "fnt0": "Play paryškintas",        
+        "fnt1": "Play paryškintas didelis",    
+        "fnt2": "Play vidutinis",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Skaitmeninis",
+
+        "fnt10": "Play paryškintas kontūruotas",
+        "fnt11": "Play paryškintas didelis kontūruotas",
+        "fnt12": "Play vidutinis kontūruotas",
+        "fnt13": "Russo kontūruotas",
+        "fnt14": "Barlow kontūruotas",
+        "fnt15": "Skaitmeninis kontūruotas",
+        
+        "_tfont": "Valandos šriftas",
+        "_tfontM": "Minutės šriftas",
+        "_tfontAOD": "Laiko šriftas AOD",
+        "_tfontS": "Laiko šrifto dydis",
+        "_tfontsS": "Sekundžių šrifto dydis",
+
+        "_sh": "Laiko šešėlis",
+        "sh0": "Nėra šešėlio",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Išjungti laiko foną (tik be mips gradiento)",
+
+        "fnto": "Kontūruotas (jei galimas)",
+        "fnts": "Palikti tą patį",
+
+        "_hf": "Laiko šriftas",
+        "_hfa": "Laiko šriftas (AOD, visada įjungtas)",
+        "_hfs": "Laiko šrifto dydis",
+
+        "_ox" : "Laiko X poslinkis, 50 = centras",
+        "_oy" : "Laiko Y poslinkis, 50 = centras",
+
+        "_bftype": "Apatinių laukų tipas",
+        "_gfont": "Teksto šriftas",
+        "_gfontS": "Laiko šrifto dydis",
+
+        "_gradientq": "Gradiento kokybė",
+        "mg" : "MIPS gradientas",
+        "ng" : "Nėra gradiento",
+
+        "_tfontsp": "Laiko šrifto tarpai 50 = numatytasis", 
+        "_tfontsp3" : "Laiko X poslinkis, 50 = centras",
+        "_tfontsp2" : "Laiko Y poslinkis, 50 = centras",
+
+        "_pc": "Teksto spalva",
+        "_ic": "Etiketės spalva",
+
+        "_gs": "Rodyti diagramą kaip linijų diagramą",
+        "_gg": "Pridėti diagramos tarpus (pasenęs stilius)",
+        "_c0": "Diagrama",
+        "_ccl": "Diagramos spalva 1",
+        "_ccl2": "Diagramos spalva 2",
+
+        "_bglc": "Fono atspalvio spalva",
+        
+        "_b0": "Diagrama viršuje + Vienas laukas apačioje",
+        "_b1": "Diagrama apačioje + Vienas laukas viršuje",
+        "_b2": "Diagrama apačioje + Du laukai viršuje",
+        "_b3": "Du laukai su pažangos juostomis",
+
+        "_bgc": "Fono spalva",
+        "_hc1": "Valandos spalva",
+        "_hc2": "Valandos spalva 2",
+        "_mc1": "Minutės spalva",
+        "_mc2": "Minutės spalva 2",
+        "_dividerC": "Skirtuko spalva",
+        "_sc": "Centro dešinės viršutinė spalva",
+        "_sc2": "Centro dešinės apatinė spalva",
+        "_aas" : "Visada rodyti sekundes",
+
+        "_crcp": "Pažangos juostos spalva 1",
+        "_crcp2": "Pažangos juostos spalva 2",
+        "_crcu": "Pažangos juostos spalva neužpildyta",
+        "lcd": "75% tamsesnė",
+
+        "_5f" : "Rodyti lauko pažangą",
+        "_6f" : "Pilnas",
+        "_7f" : "Tuščias",
+        "_8f" : "Slėpti",
+
+        "_aod": "AOD režimas (Visada įjungtas ekranas)",
+        "_aodct": "AOD laiko atspalvio spalva",
+        "_aodc": "AOD duomenų atspalvio spalva",
+        "_aodT": "AOD laiko ryškumas",
+        "_aodD": "AOD duomenų ryškumas. Jei ekranas išsijungia AOD metu, sumažinkite šį skaičių. Mažesnis skaičius = mažesnis baterijos naudojimas, bet mažesnis ryškumas. Žr. DUK)",
+        "_aodS": "AOD poslinkis - pikselių skaičius, kuriuo ekranas atsitiktinai pasislenka kas minutę, kad būtų išvengta perdegimo)",
+        
+        "_f20": "AOD lauko duomenys",
+        "_l20": "AOD lauko etiketė",
+
+        "ad0": "Išjungti ekraną",
+        "ad100": "Pilnas AOD (numatytasis)",
+        "ad102": "Pilnas AOD - juodas fonas - slėpti diagramas",
+        "ad1": "Tik laikas",
+        "ad2": "Tik laikas - centruotas",
+        "ad3": "Tik laikas - judantis",
+        "ad4": "Laikas + duomenų laukas (pasirinkti žemiau)",
+        "ad5": "Laikas centruotas + duomenų laukas",
+        "ad6": "Laikas judantis + duomenų laukas",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}

@@ -134,11 +134,13 @@
         "_ic": "Label color",
 
         "_gs": "Show Chart as Linechart",
-        "_graph": "Chart",
+        "_gg": "Add Graph Spacing (legacy style)",
+        "_c0": "Chart",
         "_ccl": "Chart Color 1",
         "_ccl2": "Chart Color 2",
 
         "_bglc": "Background Tint Color",
+        "_fb": "Disable time background (non mips-gradient only)",
 
 
         "_b0": "Chart on Top + One field on the Bottom",

@@ -1,0 +1,182 @@
+{   
+    "settings": {
+        "_tr": "👉 SCORCIATOIE TOUCH",
+        "_tc": "🎨 COLORI",
+        "_tt": "🔤 CARATTERI",
+        "_ta": "🖼️ IMPOSTAZIONI AOD (Schermo sempre attivo)",
+        "_to": "💡 ALTRO",
+        "_touch1": "Scorciatoia touch ora",
+        "_touch2": "Scorciatoia touch minuto",
+        "_o0": "↔️ Layout superiore",
+        "_o1": "↔️ Layout centrale",
+        "_o2": "↔️ Layout inferiore",
+
+        "_f1": "Dati in alto a sinistra",
+        "_f1l": "Etichetta in alto a sinistra",
+        "_s1": "Progresso in alto a sinistra",
+        "_f2": "Dati in alto a destra",
+        "_f2l": "Etichetta in alto a destra",
+        "_s2": "Progresso in alto a destra",
+
+        "_f3l": "Etichetta centro sinistra",
+        "_f3": "Dati centro sinistra",
+        "_g0": "Offset centro sinistra (25=centro)",
+
+        "_f12l": "Etichetta centro destra",
+        "_f12": "Dati centro destra",
+        "_g1": "Offset centro destra (25=centro)",
+        
+        "_f4": "Riga 1 dati sinistra",
+        "_f4l": "Riga 1 etichetta sinistra",
+        "_f5": "Riga 1 dati centro",
+        "_f5l": "Riga 1 etichetta centro",
+        "_f6": "Riga 1 dati destra",
+        "_f6l": "Riga 1 etichetta destra",
+
+        "_f7": "Riga 2 dati sinistra",
+        "_f7l": "Riga 2 etichetta sinistra",
+        "_f8": "Riga 2 dati centro",
+        "_f8l": "Riga 2 etichetta centro",
+        "_f9": "Riga 2 dati destra",
+        "_f9l": "Riga 2 etichetta destra",
+
+        "_f10": "Dati inferiori",
+        "_f10l": "Etichetta inferiore",
+        "_f11": "Campo inferiore 2 (quando si usano due campi inferiori)",
+        "_f11l": "Etichetta inferiore 2",
+
+        "_bgi": "Stile sfondo",
+        "bg_detailed": "=== Sfondi dettagliati: ===",
+        "bg0": "Nessuno sfondo",
+        "bg1": "Strato di ferro",
+        "bg4": "Contorni",
+
+        "bg20": "Esagono",
+        "bg21": "Mondo",
+        "bg22": "Mimetico",
+        "bg23": "Ellisse",
+        "bg24": "Semplice",
+
+        "bg_simple": "=== Sfondi semplici: ===",
+        "bg5": "Linee (1px)",
+        "bg6": "Linee (2px)",
+        "bg7": "Linee (3px)",
+        "bg8": "Linee (4px)",
+        "bg9": "Linee (1px senza separatori)",
+        "bg10": "Linee (2px senza separatori)",
+        "bg11": "Linee (3px senza separatori)",
+        "bg12": "Linee (4px senza separatori)",
+        "bg_old": "=== Sfondi legacy: ===",
+        "bg2": "Strato di ferro 2",
+        "bg3": "Strato di ferro 3",
+
+        "fnt0": "Play grassetto",        
+        "fnt1": "Play grassetto grande",    
+        "fnt2": "Play medio",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Digitale",
+
+        "fnt10": "Play grassetto contornato",
+        "fnt11": "Play grassetto grande contornato",
+        "fnt12": "Play medio contornato",
+        "fnt13": "Russo contornato",
+        "fnt14": "Barlow contornato",
+        "fnt15": "Digitale contornato",
+        
+        "_tfont": "Carattere ora",
+        "_tfontM": "Carattere minuto",
+        "_tfontAOD": "Carattere tempo AOD",
+        "_tfontS": "Dimensione carattere tempo",
+        "_tfontsS": "Dimensione carattere secondi",
+
+        "_sh": "Ombra tempo",
+        "sh0": "Nessuna ombra",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Disabilita sfondo orario (solo senza gradiente mips)",
+
+        "fnto": "Contornato (se disponibile)",
+        "fnts": "Mantieni uguale",
+
+        "_hf": "Carattere tempo",
+        "_hfa": "Carattere tempo (AOD, sempre attivo)",
+        "_hfs": "Dimensione carattere tempo",
+
+        "_ox": "Offset X tempo, 50 = centro",
+        "_oy": "Offset Y tempo, 50 = centro",
+
+        "_bftype": "Tipo campi inferiori",
+        "_gfont": "Carattere testo",
+        "_gfontS": "Dimensione carattere tempo",
+
+        "_gradientq": "Qualità gradiente",
+        "mg": "Gradiente MIPS",
+        "ng": "Nessun gradiente",
+
+        "_tfontsp": "Spaziatura carattere tempo 50 = predefinito", 
+        "_tfontsp3": "Offset X tempo, 50 = centro",
+        "_tfontsp2": "Offset Y tempo, 50 = centro",
+
+        "_pc": "Colore testo",
+        "_ic": "Colore etichetta",
+
+        "_gs": "Mostra grafico come grafico a linee",
+        "_gg": "Aggiungi spaziatura grafico (stile legacy)",
+        "_c0": "Grafico",
+        "_ccl": "Colore grafico 1",
+        "_ccl2": "Colore grafico 2",
+
+        "_bglc": "Colore tinta sfondo",
+
+        "_b0": "Grafico in alto + un campo in basso",
+        "_b1": "Grafico in basso + un campo in alto",
+        "_b2": "Grafico in basso + due campi in alto",
+        "_b3": "Due campi con barre di progresso",
+
+        "_bgc": "Colore sfondo",
+        "_hc1": "Colore ora",
+        "_hc2": "Colore ora 2",
+        "_mc1": "Colore minuto",
+        "_mc2": "Colore minuto 2",
+        "_dividerC": "Colore divisore",
+        "_sc": "Colore centro destra superiore",
+        "_sc2": "Colore centro destra inferiore",
+        "_aas": "Secondi sempre attivi",
+
+        "_crcp": "Colore barra progresso 1",
+        "_crcp2": "Colore barra progresso 2",
+        "_crcu": "Colore barra progresso vuota",
+        "lcd": "75% più scuro",
+
+        "_5f": "Mostra progresso campo",
+        "_6f": "Pieno",
+        "_7f": "Vuoto",
+        "_8f": "Nascondi",
+
+        "_aod": "Modalità AOD (Schermo sempre attivo)",
+        "_aodct": "Colore tinta tempo AOD",
+        "_aodc": "Colore tinta dati AOD",
+        "_aodT": "Luminosità tempo AOD",
+        "_aodD": "Luminosità dati AOD. Se lo schermo si spegne durante AOD, riduci questo numero. Numero più basso = meno consumo batteria ma meno luminoso. Vedi FAQ)",
+        "_aodS": "Spostamento AOD - numero di pixel che lo schermo si sposta casualmente al minuto per prevenire il burn-in)",
+        
+        "_f20": "Dati campo AOD",
+        "_l20": "Etichetta campo AOD",
+
+        "ad0": "SPEGNI schermo",
+        "ad100": "AOD completo (predefinito)",
+        "ad102": "AOD completo - sfondo nero - nascondi grafici",
+        "ad1": "Solo tempo",
+        "ad2": "Solo tempo - centrato",
+        "ad3": "Solo tempo - mobile",
+        "ad4": "Tempo + campo dati (seleziona sotto)",
+        "ad5": "Tempo centrato + campo dati",
+        "ad6": "Tempo mobile + campo dati",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}

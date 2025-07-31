@@ -1,0 +1,182 @@
+{   
+    "settings": {
+        "_tr": "👉 COMENZI RAPIDE TACTILE",
+        "_tc": "🎨 CULORI",
+        "_tt": "🔤 FONTURI",
+        "_ta": "🖼️ SETĂRI AOD (Afișaj Mereu Pornit)",
+        "_to": "💡 ALTELE",
+        "_touch1": "Comandă Rapidă Tactilă Oră",
+        "_touch2": "Comandă Rapidă Tactilă Minut",
+        "_o0": "↔️ Aspect Superior",
+        "_o1": "↔️ Aspect Central",
+        "_o2": "↔️ Aspect Inferior",
+
+        "_f1": "Date Stânga Sus",
+        "_f1l": "Etichetă Stânga Sus",
+        "_s1": "Progres Stânga Sus",
+        "_f2": "Date Dreapta Sus",
+        "_f2l": "Etichetă Dreapta Sus",
+        "_s2": "Progres Dreapta Sus",
+
+        "_f3l": "Etichetă Centru Stânga",
+        "_f3": "Date Centru Stânga",
+        "_g0": "Deplasare Centru Stânga (25=centru)",
+
+        "_f12l": "Etichetă Centru Dreapta",
+        "_f12": "Date Centru Dreapta",
+        "_g1": "Deplasare Centru Dreapta (25=centru)",
+        
+        "_f4": "Date Rând 1 Stânga",
+        "_f4l": "Etichetă Rând 1 Stânga",
+        "_f5": "Date Rând 1 Centru",
+        "_f5l": "Etichetă Rând 1 Centru",
+        "_f6": "Date Rând 1 Dreapta",
+        "_f6l": "Etichetă Rând 1 Dreapta",
+
+        "_f7": "Date Rând 2 Stânga",
+        "_f7l": "Etichetă Rând 2 Stânga",
+        "_f8": "Date Rând 2 Centru",
+        "_f8l": "Etichetă Rând 2 Centru",
+        "_f9": "Date Rând 2 Dreapta",
+        "_f9l": "Etichetă Rând 2 Dreapta",
+
+        "_f10": "Date Inferior",
+        "_f10l": "Etichetă Inferior",
+        "_f11": "Câmp Inferior 2 (când folosești două câmpuri inferioare)",
+        "_f11l": "Etichetă Inferior 2",
+
+        "_bgi": "Stil Fundal",
+        "bg_detailed": "=== Fundaluri Detaliate: ===",
+        "bg0": "Fără Fundal",
+        "bg1": "Strat de Fier",
+        "bg4": "Contururi",
+
+        "bg20": "Hex",
+        "bg21": "Lume",
+        "bg22": "Camuflaj",
+        "bg23": "Elipsă",
+        "bg24": "Simplu",
+
+        "bg_simple": "=== Fundaluri Simple: ===",
+        "bg5": "Linii (1px)",
+        "bg6": "Linii (2px)",
+        "bg7": "Linii (3px)",
+        "bg8": "Linii (4px)",
+        "bg9": "Linii (1px Fără separatori)",
+        "bg10": "Linii (2px Fără separatori)",
+        "bg11": "Linii (3px Fără separatori)",
+        "bg12": "Linii (4px Fără separatori)",
+        "bg_old": "=== Fundaluri Vechi: ===",
+        "bg2": "Strat de Fier 2",
+        "bg3": "Strat de Fier 3",
+
+        "fnt0": "Play Îngroșat",        
+        "fnt1": "Play Îngroșat Mare",    
+        "fnt2": "Play Mediu",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Digital",
+
+        "fnt10": "Play Îngroșat Conturuit",
+        "fnt11": "Play Îngroșat Mare Conturuit",
+        "fnt12": "Play Mediu Conturuit",
+        "fnt13": "Russo Conturuit",
+        "fnt14": "Barlow Conturuit",
+        "fnt15": "Digital Conturuit",
+        
+        "_tfont": "Font Oră",
+        "_tfontM": "Font Minut",
+        "_tfontAOD": "Font timp AOD",
+        "_tfontS": "Mărime Font Timp",
+        "_tfontsS": "Mărime Font Secunde",
+
+        "_sh": "Umbră Timp",
+        "sh0": "Fără Umbră",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Dezactivează fundalul orei (doar fără gradient mips)",
+
+        "fnto": "Conturuit (Dacă disponibil)",
+        "fnts": "Păstrează același",
+
+        "_hf": "Font Timp",
+        "_hfa": "Font Timp (AOD, Mereu pornit)",
+        "_hfs": "Mărime Font Timp",
+
+        "_ox" : "Deplasare X Timp, 50 = centru",
+        "_oy" : "Deplasare Y Timp, 50 = centru",
+
+        "_bftype": "Tip câmpuri inferioare",
+        "_gfont": "Font Text",
+        "_gfontS": "Mărime Font Timp",
+
+        "_gradientq": "Calitate Gradient",
+        "mg" : "Gradient MIPS",
+        "ng" : "Fără Gradient",
+
+        "_tfontsp": "Spațiere Font Timp 50 = implicit", 
+        "_tfontsp3" : "Deplasare X Timp, 50 = centru",
+        "_tfontsp2" : "Deplasare Y Timp, 50 = centru",
+
+        "_pc": "Culoare text",
+        "_ic": "Culoare etichetă",
+
+        "_gs": "Arată Graficul ca Grafic cu Linii",
+        "_gg": "Adaugă Spațiere Grafic (stil vechi)",
+        "_c0": "Grafic",
+        "_ccl": "Culoare Grafic 1",
+        "_ccl2": "Culoare Grafic 2",
+
+        "_bglc": "Culoare Nuanță Fundal",
+
+        "_b0": "Grafic Sus + Un câmp Jos",
+        "_b1": "Grafic Jos + Un câmp Sus",
+        "_b2": "Grafic Jos + Două câmpuri Sus",
+        "_b3": "Două câmpuri cu Bare de Progres",
+
+        "_bgc": "Culoare Fundal",
+        "_hc1": "Culoare Oră",
+        "_hc2": "Culoare Oră 2",
+        "_mc1": "Culoare Minut",
+        "_mc2": "Culoare Minut 2",
+        "_dividerC": "Culoare Separator",
+        "_sc": "Culoare Centru Dreapta Sus",
+        "_sc2": "Culoare Centru Dreapta Jos",
+        "_aas" : "Secunde mereu pornite",
+
+        "_crcp": "Culoare bară progres 1",
+        "_crcp2": "Culoare bară progres 2",
+        "_crcu": "Culoare bară progres Neumplută",
+        "lcd": "75% Mai întunecat",
+
+        "_5f" : "Arată Progres Câmp",
+        "_6f" : "Plin",
+        "_7f" : "Gol",
+        "_8f" : "Ascunde",
+
+        "_aod": "Mod AOD (Afișaj Mereu Pornit)",
+        "_aodct": "Culoare Nuanță Timp AOD",
+        "_aodc": "Culoare Nuanță Date AOD",
+        "_aodT": "Luminozitate Timp AOD",
+        "_aodD": "Luminozitate Date AOD. Dacă ecranul se stinge în timpul AOD, fă acest număr mai mic. Număr mai mic = mai puțin consum baterie dar mai puțină luminozitate. Vezi FAQ)",
+        "_aodS": "Deplasare AOD - numărul de pixeli cu care ecranul se deplasează aleatoriu pe minut pentru a preveni arderea)",
+        
+        "_f20": "Date Câmp AOD",
+        "_l20": "Etichetă Câmp AOD",
+
+        "ad0": "Oprește Ecranul",
+        "ad100": "AOD Complet (Implicit)",
+        "ad102": "AOD Complet - Fundal Negru - Ascunde Grafice",
+        "ad1": "Doar Timp",
+        "ad2": "Doar Timp - Centrat",
+        "ad3": "Doar Timp - În Mișcare",
+        "ad4": "Timp + câmp de date (Selectează Mai Jos)",
+        "ad5": "Timp Centrat + câmp de date",
+        "ad6": "Timp În Mișcare + câmp de date",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}

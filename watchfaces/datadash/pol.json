@@ -1,0 +1,182 @@
+{   
+    "settings": {
+        "_tr": "👉 SKRÓTY DOTYKOWE",
+        "_tc": "🎨 KOLORY",
+        "_tt": "🔤 CZCIONKI",
+        "_ta": "🖼️ USTAWIENIA AOD (Zawsze włączony wyświetlacz)",
+        "_to": "💡 INNE",
+        "_touch1": "Skrót dotykowy godziny",
+        "_touch2": "Skrót dotykowy minuty",
+        "_o0": "↔️ Układ górny",
+        "_o1": "↔️ Układ środkowy",
+        "_o2": "↔️ Układ dolny",
+
+        "_f1": "Dane lewe górne",
+        "_f1l": "Etykieta lewa górna",
+        "_s1": "Postęp lewy górny",
+        "_f2": "Dane prawe górne",
+        "_f2l": "Etykieta prawa górna",
+        "_s2": "Postęp prawy górny",
+
+        "_f3l": "Etykieta środek lewa",
+        "_f3": "Dane środek lewa",
+        "_g0": "Przesunięcie środek lewa (25=środek)",
+
+        "_f12l": "Etykieta środek prawa",
+        "_f12": "Dane środek prawa",
+        "_g1": "Przesunięcie środek prawa (25=środek)",
+        
+        "_f4": "Wiersz 1 dane lewe",
+        "_f4l": "Wiersz 1 etykieta lewa",
+        "_f5": "Wiersz 1 dane środek",
+        "_f5l": "Wiersz 1 etykieta środek",
+        "_f6": "Wiersz 1 dane prawe",
+        "_f6l": "Wiersz 1 etykieta prawa",
+
+        "_f7": "Wiersz 2 dane lewe",
+        "_f7l": "Wiersz 2 etykieta lewa",
+        "_f8": "Wiersz 2 dane środek",
+        "_f8l": "Wiersz 2 etykieta środek",
+        "_f9": "Wiersz 2 dane prawe",
+        "_f9l": "Wiersz 2 etykieta prawa",
+
+        "_f10": "Dane dolne",
+        "_f10l": "Etykieta dolna",
+        "_f11": "Pole dolne 2 (przy użyciu dwóch pól dolnych)",
+        "_f11l": "Etykieta dolna 2",
+
+        "_bgi": "Styl tła",
+        "bg_detailed": "=== Szczegółowe tła: ===",
+        "bg0": "Brak tła",
+        "bg1": "Warstwa żelaza",
+        "bg4": "Kontury",
+
+        "bg20": "Hex",
+        "bg21": "Świat",
+        "bg22": "Kamuflaż",
+        "bg23": "Elipsa",
+        "bg24": "Proste",
+
+        "bg_simple": "=== Proste tła: ===",
+        "bg5": "Linie (1px)",
+        "bg6": "Linie (2px)",
+        "bg7": "Linie (3px)",
+        "bg8": "Linie (4px)",
+        "bg9": "Linie (1px bez separatorów)",
+        "bg10": "Linie (2px bez separatorów)",
+        "bg11": "Linie (3px bez separatorów)",
+        "bg12": "Linie (4px bez separatorów)",
+        "bg_old": "=== Stare tła: ===",
+        "bg2": "Warstwa żelaza 2",
+        "bg3": "Warstwa żelaza 3",
+
+        "fnt0": "Play pogrubiona",        
+        "fnt1": "Play pogrubiona duża",    
+        "fnt2": "Play średnia",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Cyfrowa",
+
+        "fnt10": "Play pogrubiona konturowa",
+        "fnt11": "Play pogrubiona duża konturowa",
+        "fnt12": "Play średnia konturowa",
+        "fnt13": "Russo konturowa",
+        "fnt14": "Barlow konturowa",
+        "fnt15": "Cyfrowa konturowa",
+        
+        "_tfont": "Czcionka godziny",
+        "_tfontM": "Czcionka minuty",
+        "_tfontAOD": "Czcionka czasu AOD",
+        "_tfontS": "Rozmiar czcionki czasu",
+        "_tfontsS": "Rozmiar czcionki sekund",
+
+        "_sh": "Cień czasu",
+        "sh0": "Brak cienia",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Wyłącz tło czasu (tylko bez gradientu mips)",
+
+        "fnto": "Konturowa (jeśli dostępna)",
+        "fnts": "Zachowaj tę samą",
+
+        "_hf": "Czcionka czasu",
+        "_hfa": "Czcionka czasu (AOD, zawsze włączona)",
+        "_hfs": "Rozmiar czcionki czasu",
+
+        "_ox" : "Przesunięcie X czasu, 50 = środek",
+        "_oy" : "Przesunięcie Y czasu, 50 = środek",
+
+        "_bftype": "Typ pól dolnych",
+        "_gfont": "Czcionka tekstu",
+        "_gfontS": "Rozmiar czcionki czasu",
+
+        "_gradientq": "Jakość gradientu",
+        "mg" : "Gradient MIPS",
+        "ng" : "Brak gradientu",
+
+        "_tfontsp": "Odstępy czcionki czasu 50 = domyślne", 
+        "_tfontsp3" : "Przesunięcie X czasu, 50 = środek",
+        "_tfontsp2" : "Przesunięcie Y czasu, 50 = środek",
+
+        "_pc": "Kolor tekstu",
+        "_ic": "Kolor etykiety",
+
+        "_gs": "Pokaż wykres jako wykres liniowy",
+        "_gg": "Dodaj odstępy wykresu (styl starszy)",
+        "_c0": "Wykres",
+        "_ccl": "Kolor wykresu 1",
+        "_ccl2": "Kolor wykresu 2",
+
+        "_bglc": "Kolor odcienia tła",
+
+        "_b0": "Wykres na górze + Jedno pole na dole",
+        "_b1": "Wykres na dole + Jedno pole na górze",
+        "_b2": "Wykres na dole + Dwa pola na górze",
+        "_b3": "Dwa pola z paskami postępu",
+
+        "_bgc": "Kolor tła",
+        "_hc1": "Kolor godziny",
+        "_hc2": "Kolor godziny 2",
+        "_mc1": "Kolor minuty",
+        "_mc2": "Kolor minuty 2",
+        "_dividerC": "Kolor separatora",
+        "_sc": "Kolor środek prawa góra",
+        "_sc2": "Kolor środek prawa dół",
+        "_aas" : "Zawsze sekundy",
+
+        "_crcp": "Kolor paska postępu 1",
+        "_crcp2": "Kolor paska postępu 2",
+        "_crcu": "Kolor paska postępu niewypełniony",
+        "lcd": "75% ciemniejszy",
+
+        "_5f" : "Pokaż postęp pola",
+        "_6f" : "Pełny",
+        "_7f" : "Pusty",
+        "_8f" : "Ukryj",
+
+        "_aod": "Tryb AOD (Zawsze włączony wyświetlacz)",
+        "_aodct": "Kolor odcienia czasu AOD",
+        "_aodc": "Kolor odcienia danych AOD",
+        "_aodT": "Jasność czasu AOD",
+        "_aodD": "Jasność danych AOD. Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Mniejsza liczba = mniejsze zużycie baterii ale mniejsza jasność. Zobacz FAQ)",
+        "_aodS": "Przesunięcie AOD - liczba pikseli o które ekran losowo przesuwa się co minutę aby zapobiec wypaleniu)",
+        
+        "_f20": "Dane pola AOD",
+        "_l20": "Etykieta pola AOD",
+
+        "ad0": "Wyłącz ekran",
+        "ad100": "Pełny AOD (domyślny)",
+        "ad102": "Pełny AOD - czarne tło - ukryj wykresy",
+        "ad1": "Tylko czas",
+        "ad2": "Tylko czas - wyśrodkowany",
+        "ad3": "Tylko czas - poruszający się",
+        "ad4": "Czas + pole danych (wybierz poniżej)",
+        "ad5": "Czas wyśrodkowany + pole danych",
+        "ad6": "Czas poruszający się + pole danych",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}

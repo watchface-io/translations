@@ -1,0 +1,182 @@
+{   
+    "settings": {
+        "_tr": "👉 PINTASAN SENTUH",
+        "_tc": "🎨 WARNA",
+        "_tt": "🔤 FON",
+        "_ta": "🖼️ TETAPAN AOD (Sentiasa Hidup)",
+        "_to": "💡 LAIN-LAIN",
+        "_touch1": "Pintasan Sentuh Jam",
+        "_touch2": "Pintasan Sentuh Minit",
+        "_o0": "↔️ Susun Atur Atas",
+        "_o1": "↔️ Susun Atur Tengah",
+        "_o2": "↔️ Susun Atur Bawah",
+
+        "_f1": "Data Kiri Atas",
+        "_f1l": "Label Kiri Atas",
+        "_s1": "Kemajuan Kiri Atas",
+        "_f2": "Data Kanan Atas",
+        "_f2l": "Label Kanan Atas",
+        "_s2": "Kemajuan Kanan Atas",
+
+        "_f3l": "Label Tengah Kiri",
+        "_f3": "Data Tengah Kiri",
+        "_g0": "Offset Tengah Kiri (25=tengah)",
+
+        "_f12l": "Label Tengah Kanan",
+        "_f12": "Data Tengah Kanan",
+        "_g1": "Offset Tengah Kanan (25=tengah)",
+        
+        "_f4": "Data Baris 1 Kiri",
+        "_f4l": "Label Baris 1 Kiri",
+        "_f5": "Data Baris 1 Tengah",
+        "_f5l": "Label Baris 1 Tengah",
+        "_f6": "Data Baris 1 Kanan",
+        "_f6l": "Label Baris 1 Kanan",
+
+        "_f7": "Data Baris 2 Kiri",
+        "_f7l": "Label Baris 2 Kiri",
+        "_f8": "Data Baris 2 Tengah",
+        "_f8l": "Label Baris 2 Tengah",
+        "_f9": "Data Baris 2 Kanan",
+        "_f9l": "Label Baris 2 Kanan",
+
+        "_f10": "Data Bawah",
+        "_f10l": "Label Bawah",
+        "_f11": "Medan Bawah 2 (apabila menggunakan dua medan bawah)",
+        "_f11l": "Label Bawah 2",
+
+        "_bgi": "Gaya Latar Belakang",
+        "bg_detailed": "=== Latar Belakang Terperinci: ===",
+        "bg0": "Tiada Latar Belakang",
+        "bg1": "Lapisan Besi",
+        "bg4": "Garis Luar",
+
+        "bg20": "Heksagon",
+        "bg21": "Dunia",
+        "bg22": "Penyamaran",
+        "bg23": "Elips",
+        "bg24": "Biasa",
+
+        "bg_simple": "=== Latar Belakang Ringkas: ===",
+        "bg5": "Garisan (1px)",
+        "bg6": "Garisan (2px)",
+        "bg7": "Garisan (3px)",
+        "bg8": "Garisan (4px)",
+        "bg9": "Garisan (1px Tanpa pemisah)",
+        "bg10": "Garisan (2px Tanpa pemisah)",
+        "bg11": "Garisan (3px Tanpa pemisah)",
+        "bg12": "Garisan (4px Tanpa pemisah)",
+        "bg_old": "=== Latar Belakang Lama: ===",
+        "bg2": "Lapisan Besi 2",
+        "bg3": "Lapisan Besi 3",
+
+        "fnt0": "Play Tebal",        
+        "fnt1": "Play Tebal Besar",    
+        "fnt2": "Play Sederhana",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Digital",
+
+        "fnt10": "Play Tebal Bergaris",
+        "fnt11": "Play Tebal Besar Bergaris",
+        "fnt12": "Play Sederhana Bergaris",
+        "fnt13": "Russo Bergaris",
+        "fnt14": "Barlow Bergaris",
+        "fnt15": "Digital Bergaris",
+        
+        "_tfont": "Fon Jam",
+        "_tfontM": "Fon Minit",
+        "_tfontAOD": "Fon masa AOD",
+        "_tfontS": "Saiz Fon Masa",
+        "_tfontsS": "Saiz Fon Saat",
+
+        "_sh": "Bayang Masa",
+        "sh0": "Tiada Bayang",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Lumpuhkan latar belakang masa (hanya bukan mips-gradient)",
+
+        "fnto": "Bergaris (Jika ada)",
+        "fnts": "Kekalkan sama",
+
+        "_hf": "Fon Masa",
+        "_hfa": "Fon Masa (AOD, Sentiasa hidup)",
+        "_hfs": "Saiz Fon Masa",
+
+        "_ox": "Offset X Masa, 50 = tengah",
+        "_oy": "Offset Y Masa, 50 = tengah",
+
+        "_bftype": "Jenis medan bawah",
+        "_gfont": "Fon Teks",
+        "_gfontS": "Saiz Fon Masa",
+
+        "_gradientq": "Kualiti Kecerunan",
+        "mg": "Kecerunan MIPS",
+        "ng": "Tiada Kecerunan",
+
+        "_tfontsp": "Jarak Fon Masa 50 = lalai", 
+        "_tfontsp3": "Offset X Masa, 50 = tengah",
+        "_tfontsp2": "Offset Y Masa, 50 = tengah",
+
+        "_pc": "Warna teks",
+        "_ic": "Warna label",
+
+        "_gs": "Tunjukkan Carta sebagai Carta Garisan",
+        "_gg": "Tambah Jarak Graf (gaya lama)",
+        "_c0": "Carta",
+        "_ccl": "Warna Carta 1",
+        "_ccl2": "Warna Carta 2",
+
+        "_bglc": "Warna Tona Latar Belakang",
+
+        "_b0": "Carta di Atas + Satu medan di Bawah",
+        "_b1": "Carta di Bawah + Satu medan di Atas",
+        "_b2": "Carta di Bawah + Dua medan di Atas",
+        "_b3": "Dua medan dengan Bar Kemajuan",
+
+        "_bgc": "Warna Latar Belakang",
+        "_hc1": "Warna Jam",
+        "_hc2": "Warna Jam 2",
+        "_mc1": "Warna Minit",
+        "_mc2": "Warna Minit 2",
+        "_dividerC": "Warna Pemisah",
+        "_sc": "Warna Tengah Kanan Atas",
+        "_sc2": "Warna Tengah Kanan Bawah",
+        "_aas": "Saat sentiasa hidup",
+
+        "_crcp": "Warna bar kemajuan 1",
+        "_crcp2": "Warna bar kemajuan 2",
+        "_crcu": "Warna bar kemajuan Tidak Terisi",
+        "lcd": "75% Lebih Gelap",
+
+        "_5f": "Tunjukkan Kemajuan Medan",
+        "_6f": "Penuh",
+        "_7f": "Kosong",
+        "_8f": "Sembunyi",
+
+        "_aod": "Mod AOD (Sentiasa Hidup)",
+        "_aodct": "Warna Tona Masa AOD",
+        "_aodc": "Warna Tona Data AOD",
+        "_aodT": "Kecerahan Masa AOD",
+        "_aodD": "Kecerahan Data AOD. Jika skrin mati semasa AOD, kurangkan nombor ini. Nombor rendah = kurang penggunaan bateri tetapi kurang cerah. Lihat FAQ)",
+        "_aodS": "Anjakan AOD - bilangan piksel skrin secara rawak beralih setiap minit untuk mencegah burn-in)",
+        
+        "_f20": "Data Medan AOD",
+        "_l20": "Label Medan AOD",
+
+        "ad0": "TUTUP skrin",
+        "ad100": "AOD Penuh (Lalai)",
+        "ad102": "AOD Penuh - Latar Belakang Hitam - Sembunyi Carta",
+        "ad1": "Masa Sahaja",
+        "ad2": "Masa Sahaja - Berpusat",
+        "ad3": "Masa Sahaja - Bergerak",
+        "ad4": "Masa + medan data (Pilih Di Bawah)",
+        "ad5": "Masa Berpusat + medan data",
+        "ad6": "Masa Bergerak + medan data",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}

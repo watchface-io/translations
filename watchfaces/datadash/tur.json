@@ -1,0 +1,183 @@
+{   
+    "settings": {
+        "_tr": "👉 DOKUNMA KISAYOLLARI",
+        "_tc": "🎨 RENKLER",
+        "_tt": "🔤 YAZTIPI",
+        "_ta": "🖼️ AOD AYARLARI (Her Zaman Açık Ekran)",
+        "_to": "💡 DİĞER",
+        "_touch1": "Dokunma Kısayolu Saat",
+        "_touch2": "Dokunma Kısayolu Dakika",
+        "_o0": "↔️ Üst Düzen",
+        "_o1": "↔️ Orta Düzen",
+        "_o2": "↔️ Alt Düzen",
+
+        "_f1": "Sol Üst Veri",
+        "_f1l": "Sol Üst Etiket",
+        "_s1": "Sol Üst İlerleme",
+        "_f2": "Sağ Üst Veri",
+        "_f2l": "Sağ Üst Etiket",
+        "_s2": "Sağ Üst İlerleme",
+
+        "_f3l": "Orta Sol Etiket",
+        "_f3": "Orta Sol Veri",
+        "_g0": "Orta Sol Ofset (25=orta)",
+
+        "_f12l": "Orta Sağ Etiket",
+        "_f12": "Orta Sağ Veri",
+        "_g1": "Orta Sağ Ofset (25=orta)",
+        
+        "_f4": "Satır 1 Sol Veri",
+        "_f4l": "Satır 1 Sol Etiket",
+        "_f5": "Satır 1 Orta Veri",
+        "_f5l": "Satır 1 Orta Etiket",
+        "_f6": "Satır 1 Sağ Veri",
+        "_f6l": "Satır 1 Sağ Etiket",
+
+        "_f7": "Satır 2 Sol Veri",
+        "_f7l": "Satır 2 Sol Etiket",
+        "_f8": "Satır 2 Orta Veri",
+        "_f8l": "Satır 2 Orta Etiket",
+        "_f9": "Satır 2 Sağ Veri",
+        "_f9l": "Satır 2 Sağ Etiket",
+
+        "_f10": "Alt Veri",
+        "_f10l": "Alt Etiket",
+        "_f11": "Alt 2 Alan (iki alt alan kullanırken)",
+        "_f11l": "Alt 2 Etiket",
+
+        "_bgi": "Arka Plan Stili",
+        "bg_detailed": "=== Ayrıntılı Arka Planlar: ===",
+        "bg0": "Arka Plan Yok",
+        "bg1": "Demir Katman",
+        "bg4": "Çerçeveler",
+
+        "bg20": "Altıgen",
+        "bg21": "Dünya",
+        "bg22": "Kamuflaj",
+        "bg23": "Elips",
+        "bg24": "Düz",
+
+        "bg_simple": "=== Basit Arka Planlar: ===",
+        "bg5": "Çizgiler (1px)",
+        "bg6": "Çizgiler (2px)",
+        "bg7": "Çizgiler (3px)",
+        "bg8": "Çizgiler (4px)",
+        "bg9": "Çizgiler (1px Ayırıcısız)",
+        "bg10": "Çizgiler (2px Ayırıcısız)",
+        "bg11": "Çizgiler (3px Ayırıcısız)",
+        "bg12": "Çizgiler (4px Ayırıcısız)",
+        "bg_old": "=== Eski Arka Planlar: ===",
+        "bg2": "Demir Katman 2",
+        "bg3": "Demir Katman 3",
+
+        "fnt0": "Play Kalın",        
+        "fnt1": "Play Kalın Büyük",    
+        "fnt2": "Play Orta",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Dijital",
+
+        "fnt10": "Play Kalın Çerçeveli",
+        "fnt11": "Play Kalın Büyük Çerçeveli",
+        "fnt12": "Play Orta Çerçeveli",
+        "fnt13": "Russo Çerçeveli",
+        "fnt14": "Barlow Çerçeveli",
+        "fnt15": "Dijital Çerçeveli",
+        
+        "_tfont": "Saat Yaztipi",
+        "_tfontM": "Dakika Yaztipi",
+        "_tfontAOD": "Zaman yaztipi AOD",
+        "_tfontS": "Zaman Yaztipi boyutu",
+        "_tfontsS": "Saniye Yaztipi boyutu",
+
+        "_sh": "Zaman Gölge",
+        "sh0": "Gölge Yok",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Saat arka planını devre dışı bırak (sadece mips-gradyansız)",
+
+
+        "fnto": "Çerçeveli (Varsa)",
+        "fnts": "Aynı tut",
+
+        "_hf": "Zaman Yaztipi",
+        "_hfa": "Zaman Yaztipi (AOD, Her zaman açık)",
+        "_hfs": "Zaman Yaztipi Boyutu",
+
+        "_ox": "Zaman X Ofset, 50 = orta",
+        "_oy": "Zaman Y Ofset, 50 = orta",
+
+        "_bftype": "Alt alanlar türü",
+        "_gfont": "Metin Yaztipi",
+        "_gfontS": "Zaman Yaztipi Boyutu",
+
+        "_gradientq": "Gradyan Kalitesi",
+        "mg": "MIPS Gradyan",
+        "ng": "Gradyan Yok",
+
+        "_tfontsp": "Zaman Yaztipi aralığı 50 = varsayılan", 
+        "_tfontsp3": "Zaman X Ofset, 50 = orta",
+        "_tfontsp2": "Zaman Y Ofset, 50 = orta",
+
+        "_pc": "Metin rengi",
+        "_ic": "Etiket rengi",
+
+        "_gs": "Grafiği Çizgi grafiği olarak göster",
+        "_gg": "Grafik Aralığı ekle (eski stil)",
+        "_c0": "Grafik",
+        "_ccl": "Grafik Rengi 1",
+        "_ccl2": "Grafik Rengi 2",
+
+        "_bglc": "Arka Plan Ton Rengi",
+
+        "_b0": "Üstte Grafik + Altta Bir alan",
+        "_b1": "Altta Grafik + Üstte Bir alan",
+        "_b2": "Altta Grafik + Üstte İki alan",
+        "_b3": "İlerleme Çubukları ile İki alan",
+
+        "_bgc": "Arka Plan Rengi",
+        "_hc1": "Saat Rengi",
+        "_hc2": "Saat Rengi 2",
+        "_mc1": "Dakika Rengi",
+        "_mc2": "Dakika Rengi 2",
+        "_dividerC": "Ayırıcı Rengi",
+        "_sc": "Orta Sağ Üst Rengi",
+        "_sc2": "Orta Sağ Alt Rengi",
+        "_aas": "Her zaman açık saniyeler",
+
+        "_crcp": "İlerleme çubuğu rengi 1",
+        "_crcp2": "İlerleme çubuğu rengi 2",
+        "_crcu": "İlerleme çubuğu rengi Doldurulmamış",
+        "lcd": "%75 Daha Koyu",
+
+        "_5f": "Alan İlerlemesini Göster",
+        "_6f": "Tam",
+        "_7f": "Boş",
+        "_8f": "Gizle",
+
+        "_aod": "AOD Modu (Her Zaman Açık Ekran)",
+        "_aodct": "AOD Zaman Ton Rengi",
+        "_aodc": "AOD Veri Ton Rengi",
+        "_aodT": "AOD Zaman Parlaklığı",
+        "_aodD": "AOD Veri Parlaklığı. AOD sırasında ekran kapanırsa bu sayıyı düşürün. Düşük sayı = daha az pil kullanımı ama daha az parlak. SSS'ye bakın)",
+        "_aodS": "AOD Kaydırma - ekranın burn-in'i önlemek için dakika başına rastgele kaydırdığı piksel sayısı)",
+        
+        "_f20": "AOD Alan Verisi",
+        "_l20": "AOD Alan Etiketi",
+
+        "ad0": "Ekranı KAPAT",
+        "ad100": "Tam AOD (Varsayılan)",
+        "ad102": "Tam AOD - Siyah Arka Plan - Grafikleri Gizle",
+        "ad1": "Sadece Zaman",
+        "ad2": "Sadece Zaman - Ortalanmış",
+        "ad3": "Sadece Zaman - Hareketli",
+        "ad4": "Zaman + veri alanı (Aşağıdan Seç)",
+        "ad5": "Zaman Ortalanmış + veri alanı",
+        "ad6": "Zaman Hareketli + veri alanı",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}

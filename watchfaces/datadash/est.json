@@ -1,0 +1,182 @@
+{   
+    "settings": {
+        "_tr": "👉 PUUTEOTSETEED",
+        "_tc": "🎨 VÄRVID",
+        "_tt": "🔤 FONDID",
+        "_ta": "🖼️ AOD SEADED (Alati sees ekraan)",
+        "_to": "💡 MUUD",
+        "_touch1": "Puuteotsetee tund",
+        "_touch2": "Puuteotsetee minut",
+        "_o0": "↔️ Ülemine paigutus",
+        "_o1": "↔️ Keskmine paigutus",
+        "_o2": "↔️ Alumine paigutus",
+
+        "_f1": "Vasak ülemine andmed",
+        "_f1l": "Vasak ülemine silt",
+        "_s1": "Vasak ülemine progress",
+        "_f2": "Parem ülemine andmed",
+        "_f2l": "Parem ülemine silt",
+        "_s2": "Parem ülemine progress",
+
+        "_f3l": "Keskmine vasak silt",
+        "_f3": "Keskmine vasak andmed",
+        "_g0": "Keskmine vasak nihe (25=keskus)",
+
+        "_f12l": "Keskmine parem silt",
+        "_f12": "Keskmine parem andmed",
+        "_g1": "Keskmine parem nihe (25=keskus)",
+        
+        "_f4": "Rida 1 vasak andmed",
+        "_f4l": "Rida 1 vasak silt",
+        "_f5": "Rida 1 keskmine andmed",
+        "_f5l": "Rida 1 keskmine silt",
+        "_f6": "Rida 1 parem andmed",
+        "_f6l": "Rida 1 parem silt",
+
+        "_f7": "Rida 2 vasak andmed",
+        "_f7l": "Rida 2 vasak silt",
+        "_f8": "Rida 2 keskmine andmed",
+        "_f8l": "Rida 2 keskmine silt",
+        "_f9": "Rida 2 parem andmed",
+        "_f9l": "Rida 2 parem silt",
+
+        "_f10": "Alumine andmed",
+        "_f10l": "Alumine silt",
+        "_f11": "Alumine 2 väli (kahe alumise välja kasutamisel)",
+        "_f11l": "Alumine 2 silt",
+
+        "_bgi": "Tausta stiil",
+        "bg_detailed": "=== Detailsed taustad: ===",
+        "bg0": "Taust puudub",
+        "bg1": "Raudkiht",
+        "bg4": "Kontuurid",
+
+        "bg20": "Kuuskand",
+        "bg21": "Maailm",
+        "bg22": "Varjemuster",
+        "bg23": "Ellips",
+        "bg24": "Lihtne",
+
+        "bg_simple": "=== Lihtsad taustad: ===",
+        "bg5": "Jooned (1px)",
+        "bg6": "Jooned (2px)",
+        "bg7": "Jooned (3px)",
+        "bg8": "Jooned (4px)",
+        "bg9": "Jooned (1px ilma eraldajateta)",
+        "bg10": "Jooned (2px ilma eraldajateta)",
+        "bg11": "Jooned (3px ilma eraldajateta)",
+        "bg12": "Jooned (4px ilma eraldajateta)",
+        "bg_old": "=== Vanad taustad: ===",
+        "bg2": "Raudkiht 2",
+        "bg3": "Raudkiht 3",
+
+        "fnt0": "Play paks",        
+        "fnt1": "Play paks suur",    
+        "fnt2": "Play keskmine",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Digitaalne",
+
+        "fnt10": "Play paks kontuuriga",
+        "fnt11": "Play paks suur kontuuriga",
+        "fnt12": "Play keskmine kontuuriga",
+        "fnt13": "Russo kontuuriga",
+        "fnt14": "Barlow kontuuriga",
+        "fnt15": "Digitaalne kontuuriga",
+        
+        "_tfont": "Tunni font",
+        "_tfontM": "Minuti font",
+        "_tfontAOD": "Aja font AOD",
+        "_tfontS": "Aja fondi suurus",
+        "_tfontsS": "Sekundi fondi suurus",
+
+        "_sh": "Aja vari",
+        "sh0": "Vari puudub",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Keela aja taust (ainult mitte-mips-gradient)",
+
+        "fnto": "Kontuuriga (kui saadaval)",
+        "fnts": "Sama hoida",
+
+        "_hf": "Aja font",
+        "_hfa": "Aja font (AOD, alati sees)",
+        "_hfs": "Aja fondi suurus",
+
+        "_ox": "Aja X nihe, 50 = keskus",
+        "_oy": "Aja Y nihe, 50 = keskus",
+
+        "_bftype": "Alumiste väljade tüüp",
+        "_gfont": "Teksti font",
+        "_gfontS": "Aja fondi suurus",
+
+        "_gradientq": "Gradiendi kvaliteet",
+        "mg": "MIPS gradient",
+        "ng": "Gradient puudub",
+
+        "_tfontsp": "Aja fondi vahekaugus 50 = vaikimisi", 
+        "_tfontsp3": "Aja X nihe, 50 = keskus",
+        "_tfontsp2": "Aja Y nihe, 50 = keskus",
+
+        "_pc": "Teksti värv",
+        "_ic": "Sildi värv",
+
+        "_gs": "Näita diagrammi joongraafina",
+        "_gg": "Lisa diagrammi vahekaugus (vana stiil)",
+        "_c0": "Diagramm",
+        "_ccl": "Diagrammi värv 1",
+        "_ccl2": "Diagrammi värv 2",
+
+        "_bglc": "Tausta tooni värv",
+
+        "_b0": "Diagramm üleval + üks väli all",
+        "_b1": "Diagramm all + üks väli üleval",
+        "_b2": "Diagramm all + kaks välja üleval",
+        "_b3": "Kaks välja progressiribadega",
+
+        "_bgc": "Tausta värv",
+        "_hc1": "Tunni värv",
+        "_hc2": "Tunni värv 2",
+        "_mc1": "Minuti värv",
+        "_mc2": "Minuti värv 2",
+        "_dividerC": "Eraldaja värv",
+        "_sc": "Keskmine parem ülemine värv",
+        "_sc2": "Keskmine parem alumine värv",
+        "_aas": "Alati sees sekundid",
+
+        "_crcp": "Progressiriba värv 1",
+        "_crcp2": "Progressiriba värv 2",
+        "_crcu": "Progressiriba värv täitmata",
+        "lcd": "75% tumedam",
+
+        "_5f": "Näita välja progressi",
+        "_6f": "Täis",
+        "_7f": "Tühi",
+        "_8f": "Peida",
+
+        "_aod": "AOD režiim (alati sees ekraan)",
+        "_aodct": "AOD aja tooni värv",
+        "_aodc": "AOD andmete tooni värv",
+        "_aodT": "AOD aja heledus",
+        "_aodD": "AOD andmete heledus. Kui ekraan lülitub AOD ajal välja, tee see number väiksemaks. Väiksem number = vähem aku tarbimist aga vähem ere. Vaata KKK)",
+        "_aodS": "AOD nihe - pikslite arv, mille võrra ekraan juhuslikult minutis nihkub sissepõlemise vältimiseks)",
+        
+        "_f20": "AOD välja andmed",
+        "_l20": "AOD välja silt",
+
+        "ad0": "Lülita ekraan VÄLJA",
+        "ad100": "Täis AOD (vaikimisi)",
+        "ad102": "Täis AOD - must taust - peida diagrammid",
+        "ad1": "Ainult aeg",
+        "ad2": "Ainult aeg - keskele",
+        "ad3": "Ainult aeg - liikuv",
+        "ad4": "Aeg + andmeväli (vali allpool)",
+        "ad5": "Aeg keskele + andmeväli",
+        "ad6": "Aeg liikuv + andmeväli",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}

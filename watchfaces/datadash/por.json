@@ -1,0 +1,182 @@
+{   
+    "settings": {
+        "_tr": "👉 ATALHOS DE TOQUE",
+        "_tc": "🎨 CORES",
+        "_tt": "🔤 FONTES",
+        "_ta": "🖼️ CONFIGURAÇÕES AOD (Tela Sempre Ligada)",
+        "_to": "💡 OUTROS",
+        "_touch1": "Atalho de Toque da Hora",
+        "_touch2": "Atalho de Toque do Minuto",
+        "_o0": "↔️ Layout Superior",
+        "_o1": "↔️ Layout Central",
+        "_o2": "↔️ Layout Inferior",
+
+        "_f1": "Dados Superior Esquerdo",
+        "_f1l": "Rótulo Superior Esquerdo",
+        "_s1": "Progresso Superior Esquerdo",
+        "_f2": "Dados Superior Direito",
+        "_f2l": "Rótulo Superior Direito",
+        "_s2": "Progresso Superior Direito",
+
+        "_f3l": "Rótulo Centro Esquerdo",
+        "_f3": "Dados Centro Esquerdo",
+        "_g0": "Deslocamento Centro Esquerdo (25=centro)",
+
+        "_f12l": "Rótulo Centro Direito",
+        "_f12": "Dados Centro Direito",
+        "_g1": "Deslocamento Centro Direito (25=centro)",
+        
+        "_f4": "Dados Linha 1 Esquerda",
+        "_f4l": "Rótulo Linha 1 Esquerda",
+        "_f5": "Dados Linha 1 Centro",
+        "_f5l": "Rótulo Linha 1 Centro",
+        "_f6": "Dados Linha 1 Direita",
+        "_f6l": "Rótulo Linha 1 Direita",
+
+        "_f7": "Dados Linha 2 Esquerda",
+        "_f7l": "Rótulo Linha 2 Esquerda",
+        "_f8": "Dados Linha 2 Centro",
+        "_f8l": "Rótulo Linha 2 Centro",
+        "_f9": "Dados Linha 2 Direita",
+        "_f9l": "Rótulo Linha 2 Direita",
+
+        "_f10": "Dados Inferior",
+        "_f10l": "Rótulo Inferior",
+        "_f11": "Campo Inferior 2 (ao usar dois campos inferiores)",
+        "_f11l": "Rótulo Inferior 2",
+
+        "_bgi": "Estilo do Fundo",
+        "bg_detailed": "=== Fundos Detalhados: ===",
+        "bg0": "Sem Fundo",
+        "bg1": "Camada de Ferro",
+        "bg4": "Contornos",
+
+        "bg20": "Hex",
+        "bg21": "Mundo",
+        "bg22": "Camuflagem",
+        "bg23": "Elipse",
+        "bg24": "Simples",
+
+        "bg_simple": "=== Fundos Simples: ===",
+        "bg5": "Linhas (1px)",
+        "bg6": "Linhas (2px)",
+        "bg7": "Linhas (3px)",
+        "bg8": "Linhas (4px)",
+        "bg9": "Linhas (1px Sem separadores)",
+        "bg10": "Linhas (2px Sem separadores)",
+        "bg11": "Linhas (3px Sem separadores)",
+        "bg12": "Linhas (4px Sem separadores)",
+        "bg_old": "=== Fundos Antigos: ===",
+        "bg2": "Camada de Ferro 2",
+        "bg3": "Camada de Ferro 3",
+
+        "fnt0": "Play Negrito",        
+        "fnt1": "Play Negrito Grande",    
+        "fnt2": "Play Médio",    
+        "fnt3": "Russo",   
+        "fnt4": "Barlow",   
+        "fnt5": "Digital",
+
+        "fnt10": "Play Negrito Contornado",
+        "fnt11": "Play Negrito Grande Contornado",
+        "fnt12": "Play Médio Contornado",
+        "fnt13": "Russo Contornado",
+        "fnt14": "Barlow Contornado",
+        "fnt15": "Digital Contornado",
+        
+        "_tfont": "Fonte da Hora",
+        "_tfontM": "Fonte do Minuto",
+        "_tfontAOD": "Fonte do Tempo AOD",
+        "_tfontS": "Tamanho da Fonte do Tempo",
+        "_tfontsS": "Tamanho da Fonte dos Segundos",
+
+        "_sh": "Sombra do Tempo",
+        "sh0": "Sem Sombra",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+
+        "_fb": "Desabilitar fundo do horário (apenas sem gradiente mips)",
+
+        "fnto": "Contornado (Se disponível)",
+        "fnts": "Manter o mesmo",
+
+        "_hf": "Fonte do Tempo",
+        "_hfa": "Fonte do Tempo (AOD, Sempre ligado)",
+        "_hfs": "Tamanho da Fonte do Tempo",
+
+        "_ox" : "Deslocamento X do Tempo, 50 = centro",
+        "_oy" : "Deslocamento Y do Tempo, 50 = centro",
+
+        "_bftype": "Tipo dos campos inferiores",
+        "_gfont": "Fonte do Texto",
+        "_gfontS": "Tamanho da Fonte do Tempo",
+
+        "_gradientq": "Qualidade do Gradiente",
+        "mg" : "Gradiente MIPS",
+        "ng" : "Sem Gradiente",
+
+        "_tfontsp": "Espaçamento da Fonte do Tempo 50 = padrão", 
+        "_tfontsp3" : "Deslocamento X do Tempo, 50 = centro",
+        "_tfontsp2" : "Deslocamento Y do Tempo, 50 = centro",
+
+        "_pc": "Cor do texto",
+        "_ic": "Cor do rótulo",
+
+        "_gs": "Mostrar Gráfico como Gráfico de Linhas",
+        "_gg": "Adicionar Espaçamento do Gráfico (estilo antigo)",
+        "_c0": "Gráfico",
+        "_ccl": "Cor do Gráfico 1",
+        "_ccl2": "Cor do Gráfico 2",
+
+        "_bglc": "Cor de Matiz do Fundo",
+
+        "_b0": "Gráfico no Topo + Um campo na Parte Inferior",
+        "_b1": "Gráfico na Parte Inferior + Um campo no Topo",
+        "_b2": "Gráfico na Parte Inferior + Dois campos no Topo",
+        "_b3": "Dois campos com Barras de Progresso",
+
+        "_bgc": "Cor do Fundo",
+        "_hc1": "Cor da Hora",
+        "_hc2": "Cor da Hora 2",
+        "_mc1": "Cor do Minuto",
+        "_mc2": "Cor do Minuto 2",
+        "_dividerC": "Cor do Divisor",
+        "_sc": "Cor Superior Centro Direito",
+        "_sc2": "Cor Inferior Centro Direito",
+        "_aas" : "Segundos sempre ligados",
+
+        "_crcp": "Cor da barra de progresso 1",
+        "_crcp2": "Cor da barra de progresso 2",
+        "_crcu": "Cor da barra de progresso Não preenchida",
+        "lcd": "75% Mais escuro",
+
+        "_5f" : "Mostrar Progresso do Campo",
+        "_6f" : "Cheio",
+        "_7f" : "Vazio",
+        "_8f" : "Ocultar",
+
+        "_aod": "Modo AOD (Tela Sempre Ligada)",
+        "_aodct": "Cor de Matiz do Tempo AOD",
+        "_aodc": "Cor de Matiz dos Dados AOD",
+        "_aodT": "Brilho do Tempo AOD",
+        "_aodD": "Brilho dos Dados AOD. Se a tela desligar durante o AOD, diminua este número. Número menor = menos uso da bateria mas menos brilho. Veja FAQ)",
+        "_aodS": "Deslocamento AOD - número de pixels que a tela move aleatoriamente por minuto para prevenir queima)",
+        
+        "_f20": "Dados do Campo AOD",
+        "_l20": "Rótulo do Campo AOD",
+
+        "ad0": "Desligar Tela",
+        "ad100": "AOD Completo (Padrão)",
+        "ad102": "AOD Completo - Fundo Preto - Ocultar Gráficos",
+        "ad1": "Apenas Tempo",
+        "ad2": "Apenas Tempo - Centralizado",
+        "ad3": "Apenas Tempo - Movendo",
+        "ad4": "Tempo + campo de dados (Selecione Abaixo)",
+        "ad5": "Tempo Centralizado + campo de dados",
+        "ad6": "Tempo Movendo + campo de dados",
+        "_aodf1": "",
+        "_aodf2": ""
+    }
+}
