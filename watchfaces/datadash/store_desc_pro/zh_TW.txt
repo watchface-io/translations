@@ -1,0 +1,32 @@
+資料豐富的錶面，具有可自訂欄位、圖表、圖形和進度條。擁有多種資料顯示樣式、觸控快捷鍵、自訂字體、AOD支援以及豐富的色彩自訂選項，提供個人化體驗。
+
+⭐️ 購買前先試用！ ⭐️
+在購買此錶面之前，請先查看免費版本，確保這是您想要的，並且您喜歡它在您手錶上的外觀：https://apps.garmin.com/apps/65210f56-42d1-4818-a408-889944d80758
+
+⭐️ MIPS裝置（Fenix 7、Enduro、Forerunner 255等） ⭐️
+此錶面完全針對MIPS進行了優化，但顏色會如大多數圖片一樣看起來不同，因為這些圖片是在Amoled裝置上拍攝的。此錶面有許多針對MIPS優化的主題，並支援MIPS漸層。您可以在此處找到所有內建主題：https://watchface.io/datadash/themes#MIPS
+
+⭐️ 資源 ⭐️
+* 常見問題：https://watchface.io/faq
+* 手冊：https://watchface.io/datadash/manual
+* 免費版本：https://apps.garmin.com/apps/65210f56-42d1-4818-a408-889944d80758
+* 主題清單：https://watchface.io/datadash/themes
+* 色彩指南：https://watchface.io/docs/color-list
+* 可用資料欄位：https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：有兩個不同的設定位置：
+* Garmin IQ應用程式（在您的手機上前往您的裝置、錶面、設定）：設定資料欄位、顏色和一般設定。
+* 手錶設定：透過按住選單按鈕、選擇錶面並點擊自訂，直接在手錶上存取更詳細的選項，如時間格式、目標和單位。
+
+⭐️ 資料欄位 ⭐️
+Garmin目前提供給第三方開發者的所有資料欄位都可使用，加上額外功能如血糖監測器（CGM）支援、Open Weather Map（OWM）和其他第三方應用程式支援。
+所有可用的資料欄位都在此處列出：https://watchface.io/docs/datafields 某些資料欄位（如訓練準備度或HRV）目前不向第三方開發者提供，請參閱此處：https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ 我能更改Fenix/Enduro等文字嗎？ ⭐️
+是的，您可以！請參閱此處：https://watchface.io/faq/how-to-change-the-fenix-text
+實際上，此錶面上的所有內容都可以根據您的喜好進行調整。
+
+*** 如果您遇到任何錯誤或問題，請按「Contact Developer」聯繫我，而不是使用評論系統。我可以快速回覆電子郵件，但可能幾天都看不到評論。 ***
+
+* 更新日誌：https://watchface.io/datadash/changelog

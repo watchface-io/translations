@@ -1,0 +1,32 @@
+Datarikas kellotaulu mukautettavilla kentillä, kaavioilla, graafeilla ja edistymispalkeilla. Sisältää useita datan näyttötyylejä, kosketusoikoteitä, mukautettuja fontteja, AOD-tukea ja laajoja värikustomointivaihtoehtoja personoidun kokemuksen saavuttamiseksi.
+
+⭐️ Ilmainen vs Pro ⭐️
+Tämä kellotaulu on saatavilla ilmaiseksi kaikilla perustoiminnoilla. Premium-ominaisuudet (merkitty [*]) vaativat Pro-avaimen lukituksen avaamiseksi. Voit ostaa Pro-avaimen täältä: https://ko-fi.com/s/07c73311a1 Tai osta PRO-versio täältä: https://apps.garmin.com/apps/ac227e26-5936-4210-bbc5-183f8bb92ef4
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Forerunner 255, jne) ⭐️
+Tämä kellotaulu on täysin optimoitu MIPS:lle, mutta värit näyttävät erilaisilta kuin useimmissa kuvissa, koska ne on otettu Amoled-laitteella. Tässä kellotaulussa on monia MIPS:lle optimoituja teemoja ja se tukee MIPS-liukuvärejä. Löydät kaikki sisäänrakennetut teemat täältä: https://watchface.io/datadash/themes#MIPS
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Käsikirja: https://watchface.io/datadash/manual
+* Hanki PRO-avain: https://ko-fi.com/s/07c73311a1 tai https://watchface.io/datadash
+* Teemalista: https://watchface.io/datadash/themes
+* Väriohje: https://watchface.io/docs/color-list
+* Saatavilla olevat datakentät: https://watchface.io/docs/datafields
+
+⭐️ Konfigurointi ⭐️
+Huomio: Asetuksia on kahdessa eri paikassa:
+* Garmin IQ-sovellus (puhelimessasi mene laitteeseen, kellotaulut, asetukset): Konfiguroi datakentät, värit ja yleiset asetukset.
+* Kellon asetukset: Pääse yksityiskohtaisempiin vaihtoehtoihin kuten aikamuoto, tavoitteet ja yksiköt suoraan kellossa pitämällä menu-painiketta painettuna, valitsemalla kellotaulun ja napauttamalla mukautus.
+
+⭐️ Datakentät ⭐️
+Kaikki datakentät, joita Garmin tällä hetkellä toimittaa kolmannen osapuolen kehittäjille, ovat saatavilla, sekä lisäominaisuuksia kuten Glucose Monitor (CGM) -tuki, Open Weather Map (OWM) ja tuki muille kolmannen osapuolen sovelluksille.
+Kaikki saatavilla olevat datakentät on lueteltu täällä: https://watchface.io/docs/datafields . Jotkut datakentät (kuten harjoitteluvalmius tai HRV) eivät ole tällä hetkellä saatavilla kolmannen osapuolen kehittäjille, katso täältä: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Voinko muuttaa Fenix/Enduro, jne. tekstiä? ⭐️
+Kyllä voit! Katso täältä: https://watchface.io/faq/how-to-change-the-fenix-text
+Itse asiassa kaikki tässä kellotaulussa voidaan säätää mieltymystesi mukaan.
+
+*** Jos kohtaat bugeja tai ongelmia, ota yhteyttä minuun painamalla "Contact Developer" arvostelujärjestelmän käytön sijaan. Voin vastata sähköposteihin nopeasti, kun taas en ehkä näe arvosteluja useisiin päiviin. ***
+
+* Muutosloki: https://watchface.io/datadash/changelog

@@ -1,0 +1,32 @@
+Datenreiches Zifferblatt mit anpassbaren Feldern, Diagrammen, Grafiken und Fortschrittsbalken. Bietet mehrere Datenanzeigestile, Touch-Shortcuts, benutzerdefinierte Schriftarten, AOD-Unterstützung und umfangreiche Farbanpassungsoptionen für ein personalisiertes Erlebnis.
+
+⭐️ Vor dem Kauf ausprobieren! ⭐️
+Bevor Sie dieses Zifferblatt kaufen, testen Sie zuerst die kostenlose Version, um sicherzustellen, dass es das ist, was Sie wollen, und dass Ihnen gefällt, wie es auf Ihrer Uhr aussieht: https://apps.garmin.com/apps/65210f56-42d1-4818-a408-889944d80758
+
+⭐️ MIPS-Geräte (Fenix 7, Enduro, Forerunner 255 usw.) ⭐️
+Dieses Zifferblatt ist vollständig für MIPS optimiert, aber die Farben werden anders aussehen als in den meisten Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden. Dieses Zifferblatt hat viele für MIPS optimierte Designs und unterstützt MIPS-Verläufe. Sie können alle integrierten Designs hier finden: https://watchface.io/datadash/themes#MIPS
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Anleitung: https://watchface.io/datadash/manual
+* Kostenlose Version: https://apps.garmin.com/apps/65210f56-42d1-4818-a408-889944d80758
+* Design-Liste: https://watchface.io/datadash/themes
+* Farbleitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon gehen Sie zu Ihrem Gerät, Zifferblätter, Einstellungen): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen.
+* Uhren-Einstellungen: Greifen Sie auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr zu, indem Sie die Menütaste gedrückt halten, Zifferblatt auswählen und auf Anpassen tippen.
+
+⭐️ Datenfelder ⭐️
+Alle Datenfelder, die Garmin derzeit Drittentwicklern zur Verfügung stellt, sind verfügbar, plus Extras wie Glucose Monitor (CGM) Unterstützung, Open Weather Map (OWM) und Unterstützung für andere Drittanbieter-Apps.
+Alle verfügbaren Datenfelder sind hier aufgelistet: https://watchface.io/docs/datafields . Einige Datenfelder (wie Trainingsbereitschaft oder HRV) sind derzeit nicht für Drittentwickler verfügbar, siehe hier: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kann ich den Fenix/Enduro usw. Text ändern? ⭐️
+Ja, das können Sie! Siehe hier: https://watchface.io/faq/how-to-change-the-fenix-text
+Tatsächlich kann alles auf diesem Zifferblatt nach Ihren Wünschen angepasst werden.
+
+*** Falls Sie auf Fehler oder Probleme stoßen, kontaktieren Sie mich bitte über "Contact Developer" anstatt das Bewertungssystem zu verwenden. Ich kann auf E-Mails schnell antworten, während ich Bewertungen möglicherweise mehrere Tage nicht sehe. ***
+
+* Änderungsprotokoll: https://watchface.io/datadash/changelog

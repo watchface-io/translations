@@ -1,0 +1,32 @@
+사용자 정의 필드, 차트, 그래프 및 진행률 표시줄이 있는 데이터가 풍부한 워치페이스입니다. 다양한 데이터 표시 스타일, 터치 단축키, 사용자 정의 글꼴, AOD 지원 및 개인화된 경험을 위한 광범위한 색상 사용자 정의 옵션을 제공합니다.
+
+⭐️ 무료 vs Pro ⭐️
+이 워치페이스는 모든 기본 기능과 함께 무료로 사용할 수 있습니다. 프리미엄 기능([*]로 표시)은 잠금 해제를 위해 Pro 키가 필요합니다. Pro 키는 여기서 구매할 수 있습니다: https://ko-fi.com/s/07c73311a1 또는 PRO 버전을 여기서 구매하세요: https://apps.garmin.com/apps/ac227e26-5936-4210-bbc5-183f8bb92ef4
+
+⭐️ MIPS 장치 (Fenix 7, Enduro, Forerunner 255 등) ⭐️
+이 워치페이스는 MIPS에 완전히 최적화되어 있지만, 대부분의 이미지에서와 같이 색상이 다르게 보일 것입니다. 이는 Amoled 장치에서 촬영된 것이기 때문입니다. 이 워치페이스는 MIPS에 최적화된 많은 테마를 가지고 있으며 MIPS 그라디언트를 지원합니다. 모든 내장 테마는 여기서 찾을 수 있습니다: https://watchface.io/datadash/themes#MIPS
+
+⭐️ 리소스 ⭐️
+* FAQ: https://watchface.io/faq
+* 매뉴얼: https://watchface.io/datadash/manual
+* PRO 키 받기: https://ko-fi.com/s/07c73311a1 또는 https://watchface.io/datadash
+* 테마 목록: https://watchface.io/datadash/themes
+* 색상 가이드: https://watchface.io/docs/color-list
+* 사용 가능한 데이터 필드: https://watchface.io/docs/datafields
+
+⭐️ 구성 ⭐️
+참고: 설정이 있는 두 가지 다른 위치가 있습니다:
+* Garmin IQ 앱 (휴대폰에서 장치, 워치페이스, 설정으로 이동): 데이터 필드, 색상 및 일반 설정을 구성합니다.
+* 시계 내 설정: 메뉴 버튼을 길게 누르고 워치페이스를 선택한 다음 사용자 정의를 탭하여 시계에서 직접 시간 형식, 목표 및 단위와 같은 더 자세한 옵션에 액세스할 수 있습니다.
+
+⭐️ 데이터 필드 ⭐️
+Garmin이 현재 서드파티 개발자에게 제공하는 모든 데이터 필드를 사용할 수 있으며, Glucose Monitor(CGM) 지원, Open Weather Map(OWM) 및 기타 서드파티 앱 지원과 같은 추가 기능도 제공됩니다.
+사용 가능한 모든 데이터 필드는 여기에 나열되어 있습니다: https://watchface.io/docs/datafields . 일부 데이터 필드(훈련 준비 상태 또는 HRV 등)는 현재 서드파티 개발자에게 제공되지 않습니다. 여기를 참조하세요: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Fenix/Enduro 등 텍스트를 변경할 수 있나요? ⭐️
+네, 할 수 있습니다! 여기를 참조하세요: https://watchface.io/faq/how-to-change-the-fenix-text
+사실 이 워치페이스의 모든 것을 취향에 맞게 조정할 수 있습니다.
+
+*** 버그나 문제가 발생하면 리뷰 시스템을 사용하는 대신 "Contact Developer"를 눌러 저에게 연락해 주세요. 이메일에는 신속하게 응답할 수 있지만 리뷰는 며칠 동안 보지 못할 수 있습니다. ***
+
+* 변경 로그: https://watchface.io/datadash/changelog

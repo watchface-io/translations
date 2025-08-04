@@ -1,0 +1,32 @@
+Bogata w dane tarcza zegarka z dostosowywalnymi polami, wykresami, diagramami i paskami postępu. Oferuje wiele stylów wyświetlania danych, skróty dotykowe, niestandardowe czcionki, wsparcie AOD i obszerne opcje dostosowywania kolorów dla spersonalizowanego doświadczenia.
+
+⭐️ Darmowa vs Pro ⭐️
+Ta tarcza zegarka jest dostępna bezpłatnie ze wszystkimi podstawowymi funkcjami. Funkcje premium (oznaczone [*]) wymagają klucza Pro do odblokowania. Możesz kupić klucz Pro tutaj: https://ko-fi.com/s/07c73311a1 Lub kup wersję PRO tutaj: https://apps.garmin.com/apps/ac227e26-5936-4210-bbc5-183f8bb92ef4
+
+⭐️ Urządzenia MIPS (Fenix 7, Enduro, Forerunner 255, itp) ⭐️
+Ta tarcza zegarka jest w pełni zoptymalizowana dla MIPS, ale kolory będą wyglądać inaczej niż na większości zdjęć, ponieważ te są zrobione na urządzeniu Amoled. Ta tarcza zegarka ma wiele motywów zoptymalizowanych dla MIPS i obsługuje gradienty MIPS. Wszystkie wbudowane motywy znajdziesz tutaj: https://watchface.io/datadash/themes#MIPS
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Instrukcja: https://watchface.io/datadash/manual
+* Zdobądź klucz PRO: https://ko-fi.com/s/07c73311a1 lub https://watchface.io/datadash
+* Lista motywów: https://watchface.io/datadash/themes
+* Przewodnik kolorów: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Są dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie przejdź do urządzenia, tarcze zegarków, ustawienia): Konfiguruj pola danych, kolory i ustawienia ogólne.
+* Ustawienia na zegarku: Dostęp do bardziej szczegółowych opcji jak format czasu, cele i jednostki bezpośrednio na zegarku przez przytrzymanie przycisku menu, wybranie tarczy zegarka i dotknięcie dostosuj.
+
+⭐️ Pola danych ⭐️
+Wszystkie pola danych, które Garmin obecnie dostarcza programistom zewnętrznym, są dostępne, plus dodatki jak wsparcie Glucose Monitor (CGM), Open Weather Map (OWM) i wsparcie dla innych aplikacji zewnętrznych.
+Wszystkie dostępne pola danych są wymienione tutaj: https://watchface.io/docs/datafields . Niektóre pola danych (jak gotowość treningowa lub HRV) obecnie nie są dostępne dla programistów zewnętrznych, zobacz tutaj: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Czy mogę zmienić tekst Fenix/Enduro, itp? ⭐️
+Tak, możesz! Zobacz tutaj: https://watchface.io/faq/how-to-change-the-fenix-text
+W rzeczywistości wszystko na tej tarczy zegarka może być dostosowane do twoich upodobań.
+
+*** Jeśli napotkasz błędy lub problemy, skontaktuj się ze mną naciskając "Contact Developer" zamiast używać systemu recenzji. Mogę szybko odpowiadać na e-maile, podczas gdy mogę nie widzieć recenzji przez kilka dni. ***
+
+* Dziennik zmian: https://watchface.io/datadash/changelog

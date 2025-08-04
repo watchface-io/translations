@@ -1,0 +1,32 @@
+Podatkovno bogat ciferblat s prilagodljivimi polji, grafi, diagrami in vrsticami napredka. Vključuje več slogov prikaza podatkov, bližnjice na dotik, prilagojene pisave, podporo AOD in obsežne možnosti prilagajanja barv za personalizirano izkušnjo.
+
+⭐️ Poskusite pred nakupom! ⭐️
+Pred nakupom tega ciferblata najprej preverite brezplačno različico, da se prepričate, da je to tisto, kar želite, in da vam je všeč, kako izgleda na vaši uri: https://apps.garmin.com/apps/65210f56-42d1-4818-a408-889944d80758
+
+⭐️ Naprave MIPS (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ta ciferblat je popolnoma optimiziran za MIPS, vendar bodo barve videti drugače kot na večini slik, saj so te posnete na napravi Amoled. Ta ciferblat ima številne teme, optimizirane za MIPS, in podpira MIPS gradiente. Vse vgrajene teme lahko najdete tukaj: https://watchface.io/datadash/themes#MIPS
+
+⭐️ Viri ⭐️
+* Pogosto zastavljena vprašanja: https://watchface.io/faq
+* Priročnik: https://watchface.io/datadash/manual
+* Brezplačna različica: https://apps.garmin.com/apps/65210f56-42d1-4818-a408-889944d80758
+* Seznam tem: https://watchface.io/datadash/themes
+* Vodnik za barve: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Aplikacija Garmin IQ (na telefonu pojdite na svojo napravo, ciferblati, nastavitve): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostopajte do podrobnejših možnosti, kot so format časa, cilji in enote neposredno na uri z držanjem gumba menija, izbiro ciferblata in dotikanjem prilagodi.
+
+⭐️ Podatkovna polja ⭐️
+Vsa podatkovna polja, ki jih Garmin trenutno zagotavlja razvijalcem tretjih oseb, so na voljo, plus dodatki, kot so podpora za Glucose Monitor (CGM), Open Weather Map (OWM) in podpora za druge aplikacije tretjih oseb.
+Vsa razpoložljiva podatkovna polja so navedena tukaj: https://watchface.io/docs/datafields . Nekatera podatkovna polja (kot je pripravljenost za trening ali HRV) trenutno niso na voljo razvijalcem tretjih oseb, glejte tukaj: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Ali lahko spremenim besedilo Fenix/Enduro, itd.? ⭐️
+Da, lahko! Glejte tukaj: https://watchface.io/faq/how-to-change-the-fenix-text
+Pravzaprav se vse na tem ciferblatu lahko prilagodi vašemu okusu.
+
+*** Če naletite na napake ali težave, me prosim kontaktirajte s pritiskom na "Contact Developer" namesto uporabe sistema ocenjevanja. Na e-pošto lahko hitro odgovorim, medtem ko ocen morda ne vidim več dni. ***
+
+* Dnevnik sprememb: https://watchface.io/datadash/changelog

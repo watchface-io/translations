@@ -1,0 +1,32 @@
+Muka jam kaya data dengan medan boleh suai, carta, graf dan bar kemajuan. Menampilkan pelbagai gaya paparan data, pintasan sentuh, fon tersuai, sokongan AOD, dan pilihan penyesuaian warna yang luas untuk pengalaman yang diperibadikan.
+
+⭐️ Percuma vs Pro ⭐️
+Muka jam ini tersedia tanpa kos dengan semua fungsi asas. Ciri premium (ditandai dengan [*]) memerlukan Kunci Pro untuk membuka kunci. Anda boleh membeli Kunci Pro di sini: https://ko-fi.com/s/07c73311a1 Atau beli versi PRO di sini: https://apps.garmin.com/apps/ac227e26-5936-4210-bbc5-183f8bb92ef4
+
+⭐️ Peranti MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Muka jam ini dioptimumkan sepenuhnya untuk MIPS, tetapi warna akan kelihatan berbeza seperti dalam kebanyakan gambar, kerana ini diambil pada peranti Amoled. Muka jam ini mempunyai banyak tema yang dioptimumkan untuk MIPS dan menyokong kecerunan MIPS. Anda boleh mencari semua tema terbina dalam di sini: https://watchface.io/datadash/themes#MIPS
+
+⭐️ Sumber ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/datadash/manual
+* Dapatkan kunci PRO: https://ko-fi.com/s/07c73311a1 atau https://watchface.io/datadash
+* Senarai Tema: https://watchface.io/datadash/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Aplikasi Garmin IQ (di telefon anda pergi ke peranti anda, muka jam, tetapan): Konfigurasikan medan data, warna, dan tetapan umum.
+* Tetapan Pada Jam: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit terus pada jam tangan dengan menahan butang menu, memilih muka jam, dan mengetik sesuaikan.
+
+⭐️ Medan Data ⭐️
+Semua medan data yang Garmin kini bekalkan kepada pembangun pihak ketiga tersedia, ditambah tambahan seperti sokongan Glucose Monitor (CGM), Open Weather Map (OWM) dan sokongan untuk aplikasi pihak ketiga lain.
+Semua medan data yang tersedia disenaraikan di sini: https://watchface.io/docs/datafields . Sesetengah medan data (seperti kesediaan latihan atau HRV) kini tidak tersedia kepada pembangun pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Bolehkah saya tukar teks Fenix/Enduro, dll? ⭐️
+Ya, anda boleh! Lihat di sini: https://watchface.io/faq/how-to-change-the-fenix-text
+Sebenarnya, segala-galanya pada muka jam ini boleh diselaraskan mengikut kesukaan anda.
+
+*** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Contact Developer" dan bukannya menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan selama beberapa hari. ***
+
+* Changelog: https://watchface.io/datadash/changelog

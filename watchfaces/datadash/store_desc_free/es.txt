@@ -1,0 +1,32 @@
+Esfera de reloj rica en datos con campos personalizables, gráficos, diagramas y barras de progreso. Presenta múltiples estilos de visualización de datos, atajos táctiles, fuentes personalizadas, soporte AOD y amplias opciones de personalización de colores para una experiencia personalizada.
+
+⭐️ Gratis vs Pro ⭐️
+Esta esfera de reloj está disponible sin costo con todas las funciones básicas. Las características premium (marcadas con [*]) requieren una Clave Pro para desbloquear. Puedes comprar una Clave Pro aquí: https://ko-fi.com/s/07c73311a1 O comprar la versión PRO aquí: https://apps.garmin.com/apps/ac227e26-5936-4210-bbc5-183f8bb92ef4
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Esta esfera de reloj está completamente optimizada para MIPS, pero los colores se verán diferentes como en la mayoría de las imágenes, ya que estas son tomadas en un dispositivo Amoled. Esta esfera de reloj tiene muchos temas optimizados para MIPS y soporta gradientes MIPS. Puedes encontrar todos los temas incorporados aquí: https://watchface.io/datadash/themes#MIPS
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/datadash/manual
+* Obtener una clave PRO: https://ko-fi.com/s/07c73311a1 o https://watchface.io/datadash
+* Lista de Temas: https://watchface.io/datadash/themes
+* Guía de Colores: https://watchface.io/docs/color-list
+* Campos de Datos Disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuraciones:
+* App Garmin IQ (en tu teléfono ve a tu dispositivo, esferas de reloj, configuraciones): Configura campos de datos, colores y configuraciones generales.
+* Configuraciones en el Reloj: Accede a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón menú, seleccionando esfera de reloj y tocando personalizar.
+
+⭐️ Campos de Datos ⭐️
+Todos los campos de datos que Garmin actualmente proporciona a desarrolladores de terceros están disponibles, más extras como soporte para Monitor de Glucosa (CGM), Open Weather Map (OWM) y soporte para otras aplicaciones de terceros.
+Todos los campos de datos disponibles están listados aquí: https://watchface.io/docs/datafields . Algunos campos de datos (como preparación para entrenamiento o HRV) actualmente no están disponibles para desarrolladores de terceros, ver aquí: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ ¿Puedo cambiar el texto Fenix/Enduro, etc.? ⭐️
+¡Sí, puedes! Ver aquí: https://watchface.io/faq/how-to-change-the-fenix-text
+De hecho, todo en esta esfera de reloj puede ajustarse a tu gusto.
+
+*** Si encuentras algún error o problema, por favor contáctame presionando "Contact Developer" en lugar de usar el sistema de reseñas. Puedo responder emails rápidamente, mientras que podría no ver reseñas por varios días. ***
+
+* Changelog: https://watchface.io/datadash/changelog

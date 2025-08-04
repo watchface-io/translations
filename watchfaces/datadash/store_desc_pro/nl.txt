@@ -1,0 +1,32 @@
+Datarijke wijzerplaat met aanpasbare velden, grafieken, diagrammen en voortgangsbalken. Biedt meerdere data weergavestijlen, aanraaksnelkoppelingen, aangepaste lettertypen, AOD ondersteuning en uitgebreide kleur aanpassingsopties voor een gepersonaliseerde ervaring.
+
+⭐️ Probeer voordat je koopt! ⭐️
+Voordat je deze wijzerplaat koopt, probeer eerst de gratis versie om er zeker van te zijn dat het is wat je wilt en dat je het leuk vindt hoe het eruitziet op je horloge: https://apps.garmin.com/apps/65210f56-42d1-4818-a408-889944d80758
+
+⭐️ MIPS Apparaten (Fenix 7, Enduro, Forerunner 255, enz.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar kleuren zullen er anders uitzien dan in de meeste afbeeldingen, omdat deze zijn gemaakt op een Amoled apparaat. Deze wijzerplaat heeft veel thema's geoptimaliseerd voor MIPS en ondersteunt MIPS gradiënten. Je kunt alle ingebouwde thema's hier vinden: https://watchface.io/datadash/themes#MIPS
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Handleiding: https://watchface.io/datadash/manual
+* Gratis versie: https://apps.garmin.com/apps/65210f56-42d1-4818-a408-889944d80758
+* Thema Lijst: https://watchface.io/datadash/themes
+* Kleurengids: https://watchface.io/docs/color-list
+* Beschikbare Datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Let op: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ App (op je telefoon ga naar je apparaat, wijzerplaten, instellingen): Configureer datavelden, kleuren en algemene instellingen.
+* Instellingen op Horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en op aanpassen te tikken.
+
+⭐️ Datavelden ⭐️
+Alle datavelden die Garmin momenteel levert aan derde partij ontwikkelaars zijn beschikbaar, plus extra's zoals Glucose Monitor (CGM) ondersteuning, Open Weather Map (OWM) en ondersteuning voor andere derde partij apps.
+Alle beschikbare datavelden staan hier vermeld: https://watchface.io/docs/datafields . Sommige datavelden (zoals trainingsbereidheid of HRV) zijn momenteel niet beschikbaar voor derde partij ontwikkelaars, zie hier: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kan ik de Fenix/Enduro, enz. tekst veranderen? ⭐️
+Ja, dat kun je! Zie hier: https://watchface.io/faq/how-to-change-the-fenix-text
+Eigenlijk kan alles op deze wijzerplaat aangepast worden naar jouw smaak.
+
+*** Als je bugs of problemen tegenkomt, neem dan contact met me op door op "Contact Developer" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan snel reageren op e-mails, terwijl ik beoordelingen mogelijk enkele dagen niet zie. ***
+
+* Wijzigingslogboek: https://watchface.io/datadash/changelog
