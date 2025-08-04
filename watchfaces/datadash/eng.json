@@ -26,7 +26,8 @@
         "_f12": "Center Right Data",
         "_g1": "Center Right Offset (25=center)",
         
-        
+     
+
         "_f4": "Row 1 Left Data",
         "_f4l": "Row 1 Left Label",
         "_f5": "Row 1 Center Data",
@@ -76,7 +77,7 @@
         "fnt0": "Play Bold",        
         "fnt1": "Play Bold Large",    
         "fnt2": "Play Medium",    
-        "fnt3": "Russo",   
+        "fnt3": "Notes",   
         "fnt4": "Barlow",   
         "fnt5": "Digital",
 
@@ -84,7 +85,7 @@
         "fnt10": "Play Bold Outlined",
         "fnt11": "Play Bold Large Outlined",
         "fnt12": "Play Medium Outlined",
-        "fnt13": "Russo Outlined",
+        "fnt13": "Notes Outlined",
         "fnt14": "Barlow Outlined",
         "fnt15": "Digital Outlined",
         

@@ -21,7 +21,7 @@
         "_f3l": "Střední levý popisek",
         "_f3": "Střední levá data",
         "_g0": "Střední levý posun (25=střed)",
-        
+
         "_gr": "Gradient grafu",
         "gr0": "Závislý na hodnotě",
         "gr1": "Zleva - Doprava",
@@ -77,14 +77,14 @@
         "fnt0": "Play tučné",        
         "fnt1": "Play tučné velké",    
         "fnt2": "Play střední",    
-        "fnt3": "Russo",   
+        "fnt3": "Notes",   
         "fnt4": "Barlow",   
         "fnt5": "Digitální",
 
         "fnt10": "Play tučné obrysové",
         "fnt11": "Play tučné velké obrysové",
         "fnt12": "Play střední obrysové",
-        "fnt13": "Russo obrysové",
+        "fnt13": "Notes obrysové",
         "fnt14": "Barlow obrysové",
         "fnt15": "Digitální obrysové",
         

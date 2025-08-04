@@ -156,7 +156,7 @@
         "_mc2": "Minute Color 2",
         "_dc": "Divider Color",
 
-        "_oy": "Time Y Offset(50 = center, <= 49 up,>= 51 down)",
+        "_oy": "Time Y Offset(50 = center, less than 49 = up, more than 51 = down)",
         "_sh": "Time Shade",
         "sh0": "No Shade",
         "sh1": "1px",
