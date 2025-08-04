@@ -26,6 +26,7 @@
         "_f12": "主时间右侧 数据",
         "_g1": "主时间右侧 偏移量(居中25)",
         
+
         
         "_f4": "第1行左栏位 数据",
         "_f4l": "第1行左栏位 标签",
@@ -76,7 +77,7 @@
         "fnt0": "Play粗体",        
         "fnt1": "Play粗体 大号",    
         "fnt2": "Play中等",    
-        "fnt3": "Russo",   
+        "fnt3": "Notes",   
         "fnt4": "Barlow",   
         "fnt5": "Digital",
 
@@ -84,7 +85,7 @@
         "fnt10": "Play粗体 轮廓体",
         "fnt11": "Play粗体 大号 轮廓体",
         "fnt12": "Play中等 轮廓体",
-        "fnt13": "Russo轮廓体",
+        "fnt13": "Notes轮廓体",
         "fnt14": "Barlow轮廓体",
         "fnt15": "Digital轮廓体",
         
