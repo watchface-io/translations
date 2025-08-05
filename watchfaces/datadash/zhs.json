@@ -121,7 +121,7 @@
 
         "_bftype": "底区栏位布局",
         "_gfont": "栏位字体",
-        "_gfontS": "时间字号",
+        "_gfontS": "栏位字号",
 
         "_gradientq": "色彩渐变等级",
         "mg" : "MIPS渐变",
