@@ -115,7 +115,7 @@
 
         "_bftype": "Apakšējo lauku tips",
         "_gfont": "Teksta fonts",
-        "_gfontS": "Laika fonta izmērs",
+        "_gfontS": "Teksta fonta izmērs",
 
         "_gradientq": "Gradientu kvalitāte",
         "mg": "MIPS gradients",
@@ -165,7 +165,7 @@
         "_aodct": "AOD laika tintes krāsa",
         "_aodc": "AOD datu tintes krāsa",
         "_aodT": "AOD laika spilgtums",
-        "_aodD": "AOD datu spilgtums. Ja ekrāns izslēdzas AOD laikā, samaziniet šo skaitli. Mazāks skaitlis = mazāks akumulatora patēriņš, bet mazāks spilgtums. Skatiet BUJ)",
+        "_aodD": "AOD datu spilgtums. Ja ekrāns izslēgas AOD laikā, samaziniet šo skaitli. Mazāks skaitlis = mazāks akumulatora patēriņš, bet mazāks spilgtums. Skatiet BUJ)",
         "_aodS": "AOD nobīde - pikseļu skaits, par kuru ekrāns nejauši pārvietojas minūtē, lai novērstu iedegsmi)",
         
         "_f20": "AOD lauka dati",

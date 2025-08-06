@@ -109,19 +109,13 @@
         "fnts": "Keep the same",
 
 
-        "_hf": "Time Font",
-        "_hfa": "Time Font (AOD, Always on)",
-        "_hfs": "Time Font Size",
-
-
-
          "_ox" : "Time X Offset, 50 = center",
          "_oy" : "Time Y Offset, 50 = center",
 
 
         "_bftype": "Bottom fields type",
         "_gfont": "Text Font",
-        "_gfontS": "Time Font Size",
+        "_gfontS": "Text Font Size",
 
         "_gradientq": "Gradient Quality",
         "mg" : "MIPS Gradient",
