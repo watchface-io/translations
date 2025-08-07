@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Atspējot laika fonu (tikai bez mips-gradācijas)",
+        "_fba": "Atspējot laika fonu",
 
         "fnto": "Kontūrēts (ja pieejams)",
         "fnts": "Saglabāt to pašu",

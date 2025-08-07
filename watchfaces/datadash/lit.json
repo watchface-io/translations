@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Išjungti laiko foną (tik be mips gradiento)",
+        "_fba": "Išjungti laiko foną",
 
         "fnto": "Kontūruotas (jei galimas)",
         "fnts": "Palikti tą patį",

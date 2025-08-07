@@ -254,6 +254,12 @@
         "f531" : "OWM UV Index (UVI)",
         "f538" : "OWM Air Quality Index (AQI)",
         "f539" : "OWM AQI description",
+        "f540" : "OWM AQI - PM2.5",
+        "f541" : "OWM AQI - PM10",
+        "f542" : "OWM AQI - CO2",
+
+
+
         "f534" : "OWM Temp Tomorrow",
         "f535" : "OWM Temp Day after Tomorrow",
         "f522" : "OWM Min/Max tomorrow",
@@ -469,7 +475,7 @@
         "l62" : "62. Shalimar",
         "l63" : "63. White",
 
-        "x1" : "Select to override colors",
+        "x1" : "Select a Theme to override colors",
 
         "x3" : "Generate Theme with RI",
         "x4" : "Generate Theme with AI",
@@ -774,6 +780,9 @@
         "k21": "SNOW",
         "k22": "CLOUD",
         "k23": "AQI",
+        "k24": "PM2.5",
+        "k25": "PM10",
+        "k26": "CO2",
 
         "n1": "ACAL",
         "n3": "RISE",

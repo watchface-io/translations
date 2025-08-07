@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Deaktiver tidsbaggrund (kun ikke-mips-gradient)",
+        "_fba": "Deaktiver tidsbaggrund",
 
         "fnto": "Omridset (hvis tilgængelig)",
         "fnts": "Behold den samme",

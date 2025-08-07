@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Zakázat pozadí času (pouze bez mips-gradientu)",
+        "_fba": "Zakázat pozadí času",
 
         "fnto": "Obrysové (pokud je dostupné)",
         "fnts": "Zachovat stejné",

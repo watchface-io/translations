@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Lumpuhkan latar belakang masa (hanya bukan mips-gradient)",
+        "_fba": "Lumpuhkan latar belakang masa",
 
         "fnto": "Bergaris (Jika ada)",
         "fnts": "Kekalkan sama",

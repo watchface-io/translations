@@ -135,6 +135,7 @@
 
         "_bglc": "Farba odtieňa pozadia",
         "_fb": "Nevyplňovať pozadie času (len bez mips gradientu)",
+        "_fba": "Nevyplňovať pozadie času",
 
         "_b0": "Graf hore + Jedno pole dole",
         "_b1": "Graf dole + Jedno pole hore",

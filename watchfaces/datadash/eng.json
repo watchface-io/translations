@@ -139,6 +139,7 @@
 
         "_bglc": "Background Tint Color",
         "_fb": "Disable time background (non mips-gradient only)",
+        "_fba": "Disable time background",
 
 
         "_b0": "Chart on Top + One field on the Bottom",
