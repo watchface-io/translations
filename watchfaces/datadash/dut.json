@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Tijdachtergrond uitschakelen (alleen niet-mips-gradiënt)",
+        "_fba": "Tijdachtergrond uitschakelen",
 
         "fnto": "Omlijnd (Indien beschikbaar)",
         "fnts": "Hetzelfde houden",

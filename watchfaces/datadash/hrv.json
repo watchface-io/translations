@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Onemogući pozadinu vremena (samo bez mips-gradijenta)",
+        "_fba": "Onemogući pozadinu vremena",
 
         "fnto": "Obrubljeno (Ako je dostupno)",
         "fnts": "Zadrži isto",

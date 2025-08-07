@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Wyłącz tło czasu (tylko bez gradientu mips)",
+        "_fba": "Wyłącz tło czasu",
 
         "fnto": "Konturowa (jeśli dostępna)",
         "fnts": "Zachowaj tę samą",

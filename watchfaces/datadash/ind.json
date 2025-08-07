@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Nonaktifkan latar belakang waktu (hanya non mips-gradient)",
+        "_fba": "Nonaktifkan latar belakang waktu",
 
         "fnto": "Bergaris tepi (jika tersedia)",
         "fnts": "Tetap sama",

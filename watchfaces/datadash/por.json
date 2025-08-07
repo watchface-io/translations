@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Desabilitar fundo do horário (apenas sem gradiente mips)",
+        "_fba": "Desabilitar fundo do horário",
 
         "fnto": "Contornado (Se disponível)",
         "fnts": "Manter o mesmo",

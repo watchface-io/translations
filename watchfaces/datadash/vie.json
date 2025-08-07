@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Tắt nền thời gian (chỉ không có mips-gradient)",
+        "_fba": "Tắt nền thời gian",
 
         "fnto": "Có viền (Nếu có)",
         "fnts": "Giữ nguyên",

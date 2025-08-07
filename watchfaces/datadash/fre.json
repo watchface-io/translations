@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Désactiver l'arrière-plan de l'heure (sans dégradé mips uniquement)",
+        "_fba": "Désactiver l'arrière-plan de l'heure",
 
 
         "fnto": "Contouré (si disponible)",

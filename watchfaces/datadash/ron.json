@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Dezactivează fundalul orei (doar fără gradient mips)",
+        "_fba": "Dezactivează fundalul orei",
 
         "fnto": "Conturuit (Dacă disponibil)",
         "fnts": "Păstrează același",

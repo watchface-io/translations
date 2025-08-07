@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Disabilita sfondo orario (solo senza gradiente mips)",
+        "_fba": "Disabilita sfondo orario",
 
         "fnto": "Contornato (se disponibile)",
         "fnts": "Mantieni uguale",

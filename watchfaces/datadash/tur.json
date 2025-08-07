@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Saat arka planını devre dışı bırak (sadece mips-gradyansız)",
+        "_fba": "Saat arka planını devre dışı bırak",
 
 
         "fnto": "Çerçeveli (Varsa)",

@@ -134,6 +134,7 @@
 
         "_bglc": "Bakgrundstonfärg",
         "_fb": "Fyll inte tidsbakgrund (endast icke-mips-gradient)",
+        "_fba": "Fyll inte tidsbakgrund",
 
         "_b0": "Diagram överst + Ett fält nederst",
         "_b1": "Diagram nederst + Ett fält överst",

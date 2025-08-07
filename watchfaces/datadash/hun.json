@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Időháttér letiltása (csak nem mips-gradiens)",
+        "_fba": "Időháttér letiltása",
 
         "fnto": "Körvonalazott (ha elérhető)",
         "fnts": "Ugyanaz maradjon",

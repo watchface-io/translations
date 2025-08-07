@@ -102,6 +102,7 @@
         "sh4": "4px",
 
         "_fb": "Poista ajan tausta käytöstä (vain ei-mips-liukuvärjäys)",
+        "_fba": "Poista ajan tausta käytöstä",
 
         "fnto": "Ääriviivoitettu (jos saatavilla)",
         "fnts": "Pidä sama",

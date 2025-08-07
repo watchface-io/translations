@@ -101,6 +101,7 @@
         "sh3": "3px",
         "sh4": "4px",
         "_fb": "Zeithintergrund deaktivieren (nur ohne Mips-Verlauf)",
+        "_fba": "Zeithintergrund deaktivieren",
 
         "fnto": "Umrandet (falls verfügbar)",
         "fnts": "Gleiche beibehalten",
