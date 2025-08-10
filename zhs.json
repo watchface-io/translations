@@ -254,9 +254,9 @@
         "f531" : "OWM紫外线指数UVI",
         "f538" : "OWM空气质量指数AQI",
         "f539" : "OWM AQI描述",
-        "f540" : "OWM AQI-PM2.5浓度",
-        "f541" : "OWM AQI-PM10浓度",
-        "f542" : "OWM AQI-CO2浓度",
+        "f540" : "OWM AQI-PM2.5",
+        "f541" : "OWM AQI-PM10",
+        "f542" : "OWM AQI-CO2",
 
 
         
