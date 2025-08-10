@@ -254,7 +254,7 @@
         "f539" : "OWM description AQI",
         "f540" : "OWM AQI - PM2.5",
         "f541" : "OWM AQI - PM10",
-        "f542" : "OWM AQI - CO2",
+        "f542" : "OWM AQI - CO",
         "f534" : "OWM température demain",
         "f535" : "OWM température après-demain",
         "f522" : "OWM min/max demain",

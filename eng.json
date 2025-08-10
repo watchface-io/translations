@@ -256,7 +256,7 @@
         "f539" : "OWM AQI description",
         "f540" : "OWM AQI - PM2.5",
         "f541" : "OWM AQI - PM10",
-        "f542" : "OWM AQI - CO2",
+        "f542" : "OWM AQI - CO",
 
 
 
@@ -782,7 +782,7 @@
         "k23": "AQI",
         "k24": "PM2.5",
         "k25": "PM10",
-        "k26": "CO2",
+        "k26": "CO",
 
         "n1": "ACAL",
         "n3": "RISE",
