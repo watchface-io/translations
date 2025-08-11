@@ -11,41 +11,87 @@
         "_o1": "↔️ Center Layout",
         "_o2": "↔️ Bottom Layout",
 
-        "_f1": "Left Top Data",
-        "_f1l": "Left Top Label",
-        "_s1": "Left Top Progress",
-        "_f2": "Right Top Data",
-        "_f2l": "Right Top Label",
-        "_s2": "Right Top Progress",
 
-        "_f3l": "Center Left Label",
-        "_f3": "Center Left Data",
+
+        "_tf": "Text Font",
+        "_ts": "Text Font Size",
+
+        "_f1": "Top Data",
+        "_l1": "Top Label",
+        "_s1": "Top Style",
+
+
+        "_f2": "Field 1 Data",
+        "_l2": "Field 1 Label",
+        "_l3": "Field 2 Label",
+        "_f3": "Field 2 Data",
+
+        "_f4": "Bottom Left Data",
+        "_l4": "Bottom Left Label",
+        "_f5": "Bottom Right Data",
+        "_l5": "Bottom Right Label",
+        "_f6": "Bottom Center Data",
+        "_l6": "Bottom Center Label",
+
+        "_f7": "Left Center Data",
+        "_l7": "Left Center Label",
+
+        "_lcc": "Circle Label Color",
+        "_tcc": "Circle Text Color",
+        "_bcc": "Circle Background Color",
+
+        "_fsc": "Circle Large Font Size",
+        "_fss": "Circle Small Font Size",
+
+        "_mbc": "Move bar color",
+        "_mbu": "Move bar color unfilled",
+
+        "lcl": "Same as Label color",
+        "_nc": "Notification Circles Color",
+        "_ncu": "Notification Circles Color Unfilled",
+
+        "_sn": "Show Notification Circles",
+
+        "_f10": "Top Progress Bar Data",
+        "_f11": "Circle Progress Bar Data",
+        "_f12": "Center Progress Bar Data",
+
+         "_6f" : "Full",
+         "_7f" : "Empty",
+         "_8f" : "Hide",
+
+        "_pbc": "Progress bar color 1",
+        "_pb2": "Progress bar color 2",
+        "_pbu": "Progress bar color Unfilled",
+        "_pbi": "Progress Circle Icon color",
+
+        "_sp": "Show Progress Circle Icon",
         "_g0": "Center Left Offset (25=center)",
-
-        "_f12l": "Center Right Label",
-        "_f12": "Center Right Data",
         "_g1": "Center Right Offset (25=center)",
+        
+        
+        "lcd": "75% Darker",
+
+        "s0": "Single Datafield",
+        "s1": "Data + Progress",
+        "s2": "Data + MoveBar",
+
+
+
+
+
+
+
+
         
      
 
-        "_f4": "Row 1 Left Data",
-        "_f4l": "Row 1 Left Label",
-        "_f5": "Row 1 Center Data",
-        "_f5l": "Row 1 Center Label",
-        "_f6": "Row 1 Right Data",
-        "_f6l": "Row 1 Right Label",
-
-        "_f7": "Row 2 Left Data",
-        "_f7l": "Row 2 Left Label",
+     
         "_f8": "Row 2 Center Data",
         "_f8l": "Row 2 Center Label",
         "_f9": "Row 2 Right Data",
         "_f9l": "Row 2 Right Label",
 
-        "_f10": "Bottom Data",
-        "_f10l": "Bottom Label",
-        "_f11": "Bottom 2 Field (when using two bottom fields)",
-        "_f11l": "Bottom 2 Label",
 
 
         "_bgi": "Background Style",
@@ -114,8 +160,7 @@
 
 
         "_bftype": "Bottom fields type",
-        "_gfont": "Text Font",
-        "_gfontS": "Text Font Size",
+  
 
         "_gradientq": "Gradient Quality",
         "mg" : "MIPS Gradient",
@@ -160,15 +205,11 @@
         "_sc2": "Center Right Bottom Color",
         "_aas" : "Always on seconds",
 
-        "_crcp": "Progress bar color 1",
-        "_crcp2": "Progress bar color 2",
-        "_crcu": "Progress bar color Unfilled",
-        "lcd": "75% Darker",
+
+        
 
          "_5f" : "Show Field Progress",
-         "_6f" : "Full",
-         "_7f" : "Empty",
-         "_8f" : "Hide",
+  
 
         "_aod": "AOD Mode (Always on Display)",
         "_aodct": "AOD Time Tint Color",
