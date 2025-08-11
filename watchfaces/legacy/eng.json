@@ -16,15 +16,19 @@
         "_tf": "Text Font",
         "_ts": "Text Font Size",
 
-        "_f1": "Top Data",
-        "_l1": "Top Label",
         "_s1": "Top Style",
+        "_f1": "Top Data",
+        "_l1": "Top Label",        
+        "_c1": "Top Chart / Graph",
 
 
         "_f2": "Field 1 Data",
         "_l2": "Field 1 Label",
         "_l3": "Field 2 Label",
         "_f3": "Field 2 Data",
+
+        "_s8": "Center Bar Style",
+        "_f8": "Center Bar Data",
 
         "_f4": "Bottom Left Data",
         "_l4": "Bottom Left Label",
@@ -40,13 +44,18 @@
         "_tcc": "Circle Text Color",
         "_bcc": "Circle Background Color",
 
+        "_lc2": "Center Label/Current day Color",
+        "_tc2": "Center Text Color",
+
         "_fsc": "Circle Large Font Size",
         "_fss": "Circle Small Font Size",
+        "_fcc": "Center Bar Font size",
 
         "_mbc": "Move bar color",
         "_mbu": "Move bar color unfilled",
 
         "lcl": "Same as Label color",
+        "ltl": "Same as Text color",
         "_nc": "Notification Circles Color",
         "_ncu": "Notification Circles Color Unfilled",
 
@@ -75,7 +84,13 @@
         "s0": "Single Datafield",
         "s1": "Data + Progress",
         "s2": "Data + MoveBar",
+        "s3": "Chart",
+        "s4": "Line Graph",
 
+        "s5": "Progress Bar",
+        "s7": "Movebar",
+        "s8": "Sunrise + Sunset",
+        "s9": "Weekdays",
 
 
 
@@ -87,8 +102,8 @@
      
 
      
-        "_f8": "Row 2 Center Data",
-        "_f8l": "Row 2 Center Label",
+        
+   
         "_f9": "Row 2 Right Data",
         "_f9l": "Row 2 Right Label",
 
@@ -178,7 +193,7 @@
         "_gr": "Graph Gradient",
         "gr0": "Value Dependent",
         "gr1": "Left - Right",
-        "_c0": "Chart",
+        
         "_ccl": "Chart Color 1",
         "_ccl2": "Chart Color 2",
 
