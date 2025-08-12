@@ -11,15 +11,22 @@
         "_o1": "↔️ Center Layout",
         "_o2": "↔️ Bottom Layout",
 
+        "_cd": "=== DATAFIELDS ====",
+        "_cc": "==== CHARTS / GRAPHS ====",
+
 
 
         "_tf": "Text Font",
         "_ts": "Text Font Size",
 
+        "_c1": "Chart / Graph 1",
+        "_c2": "Chart / Graph 2",
+        "_c3": "Chart / Graph 3",
+
         "_s1": "Top Style",
         "_f1": "Top Data",
         "_l1": "Top Label",        
-        "_c1": "Top Chart / Graph",
+
 
 
         "_f2": "Field 1 Data",
@@ -34,6 +41,8 @@
         "_l4": "Bottom Left Label",
         "_f5": "Bottom Right Data",
         "_l5": "Bottom Right Label",
+
+        "_s6": "Bottom Style",
         "_f6": "Bottom Center Data",
         "_l6": "Bottom Center Label",
 
@@ -84,13 +93,19 @@
         "s0": "Single Datafield",
         "s1": "Data + Progress",
         "s2": "Data + MoveBar",
-        "s3": "Chart",
-        "s4": "Line Graph",
+        
 
         "s5": "Progress Bar",
         "s7": "Movebar",
         "s8": "Sunrise + Sunset",
         "s9": "Weekdays",
+
+        "s20": "Chart 1 (Select below)",
+        "s21": "Line Graph 1 (Select below)",
+        "s22": "Chart 2 (Select below)",
+        "s23": "Line Graph 2 (Select below)",
+        "s24": "Chart 3 (Select below)",
+        "s25": "Line Graph 3 (Select below)",
 
 
 
@@ -174,11 +189,7 @@
          "_oy" : "Time Y Offset, 50 = center",
 
 
-        "_bftype": "Bottom fields type",
-  
-
         "_gradientq": "Gradient Quality",
-        "mg" : "MIPS Gradient",
         "ng" : "No Gradient",
 
         "_tfontsp": "Time Font spacing 50 = default", 
