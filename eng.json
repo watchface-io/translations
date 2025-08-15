@@ -262,8 +262,8 @@
 
         "f534" : "OWM Temp Tomorrow",
         "f535" : "OWM Temp Day after Tomorrow",
-        "f522" : "OWM Min/Max tomorrow",
-        "f523" : "OWM Min/Max day after tomorrow",
+        "f522" : "OWM Max/Min tomorrow",
+        "f523" : "OWM Max/Min day after tomorrow",
         "f516" : "OWM City Name",
         "f517" : "OWM Update Time",
         "f703" : "Custom Text 1",

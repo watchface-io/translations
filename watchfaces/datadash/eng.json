@@ -23,7 +23,7 @@
         "_g0": "Center Left Offset (25=center)",
 
         "_f12l": "Center Right Label",
-        "_f12": "Center Right Data",
+        "_f12": "Center Right Data (seconds by default)",
         "_g1": "Center Right Offset (25=center)",
         
      
@@ -95,7 +95,7 @@
         "_tfontM": "Minute Font",
         "_tfontAOD": "Time font AOD",
         "_tfontS": "Time Font size",
-        "_tfontsS": "Seconds Font size",
+        "_tfontsS": "Center Right Font size (Seconds)",
 
         "_sh": "Time Shade",
         "sh0": "No Shade",
