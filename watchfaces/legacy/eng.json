@@ -1,4 +1,4 @@
-{   
+{
     "settings": {
         "_tr": "👉 TOUCH SHORTCUTS",
         "_tc": "🎨 COLORS / BACKGROUND",
@@ -6,119 +6,80 @@
         "_ta": "🖼️ AOD SETTINGS (Always on Display)",
         "_to": "💡 OTHER",
         "_tx": "➡️ OFFSETS",
-        "_tg" : "📈 GRAPHS AND CHARTS",
+        "_tg": "📈 GRAPHS AND CHARTS",
         "_t1": "Touch Shortcut Hour",
         "_t2": "Touch Shortcut Minute",
-
-
         "_cd": "=== DATAFIELDS ====",
         "_cc": "==== CHARTS / GRAPHS ====",
-
-
-
         "_fs": "Text Font",
         "_ts": "Text Font Size",
-
         "_tsb": "Bottom L/R Text Size",
         "_tsl": "Bottom L/R Label Text Size",
-
-
 
         "_c1": "Chart / Graph 1",
         "_c2": "Chart / Graph 2",
         "_c3": "Chart / Graph 3",
-
         "_s1": "0. Top Style",
         "_f1": "0. Top Data",
         "_l1": "0. Top Label",
-        "_f10": "0. Top Progress Bar Data",        
-
-
-
+        "_f10": "0. Top Progress Bar Data",
         "_f2": "1. Field 1 Data",
         "_l2": "1. Field 1 Label",
         "_l3": "2. Field 2 Label",
         "_f3": "2. Field 2 Data",
-
-
-
         "_s13": "4. Circle Style",
         "_f13": "4. Circle Data",
         "_l13": "4. Circle Label",
-
         "_s8": "3. Center Bar Style",
         "_f8": "3. Center Bar Data",
-        "_f12": "3. Center Progress Bar Data",
-
-
         "_lcc": "5. Circle Label Color",
         "_tcc": "5. Circle Text Color",
         "_f11": "5. Circle Progress Bar Data",
         "_sp": "5. Circle Show Progress Icon",
-
-        
         "_f7": "6. Left Center Data",
         "_l7": "6. Left Center Label",
         "_f9": "7. Right Center Data",
         "_l9": "7. Right Center Label",
-
-
         "_f4": "8. Bottom Left Data",
         "_l4": "8. Bottom Left Label",
         "_f5": "9. Bottom Right Data",
         "_l5": "9. Bottom Right Label",
-
         "_s6": "10. Bottom Center Style",
         "_f6": "10. Bottom Center Data",
         "_l6": "10. Bottom Center Label",
 
-
-
-
         "_bcc": "Circle Background Color",
-
         "_lc2": "Center Label/Current day Color",
         "_tc2": "Center Text Color",
-
-        
+        "_lc3": "Bottom Label/Inactive Color",
+        "_tc3": "Bottom Text/Active Color",
         "_fsc": "Circle Large Font Size",
         "_fss": "Circle Small Font Size",
         "_fcc": "Center Bar Font size",
-
         "_mbc": "Move bar color",
         "_mbu": "Move bar color unfilled",
-
         "lcl": "Same as Label color",
         "ltl": "Same as Text color",
         "_nc": "Notification Circles Color",
         "_ncu": "Notification Circles Color Unfilled",
 
         "_sn": "Show Notification Circles",
-
-       
-        
-       
-         "_6f" : "Full",
-         "_7f" : "Empty",
-         "_8f" : "Hide",
+        "_6f": "Full",
+        "_7f": "Empty",
+        "_8f": "Hide",
 
         "_pbc": "Progress bar color 1",
         "_pb2": "Progress bar color 2",
         "_pbu": "Progress bar color Unfilled",
         "_pbi": "Progress Circle Icon color",
 
-        
         "_g0": "Center Left Offset (25=center)",
         "_g1": "Center Right Offset (25=center)",
-        
-        
         "lcd": "75% Darker",
-
         "_s0": "Single Datafield",
+        "_s19": "Single Datafield Left Aligned",
         "_s11": "Data + Progress",
         "_s2": "Data + MoveBar",
-        
-
         "_s5": "Progress Bar",
         "_s7": "Movebar",
         "_s18": "Sunrise + Sunset",
@@ -131,120 +92,65 @@
         "_s24": "Chart 3 (Select below)",
         "_s25": "Line Graph 3 (Select below)",
 
-
         "_sc": "Center Right Top Color",
         "_sc2": "Center Right Bottom Color",
         "_sl": "Center Right Top Font Size (AM/PM)",
         "_sf": "Center Right Bottom Font Size (Seconds)",
-
+        
         "_bgi": "Background Style",
-
         "bg0": "No Background",
-        "bg1": "Closed",
+        "bg1": "Default (With Center Bar)",
         "bg2": "Open",
         "bg3": "Outlines",
-        "bg4": "Textured",
-        "bg5": "Hex",
-        "bg6": "Lines",
-
-
-
-
-    
-
-
-
-
-
-
-
-        
-
-        "fnt0": "Legacy",        
-        "fnt1": "Play Bold",    
-        "fnt2": "Barlow",   
-
-
+        "bg4": "Hex",
+        "bg5": "Lines",
+        "fnt0": "Legacy",
+        "fnt1": "Play Bold",
+        "fnt2": "Barlow",
         "fnt10": "Legacy Outlined",
         "fnt11": "Play Bold Outlined",
         "fnt12": "Barlow Outlined",
-        
-        
-      
         "_fn": "Hour Font",
         "_fnM": "Minute Font",
         "_fnA": "Time font AOD",
         "_fnS": "Time Font size",
-
-
         "fnto": "Outlined (If available)",
         "fnts": "Keep the same",
-
-
-         "_ox" : "Time X Offset, 50 = center",
-         "_oy" : "Time Y Offset, 50 = center",
-
-
+        "_ox": "Time X Offset, 50 = center",
+        "_oy": "Time Y Offset, 50 = center",
         "_gradientq": "Gradient Quality",
-        "ng" : "No Gradient",
-
-
+        "ng": "No Gradient",
         "_pc": "Text color",
         "_ic": "Label color",
-
-        "_gs": "Show Chart as Linechart",
         "_gg": "Add Graph Spacing",
         "_gr": "Graph Gradient",
         "gr0": "Value Dependent",
         "gr1": "Left - Right",
-        
         "_ccl": "Chart Color 1",
         "_ccl2": "Chart Color 2",
-
         "_bgt": "Background Tint Color",
-
-
-
         "_b0": "Chart on Top + One field on the Bottom",
         "_b1": "Chart on Bottom + One field on Top",
         "_b2": "Chart on Bottom + Two fields on Top",
         "_b3": "Two fields with Progress Bars",
-
         "cs0": "Weather widget",
         "cs1": "Moon Phase",
         "cs3": "Moon Phase + Data",
-        
-
-        
-
-
-
         "_bgc": "Background Color",
         "_hc1": "Hour Color",
         "_hc2": "Hour Color 2",
         "_mc1": "Minute Color",
         "_mc2": "Minute Color 2",
         "_dc": "Divider Color",
-        
-        "_aas" : "Always on seconds",
-
-
-        
-
-         "_5f" : "Show Field Progress",
-  
-
+        "_aas": "Always on seconds",
         "_aod": "AOD Mode (Always on Display)",
         "_aodct": "AOD Time Tint Color",
         "_aodc": "AOD Data Tint Color",
         "_aodT": "AOD Time Brightness",
         "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
         "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
-        
         "_f20": "AOD Field Data",
         "_l20": "AOD Field Label",
-
-        
         "ad0": "Turn Screen OFF",
         "ad100": "Full AOD (Default)",
         "ad102": "Full AOD - Black Background - Hide Charts ",
