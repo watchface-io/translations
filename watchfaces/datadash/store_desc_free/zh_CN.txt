@@ -35,6 +35,6 @@ https://watchface.io/faq/can-you-add-training-readiness
 修改指南：https://watchface.io/faq/how-to-change-the-fenix-text
 本表盘所有视觉元素均可按需调整。
 
-***如遇任何问题，请选择联系开发者来报告问题，可获得快速邮件回复。在评论区撰写评论可能很多天后才能看到，造成回复延迟。 ***
+***如遇任何问题或者需要应用程序支持，请选择联系开发者来获得快速邮件回复(不要点击“报告问题")。在评论区撰写评论可能很多天后才能看到，造成回复延迟。 ***
 
 * 更新日志: https://watchface.io/datadash/changelog
