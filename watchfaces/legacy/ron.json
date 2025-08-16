@@ -100,6 +100,7 @@
         "_bgi": "Stil Fundal",
         "bg0": "Fără Fundal",
         "bg1": "Implicit (Cu Bară Centrală)",
+        "bg1m": "Implicit (Colorabil)",
         "bg2": "Deschis",
         "bg3": "Contururi",
         "bg4": "Hexagon",

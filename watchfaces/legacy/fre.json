@@ -92,6 +92,7 @@
         "_bgi": "Style Arrière-plan",
         "bg0": "Pas d'Arrière-plan",
         "bg1": "Par Défaut (Avec Barre Centrale)",
+        "bg1m": "Par Défaut (Colorable)",
         "bg2": "Ouvert",
         "bg3": "Contours",
         "bg4": "Hexagone",

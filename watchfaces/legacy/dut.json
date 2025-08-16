@@ -92,6 +92,7 @@
         "_bgi": "Achtergrondstijl",
         "bg0": "Geen Achtergrond",
         "bg1": "Standaard (Met Middelste Balk)",
+        "bg1m": "Standaard (Kleurbaar)",
         "bg2": "Open",
         "bg3": "Omtrekken",
         "bg4": "Hex",

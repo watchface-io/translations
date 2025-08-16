@@ -100,6 +100,7 @@
         "_bgi": "Estilo de fondo",
         "bg0": "Sin fondo",
         "bg1": "Predeterminado (con barra central)",
+        "bg1m": "Predeterminado (coloreable)",
         "bg2": "Abierto",
         "bg3": "Contornos",
         "bg4": "Hexágono",

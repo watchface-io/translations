@@ -96,10 +96,11 @@
         "_sc2": "Center Right Bottom Color",
         "_sl": "Center Right Top Font Size (AM/PM)",
         "_sf": "Center Right Bottom Font Size (Seconds)",
-        
+
         "_bgi": "Background Style",
         "bg0": "No Background",
         "bg1": "Default (With Center Bar)",
+        "bg1m": "Default (Colorable)",
         "bg2": "Open",
         "bg3": "Outlines",
         "bg4": "Hex",

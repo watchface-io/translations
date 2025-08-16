@@ -100,6 +100,7 @@
         "_bgi": "Baggrundsstil",
         "bg0": "Ingen baggrund",
         "bg1": "Standard (med center linje)",
+        "bg1m": "Standard (farvebar)",
         "bg2": "Åben",
         "bg3": "Konturer",
         "bg4": "Hex",
