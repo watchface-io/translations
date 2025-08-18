@@ -1,0 +1,30 @@
+Fuzija klasične retro estetike in sodobne pametne ure tehnologije. Ta številčnica povezuje nostalgično tipografijo, navdihnjeno z LCD, in vintage digitalne elemente z moderno vizualizacijo podatkov, naprednimi možnostmi prilagajanja in elegantnimi načeli oblikovanja. Doživite popolno harmonijo med old-school šarmom in najsodobnejšo funkcionalnostjo.
+    
+⭐️ Preizkusite pred nakupom! ⭐️
+Pred nakupom te številčnice si najprej oglejte brezplačno različico, da se prepričate, da je to, kar želite, in da vam je všeč, kako izgleda na vaši uri: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ MIPS naprave (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ta številčnica je popolnoma optimizirana za MIPS, vendar se bodo barve zdele drugačne kot na večini slik, ker so te posnete na Amoled napravi. Ta številčnica ima veliko tem, optimiziranih za MIPS, in podpira MIPS prelive. Vse vgrajene teme lahko najdete tukaj: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Viri ⭐️
+* FAQ: https://watchface.io/faq
+* Priročnik: https://watchface.io/legacy/manual
+* Brezplačna različica: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* Seznam tem: https://watchface.io/legacy/themes
+* Barvni vodič: https://watchface.io/docs/color-list
+* Dostopna podatkovna polja: https://watchface.io/docs/datafields
+
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Aplikacija Garmin IQ (na telefonu pojdite na napravo, številčnice, nastavitve): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostopajte do podrobnejših možnosti, kot so format časa, cilji in enote, neposredno na uri z držanjem gumba menija, izbiro številčnice in dotikanjem prilagodi.
+
+⭐️ Podatkovna polja ⭐️
+Vsa podatkovna polja, ki jih Garmin trenutno zagotavlja razvijalcem tretjih oseb, so na voljo, plus dodatki, kot so podpora za Glucose Monitor (CGM), Open Weather Map (OWM) in podpora za druge aplikacije tretjih oseb.
+Vsa dostopna podatkovna polja so navedena tukaj: https://watchface.io/docs/datafields . Nekatera podatkovna polja (kot je pripravljenost za trening ali HRV) trenutno niso na voljo razvijalcem tretjih oseb, glejte tukaj: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Če naletite na napake ali težave, me prosim kontaktirajte s pritiskom na "Contact Developer" namesto uporabe sistema ocenjevanja. Lahko hitro odgovorim na e-pošto, medtem ko ocen morda ne vidim več dni. ***
+
+* Dnevnik sprememb: https://watchface.io/legacy/changelog

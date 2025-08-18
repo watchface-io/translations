@@ -1,0 +1,30 @@
+Una fusión de estética retro clásica y tecnología contemporánea de smartwatch. Esta esfera combina tipografía nostálgica inspirada en LCD y elementos digitales vintage con visualización de datos moderna, opciones de personalización avanzadas y principios de diseño elegantes. Experimenta la armonía perfecta entre el encanto old-school y la funcionalidad de vanguardia.
+    
+⭐️ Gratis vs Pro ⭐️
+Esta esfera está disponible sin costo con todas las funciones básicas. Las características premium (marcadas con [*]) requieren una Clave Pro para desbloquear. Puedes comprar una Clave Pro aquí: https://ko-fi.com/s/2dffa075ce O comprar la versión PRO aquí: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Esta esfera está completamente optimizada para MIPS, pero los colores se verán diferentes como en la mayoría de las imágenes, ya que estas fueron tomadas en un dispositivo Amoled. Esta esfera tiene muchos temas optimizados para MIPS y soporta gradientes MIPS. Puedes encontrar todos los temas incorporados aquí: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/legacy/manual
+* Obtener clave PRO: https://ko-fi.com/s/2dffa075ce o https://watchface.io/legacy
+* Versión desbloqueada: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+* Lista de Temas: https://watchface.io/legacy/themes
+* Guía de Colores: https://watchface.io/docs/color-list
+* Campos de Datos Disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuraciones:
+* App Garmin IQ (en tu teléfono ve a tu dispositivo, esferas, configuraciones): Configura campos de datos, colores y configuraciones generales.
+* Configuraciones en el Reloj: Accede a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón de menú, seleccionando esfera y tocando personalizar.
+
+⭐️ Campos de Datos ⭐️
+Todos los campos de datos que Garmin actualmente suministra a desarrolladores de terceros están disponibles, más extras como soporte de Monitor de Glucosa (CGM), Open Weather Map (OWM) y soporte para otras aplicaciones de terceros.
+Todos los campos de datos disponibles están listados aquí: https://watchface.io/docs/datafields . Algunos campos de datos (como preparación para entrenamiento o HRV) actualmente no están disponibles para desarrolladores de terceros, ver aquí: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Si encuentras algún error o problema, por favor contáctame presionando "Contact Developer" en lugar de usar el sistema de reseñas. Puedo responder emails rápidamente, mientras que podría no ver las reseñas por varios días. ***
+
+* Changelog: https://watchface.io/legacy/changelog

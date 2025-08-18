@@ -152,6 +152,16 @@
         "ad3": "Ainult Aeg - Liikuv",
         "ad4": "Aeg + andmeväli (Vali Allpool)",
         "ad5": "Aeg Keskendatud + andmeväli",
-        "ad6": "Aeg Liikuv + andmeväli"
+        "ad6": "Aeg Liikuv + andmeväli",
+        "_lc1": "Ülemine Sildi Värv",
+        "_tc1": "Ülemine Teksti Värv",
+        "_sh": "Aja Vari",
+        "sh0": "Vari Puudub",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Keskmise Ribaga"
     }
 }

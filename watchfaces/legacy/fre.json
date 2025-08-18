@@ -152,6 +152,16 @@
         "ad3": "Heure Seulement - Mobile",
         "ad4": "Heure + champ de données (Sélectionner Ci-dessous)",
         "ad5": "Heure Centrée + champ de données",
-        "ad6": "Heure Mobile + champ de données"
+        "ad6": "Heure Mobile + champ de données",
+        "_lc1": "Couleur d'Étiquette Supérieure",
+        "_tc1": "Couleur de Texte Supérieur",
+        "_sh": "Ombre de l'Heure",
+        "sh0": "Pas d'Ombre",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Avec Barre Centrale"
     }
 }

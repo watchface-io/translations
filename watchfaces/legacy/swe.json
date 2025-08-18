@@ -160,6 +160,16 @@
         "ad3": "Endast tid - rörlig",
         "ad4": "Tid + datafält (välj nedan)",
         "ad5": "Tid centrerad + datafält",
-        "ad6": "Tid rörlig + datafält"
+        "ad6": "Tid rörlig + datafält",
+        "_lc1": "Övre etikettfärg",
+        "_tc1": "Övre textfärg",
+        "_sh": "Tidsskugga",
+        "sh0": "Ingen skugga",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD med mittbalk"
     }
 }

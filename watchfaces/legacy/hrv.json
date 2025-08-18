@@ -152,6 +152,16 @@
         "ad3": "Samo Vrijeme - Pokretno",
         "ad4": "Vrijeme + polje podataka (Odaberite Dolje)",
         "ad5": "Vrijeme Centrirano + polje podataka",
-        "ad6": "Vrijeme Pokretno + polje podataka"
+        "ad6": "Vrijeme Pokretno + polje podataka",
+        "_lc1": "Boja Gornje Oznake",
+        "_tc1": "Boja Gornjeg Teksta",
+        "_sh": "Sjena Vremena",
+        "sh0": "Bez Sjene",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Sa Srednjom Trakom"
     }
 }

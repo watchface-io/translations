@@ -160,6 +160,16 @@
         "ad3": "Len čas - pohyblivý",
         "ad4": "Čas + dátové pole (vyberte nižšie)",
         "ad5": "Čas na stred + dátové pole",
-        "ad6": "Čas pohyblivý + dátové pole"
+        "ad6": "Čas pohyblivý + dátové pole",
+        "_lc1": "Farba hornej menovky",
+        "_tc1": "Farba horného textu",
+        "_sh": "Tieň času",
+        "sh0": "Bez tieňa",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD so strednou lištou"
     }
 }

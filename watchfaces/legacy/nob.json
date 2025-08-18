@@ -160,6 +160,16 @@
         "ad3": "Bare tid - bevegelig",
         "ad4": "Tid + datafelt (velg nedenfor)",
         "ad5": "Tid sentrert + datafelt",
-        "ad6": "Tid bevegelig + datafelt"
+        "ad6": "Tid bevegelig + datafelt",
+        "_lc1": "Øvre etikettfarge",
+        "_tc1": "Øvre tekstfarge",
+        "_sh": "Tidsskygge",
+        "sh0": "Ingen skygge",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD med senter linje"
     }
 }

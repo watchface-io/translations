@@ -152,6 +152,16 @@
         "ad3": "Csak Idő - Mozgó",
         "ad4": "Idő + adatmező (Válassz Alul)",
         "ad5": "Idő Középre + adatmező",
-        "ad6": "Idő Mozgó + adatmező"
+        "ad6": "Idő Mozgó + adatmező",
+        "_lc1": "Felső Címke Színe",
+        "_tc1": "Felső Szöveg Színe",
+        "_sh": "Idő Árnyék",
+        "sh0": "Nincs Árnyék",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Központi Sávval"
     }
 }

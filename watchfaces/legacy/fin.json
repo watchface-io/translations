@@ -152,6 +152,16 @@
         "ad3": "Vain Aika - Liikkuva",
         "ad4": "Aika + datakenttä (Valitse Alta)",
         "ad5": "Aika Keskitetty + datakenttä",
-        "ad6": "Aika Liikkuva + datakenttä"
+        "ad6": "Aika Liikkuva + datakenttä",
+        "_lc1": "Yläosan Tunnisteen Väri",
+        "_tc1": "Yläosan Tekstin Väri",
+        "_sh": "Ajan Varjo",
+        "sh0": "Ei Varjoa",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Keskipalkilla"
     }
 }

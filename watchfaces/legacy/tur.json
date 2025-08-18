@@ -160,6 +160,16 @@
         "ad3": "Sadece Zaman - Hareketli",
         "ad4": "Zaman + veri alanı (Aşağıdan Seç)",
         "ad5": "Zaman Ortalanmış + veri alanı",
-        "ad6": "Zaman Hareketli + veri alanı"
+        "ad6": "Zaman Hareketli + veri alanı",
+        "_lc1": "Üst Etiket Rengi",
+        "_tc1": "Üst Metin Rengi",
+        "_sh": "Zaman Gölgesi",
+        "sh0": "Gölge Yok",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Merkez Çubuklu"
     }
 }

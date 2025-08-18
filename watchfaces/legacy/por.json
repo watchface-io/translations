@@ -157,9 +157,19 @@
         "ad102": "AOD completo - fundo preto - ocultar diagramas",
         "ad1": "Apenas tempo",
         "ad2": "Apenas tempo - centralizado",
-        "ad3": "Apenas tempo - móvel",
-        "ad4": "Tempo + campo de dados (selecionar abaixo)",
-        "ad5": "Tempo centralizado + campo de dados",
-        "ad6": "Tempo móvel + campo de dados"
+        "ad3": "Apenas Tempo - Em Movimento",
+        "ad4": "Tempo + campo de dados (Selecione Abaixo)",
+        "ad5": "Tempo Centralizado + campo de dados",
+        "ad6": "Tempo Em Movimento + campo de dados",
+        "_lc1": "Cor do Rótulo Superior",
+        "_tc1": "Cor do Texto Superior",
+        "_sh": "Sombra do Tempo",
+        "sh0": "Sem Sombra",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD com Barra Central"
     }
 }

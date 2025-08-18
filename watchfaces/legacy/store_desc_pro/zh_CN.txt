@@ -1,0 +1,30 @@
+经典复古美学与现代智能手表技术的完美融合。该表盘将怀旧的LCD风格字体和复古数字元素与现代数据可视化、高级自定义选项和优雅的设计理念相结合。体验老派魅力与尖端功能之间的完美平衡。
+    
+⭐️ 先试后买！ ⭐️
+购买此表盘前，请先体验免费版本，确保这就是您想要的并且您喜欢它在手表上的显示效果：https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ MIPS设备（Fenix 7、Enduro、Forerunner 255等）⭐️
+此表盘已针对MIPS进行全面优化，但颜色会与大多数图片中显示的不同，因为这些图片是在AMOLED设备上拍摄的。此表盘拥有许多为MIPS优化的主题并支持MIPS渐变效果。您可以在此处找到所有内置主题：https://watchface.io/legacy/themes#MIPS
+
+⭐️ 资源中心 ⭐️
+* 常见问题：https://watchface.io/faq
+* 使用手册：https://watchface.io/legacy/manual
+* 免费版本：https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* 主题列表：https://watchface.io/legacy/themes
+* 颜色指南：https://watchface.io/docs/color-list
+* 可用数据字段：https://watchface.io/docs/datafields
+
+
+⭐️ 配置设置 ⭐️
+注意：设置分为两个不同位置：
+* Garmin IQ 应用（在手机上进入您的设备、表盘、设置）：配置数据字段、颜色和常规设置。
+* 手表端设置：长按菜单键，选择表盘，点击自定义，可直接在手表上访问时间格式、目标和单位等更详细选项。
+
+⭐️ 数据字段 ⭐️
+提供Garmin当前向第三方开发者开放的所有数据字段，另外还支持血糖监测仪(CGM)、Open Weather Map(OWM)天气服务以及其他第三方应用程序。
+所有可用数据字段列表：https://watchface.io/docs/datafields 某些数据字段（如训练准备度或HRV）目前尚未向第三方开发者开放，详见：https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** 如果您遇到任何错误或问题，请点击"Contact Developer"联系我，而不要使用评价系统。我可以快速回复邮件，但可能数天后才能看到评价。***
+
+* 更新日志：https://watchface.io/legacy/changelog

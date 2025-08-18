@@ -1,0 +1,30 @@
+Połączenie klasycznej estetyki retro i współczesnej technologii smartwatch. Ta tarcza łączy nostalgiczną typografię inspirowaną LCD i vintage elementy cyfrowe z nowoczesną wizualizacją danych, zaawansowanymi opcjami dostosowywania i eleganckie zasadami projektowania. Doświadcz idealnej harmonii między old-schoolowym urokiem a najnowocześniejszą funkcjonalnością.
+    
+⭐️ Wypróbuj przed zakupem! ⭐️
+Przed zakupem tej tarczy sprawdź najpierw wersję darmową, aby upewnić się, że to jest to, czego chcesz i że podoba ci się, jak wygląda na twoim zegarku: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ Urządzenia MIPS (Fenix 7, Enduro, Forerunner 255, itp.) ⭐️
+Ta tarcza jest w pełni zoptymalizowana pod MIPS, ale kolory będą wyglądać inaczej jak na większości zdjęć, ponieważ te zostały zrobione na urządzeniu Amoled. Ta tarcza ma wiele motywów zoptymalizowanych pod MIPS i obsługuje gradienty MIPS. Wszystkie wbudowane motywy znajdziesz tutaj: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Instrukcja: https://watchface.io/legacy/manual
+* Wersja darmowa: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* Lista Motywów: https://watchface.io/legacy/themes
+* Przewodnik Kolorów: https://watchface.io/docs/color-list
+* Dostępne Pola Danych: https://watchface.io/docs/datafields
+
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Są dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie przejdź do urządzenia, tarcze, ustawienia): Skonfiguruj pola danych, kolory i ustawienia ogólne.
+* Ustawienia na Zegarku: Dostęp do bardziej szczegółowych opcji jak format czasu, cele i jednostki bezpośrednio na zegarku przez przytrzymanie przycisku menu, wybór tarczy i dotknięcie dostosuj.
+
+⭐️ Pola Danych ⭐️
+Wszystkie pola danych, które Garmin obecnie dostarcza deweloperom zewnętrznym są dostępne, plus dodatki jak wsparcie dla Glucose Monitor (CGM), Open Weather Map (OWM) i wsparcie dla innych aplikacji zewnętrznych.
+Wszystkie dostępne pola danych są wymienione tutaj: https://watchface.io/docs/datafields . Niektóre pola danych (jak gotowość treningowa lub HRV) nie są obecnie dostępne dla deweloperów zewnętrznych, zobacz tutaj: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jeśli napotkasz jakiekolwiek błędy lub problemy, skontaktuj się ze mną wciskając "Contact Developer" zamiast używać systemu recenzji. Mogę szybko odpowiadać na e-maile, podczas gdy recenzje mogę nie widzieć przez kilka dni. ***
+
+* Dziennik zmian: https://watchface.io/legacy/changelog

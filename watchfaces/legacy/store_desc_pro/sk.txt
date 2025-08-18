@@ -1,0 +1,30 @@
+Fúzia klasickej retro estetiky a súčasnej smartwatch technológie. Tento ciferník spája nostalgickú typográfiu inšpirovanú LCD a vintage digitálne prvky s modernou vizualizáciou údajov, pokročilými možnosťami prispôsobenia a elegantné designové princípy. Zažite dokonalú harmóniu medzi old-school šarmom a najmodernejšou funkcionalitou.
+    
+⭐️ Vyskúšajte pred kúpou! ⭐️
+Pred kúpou tohto ciferníka si najprv pozrite bezplatnú verziu, aby ste sa ubezpečili, že je to to, co chcete a že sa vám páči, ako vyzerá na vašich hodinkách: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ MIPS zariadenia (Fenix 7, Enduro, Forerunner 255, atď.) ⭐️
+Tento ciferník je plne optimalizovaný pre MIPS, ale farby budú vyzerať inak ako na väčšine obrázkov, pretože tie boli urobené na Amoled zariadení. Tento ciferník má mnoho tém optimalizovaných pre MIPS a podporuje MIPS gradienty. Všetky zabudované témy nájdete tu: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Manuál: https://watchface.io/legacy/manual
+* Bezplatná verzia: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* Zoznam tém: https://watchface.io/legacy/themes
+* Farebný sprievodca: https://watchface.io/docs/color-list
+* Dostupné dátové polia: https://watchface.io/docs/datafields
+
+
+⭐️ Konfigurácia ⭐️
+Poznámka: Existujú dve rôzne miesta s nastaveniami:
+* Garmin IQ aplikácia (na telefóne idite na vaše zariadenie, ciferníky, nastavenia): Konfigurujte dátové polia, farby a všeobecné nastavenia.
+* Nastavenia na hodinkách: Prístup k podrobnejším možnostiam ako formát času, ciele a jednotky priamo na hodinkách podržaním tlačidla menu, výberom ciferníka a dotknutím prispôsobiť.
+
+⭐️ Dátové polia ⭐️
+Všetky dátové polia, ktoré Garmin v súčasnosti poskytuje vývojárom tretích strán sú dostupné, plus extra ako podpora Glucose Monitor (CGM), Open Weather Map (OWM) a podpora pre iné aplikácie tretích strán.
+Všetky dostupné dátové polia sú uvedené tu: https://watchface.io/docs/datafields . Niektoré dátové polia (ako pripravenosť na tréning alebo HRV) v súčasnosti nie sú dostupné pre vývojárov tretích strán, pozrite tu: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Ak narazíte na nejaké chyby alebo problémy, prosím kontaktujte ma stlačením "Contact Developer" namiesto používania systému recenzií. Môžem rýchlo odpovedať na emaily, zatiaľ čo recenzie možno neuvidím niekoľko dní. ***
+
+* Changelog: https://watchface.io/legacy/changelog

@@ -160,6 +160,16 @@
         "ad3": "Tylko czas - ruchomy",
         "ad4": "Czas + pole danych (wybierz poniżej)",
         "ad5": "Czas wyśrodkowany + pole danych",
-        "ad6": "Czas ruchomy + pole danych"
+        "ad6": "Czas ruchomy + pole danych",
+        "_lc1": "Kolor górnej etykiety",
+        "_tc1": "Kolor górnego tekstu",
+        "_sh": "Cień czasu",
+        "sh0": "Bez cienia",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD z paskiem środkowym"
     }
 }

@@ -159,7 +159,17 @@
         "ad2": "Samo čas - sredinsko",
         "ad3": "Samo čas - premikajoče",
         "ad4": "Čas + podatkovno polje (izberi spodaj)",
-        "ad5": "Čas sredinsko + podatkovno polje",
-        "ad6": "Čas premikajoče + podatkovno polje"
+        "ad5": "Čas osredotočen + podatkovno polje",
+        "ad6": "Čas gibljiv + podatkovno polje",
+        "_lc1": "Barva zgornje oznake",
+        "_tc1": "Barva zgornjega besedila",
+        "_sh": "Senca časa",
+        "sh0": "Brez sence",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD s sredinsko vrstico"
     }
 }

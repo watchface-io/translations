@@ -1,0 +1,30 @@
+Una fusión de la estética retro clásica y la tecnología de smartwatch contemporánea. Esta esfera combina tipografía nostálgica inspirada en LCD y elementos digitales vintage con visualización de datos moderna, opciones de personalización avanzadas y principios de diseño elegantes. Experimenta la armonía perfecta entre el encanto de la vieja escuela y la funcionalidad de vanguardia.
+    
+⭐️ ¡Prueba antes de comprar! ⭐️
+Antes de comprar esta esfera, revisa primero la versión gratuita para asegurarte de que es lo que quieres y que te gusta cómo se ve en tu reloj: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Esta esfera está completamente optimizada para MIPS, pero los colores se verán diferentes como en la mayoría de las imágenes, ya que estas fueron tomadas en un dispositivo Amoled. Esta esfera tiene muchos temas optimizados para MIPS y soporta gradientes MIPS. Puedes encontrar todos los temas incluidos aquí: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/legacy/manual
+* Versión gratuita: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* Lista de Temas: https://watchface.io/legacy/themes
+* Guía de Colores: https://watchface.io/docs/color-list
+* Campos de Datos Disponibles: https://watchface.io/docs/datafields
+
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuraciones:
+* App Garmin IQ (en tu teléfono ve a tu dispositivo, esferas, configuraciones): Configura campos de datos, colores y configuraciones generales.
+* Configuraciones en el Reloj: Accede a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón de menú, seleccionando esfera y tocando personalizar.
+
+⭐️ Campos de Datos ⭐️
+Todos los campos de datos que Garmin actualmente suministra a desarrolladores de terceros están disponibles, además de extras como soporte para Glucose Monitor (CGM), Open Weather Map (OWM) y soporte para otras aplicaciones de terceros.
+Todos los campos de datos disponibles están listados aquí: https://watchface.io/docs/datafields . Algunos campos de datos (como preparación para el entrenamiento o HRV) actualmente no están disponibles para desarrolladores de terceros, ver aquí: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Si encuentras errores o problemas, por favor contáctame presionando "Contact Developer" en lugar de usar el sistema de reseñas. Puedo responder emails prontamente, mientras que podría no ver reseñas por varios días. ***
+
+* Changelog: https://watchface.io/legacy/changelog

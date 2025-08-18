@@ -160,6 +160,16 @@
         "ad3": "Nur Zeit - Bewegend",
         "ad4": "Zeit + Datenfeld (Unten auswählen)",
         "ad5": "Zeit zentriert + Datenfeld",
-        "ad6": "Zeit bewegend + Datenfeld"
+        "ad6": "Zeit bewegend + Datenfeld",
+        "_lc1": "Obere Beschriftungsfarbe",
+        "_tc1": "Obere Textfarbe",
+        "_sh": "Zeit Schatten",
+        "sh0": "Kein Schatten",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD mit zentralem Balken"
     }
 }

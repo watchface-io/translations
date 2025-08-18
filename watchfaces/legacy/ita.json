@@ -152,6 +152,16 @@
         "ad3": "Solo Tempo - In Movimento",
         "ad4": "Tempo + campo dati (Seleziona Sotto)",
         "ad5": "Tempo Centrato + campo dati",
-        "ad6": "Tempo In Movimento + campo dati"
+        "ad6": "Tempo In Movimento + campo dati",
+        "_lc1": "Colore Etichetta Superiore",
+        "_tc1": "Colore Testo Superiore",
+        "_sh": "Ombra del Tempo",
+        "sh0": "Nessuna Ombra",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Con Barra Centrale"
     }
 }

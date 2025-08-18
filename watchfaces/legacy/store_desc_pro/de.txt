@@ -1,0 +1,30 @@
+Eine Fusion aus klassischer Retro-Ästhetik und zeitgenössischer Smartwatch-Technologie. Dieses Watchface verbindet nostalgische LCD-inspirierte Typografie und Vintage-Digital-Elemente mit moderner Datenvisualisierung, fortgeschrittenen Anpassungsoptionen und eleganten Design-Prinzipien. Erleben Sie die perfekte Harmonie zwischen Old-School-Charme und hochmoderner Funktionalität.
+    
+⭐️ Vor dem Kauf testen! ⭐️
+Bevor Sie dieses Watchface kaufen, schauen Sie sich bitte zuerst die kostenlose Version an, um sicherzustellen, dass es das ist, was Sie wollen und dass es Ihnen auf Ihrer Uhr gefällt: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ MIPS Geräte (Fenix 7, Enduro, Forerunner 255, usw.) ⭐️
+Dieses Watchface ist vollständig für MIPS optimiert, aber die Farben werden anders aussehen als in den meisten Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden. Dieses Watchface hat viele Themes, die für MIPS optimiert sind und unterstützt MIPS-Farbverläufe. Alle eingebauten Themes finden Sie hier: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Handbuch: https://watchface.io/legacy/manual
+* Kostenlose Version: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* Theme-Liste: https://watchface.io/legacy/themes
+* Farbleitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon gehen Sie zu Ihrem Gerät, Watchfaces, Einstellungen): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen.
+* Einstellungen auf der Uhr: Greifen Sie auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr zu, indem Sie die Menütaste gedrückt halten, Watchface auswählen und auf Anpassen tippen.
+
+⭐️ Datenfelder ⭐️
+Alle Datenfelder, die Garmin derzeit Drittentwicklern zur Verfügung stellt, sind verfügbar, plus Extras wie Glucose Monitor (CGM) Unterstützung, Open Weather Map (OWM) und Unterstützung für andere Drittanbieter-Apps.
+Alle verfügbaren Datenfelder sind hier aufgelistet: https://watchface.io/docs/datafields . Einige Datenfelder (wie Trainingsbereitschaft oder HRV) sind derzeit nicht für Drittentwickler verfügbar, siehe hier: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Wenn Sie auf Fehler oder Probleme stoßen, kontaktieren Sie mich bitte über "Contact Developer", anstatt das Bewertungssystem zu verwenden. Ich kann E-Mails prompt beantworten, während ich Bewertungen möglicherweise mehrere Tage nicht sehe. ***
+
+* Changelog: https://watchface.io/legacy/changelog

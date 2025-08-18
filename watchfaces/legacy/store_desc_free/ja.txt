@@ -1,0 +1,30 @@
+クラシックなレトロ美学と現代のスマートウォッチテクノロジーの融合。このウォッチフェイスは、ノスタルジックなLCDインスパイアードタイポグラフィーとヴィンテージデジタル要素を、モダンなデータビジュアライゼーション、高度なカスタマイゼーションオプション、エレガントなデザイン原則と組み合わせています。オールドスクールの魅力と最先端の機能性の完璧な調和をお楽しみください。
+    
+⭐️ 無料 vs Pro ⭐️
+このウォッチフェイスは、すべての基本機能を無料で利用できます。プレミアム機能（[*]でマーク）のロック解除にはProキーが必要です。Proキーはこちらで購入できます：https://ko-fi.com/s/2dffa075ce またはPROバージョンをこちらで購入：https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+
+⭐️ MIPSデバイス (Fenix 7、Enduro、Forerunner 255など) ⭐️
+このウォッチフェイスはMIPSに完全に最適化されていますが、ほとんどの画像のように色が異なって見えます。これらの画像はAmoledデバイスで撮影されているためです。このウォッチフェイスには、MIPSに最適化された多くのテーマがあり、MIPSグラデーションをサポートしています。すべての内蔵テーマはこちらで見つけることができます：https://watchface.io/legacy/themes#MIPS
+
+⭐️ リソース ⭐️
+* FAQ: https://watchface.io/faq
+* マニュアル: https://watchface.io/legacy/manual
+* PROキーの取得: https://ko-fi.com/s/2dffa075ce または https://watchface.io/legacy
+* ロック解除版: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+* テーマリスト: https://watchface.io/legacy/themes
+* カラーガイド: https://watchface.io/docs/color-list
+* 利用可能なデータフィールド: https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：設定には2つの異なる場所があります：
+* Garmin IQアプリ（スマートフォンでデバイス、ウォッチフェイス、設定に移動）：データフィールド、色、一般設定を構成。
+* ウォッチ内設定：メニューボタンを長押しし、ウォッチフェイスを選択してカスタマイズをタップすることで、時間フォーマット、目標、単位などのより詳細なオプションに直接ウォッチからアクセス。
+
+⭐️ データフィールド ⭐️
+Garminが現在サードパーティ開発者に提供しているすべてのデータフィールドが利用可能で、さらにGlucose Monitor（CGM）サポート、Open Weather Map（OWM）、その他のサードパーティアプリのサポートなどの追加機能も含まれています。
+利用可能なすべてのデータフィールドはこちらにリストされています：https://watchface.io/docs/datafields 一部のデータフィールド（トレーニング準備度やHRVなど）は現在サードパーティ開発者には提供されていません。詳細はこちら：https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** バグや問題に遭遇した場合は、レビューシステムを使用する代わりに「Contact Developer」を押して私に連絡してください。メールには迅速に返信できますが、レビューは数日間見ることができない場合があります。***
+
+* 変更履歴: https://watchface.io/legacy/changelog

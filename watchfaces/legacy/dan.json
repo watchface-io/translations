@@ -49,7 +49,9 @@
         "_l6": "10. Nederste center etiket",
 
         "_bcc": "Cirkel baggrundsfarve",
-        "_lc2": "Center etiket/aktuel dag farve",
+         "_lc1": "Top etiket farve",
+        "_tc1": "Top tekst farve",
+        "_lc2": "Center etiket/nuværende dag farve",
         "_tc2": "Center tekst farve",
         "_lc3": "Nederste etiket/inaktiv farve",
         "_tc3": "Nederste tekst/aktiv farve",
@@ -96,6 +98,13 @@
         "_sc2": "Center højre bund farve",
         "_sl": "Center højre top skriftstørrelse (AM/PM)",
         "_sf": "Center højre bund skriftstørrelse (sekunder)",
+
+        "_sh": "Tid skygge",
+        "sh0": "Ingen skygge",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
         
         "_bgi": "Baggrundsstil",
         "bg0": "Ingen baggrund",
@@ -105,6 +114,8 @@
         "bg3": "Konturer",
         "bg4": "Hex",
         "bg5": "Linjer",
+        "bg6": "LCD",
+        "bg7": "LCD med center linje",
         "fnt0": "Legacy",
         "fnt1": "Play Bold",
         "fnt2": "Barlow",

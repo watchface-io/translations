@@ -160,6 +160,16 @@
         "ad3": "Tikai laiks - kustīgs",
         "ad4": "Laiks + datu lauks (izvēlēties zemāk)",
         "ad5": "Laiks centrēts + datu lauks",
-        "ad6": "Laiks kustīgs + datu lauks"
+        "ad6": "Laiks kustīgs + datu lauks",
+        "_lc1": "Augšējās etiķetes krāsa",
+        "_tc1": "Augšējā teksta krāsa",
+        "_sh": "Laika ēna",
+        "sh0": "Nav ēnas",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD ar centrālo joslu"
     }
 }

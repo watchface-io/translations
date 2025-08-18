@@ -49,6 +49,8 @@
         "_l6": "10. Etiqueta inferior central",
 
         "_bcc": "Color de fondo de círculo",
+         "_lc1": "Color de etiqueta superior",
+        "_tc1": "Color de texto superior",
         "_lc2": "Color de etiqueta central/día actual",
         "_tc2": "Color de texto central",
         "_lc3": "Color de etiqueta inferior/inactivo",
@@ -96,6 +98,13 @@
         "_sc2": "Color inferior centro derecha",
         "_sl": "Tamaño de fuente superior centro derecha (AM/PM)",
         "_sf": "Tamaño de fuente inferior centro derecha (segundos)",
+
+        "_sh": "Sombra de tiempo",
+        "sh0": "Sin sombra",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
         
         "_bgi": "Estilo de fondo",
         "bg0": "Sin fondo",
@@ -105,6 +114,8 @@
         "bg3": "Contornos",
         "bg4": "Hexágono",
         "bg5": "Líneas",
+        "bg6": "LCD",
+        "bg7": "LCD con barra central",
         "fnt0": "Heredado",
         "fnt1": "Play Bold",
         "fnt2": "Barlow",

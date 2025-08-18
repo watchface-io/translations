@@ -160,6 +160,16 @@
         "ad3": "Tik laikas - judantis",
         "ad4": "Laikas + duomenų laukas (pasirinkti žemiau)",
         "ad5": "Laikas centruotas + duomenų laukas",
-        "ad6": "Laikas judantis + duomenų laukas"
+        "ad6": "Laikas judantis + duomenų laukas",
+        "_lc1": "Viršutinės etiketės spalva",
+        "_tc1": "Viršutinio teksto spalva",
+        "_sh": "Laiko šešėlis",
+        "sh0": "Be šešėlio",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD su centriniu stulpeliu"
     }
 }

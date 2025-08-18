@@ -152,6 +152,16 @@
         "ad3": "Hanya Waktu - Bergerak",
         "ad4": "Waktu + bidang data (Pilih Di Bawah)",
         "ad5": "Waktu Terpusat + bidang data",
-        "ad6": "Waktu Bergerak + bidang data"
+        "ad6": "Waktu Bergerak + bidang data",
+        "_lc1": "Warna Label Atas",
+        "_tc1": "Warna Teks Atas",
+        "_sh": "Bayangan Waktu",
+        "sh0": "Tanpa Bayangan",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Dengan Bilah Tengah"
     }
 }

@@ -152,6 +152,16 @@
         "ad3": "Alleen Tijd - Bewegend",
         "ad4": "Tijd + dataveld (Selecteer Hieronder)",
         "ad5": "Tijd Gecentreerd + dataveld",
-        "ad6": "Tijd Bewegend + dataveld"
+        "ad6": "Tijd Bewegend + dataveld",
+        "_lc1": "Bovenste Labelkleur",
+        "_tc1": "Bovenste Tekstkleur",
+        "_sh": "Tijd Schaduw",
+        "sh0": "Geen Schaduw",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Met Middelste Balk"
     }
 }

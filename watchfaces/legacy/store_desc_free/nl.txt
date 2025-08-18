@@ -1,0 +1,30 @@
+Een fusie van klassieke retro esthetiek en hedendaagse smartwatch technologie. Deze wijzerplaat combineert nostalgische LCD-geïnspireerde typografie en vintage digitale elementen met moderne datavisualisatie, geavanceerde aanpassingsopties en elegante ontwerpprincipes. Ervaar de perfecte harmonie tussen old-school charme en geavanceerde functionaliteit.
+    
+⭐️ Gratis vs Pro ⭐️
+Deze wijzerplaat is gratis beschikbaar met alle basisfuncties. Premium functies (gemarkeerd met [*]) vereisen een Pro Sleutel om te ontgrendelen. Je kunt een Pro Sleutel hier kopen: https://ko-fi.com/s/2dffa075ce Of koop de PRO versie hier: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+
+⭐️ MIPS Apparaten (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar kleuren zullen er anders uitzien dan in de meeste afbeeldingen, omdat deze zijn genomen op een Amoled apparaat. Deze wijzerplaat heeft vele thema's geoptimaliseerd voor MIPS en ondersteunt MIPS verlopen. Je kunt alle ingebouwde thema's hier vinden: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Handleiding: https://watchface.io/legacy/manual
+* Verkrijg een PRO sleutel: https://ko-fi.com/s/2dffa075ce of https://watchface.io/legacy
+* Ontgrendelde versie: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+* Thema Lijst: https://watchface.io/legacy/themes
+* Kleur Gids: https://watchface.io/docs/color-list
+* Beschikbare Datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Let op: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ App (ga op je telefoon naar je apparaat, wijzerplaten, instellingen): Configureer datavelden, kleuren en algemene instellingen.
+* Instellingen op het Horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en op aanpassen te tikken.
+
+⭐️ Datavelden ⭐️
+Alle datavelden die Garmin momenteel levert aan derde partij ontwikkelaars zijn beschikbaar, plus extra's zoals Glucose Monitor (CGM) ondersteuning, Open Weather Map (OWM) en ondersteuning voor andere derde partij apps.
+Alle beschikbare datavelden staan hier vermeld: https://watchface.io/docs/datafields . Sommige datavelden (zoals trainingsgereedheid of HRV) zijn momenteel niet beschikbaar voor derde partij ontwikkelaars, zie hier: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Als je bugs of problemen tegenkomt, neem dan contact met me op door op "Contact Developer" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan e-mails snel beantwoorden, terwijl ik beoordelingen mogelijk dagenlang niet zie. ***
+
+* Changelog: https://watchface.io/legacy/changelog

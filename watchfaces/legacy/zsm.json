@@ -152,6 +152,16 @@
         "ad3": "Masa Sahaja - Bergerak",
         "ad4": "Masa + medan data (Pilih Di Bawah)",
         "ad5": "Masa Berpusat + medan data",
-        "ad6": "Masa Bergerak + medan data"
+        "ad6": "Masa Bergerak + medan data",
+        "_lc1": "Warna Label Atas",
+        "_tc1": "Warna Teks Atas",
+        "_sh": "Bayang Masa",
+        "sh0": "Tiada Bayang",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Dengan Bar Tengah"
     }
 }

@@ -160,6 +160,16 @@
         "ad3": "Doar Timp - În Mișcare",
         "ad4": "Timp + câmp date (Selectează Mai Jos)",
         "ad5": "Timp Centrat + câmp date",
-        "ad6": "Timp În Mișcare + câmp date"
+        "ad6": "Timp În Mișcare + câmp date",
+        "_lc1": "Culoarea Etichetei de Sus",
+        "_tc1": "Culoarea Textului de Sus",
+        "_sh": "Umbra Timpului",
+        "sh0": "Fără Umbră",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD Cu Bară Centrală"
     }
 }

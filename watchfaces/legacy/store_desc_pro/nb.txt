@@ -1,0 +1,30 @@
+En fusjon av klassisk retro-estetikk og moderne smartklokke-teknologi. Denne urskiven blander nostalgisk LCD-inspirert typografi og vintage digitale elementer med moderne datavisualisering, avanserte tilpasningsalternativer og elegante designprinsipper. Opplev den perfekte harmonien mellom old-school sjarm og banebrytende funksjonalitet.
+    
+⭐️ Prøv før du kjøper! ⭐️
+Før du kjøper denne urskiven, sjekk ut gratisversjonen først for å forsikre deg om at det er det du vil ha og at du liker hvordan den ser ut på klokka di: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ MIPS Enheter (Fenix 7, Enduro, Forerunner 255, osv.) ⭐️
+Denne urskiven er fullt optimalisert for MIPS, men fargene vil se annerledes ut som i de fleste bildene, ettersom disse er tatt på en Amoled-enhet. Denne urskiven har mange temaer optimalisert for MIPS og støtter MIPS-gradienter. Du kan finne alle de innebygde temaene her: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Ressurser ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/legacy/manual
+* Gratisversjon: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* Temaliste: https://watchface.io/legacy/themes
+* Fargeguide: https://watchface.io/docs/color-list
+* Tilgjengelige Datafelt: https://watchface.io/docs/datafields
+
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ App (på telefonen din gå til enheten din, urskiver, innstillinger): Konfigurer datafelt, farger og generelle innstillinger.
+* Innstillinger på Klokka: Få tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde menyknappen, velge urskive og trykke tilpass.
+
+⭐️ Datafelt ⭐️
+Alle datafelt som Garmin for øyeblikket leverer til tredjeparts utviklere er tilgjengelige, pluss ekstra som Glucose Monitor (CGM) støtte, Open Weather Map (OWM) og støtte for andre tredjeparts apper.
+Alle tilgjengelige datafelt er listet her: https://watchface.io/docs/datafields . Noen datafelt (som treningsberedskap eller HRV) er for øyeblikket ikke tilgjengelige for tredjeparts utviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke "Contact Developer" i stedet for å bruke anmeldelsessystemet. Jeg kan svare på e-poster raskt, mens jeg kanskje ikke ser anmeldelser på flere dager. ***
+
+* Endringslogg: https://watchface.io/legacy/changelog

@@ -160,6 +160,16 @@
         "ad3": "Chỉ thời gian - di chuyển",
         "ad4": "Thời gian + trường dữ liệu (chọn bên dưới)",
         "ad5": "Thời gian trung tâm + trường dữ liệu",
-        "ad6": "Thời gian di chuyển + trường dữ liệu"
+        "ad6": "Thời gian di chuyển + trường dữ liệu",
+        "_lc1": "Màu nhãn trên cùng",
+        "_tc1": "Màu văn bản trên cùng",
+        "_sh": "Bóng thời gian",
+        "sh0": "Không có bóng",
+        "sh1": "1px",
+        "sh2": "2px",
+        "sh3": "3px",
+        "sh4": "4px",
+        "bg6": "LCD",
+        "bg7": "LCD với thanh trung tâm"
     }
 }
