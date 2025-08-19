@@ -62,10 +62,11 @@
         "_mbu": "Move bar color unfilled",
         "lcl": "Same as Label color",
         "ltl": "Same as Text color",
+
         "_nc": "Notification Dots Color",
         "_ncu": "Notification Dots Color Unfilled",
-
         "_sn": "Show Notification Dots",
+
         "_6f": "Full",
         "_7f": "Empty",
         "_8f": "Hide",
@@ -129,8 +130,8 @@
         "_fnS": "Time Font size",
         "fnto": "Outlined (If available)",
         "fnts": "Keep the same",
-        "_ox": "Time X Offset, 50 = center",
-        "_oy": "Time Y Offset, 50 = center",
+        "_ox": "Time X Offset (25=center)",
+        "_oy": "Time Y Offset (25=center)",
         "_gradientq": "Gradient Quality",
         "ng": "No Gradient",
         "_pc": "Text color",
