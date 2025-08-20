@@ -581,11 +581,12 @@
         "u7": "Rain Unit",
         "u8": "Show Percentage Sign",
         "u9": "Show BPM for HR",
-        "u10": "Swim Distance",
+        "u10": "Recovery time show h",
+        "u71": "Swim Distance",
         "u11": "Batt show d",
         "u12": "Degree show unit",
         "u13": "Race Predictor show unit",
-
+        "u14": "",
    
         "u31": "Use Device Settings",
         "u32": "Fahrenheit",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "ON",
