@@ -582,7 +582,7 @@
         "u8": "Prozentzeichen anzeigen",
         "u9": "BPM für HF anzeigen",
         "u10": "Erholungszeit h anzeigen",
-        "u71": "Schwimmdistanz",
+        "u14": "Schwimmdistanz",
         "u11": "Batterie T anzeigen",
         "u12": "Grad Einheit anzeigen",
         "u13": "Rennvorhersage Einheit anzeigen",
@@ -599,6 +599,7 @@
         "u40" : "Meter",
         "u41" : "Minute pro Meile",
         "u42" : "Minute pro Kilometer",
+        "u70": "Yards",
         
         "u44": " m",
         "u45": " km",

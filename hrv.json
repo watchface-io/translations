@@ -584,7 +584,7 @@
         "u8": "Prikaži znak postotka",
         "u9": "Prikaži BPM za otkucaje",
         "u10": "Vrijeme oporavka prikaži s",
-        "u71": "Udaljenost plivanja",
+        "u14": "Udaljenost plivanja",
         "u11": "Baterija prikaži d",
         "u12": "Stupnjevi prikaži jedinicu",
         "u13": "Prediktor utrke prikaži jedinicu",
@@ -601,6 +601,7 @@
         "u40": "Metri",
         "u41": "Minuta po milji",
         "u42": "Minuta po kilometru",
+        "u70": "Jardi",
         
         "u44": " m",
         "u45": " km",

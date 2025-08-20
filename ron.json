@@ -584,7 +584,7 @@
         "u8": "Afișează semnul procentului",
         "u9": "Afișează BPM pentru HR",
         "u10": "Timp recuperare afișează h",
-        "u71": "Distanța de înot",
+        "u14": "Distanța de înot",
         "u11": "Baterie afișează d",
         "u12": "Grade afișează unitatea",
         "u13": "Predictor cursă afișează unitatea",
@@ -601,6 +601,7 @@
         "u40" : "Metri",
         "u41" : "Minut pe milă",
         "u42" : "Minut pe kilometru",
+        "u70": "Yarzi",
         
         "u44": " m",
         "u45": " km",

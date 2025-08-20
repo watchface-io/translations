@@ -585,7 +585,7 @@
         "u8": "Visa procentsymbol",
         "u9": "Visa BPM för puls",
         "u10": "Återhämtningstid visa t",
-        "u71": "Simdistans",
+        "u14": "Simdistans",
         "u11": "Batteri visa d",
         "u12": "Grader visa enhet",
         "u13": "Löpprediktor visa enhet",
@@ -602,6 +602,7 @@
         "u40" : "Meter",
         "u41" : "Minut per mile",
         "u42" : "Minut per kilometer",
+        "u70": "Yards",
         
         "u44": " m",
         "u45": " km",

@@ -575,7 +575,7 @@
         "u8": "Procentteken tonen",
         "u9": "BPM voor HF tonen",
         "u10": "Hersteltijd h tonen",
-        "u71": "Zwemafstand",
+        "u14": "Zwemafstand",
         "u11": "Batterij d tonen",
         "u12": "Graden eenheid tonen",
         "u13": "Race Voorspelling eenheid tonen",
@@ -592,6 +592,7 @@
         "u40" : "Meters",
         "u41" : "Minuut per Mijl",
         "u42" : "Minuut per Kilometer",
+        "u70": "Yards",
         
         "u44": " m",
         "u45": " km",

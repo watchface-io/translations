@@ -584,7 +584,7 @@
         "u8": "Pokaż znak procentu",
         "u9": "Pokaż BPM dla tętna",
         "u10": "Czas regeneracji pokaż g",
-        "u71": "Dystans pływania",
+        "u14": "Dystans pływania",
         "u11": "Bateria pokaż d",
         "u12": "Stopnie pokaż jednostkę",
         "u13": "Predyktor wyścigu pokaż jednostkę",
@@ -601,6 +601,7 @@
         "u40": "Metry",
         "u41": "Minuta na milę",
         "u42": "Minuta na kilometr",
+        "u70": "Jardy",
         
         "u44": " m",
         "u45": " km",

@@ -584,7 +584,7 @@
         "u8": "Rādīt procentu zīmi",
         "u9": "Rādīt BPM sirdsdarbībai",
         "u10": "Atveseļošanās laiks rādīt h",
-        "u71": "Peldēšanas attālums",
+        "u14": "Peldēšanas attālums",
         "u11": "Baterija rādīt d",
         "u12": "Grādu rādīt mērvienību",
         "u13": "Sacensību prognozes rādīt mērvienību",
@@ -601,6 +601,7 @@
         "u40": "Metri",
         "u41": "Minūte par jūdzi",
         "u42": "Minūte par kilometru",
+        "u70": "Jardi",
         
         "u44": " m",
         "u45": " km",

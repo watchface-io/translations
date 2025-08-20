@@ -584,7 +584,7 @@
         "u8": "Zobraziť znak percenta",
         "u9": "Zobraziť BPM pre HR",
         "u10": "Čas obnovy zobraziť h",
-        "u71": "Vzdialenosť plávania",
+        "u14": "Vzdialenosť plávania",
         "u11": "Batéria zobraziť d",
         "u12": "Stupne zobraziť jednotku",
         "u13": "Prediktor pretekov zobraziť jednotku",
@@ -601,6 +601,7 @@
         "u40": "Metre",
         "u41": "Minúta na míľu",
         "u42": "Minúta na kilometer",
+        "u70": "Yardy",
         
         "u44": " m",
         "u45": " km",

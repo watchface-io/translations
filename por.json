@@ -585,7 +585,7 @@
         "u8": "Mostrar sinal de porcentagem",
         "u9": "Mostrar BPM para FC",
         "u10": "Tempo de recuperação mostrar h",
-        "u71": "Distância de natação",
+        "u14": "Distância de natação",
         "u11": "Bateria mostrar d",
         "u12": "Graus mostrar unidade",
         "u13": "Preditor de corrida mostrar unidade",
@@ -602,6 +602,7 @@
         "u40": "Metros",
         "u41": "Minuto por milha",
         "u42": "Minuto por quilômetro",
+        "u70": "Jardas",
         
         "u44": " m",
         "u45": " km",

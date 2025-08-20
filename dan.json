@@ -582,7 +582,7 @@
         "u8": "Vis procentsymbol",
         "u9": "Vis BPM for puls",
         "u10": "Restitueringstid vis t",
-        "u71": "Svømmeafstand",
+        "u14": "Svømmeafstand",
         "u11": "Batteri vis d",
         "u12": "Grader vis enhed",
         "u13": "Løbsprediktor vis enhed",
@@ -599,6 +599,7 @@
         "u40" : "Meter",
         "u41" : "Minut per mile",
         "u42" : "Minut per kilometer",
+        "u70": "Yards",
 
         "u44": " m",
         "u45": " km",

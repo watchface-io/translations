@@ -584,7 +584,7 @@
         "u8": "Rodyti procentų ženklą",
         "u9": "Rodyti BPM širdies ritmui",
         "u10": "Atsigavimo laikas rodyti h",
-        "u71": "Plaukimo atstumas",
+        "u14": "Plaukimo atstumas",
         "u11": "Baterija rodyti d",
         "u12": "Laipsniai rodyti vienetą",
         "u13": "Lenktynių prognozė rodyti vienetą",
@@ -601,6 +601,7 @@
         "u40" : "Metrai",
         "u41" : "Minutė už mylią",
         "u42" : "Minutė už kilometrą",
+        "u70": "Jardai",
         
         "u44": " m",
         "u45": " km",

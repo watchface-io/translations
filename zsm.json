@@ -583,7 +583,7 @@
         "u8": "Tunjukkan tanda peratus",
         "u9": "Tunjukkan BPM untuk HR",
         "u10": "Masa pemulihan tunjukkan h",
-        "u71": "Jarak renang",
+        "u14": "Jarak renang",
         "u11": "Bateri tunjukkan d",
         "u12": "Darjah tunjukkan unit",
         "u13": "Peramal perlumbaan tunjukkan unit",
@@ -600,6 +600,7 @@
         "u40": "Meter",
         "u41": "Minit per batu",
         "u42": "Minit per kilometer",
+        "u70": "Ela",
         
         "u44": " m",
         "u45": " km",

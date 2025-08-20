@@ -582,7 +582,7 @@
         "u8": "Zobrazit znak procent",
         "u9": "Zobrazit BPM pro TF",
         "u10": "Čas zotavení zobrazit m",
-        "u71": "Vzdálenost plavání",
+        "u14": "Vzdálenost plavání",
         "u11": "Baterie zobrazit d",
         "u12": "Stupně zobrazit jednotku",
         "u13": "Předpovědník závodu zobrazit jednotku",
@@ -599,6 +599,7 @@
         "u40": "Metry",
         "u41": "Minuta na míli",
         "u42": "Minuta na kilometr",
+        "u70": "Yardy",
         
         "u44": " m",
         "u45": " km",

@@ -582,12 +582,11 @@
         "u8": "Show Percentage Sign",
         "u9": "Show BPM for HR",
         "u10": "Recovery time show h",
-        "u71": "Swim Distance",
+        "u14": "Swim Distance",
         "u11": "Batt show d",
         "u12": "Degree show unit",
         "u13": "Race Predictor show unit",
-        "u14": "",
-   
+     
         "u31": "Use Device Settings",
         "u32": "Fahrenheit",
         "u33": "Celsius",

@@ -584,7 +584,7 @@
         "u8": "Näita protsendimärki",
         "u9": "Näita BPM SF-i jaoks",
         "u10": "Taastumisaeg näita t",
-        "u71": "Ujumiskaugus",
+        "u14": "Ujumiskaugus",
         "u11": "Aku näita p",
         "u12": "Kraadid näita ühikut",
         "u13": "Võistluse ennustaja näita ühikut",
@@ -601,6 +601,7 @@
         "u40": "Meetrid",
         "u41": "Minut miili kohta",
         "u42": "Minut kilomeetri kohta",
+        "u70": "Jardid",
         
         "u44": " m",
         "u45": " km",
