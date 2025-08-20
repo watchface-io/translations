@@ -584,7 +584,8 @@
         "u7": "Regnenhet",
         "u8": "Visa procentsymbol",
         "u9": "Visa BPM för puls",
-        "u10": "Simdistans",
+        "u10": "Återhämtningstid visa t",
+        "u71": "Simdistans",
         "u11": "Batteri visa d",
         "u12": "Grader visa enhet",
         "u13": "Löpprediktor visa enhet",
@@ -622,7 +623,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "t,m",
+        "u65": "t",
         "u66": "d,t",
         "u67": " d",
         "u68": "PÅ",

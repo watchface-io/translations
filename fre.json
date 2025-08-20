@@ -582,7 +582,8 @@
         "u7": "Unité de pluie",
         "u8": "Afficher le signe de pourcentage",
         "u9": "Afficher BPM pour FC",
-        "u10": "Distance de natation",
+        "u10": "Temps de récupération afficher h",
+        "u71": "Distance de natation",
         "u11": "Batterie afficher j",
         "u12": "Degré afficher unité",
         "u13": "Prédicteur de course afficher unité",
@@ -620,7 +621,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "j,h",
         "u67": " j",
         "u68": "ON",

@@ -584,7 +584,8 @@
         "u7": "Regnenhet",
         "u8": "Vis prosenttegn",
         "u9": "Vis BPM for puls",
-        "u10": "Svømmedistanse",
+        "u10": "Restitusjonstid vis t",
+        "u71": "Svømmedistanse",
         "u11": "Batteri vis d",
         "u12": "Grader vis enhet",
         "u13": "Løpsprediktor vis enhet",
@@ -622,7 +623,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "t,m",
+        "u65": "t",
         "u66": "d,t",
         "u67": " d",
         "u68": "PÅ",

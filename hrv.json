@@ -583,7 +583,8 @@
         "u7": "Jedinica kiše",
         "u8": "Prikaži znak postotka",
         "u9": "Prikaži BPM za otkucaje",
-        "u10": "Udaljenost plivanja",
+        "u10": "Vrijeme oporavka prikaži s",
+        "u71": "Udaljenost plivanja",
         "u11": "Baterija prikaži d",
         "u12": "Stupnjevi prikaži jedinicu",
         "u13": "Prediktor utrke prikaži jedinicu",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "s,m",
+        "u65": "s",
         "u66": "d,s",
         "u67": " d",
         "u68": "UKLJUČENO",

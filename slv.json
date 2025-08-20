@@ -583,7 +583,8 @@
         "u7": "Enota dežja",
         "u8": "Prikaži znak odstotka",
         "u9": "Prikaži BPM za HR",
-        "u10": "Razdalja plavanja",
+        "u10": "Čas okrevanja prikaži h",
+        "u71": "Razdalja plavanja",
         "u11": "Baterija prikaži d",
         "u12": "Stopinje prikaži enoto",
         "u13": "Napovedovalec dirk prikaži enoto",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "VKLOPLJENO",

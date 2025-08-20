@@ -582,7 +582,8 @@
         "u7": "Satuan Hujan",
         "u8": "Tampilkan Tanda Persen",
         "u9": "Tampilkan BPM untuk HR",
-        "u10": "Jarak Renang",
+        "u10": "Waktu pemulihan tampilkan h",
+        "u71": "Jarak Renang",
         "u11": "Baterai tampilkan d",
         "u12": "Derajat tampilkan satuan",
         "u13": "Prediktor lomba tampilkan satuan",
@@ -620,7 +621,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "NYALA",

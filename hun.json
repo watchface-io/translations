@@ -583,7 +583,8 @@
         "u7": "Eső mértékegysége",
         "u8": "Százalék jel megjelenítése",
         "u9": "BPM megjelenítése pulzushoz",
-        "u10": "Úszás távolság",
+        "u10": "Regenerációs idő ó/p megjelenítése",
+        "u71": "Úszás távolság",
         "u11": "Akkumulátor n megjelenítése",
         "u12": "Fok mértékegység megjelenítése",
         "u13": "Versenyelőrejelző mértékegység megjelenítése",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "ó,p",
+        "u65": "ó",
         "u66": "n,ó",
         "u67": " n",
         "u68": "BE",
