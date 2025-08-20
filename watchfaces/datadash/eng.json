@@ -18,13 +18,13 @@
         "_f2l": "2. Right Top Label",
         "_s2": "2. Right Top Progress",
 
-        "_f3l": "5. Center Left Label",
-        "_f3": "5. Center Left Data",
-        "_g0": "5. Center Left Offset (25=center)",
+        "_f3l": "6. Center Left Label",
+        "_f3": "6. Center Left Data",
+        "_g0": "6. Center Left Offset (25=center)",
 
-        "_f12l": "6. Center Right Label",
-        "_f12": "6. Center Right Data (seconds by default)",
-        "_g1": "6. Center Right Offset (25=center)",
+        "_f12l": "7. Center Right Label",
+        "_f12": "7. Center Right Data (seconds by default)",
+        "_g1": "7. Center Right Offset (25=center)",
         
      
 
