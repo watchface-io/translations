@@ -583,7 +583,8 @@
         "u7": "Lietaus vienetas",
         "u8": "Rodyti procentų ženklą",
         "u9": "Rodyti BPM širdies ritmui",
-        "u10": "Plaukimo atstumas",
+        "u10": "Atsigavimo laikas rodyti h",
+        "u71": "Plaukimo atstumas",
         "u11": "Baterija rodyti d",
         "u12": "Laipsniai rodyti vienetą",
         "u13": "Lenktynių prognozė rodyti vienetą",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "ĮJUNGTA",

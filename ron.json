@@ -583,7 +583,8 @@
         "u7": "Unitatea ploii",
         "u8": "Afișează semnul procentului",
         "u9": "Afișează BPM pentru HR",
-        "u10": "Distanța de înot",
+        "u10": "Timp recuperare afișează h",
+        "u71": "Distanța de înot",
         "u11": "Baterie afișează d",
         "u12": "Grade afișează unitatea",
         "u13": "Predictor cursă afișează unitatea",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "PORNIT",

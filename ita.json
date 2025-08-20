@@ -570,7 +570,8 @@
         "u7": "Unità di pioggia",
         "u8": "Mostra segno percentuale",
         "u9": "Mostra BPM per FC",
-        "u10": "Distanza di nuoto",
+        "u10": "Tempo di recupero mostra o",
+        "u71": "Distanza di nuoto",
         "u11": "Batteria mostra g",
         "u12": "Gradi mostra unità",
         "u13": "Predittore gara mostra unità",
@@ -608,7 +609,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "o,m",
+        "u65": "o",
         "u66": "g,o",
         "u67": " g",
         "u68": "ON",

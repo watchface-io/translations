@@ -582,7 +582,8 @@
         "u7": "Unit hujan",
         "u8": "Tunjukkan tanda peratus",
         "u9": "Tunjukkan BPM untuk HR",
-        "u10": "Jarak renang",
+        "u10": "Masa pemulihan tunjukkan h",
+        "u71": "Jarak renang",
         "u11": "Bateri tunjukkan d",
         "u12": "Darjah tunjukkan unit",
         "u13": "Peramal perlumbaan tunjukkan unit",
@@ -620,7 +621,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "HIDUP",

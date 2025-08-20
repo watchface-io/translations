@@ -582,7 +582,8 @@
         "u7": "Yağmur birimi",
         "u8": "Yüzde işareti göster",
         "u9": "HR için BPM göster",
-        "u10": "Yüzme mesafesi",
+        "u10": "İyileşme süresi h göster",
+        "u71": "Yüzme mesafesi",
         "u11": "Pil d göster",
         "u12": "Derece birimi göster",
         "u13": "Yarış tahmin birimi göster",
@@ -620,7 +621,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "AÇIK",

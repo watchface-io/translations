@@ -583,7 +583,8 @@
         "u7": "Jednotka dažďa",
         "u8": "Zobraziť znak percenta",
         "u9": "Zobraziť BPM pre HR",
-        "u10": "Vzdialenosť plávania",
+        "u10": "Čas obnovy zobraziť h",
+        "u71": "Vzdialenosť plávania",
         "u11": "Batéria zobraziť d",
         "u12": "Stupne zobraziť jednotku",
         "u13": "Prediktor pretekov zobraziť jednotku",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "ZAPNUTÉ",

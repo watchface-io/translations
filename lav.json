@@ -583,7 +583,8 @@
         "u7": "Lietus mērvienība",
         "u8": "Rādīt procentu zīmi",
         "u9": "Rādīt BPM sirdsdarbībai",
-        "u10": "Peldēšanas attālums",
+        "u10": "Atveseļošanās laiks rādīt h",
+        "u71": "Peldēšanas attālums",
         "u11": "Baterija rādīt d",
         "u12": "Grādu rādīt mērvienību",
         "u13": "Sacensību prognozes rādīt mērvienību",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "h,m",
+        "u65": "h",
         "u66": "d,h",
         "u67": " d",
         "u68": "IESLĒGTS",

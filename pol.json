@@ -583,7 +583,8 @@
         "u7": "Jednostka deszczu",
         "u8": "Pokaż znak procentu",
         "u9": "Pokaż BPM dla tętna",
-        "u10": "Dystans pływania",
+        "u10": "Czas regeneracji pokaż g",
+        "u71": "Dystans pływania",
         "u11": "Bateria pokaż d",
         "u12": "Stopnie pokaż jednostkę",
         "u13": "Predyktor wyścigu pokaż jednostkę",
@@ -621,7 +622,7 @@
         "u61": "mm",
 
         "u64": " bpm",
-        "u65": "g,m",
+        "u65": "g",
         "u66": "d,g",
         "u67": " d",
         "u68": "WŁ",
