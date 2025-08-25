@@ -1,0 +1,112 @@
+{
+    "settings": {
+
+        "_c30": "Sun Position Chart",
+        "_c52": "4 Day Weather Forecast",
+        "_c53": "4 Hour Weather Forecast",
+
+        "_c1": "Chart / Graph",
+        "_c2": "Chart Color 1",
+        "_c3": "Chart Color 2",
+        "_c4": "Top Icon Color",
+        "_c5": "Progress Bar Color 1",
+        "_c6": "Progress Bar Color 2",
+        "_c7": "Top Icon Color",
+        "_c8": "Dial Color",
+        "_c9": "Background Line Color",
+
+        "_mc1": "Marker 1 Color",
+        "_mc2": "Marker 2 Color",
+
+        "_fo": "Outlined (If available)",
+        "_fk": "Keep the same",
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+        "_s1": "1. Top Style",
+        "_f1": "1. Top 1 Data",
+        "_l1": "1. Top 1 Label",
+        "_f2": "2. Top 2 Data",
+        "_l2": "2. Top 2 Label",
+        "_f3": "3. Top 3 (Progress) Data",
+        "_l3": "3. Top 3 Label",
+
+        "_f4": "4. Center 1 Data",
+        "_l4": "4. Center 1 Label",
+        "_f5": "5. Center 2 Data",
+        "_l5": "5. Center 2 Label",
+        "_f6": "6. Center 3 Data",
+        "_l6": "6. Center 3 Label",
+
+        "_s2": "7. Bottom Style",
+        "_gs": "7. Bottom Chart as Linechart",
+        "_f7": "7. Bottom 1 Data",
+        "_l7": "7. Bottom 1 Label",
+        "_f8": "8. Bottom 2 Data",
+        "_l8": "8. Bottom 2 Label",
+        "_f9": "9. Bottom 3 Data",
+        "_l9": "9. Bottom 3 Label",
+
+        "_sn": "Left Center",
+        "_sb": "Right Center",
+
+        "_r0": "Notification Icon",
+        "_r1": "Bluetooth Disabled Icon",
+        "_r2": "AM/PM",
+        "_r3": "Seconds",
+
+        "_wi": "Weather Icon + 2 Fields",
+        "_3f": "3 Fields",
+        "_3p": "Progress Bar + 3 fields",
+
+        "_f920": "Battery Progress",
+
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+        "_t1": "Touch Shortcut Hour",
+        "_t2": "Touch Shortcut Minute",
+
+        "_fs": "Text Font",
+        "_ts": "Text Font Size (resizeable fonts only)",
+       
+        "_fn": "Hour Font",
+        "_fnM": "Minute Font",
+        "_fnA": "Time font AOD",
+        "_fnS": "Time Font size",
+
+        "_ox": "Time X Offset (25=center)",
+        "_oy": "Time Y Offset (25=center)",
+        "_gradientq": "Gradient Quality",
+        "ng": "No Gradient",
+        "_pc": "Text color",
+        "_ic": "Label color",
+       
+        
+        "_bgc": "Background Color",
+        "_hc1": "Hour Color",
+        "_hc2": "Hour Color 2",
+        "_m1": "Minute Color",
+        "_m2": "Minute Color 2",
+        "_dc": "Divider Color",
+        "_aas": "Always on seconds",
+        "_aod": "AOD Mode (Always on Display)",
+        "_aodct": "AOD Time Tint Color",
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "_f20": "AOD Field Data",
+        "_l20": "AOD Field Label",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        "ad1": "Time Only",
+        "ad3": "Time Only - Moving",
+        "ad4": "Time + data field (Select Below)",
+        "ad6": "Time Moving + data field"
+    }
+}
