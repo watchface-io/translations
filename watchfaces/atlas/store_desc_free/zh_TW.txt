@@ -1,0 +1,32 @@
+Atlas - 終極數據豐富的Garmin錶面，擁有100多個可定制指標、CGM支持、天氣預報和全面的圖表 - 為標準和MIPS顯示屏完全優化。
+
+⭐️ 免費 vs Pro ⭐️
+此錶面免費提供所有基礎功能。高級功能（標記為[*]）需要Pro密鑰解鎖。您可以在此購買Pro密鑰：https://ko-fi.com/s/d2c3362e83 或在此購買PRO版本：https://apps.garmin.com/apps/490be02d-97dd-495f-95c2-74e8a1b93990
+
+⭐️ MIPS設備（Fenix 7、Enduro、Forerunner 255等） ⭐️
+此錶面針對MIPS完全優化，非常適合數位遊牧生活方式，但顏色會看起來不同，如大多數圖片所示，因為這些是在Amoled設備上拍攝的。此錶面有許多針對MIPS優化的主題，並支持MIPS漸變。您可以在此找到所有內建主題：https://watchface.io/atlas/themes#MIPS
+
+⭐️ 資源 ⭐️
+* 常見問題：https://watchface.io/faq
+* 手冊：https://watchface.io/atlas/manual
+* 獲取PRO密鑰：https://ko-fi.com/s/d2c3362e83 或 https://watchface.io/atlas
+* 主題列表：https://watchface.io/atlas/themes
+* 顏色指南：https://watchface.io/docs/color-list
+* 可用數據欄位：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：設定有兩個不同的地方：
+* Garmin IQ應用程式（在手機上轉到您的設備、錶面、設定）：配置數據欄位、顏色和常規設定。
+* 手錶設定：透過按住選單按鈕、選擇錶面並點擊自訂，直接在手錶上訪問更詳細的選項，如時間格式、目標和單位。
+
+⭐️ 數據欄位 ⭐️
+Garmin目前提供給第三方開發者的所有數據欄位都可用，還有額外功能如血糖監測儀（CGM）支持、Open Weather Map（OWM）和其他第三方應用程式支持。
+所有可用的數據欄位在此列出：https://watchface.io/docs/datafields 。某些數據欄位（如訓練準備度或HRV）目前不向第三方開發者開放，請參見：https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ 我可以更改Fenix/Enduro文字等嗎？ ⭐️
+是的，您可以！請參見：https://watchface.io/faq/how-to-change-the-fenix-text
+實際上，此錶面上的所有內容都可以根據您的喜好進行調整。
+
+*** 如果您遇到任何錯誤或問題，請透過按「聯繫開發者」聯繫我，而不是使用評論系統。我可以快速回復電子郵件，而我可能幾天都看不到評論。 ***
+
+* 更新日誌：https://watchface.io/atlas/changelog

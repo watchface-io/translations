@@ -1,0 +1,32 @@
+Atlas - 终极数据丰富的Garmin表盘，具有100+可定制指标、CGM支持、天气预报和综合图表 - 完全针对标准和MIPS显示屏进行优化。
+
+⭐️ 购买前试用！ ⭐️
+在购买此表盘之前，请先试用免费版本，确保这是您想要的，并且您喜欢它在手表上的外观：https://apps.garmin.com/apps/267520dc-171b-4620-8c9f-16ed2bd827fe
+
+⭐️ MIPS设备（Fenix 7、Enduro、Forerunner 255等） ⭐️
+此表盘完全针对MIPS进行优化，非常适合数字游牧生活方式，但颜色会与大多数图片不同，因为这些图片是在Amoled设备上拍摄的。此表盘有许多针对MIPS优化的主题，并支持MIPS渐变。您可以在此处找到所有内置主题：https://watchface.io/atlas/themes#MIPS
+
+⭐️ 资源 ⭐️
+* 常见问题：https://watchface.io/faq
+* 手册：https://watchface.io/atlas/manual
+* 免费版本：https://apps.garmin.com/apps/267520dc-171b-4620-8c9f-16ed2bd827fe
+* 主题列表：https://watchface.io/atlas/themes
+* 颜色指南：https://watchface.io/docs/color-list
+* 可用数据字段：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有两个不同的设置位置：
+* Garmin IQ应用（在手机上转到您的设备、表盘、设置）：配置数据字段、颜色和常规设置。
+* 手表上的设置：通过长按菜单按钮、选择表盘并点击自定义，直接在手表上访问更详细的选项，如时间格式、目标和单位。
+
+⭐️ 数据字段 ⭐️
+Garmin目前提供给第三方开发者的所有数据字段都可用，另外还有额外功能，如葡萄糖监测器（CGM）支持、Open Weather Map（OWM）和其他第三方应用支持。
+所有可用的数据字段都在此处列出：https://watchface.io/docs/datafields 。一些数据字段（如训练准备或HRV）目前不适用于第三方开发者，请参阅此处：https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ 我可以更改Fenix/Enduro文本等吗？ ⭐️
+是的，您可以！请参阅此处：https://watchface.io/faq/how-to-change-the-fenix-text
+事实上，此表盘上的所有内容都可以根据您的喜好进行调整。
+
+*** 如果您遇到任何错误或问题，请通过按"Contact Developer"联系我，而不是使用评价系统。我可以快速回复电子邮件，而我可能几天都看不到评价。 ***
+
+* 更新日志：https://watchface.io/atlas/changelog

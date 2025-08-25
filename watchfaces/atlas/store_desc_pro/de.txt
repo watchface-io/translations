@@ -1,0 +1,32 @@
+Atlas - Das ultimative datenreiche Garmin Watchface mit 100+ anpassbaren Metriken, CGM-Unterstützung, Wettervorhersagen und umfassenden Diagrammen - vollständig optimiert für Standard- und MIPS-Displays.
+
+⭐️ Vor dem Kauf testen! ⭐️
+Bevor Sie dieses Watchface kaufen, probieren Sie zunächst die kostenlose Version aus, um sicherzustellen, dass es das ist, was Sie möchten, und dass Ihnen gefällt, wie es auf Ihrer Uhr aussieht: https://apps.garmin.com/apps/267520dc-171b-4620-8c9f-16ed2bd827fe
+
+⭐️ MIPS-Geräte (Fenix 7, Enduro, Forerunner 255, usw.) ⭐️
+Dieses Watchface ist vollständig für MIPS optimiert, perfekt für den digitalen Nomaden-Lebensstil, aber die Farben werden anders aussehen als in den meisten Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden. Dieses Watchface hat viele für MIPS optimierte Themes und unterstützt MIPS-Farbverläufe. Alle eingebauten Themes finden Sie hier: https://watchface.io/atlas/themes#MIPS
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Handbuch: https://watchface.io/atlas/manual
+* Kostenlose Version: https://apps.garmin.com/apps/267520dc-171b-4620-8c9f-16ed2bd827fe
+* Theme-Liste: https://watchface.io/atlas/themes
+* Farbleitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (gehen Sie auf Ihrem Telefon zu Ihrem Gerät, Watchfaces, Einstellungen): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen.
+* Einstellungen auf der Uhr: Zugang zu detaillierteren Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr durch Halten der Menütaste, Auswählen des Watchface und Tippen auf Anpassen.
+
+⭐️ Datenfelder ⭐️
+Alle Datenfelder, die Garmin derzeit Drittanbieter-Entwicklern zur Verfügung stellt, sind verfügbar, plus Extras wie Glukosemonitor (CGM) Unterstützung, Open Weather Map (OWM) und Unterstützung für andere Drittanbieter-Apps.
+Alle verfügbaren Datenfelder sind hier aufgelistet: https://watchface.io/docs/datafields . Einige Datenfelder (wie Trainingsbereitschaft oder HRV) sind derzeit nicht für Drittanbieter-Entwickler verfügbar, siehe hier: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kann ich den Fenix/Enduro-Text usw. ändern? ⭐️
+Ja, das können Sie! Siehe hier: https://watchface.io/faq/how-to-change-the-fenix-text
+Tatsächlich kann alles auf diesem Watchface nach Ihren Wünschen angepasst werden.
+
+*** Wenn Sie auf Fehler oder Probleme stoßen, wenden Sie sich bitte an mich, indem Sie "Contact Developer" drücken, anstatt das Bewertungssystem zu verwenden. Ich kann E-Mails schnell beantworten, während ich Bewertungen möglicherweise mehrere Tage lang nicht sehe. ***
+
+* Changelog: https://watchface.io/atlas/changelog

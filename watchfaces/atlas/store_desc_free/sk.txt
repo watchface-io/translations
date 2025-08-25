@@ -1,0 +1,32 @@
+Atlas - Najdokonalejší dátovo bohatý Garmin ciferník so 100+ prispôsobiteľnými metrikami, CGM podporou, predpoveďou počasia a komplexnými grafmi - plne optimalizovaný pre štandardné a MIPS displeje.
+
+⭐️ Zadarmo vs Pro ⭐️
+Tento ciferník je dostupný bez nákladov so všetkými základnými funkciami. Prémiové funkcie (označené [*]) vyžadujú Pro kľúč na odomknutie. Pro kľúč si môžete kúpiť tu: https://ko-fi.com/s/d2c3362e83 Alebo si kúpte PRO verziu tu: https://apps.garmin.com/apps/490be02d-97dd-495f-95c2-74e8a1b93990
+
+⭐️ MIPS zariadenia (Fenix 7, Enduro, Forerunner 255, atď.) ⭐️
+Tento ciferník je plne optimalizovaný pre MIPS, perfektný pre digitálny nomádsky životný štýl, ale farby budú vyzerať odlišne ako na väčšine obrázkov, pretože tie sú zhotovené na Amoled zariadení. Tento ciferník má mnoho tém optimalizovaných pre MIPS a podporuje MIPS prechody. Všetky vstavaní témy nájdete tu: https://watchface.io/atlas/themes#MIPS
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Manuál: https://watchface.io/atlas/manual
+* Získať PRO kľúč: https://ko-fi.com/s/d2c3362e83 alebo https://watchface.io/atlas
+* Zoznam tém: https://watchface.io/atlas/themes
+* Sprievodca farbami: https://watchface.io/docs/color-list
+* Dostupné dátové polia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurácia ⭐️
+Poznámka: Existujú dva rôzne miesta s nastaveniami:
+* Garmin IQ aplikácia (v telefóne prejdite na vaše zariadenie, ciferníky, nastavenia): Nakonfigurujte dátové polia, farby a všeobecné nastavenia.
+* Nastavenia na hodinkách: Prístup k podrobnejším možnostiam ako formát času, ciele a jednotky priamo na hodinkách podržaním tlačidla menu, výberom ciferníka a dotknutím prispôsobiť.
+
+⭐️ Dátové polia ⭐️
+Všetky dátové polia, ktoré Garmin v súčasnosti poskytuje vývojárom tretích strán sú dostupné, plus extra ako podpora Glukózového monitoru (CGM), Open Weather Map (OWM) a podpora pre iné aplikácie tretích strán.
+Všetky dostupné dátové polia sú uvedené tu: https://watchface.io/docs/datafields . Niektoré dátové polia (ako tréningová pripravenosť alebo HRV) v súčasnosti nie sú dostupné pre vývojárov tretích strán, pozrite tu: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Môžem zmeniť text Fenix/Enduro, atď.? ⭐️
+Áno, môžete! Pozrite tu: https://watchface.io/faq/how-to-change-the-fenix-text
+V skutočnosti všetko na tomto ciferníku môže byť upravené podľa vašeho vkusu.
+
+*** Ak narazíte na chyby alebo problémy, prosím kontaktujte ma stlačením "Kontaktovať vývojára" namiesto použitia recenzného systému. Môžem rýchlo odpovedať na e-maily, zatiaľ čo recenzie nemusím vidieť niekoľko dní. ***
+
+* História zmien: https://watchface.io/atlas/changelog

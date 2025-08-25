@@ -1,0 +1,32 @@
+Atlas - Najnaprednejša Garmin številčnica, bogata s podatki, z 100+ prilagodljivimi metrikami, CGM podporo, vremenskimi napovedmi in obsežnimi grafi - popolnoma optimizirana za standardne in MIPS zaslone.
+
+⭐️ Brezplačno vs Pro ⭐️
+Ta številčnica je na voljo brez stroškov z vsemi osnovnimi funkcijami. Premium funkcije (označene z [*]) zahtevajo Pro ključ za odklepanje. Pro ključ lahko kupite tukaj: https://ko-fi.com/s/d2c3362e83 Ali kupite PRO različico tukaj: https://apps.garmin.com/apps/490be02d-97dd-495f-95c2-74e8a1b93990
+
+⭐️ MIPS naprave (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ta številčnica je popolnoma optimizirana za MIPS, popolna za digitalni nomadski življenjski slog, vendar bodo barve izgledale drugače kot na večini slik, saj so te posnete na Amoled napravi. Ta številčnica ima številne teme optimizirane za MIPS in podpira MIPS prelive. Vse vgrajene teme najdete tukaj: https://watchface.io/atlas/themes#MIPS
+
+⭐️ Viri ⭐️
+* FAQ: https://watchface.io/faq
+* Priročnik: https://watchface.io/atlas/manual
+* Pridobite PRO ključ: https://ko-fi.com/s/d2c3362e83 ali https://watchface.io/atlas
+* Seznam tem: https://watchface.io/atlas/themes
+* Vodič po barvah: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Garmin IQ aplikacija (na telefonu pojdite na vašo napravo, številčnice, nastavitve): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostop do podrobnejših možnosti kot format časa, cilji in enote neposredno na uri z držanjem gumba za meni, izbiro številčnice in dotikom prilagodi.
+
+⭐️ Podatkovna polja ⭐️
+Vsa podatkovna polja, ki jih Garmin trenutno zagotavlja razvijalcem tretjih strani, so na voljo, plus dodatki kot podpora Glukoznemu monitorju (CGM), Open Weather Map (OWM) in podpora za druge aplikacije tretjih strani.
+Vsa razpoložljiva podatkovna polja so navedena tukaj: https://watchface.io/docs/datafields . Nekatera podatkovna polja (kot pripravljenost za trening ali HRV) trenutno niso na voljo za razvijalce tretjih strani, glejte tukaj: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Ali lahko spremenim besedilo Fenix/Enduro, itd.? ⭐️
+Da, lahko! Glejte tukaj: https://watchface.io/faq/how-to-change-the-fenix-text
+Pravzaprav je vse na tej številčnici mogoče prilagoditi vašemu okusu.
+
+*** Če naletite na napake ali težave, me prosim kontaktirajte s pritiskom "Kontaktirj razvijalca" namesto uporabe sistema ocenjevanja. Na e-pošte lahko hitro odgovorim, medtem ko ocen morda ne vidim več dni. ***
+
+* Dnevnik sprememb: https://watchface.io/atlas/changelog

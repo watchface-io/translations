@@ -1,0 +1,32 @@
+Atlas - Den ultimate datarike Garmin urskiven med 100+ tilpassbare målinger, CGM-støtte, værvarsel og omfattende diagrammer - fullt optimalisert for både standard og MIPS-skjermer.
+
+⭐️ Prøv før du kjøper! ⭐️
+Før du kjøper denne urskiven, prøv først gratisversjonen for å forsikre deg om at det er det du ønsker og at du liker hvordan den ser ut på klokka di: https://apps.garmin.com/apps/267520dc-171b-4620-8c9f-16ed2bd827fe
+
+⭐️ MIPS-enheter (Fenix 7, Enduro, Forerunner 255, osv.) ⭐️
+Denne urskiven er fullt optimalisert for MIPS, perfekt for den digitale nomade-livsstilen, men farger vil se annerledes ut enn på de fleste bildene, siden disse er tatt på en Amoled-enhet. Denne urskiven har mange temaer optimalisert for MIPS og støtter MIPS-gradienter. Du kan finne alle innebygde temaer her: https://watchface.io/atlas/themes#MIPS
+
+⭐️ Ressurser ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/atlas/manual
+* Gratisversjon: https://apps.garmin.com/apps/267520dc-171b-4620-8c9f-16ed2bd827fe
+* Temaliste: https://watchface.io/atlas/themes
+* Fargeguide: https://watchface.io/docs/color-list
+* Tilgjengelige datafelt: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ-appen (på telefonen din gå til enheten din, urskiver, innstillinger): Konfigurer datafelt, farger og generelle innstillinger.
+* Innstillinger på klokka: Tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde menyknappen, velge urskive og trykke på tilpass.
+
+⭐️ Datafelt ⭐️
+Alle datafelt som Garmin for øyeblikket leverer til tredjeparts utviklere er tilgjengelige, pluss ekstra som Glukosemonitor (CGM) støtte, Open Weather Map (OWM) og støtte for andre tredjepartsapper.
+Alle tilgjengelige datafelt er listet her: https://watchface.io/docs/datafields . Noen datafelt (som treningsberedskap eller HRV) er for øyeblikket ikke tilgjengelige for tredjeparts utviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kan jeg endre Fenix/Enduro-teksten osv.? ⭐️
+Ja, det kan du! Se her: https://watchface.io/faq/how-to-change-the-fenix-text
+Faktisk kan alt på denne urskiven justeres etter din smak.
+
+*** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke "Contact Developer" i stedet for å bruke vurderingssystemet. Jeg kan svare på e-post raskt, mens jeg kanskje ikke ser anmeldelser på flere dager. ***
+
+* Endringslogg: https://watchface.io/atlas/changelog

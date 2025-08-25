@@ -1,0 +1,32 @@
+Atlas - A végső adatgazdag Garmin óralap 100+ testreszabható metrikával, CGM támogatással, időjárás előrejelzéssel és átfogó diagramokkal - teljesen optimalizált standard és MIPS kijelzőkhöz.
+
+⭐️ Ingyenes vs Pro ⭐️
+Ez az óralap ingyenesen elérhető minden alapfunkcióval. A prémium funkciók ([*] jelölésűek) Pro kulcs szükséges a feloldáshoz. Pro kulcsot itt vásárolhat: https://ko-fi.com/s/d2c3362e83 Vagy vegye meg a PRO verziót itt: https://apps.garmin.com/apps/490be02d-97dd-495f-95c2-74e8a1b93990
+
+⭐️ MIPS eszközök (Fenix 7, Enduro, Forerunner 255, stb.) ⭐️
+Ez az óralap teljesen optimalizált MIPS-hez, tökéletes a digitális nomád életstílushoz, de a színek másképp fognak kinézni, mint a legtöbb képen, mivel ezek Amoled eszközön készültek. Ez az óralap sok MIPS-re optimalizált témával rendelkezik és támogatja a MIPS színátmeneteket. Az összes beépített témát itt találja: https://watchface.io/atlas/themes#MIPS
+
+⭐️ Erőforrások ⭐️
+* GYIK: https://watchface.io/faq
+* Kézikönyv: https://watchface.io/atlas/manual
+* PRO kulcs beszerzése: https://ko-fi.com/s/d2c3362e83 vagy https://watchface.io/atlas
+* Témalista: https://watchface.io/atlas/themes
+* Színkalauz: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+Megjegyzés: Két különböző hely van beállításokkal:
+* Garmin IQ alkalmazás (a telefonján menjen az eszközéhez, óralapok, beállítások): Konfigurálja az adatmezőket, színeket és általános beállításokat.
+* Beállítások az órán: Részletesebb opciókhoz való hozzáférés, mint időformátum, célok és egységek közvetlenül az órán a menü gomb hosszú lenyomásával, óralap kiválasztásával és testreszabás megérintésével.
+
+⭐️ Adatmezők ⭐️
+Minden adatmező, amit a Garmin jelenleg harmadik fél fejlesztőknek biztosít, elérhető, plusz extrák, mint Glükózmonitor (CGM) támogatás, Open Weather Map (OWM) és más harmadik fél alkalmazások támogatása.
+Az összes elérhető adatmező itt van felsorolva: https://watchface.io/docs/datafields . Néhány adatmező (mint edzési felkészültség vagy HRV) jelenleg nem elérhető harmadik fél fejlesztők számára, lásd itt: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Megváltoztathatom a Fenix/Enduro szöveget stb.? ⭐️
+Igen, megteheti! Lásd itt: https://watchface.io/faq/how-to-change-the-fenix-text
+Valójában minden ezen az óralapon az ízlésének megfelelően beállítható.
+
+*** Ha hibákat vagy problémákat tapasztal, kérem, vegye fel velem a kapcsolatot a "Fejlesztő megkeresése" megnyomásával az értékelési rendszer használata helyett. Az emailekre gyorsan tudok válaszolni, míg az értékeléseket esetleg több napig nem látom. ***
+
+* Változásnapló: https://watchface.io/atlas/changelog
