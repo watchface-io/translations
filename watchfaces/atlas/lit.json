@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Saulės padėties diagrama",
+        "_c52": "4 dienų orų prognozė",
+        "_c53": "4 valandų orų prognozė",
+
+        "_c1": "Diagrama / Grafikas",
+        "_c2": "Diagramos spalva 1",
+        "_c3": "Diagramos spalva 2",
+        "_c4": "Viršutinės orų piktogramos spalva",
+        "_c5": "Progreso juostos spalva 1",
+        "_c6": "Progreso juostos spalva 2",
+        "_c7": "Pranešimo piktogramos spalva",
+        "_c8": "Ciferblato spalva",
+        "_c9": "Fono linijos spalva",
+        "_c10": "Diagramos fono spalva",
+
+        "_mc1": "Žymeklio spalva 1",
+        "_mc2": "Žymeklio spalva 2",
+
+        "_fo": "Įrėmintas (jei galima)",
+        "_fk": "Išlaikyti tą patį",
+
+        "_md1": "Žymeklio duomenys 1",
+        "_md2": "Žymeklio duomenys 2",
+
+        "_s1": "1. Viršutinis stilius",
+        "_f1": "1. Viršutiniai duomenys 1",
+        "_l1": "1. Viršutinė etiketė 1",
+        "_f2": "2. Viršutiniai duomenys 2",
+        "_l2": "2. Viršutinė etiketė 2",
+        "_f3": "3. Viršutiniai duomenys 3 (progresas)",
+        "_l3": "3. Viršutinė etiketė 3",
+
+        "_f4": "4. Vidurinio duomenys 1",
+        "_l4": "4. Vidurinė etiketė 1",
+        "_f5": "5. Vidurinio duomenys 2",
+        "_l5": "5. Vidurinė etiketė 2",
+        "_f6": "6. Vidurinio duomenys 3",
+        "_l6": "6. Vidurinė etiketė 3",
+
+        "_s2": "7. Apatinis stilius",
+        "_gs": "7. Apatinė diagrama kaip linijų grafikas",
+        "_f7": "7. Apatiniai duomenys 1",
+        "_l7": "7. Apatinė etiketė 1",
+        "_f8": "8. Apatiniai duomenys 2",
+        "_l8": "8. Apatinė etiketė 2",
+        "_f9": "9. Apatiniai duomenys 3",
+        "_l9": "9. Apatinė etiketė 3",
+
+        "_sn": "Kairys centras",
+        "_sb": "Dešinys centras",
+
+        "_r0": "Pranešimo piktograma",
+        "_r1": "Bluetooth išjungta piktograma",
+        "_r2": "AM/PM",
+        "_r3": "Sekundės",
+
+        "_wi": "Orų piktograma + 2 laukai",
+        "_3f": "3 laukai",
+        "_3p": "Progreso juosta + 3 laukai",
+
+        "_f920": "Baterijos progresas",
+
+        "_tr": "👉 PRISILIETIMO NUORODOS",
+        "_tc": "🎨 SPALVOS / FONAS",
+        "_tt": "🔤 ŠRIFTAI",
+        "_ta": "🖼️ AOD NUSTATYMAI (visada įjungtas ekranas)",
+        "_to": "💡 KITA",
+        "_tx": "➡️ POSLINKIAI",
+        "_t1": "Valandų prisilietimo nuoroda",
+        "_t2": "Minučių prisilietimo nuoroda",
+
+        "_fs": "Teksto šriftas",
+        "_ts": "Teksto šrifto dydis (tik keičiamo dydžio šriftams)",
+       
+        "_fn": "Valandų šriftas",
+        "_fnM": "Minučių šriftas",
+        "_fnA": "AOD laiko šriftas",
+        "_fnS": "Laiko šrifto dydis",
+
+        "_ox": "Laiko X poslinkis (25=centras)",
+        "_oy": "Laiko Y poslinkis (25=centras)",
+        "_gradientq": "Gradiento kokybė",
+        "ng": "Be gradiento",
+        "_pc": "Teksto spalva",
+        "_ic": "Etiketės spalva",
+       
+        
+        "_bgc": "Fono spalva",
+        "_hc1": "Valandų spalva",
+        "_hc2": "Valandų spalva 2",
+        "_m1": "Minučių spalva",
+        "_m2": "Minučių spalva 2",
+        "_dc": "Skyriklio spalva",
+        "_aas": "Sekundės visada įjungtos",
+        "_aod": "AOD režimas (visada įjungtas ekranas)",
+        "_aodct": "AOD laiko šešėlio spalva",
+        "_aodc": "AOD duomenų šešėlio spalva",
+        "_aodT": "AOD laiko ryškumas",
+        "_aodD": "AOD duomenų ryškumas. Jei ekranas išsijungia per AOD, sumažinkite šį skaičių. Mažesnis skaičius = mažesnis baterijos naudojimas, bet tamsiau. Žiūrėkite DUK)",
+        "_aodS": "AOD poslinkis - pikselių skaičius, per kurį ekranas atsitiktinai judėja kiekvieną minutę, kad išvengtų išdeginimo)",
+        "_f20": "AOD duomenų laukas",
+        "_l20": "AOD etiketės laukas",
+        "ad0": "Išjungti ekraną",
+        "ad100": "Visiškas AOD (numatytasis)",
+        "ad1": "Tik laikas",
+        "ad3": "Tik laikas - judantis",
+        "ad4": "Laikas + duomenų laukas (pasirinkite žemiau)",
+        "ad6": "Judantis laikas + duomenų laukas"
+    }
+}

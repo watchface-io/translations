@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Auringon sijainti kaavio",
+        "_c52": "4 päivän sääennuste",
+        "_c53": "4 tunnin sääennuste",
+
+        "_c1": "Kaavio / Graafi",
+        "_c2": "Kaavion väri 1",
+        "_c3": "Kaavion väri 2",
+        "_c4": "Ylempi sääkuvake väri",
+        "_c5": "Edistymispalkki väri 1",
+        "_c6": "Edistymispalkki väri 2",
+        "_c7": "Ilmoituskuvake väri",
+        "_c8": "Kellotaulu väri",
+        "_c9": "Taustaviiva väri",
+        "_c10": "Kaavion tausta väri",
+
+        "_mc1": "Merkki 1 väri",
+        "_mc2": "Merkki 2 väri",
+
+        "_fo": "Reunustettu (jos saatavilla)",
+        "_fk": "Pidä sama",
+
+        "_md1": "Merkki 1 data",
+        "_md2": "Merkki 2 data",
+
+        "_s1": "1. Ylempi tyyli",
+        "_f1": "1. Ylempi 1 data",
+        "_l1": "1. Ylempi 1 nimike",
+        "_f2": "2. Ylempi 2 data",
+        "_l2": "2. Ylempi 2 nimike",
+        "_f3": "3. Ylempi 3 (edistyminen) data",
+        "_l3": "3. Ylempi 3 nimike",
+
+        "_f4": "4. Keski 1 data",
+        "_l4": "4. Keski 1 nimike",
+        "_f5": "5. Keski 2 data",
+        "_l5": "5. Keski 2 nimike",
+        "_f6": "6. Keski 3 data",
+        "_l6": "6. Keski 3 nimike",
+
+        "_s2": "7. Alempi tyyli",
+        "_gs": "7. Alempi kaavio viivakaaviona",
+        "_f7": "7. Alempi 1 data",
+        "_l7": "7. Alempi 1 nimike",
+        "_f8": "8. Alempi 2 data",
+        "_l8": "8. Alempi 2 nimike",
+        "_f9": "9. Alempi 3 data",
+        "_l9": "9. Alempi 3 nimike",
+
+        "_sn": "Vasen keskikohta",
+        "_sb": "Oikea keskikohta",
+
+        "_r0": "Ilmoituskuvake",
+        "_r1": "Bluetooth pois päältä kuvake",
+        "_r2": "AM/PM",
+        "_r3": "Sekunnit",
+
+        "_wi": "Sääkuvake + 2 kenttää",
+        "_3f": "3 kenttää",
+        "_3p": "Edistymispalkki + 3 kenttää",
+
+        "_f920": "Akun edistyminen",
+
+        "_tr": "👉 KOSKETUSPIKAVALINNAT",
+        "_tc": "🎨 VÄRIT / TAUSTA",
+        "_tt": "🔤 FONTIT",
+        "_ta": "🖼️ AOD ASETUKSET (aina päällä näyttö)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ SIIRTYMISET",
+        "_t1": "Kosketuspikavalinnat tunti",
+        "_t2": "Kosketuspikavalinnat minuutti",
+
+        "_fs": "Tekstin fontti",
+        "_ts": "Tekstin fonttikoko (vain skaalautuvat fontit)",
+       
+        "_fn": "Tunnin fontti",
+        "_fnM": "Minuutin fontti",
+        "_fnA": "Ajan fontti AOD",
+        "_fnS": "Ajan fonttikoko",
+
+        "_ox": "Ajan X siirtymä (25=keskikohta)",
+        "_oy": "Ajan Y siirtymä (25=keskikohta)",
+        "_gradientq": "Liukuvärjäyksen laatu",
+        "ng": "Ei liukuvärjäystä",
+        "_pc": "Tekstin väri",
+        "_ic": "Nimikkeen väri",
+       
+        
+        "_bgc": "Taustan väri",
+        "_hc1": "Tunnin väri",
+        "_hc2": "Tunnin väri 2",
+        "_m1": "Minuutin väri",
+        "_m2": "Minuutin väri 2",
+        "_dc": "Jakajan väri",
+        "_aas": "Sekunnit aina päällä",
+        "_aod": "AOD tila (aina päällä näyttö)",
+        "_aodct": "AOD ajan sävy väri",
+        "_aodc": "AOD datan sävy väri",
+        "_aodT": "AOD ajan kirkkaus",
+        "_aodD": "AOD datan kirkkaus. Jos näyttö sammuu AOD:n aikana, pienennä tätä lukua. Pienempi luku = vähemmän akun kulutusta mutta vähemmän kirkasta. Katso FAQ)",
+        "_aodS": "AOD siirtymä - pikselien määrä, jonka näyttö liikkuu satunnaisesti joka minuutti sisäänpalamisen estämiseksi)",
+        "_f20": "AOD kentän data",
+        "_l20": "AOD kentän nimike",
+        "ad0": "Sammuta näyttö",
+        "ad100": "Täysi AOD (oletus)",
+        "ad1": "Vain aika",
+        "ad3": "Vain aika - liikkuva",
+        "ad4": "Aika + datakenttä (valitse alta)",
+        "ad6": "Aika liikkuva + datakenttä"
+    }
+}

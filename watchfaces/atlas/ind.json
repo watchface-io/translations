@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Diagram posisi matahari",
+        "_c52": "Prakiraan cuaca 4 hari",
+        "_c53": "Prakiraan cuaca 4 jam",
+
+        "_c1": "Diagram / Grafik",
+        "_c2": "Warna diagram 1",
+        "_c3": "Warna diagram 2",
+        "_c4": "Warna ikon cuaca atas",
+        "_c5": "Warna progress bar 1",
+        "_c6": "Warna progress bar 2",
+        "_c7": "Warna ikon notifikasi",
+        "_c8": "Warna dial",
+        "_c9": "Warna garis latar belakang",
+        "_c10": "Warna latar belakang diagram",
+
+        "_mc1": "Warna penanda 1",
+        "_mc2": "Warna penanda 2",
+
+        "_fo": "Berbingkai (jika tersedia)",
+        "_fk": "Tetap sama",
+
+        "_md1": "Data penanda 1",
+        "_md2": "Data penanda 2",
+
+        "_s1": "1. Gaya atas",
+        "_f1": "1. Data atas 1",
+        "_l1": "1. Label atas 1",
+        "_f2": "2. Data atas 2",
+        "_l2": "2. Label atas 2",
+        "_f3": "3. Data atas 3 (progress)",
+        "_l3": "3. Label atas 3",
+
+        "_f4": "4. Data tengah 1",
+        "_l4": "4. Label tengah 1",
+        "_f5": "5. Data tengah 2",
+        "_l5": "5. Label tengah 2",
+        "_f6": "6. Data tengah 3",
+        "_l6": "6. Label tengah 3",
+
+        "_s2": "7. Gaya bawah",
+        "_gs": "7. Diagram bawah sebagai grafik garis",
+        "_f7": "7. Data bawah 1",
+        "_l7": "7. Label bawah 1",
+        "_f8": "8. Data bawah 2",
+        "_l8": "8. Label bawah 2",
+        "_f9": "9. Data bawah 3",
+        "_l9": "9. Label bawah 3",
+
+        "_sn": "Tengah kiri",
+        "_sb": "Tengah kanan",
+
+        "_r0": "Ikon notifikasi",
+        "_r1": "Ikon Bluetooth mati",
+        "_r2": "AM/PM",
+        "_r3": "Detik",
+
+        "_wi": "Ikon cuaca + 2 field",
+        "_3f": "3 field",
+        "_3p": "Progress bar + 3 field",
+
+        "_f920": "Progress baterai",
+
+        "_tr": "👉 PINTASAN SENTUH",
+        "_tc": "🎨 WARNA / LATAR BELAKANG",
+        "_tt": "🔤 FONT",
+        "_ta": "🖼️ PENGATURAN AOD (always on display)",
+        "_to": "💡 LAINNYA",
+        "_tx": "➡️ OFFSET",
+        "_t1": "Pintasan sentuh jam",
+        "_t2": "Pintasan sentuh menit",
+
+        "_fs": "Font teks",
+        "_ts": "Ukuran font teks (hanya untuk font yang dapat diskalakan)",
+       
+        "_fn": "Font jam",
+        "_fnM": "Font menit",
+        "_fnA": "Font waktu AOD",
+        "_fnS": "Ukuran font waktu",
+
+        "_ox": "Offset X waktu (25=tengah)",
+        "_oy": "Offset Y waktu (25=tengah)",
+        "_gradientq": "Kualitas gradien",
+        "ng": "Tanpa gradien",
+        "_pc": "Warna teks",
+        "_ic": "Warna label",
+       
+        
+        "_bgc": "Warna latar belakang",
+        "_hc1": "Warna jam",
+        "_hc2": "Warna jam 2",
+        "_m1": "Warna menit",
+        "_m2": "Warna menit 2",
+        "_dc": "Warna pemisah",
+        "_aas": "Detik selalu aktif",
+        "_aod": "Mode AOD (always on display)",
+        "_aodct": "Warna bayangan waktu AOD",
+        "_aodc": "Warna bayangan data AOD",
+        "_aodT": "Kecerahan waktu AOD",
+        "_aodD": "Kecerahan data AOD. Jika layar mati selama AOD, kurangi angka ini. Angka lebih rendah = penggunaan baterai lebih sedikit tapi kurang cerah. Lihat FAQ)",
+        "_aodS": "Offset AOD - jumlah piksel layar bergerak acak setiap menit untuk mencegah burn-in)",
+        "_f20": "Field data AOD",
+        "_l20": "Field label AOD",
+        "ad0": "Matikan layar",
+        "ad100": "AOD penuh (default)",
+        "ad1": "Hanya waktu",
+        "ad3": "Hanya waktu - bergerak",
+        "ad4": "Waktu + field data (pilih di bawah)",
+        "ad6": "Waktu bergerak + field data"
+    }
+}

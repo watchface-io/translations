@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Sonnenpositionsdiagramm",
+        "_c52": "4-Tage-Wettervorhersage",
+        "_c53": "4-Stunden-Wettervorhersage",
+
+        "_c1": "Diagramm / Graph",
+        "_c2": "Diagrammfarbe 1",
+        "_c3": "Diagrammfarbe 2",
+        "_c4": "Obere Wetter-Icon-Farbe",
+        "_c5": "Fortschrittsbalken Farbe 1",
+        "_c6": "Fortschrittsbalken Farbe 2",
+        "_c7": "Benachrichtigungs-Icon-Farbe",
+        "_c8": "Zifferblatt-Farbe",
+        "_c9": "Hintergrundlinien-Farbe",
+        "_c10": "Diagramm-Hintergrundfarbe",
+
+        "_mc1": "Markierung 1 Farbe",
+        "_mc2": "Markierung 2 Farbe",
+
+        "_fo": "Umrandet (falls verfügbar)",
+        "_fk": "Beibehalten",
+
+        "_md1": "Markierung 1 Daten",
+        "_md2": "Markierung 2 Daten",
+
+        "_s1": "1. Oberer Stil",
+        "_f1": "1. Obere 1 Daten",
+        "_l1": "1. Obere 1 Bezeichnung",
+        "_f2": "2. Obere 2 Daten",
+        "_l2": "2. Obere 2 Bezeichnung",
+        "_f3": "3. Obere 3 (Fortschritt) Daten",
+        "_l3": "3. Obere 3 Bezeichnung",
+
+        "_f4": "4. Mitte 1 Daten",
+        "_l4": "4. Mitte 1 Bezeichnung",
+        "_f5": "5. Mitte 2 Daten",
+        "_l5": "5. Mitte 2 Bezeichnung",
+        "_f6": "6. Mitte 3 Daten",
+        "_l6": "6. Mitte 3 Bezeichnung",
+
+        "_s2": "7. Unterer Stil",
+        "_gs": "7. Unteres Diagramm als Liniendiagramm",
+        "_f7": "7. Untere 1 Daten",
+        "_l7": "7. Untere 1 Bezeichnung",
+        "_f8": "8. Untere 2 Daten",
+        "_l8": "8. Untere 2 Bezeichnung",
+        "_f9": "9. Untere 3 Daten",
+        "_l9": "9. Untere 3 Bezeichnung",
+
+        "_sn": "Links Mitte",
+        "_sb": "Rechts Mitte",
+
+        "_r0": "Benachrichtigungs-Icon",
+        "_r1": "Bluetooth deaktiviert Icon",
+        "_r2": "AM/PM",
+        "_r3": "Sekunden",
+
+        "_wi": "Wetter-Icon + 2 Felder",
+        "_3f": "3 Felder",
+        "_3p": "Fortschrittsbalken + 3 Felder",
+
+        "_f920": "Batterie Fortschritt",
+
+        "_tr": "👉 BERÜHRUNGSVERKNÜPFUNGEN",
+        "_tc": "🎨 FARBEN / HINTERGRUND",
+        "_tt": "🔤 SCHRIFTARTEN",
+        "_ta": "🖼️ AOD EINSTELLUNGEN (Always-on-Display)",
+        "_to": "💡 SONSTIGES",
+        "_tx": "➡️ VERSATZ",
+        "_t1": "Berührungsverknüpfung Stunde",
+        "_t2": "Berührungsverknüpfung Minute",
+
+        "_fs": "Textschriftart",
+        "_ts": "Textschriftgröße (nur skalierbare Schriftarten)",
+       
+        "_fn": "Stunden-Schriftart",
+        "_fnM": "Minuten-Schriftart",
+        "_fnA": "Zeit-Schriftart AOD",
+        "_fnS": "Zeit-Schriftgröße",
+
+        "_ox": "Zeit X-Versatz (25=Mitte)",
+        "_oy": "Zeit Y-Versatz (25=Mitte)",
+        "_gradientq": "Farbverlauf-Qualität",
+        "ng": "Kein Farbverlauf",
+        "_pc": "Textfarbe",
+        "_ic": "Bezeichnungsfarbe",
+       
+        
+        "_bgc": "Hintergrundfarbe",
+        "_hc1": "Stundenfarbe",
+        "_hc2": "Stundenfarbe 2",
+        "_m1": "Minutenfarbe",
+        "_m2": "Minutenfarbe 2",
+        "_dc": "Trennzeichenfarbe",
+        "_aas": "Sekunden immer an",
+        "_aod": "AOD-Modus (Always-on-Display)",
+        "_aodct": "AOD Zeit-Tönung Farbe",
+        "_aodc": "AOD Daten-Tönung Farbe",
+        "_aodT": "AOD Zeit-Helligkeit",
+        "_aodD": "AOD Daten-Helligkeit. Falls der Bildschirm während AOD ausgeht, verringern Sie diese Zahl. Niedrigere Zahl = weniger Batterieverbrauch aber weniger hell. Siehe FAQ)",
+        "_aodS": "AOD Versatz - Anzahl der Pixel, um die sich der Bildschirm zufällig jede Minute verschiebt, um Einbrennen zu verhindern)",
+        "_f20": "AOD Felddaten",
+        "_l20": "AOD Feldbezeichnung",
+        "ad0": "Bildschirm ausschalten",
+        "ad100": "Vollständiges AOD (Standard)",
+        "ad1": "Nur Zeit",
+        "ad3": "Nur Zeit - bewegend",
+        "ad4": "Zeit + Datenfeld (unten auswählen)",
+        "ad6": "Zeit bewegend + Datenfeld"
+    }
+}

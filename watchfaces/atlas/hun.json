@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Napállás diagram",
+        "_c52": "4 napos időjárás előrejelzés",
+        "_c53": "4 órás időjárás előrejelzés",
+
+        "_c1": "Diagram / Grafikon",
+        "_c2": "1. diagram szín",
+        "_c3": "2. diagram szín",
+        "_c4": "Felső időjárás ikon szín",
+        "_c5": "1. folyamatjelző szín",
+        "_c6": "2. folyamatjelző szín",
+        "_c7": "Értesítési ikon szín",
+        "_c8": "Számlapszín",
+        "_c9": "Háttér vonalszín",
+        "_c10": "Diagram háttérszín",
+
+        "_mc1": "1. jelölő szín",
+        "_mc2": "2. jelölő szín",
+
+        "_fo": "Keretezett (ha elérhető)",
+        "_fk": "Megtartás",
+
+        "_md1": "1. jelölő adatok",
+        "_md2": "2. jelölő adatok",
+
+        "_s1": "1. Felső stílus",
+        "_f1": "1. Felső adat 1",
+        "_l1": "1. Felső címke 1",
+        "_f2": "2. Felső adat 2",
+        "_l2": "2. Felső címke 2",
+        "_f3": "3. Felső adat 3 (folyamat)",
+        "_l3": "3. Felső címke 3",
+
+        "_f4": "4. Középső adat 1",
+        "_l4": "4. Középső címke 1",
+        "_f5": "5. Középső adat 2",
+        "_l5": "5. Középső címke 2",
+        "_f6": "6. Középső adat 3",
+        "_l6": "6. Középső címke 3",
+
+        "_s2": "7. Alsó stílus",
+        "_gs": "7. Alsó diagram vonalgrafikon módban",
+        "_f7": "7. Alsó adat 1",
+        "_l7": "7. Alsó címke 1",
+        "_f8": "8. Alsó adat 2",
+        "_l8": "8. Alsó címke 2",
+        "_f9": "9. Alsó adat 3",
+        "_l9": "9. Alsó címke 3",
+
+        "_sn": "Bal középső",
+        "_sb": "Jobb középső",
+
+        "_r0": "Értesítési ikon",
+        "_r1": "Bluetooth kikapcsolt ikon",
+        "_r2": "DE/DU",
+        "_r3": "Másodpercek",
+
+        "_wi": "Időjárás ikon + 2 mező",
+        "_3f": "3 mező",
+        "_3p": "Folyamatjelző + 3 mező",
+
+        "_f920": "Akkumulátor folyamat",
+
+        "_tr": "👉 ÉRINTÉSI PARANCSIKONOK",
+        "_tc": "🎨 SZÍNEK / HÁTTÉR",
+        "_tt": "🔤 BETŰTÍPUSOK",
+        "_ta": "🖼️ AOD BEÁLLÍTÁSOK (mindig bekapcsolt kijelző)",
+        "_to": "💡 EGYÉB",
+        "_tx": "➡️ ELTOLÁSOK",
+        "_t1": "Óra érintési parancsikon",
+        "_t2": "Perc érintési parancsikon",
+
+        "_fs": "Szöveg betűtípus",
+        "_ts": "Szöveg betűméret (csak skálázható betűtípusokhoz)",
+       
+        "_fn": "Óra betűtípus",
+        "_fnM": "Perc betűtípus",
+        "_fnA": "AOD idő betűtípus",
+        "_fnS": "Idő betűméret",
+
+        "_ox": "Idő X eltolás (25=központ)",
+        "_oy": "Idő Y eltolás (25=központ)",
+        "_gradientq": "Színátmenet minőség",
+        "ng": "Nincs színátmenet",
+        "_pc": "Szövegszín",
+        "_ic": "Címke szín",
+       
+        
+        "_bgc": "Háttérszín",
+        "_hc1": "Óra szín",
+        "_hc2": "Óra szín 2",
+        "_m1": "Perc szín",
+        "_m2": "Perc szín 2",
+        "_dc": "Elválasztó szín",
+        "_aas": "Másodpercek mindig bekapcsolva",
+        "_aod": "AOD mód (mindig bekapcsolt kijelző)",
+        "_aodct": "AOD idő árnyalat szín",
+        "_aodc": "AOD adat árnyalat szín",
+        "_aodT": "AOD idő fényerő",
+        "_aodD": "AOD adat fényerő. Ha a kijelző lekapcsol AOD közben, csökkentse ezt a számot. Alacsonyabb szám = kevesebb akkumulátor használat, de kevésbé fényes. Lásd FAQ)",
+        "_aodS": "AOD eltolás - pixelek száma, amennyivel a kijelző véletlenszerűen mozog minden percben a beégés elkerülésére)",
+        "_f20": "AOD adat mező",
+        "_l20": "AOD címke mező",
+        "ad0": "Kijelző kikapcsolása",
+        "ad100": "Teljes AOD (alapértelmezett)",
+        "ad1": "Csak idő",
+        "ad3": "Csak idő - mozgó",
+        "ad4": "Idő + adat mező (válassza ki alul)",
+        "ad6": "Idő mozgó + adat mező"
+    }
+}

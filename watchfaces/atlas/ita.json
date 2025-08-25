@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Diagramma posizione sole",
+        "_c52": "Previsioni meteo a 4 giorni",
+        "_c53": "Previsioni meteo a 4 ore",
+
+        "_c1": "Diagramma / Grafico",
+        "_c2": "Colore diagramma 1",
+        "_c3": "Colore diagramma 2",
+        "_c4": "Colore icona meteo superiore",
+        "_c5": "Colore barra progresso 1",
+        "_c6": "Colore barra progresso 2",
+        "_c7": "Colore icona notifiche",
+        "_c8": "Colore quadrante",
+        "_c9": "Colore linea sfondo",
+        "_c10": "Colore sfondo diagramma",
+
+        "_mc1": "Colore marcatore 1",
+        "_mc2": "Colore marcatore 2",
+
+        "_fo": "Incorniciato (se disponibile)",
+        "_fk": "Mantieni uguale",
+
+        "_md1": "Dati marcatore 1",
+        "_md2": "Dati marcatore 2",
+
+        "_s1": "1. Stile superiore",
+        "_f1": "1. Dati superiori 1",
+        "_l1": "1. Etichetta superiore 1",
+        "_f2": "2. Dati superiori 2",
+        "_l2": "2. Etichetta superiore 2",
+        "_f3": "3. Dati superiori 3 (progresso)",
+        "_l3": "3. Etichetta superiore 3",
+
+        "_f4": "4. Dati centrali 1",
+        "_l4": "4. Etichetta centrale 1",
+        "_f5": "5. Dati centrali 2",
+        "_l5": "5. Etichetta centrale 2",
+        "_f6": "6. Dati centrali 3",
+        "_l6": "6. Etichetta centrale 3",
+
+        "_s2": "7. Stile inferiore",
+        "_gs": "7. Diagramma inferiore come grafico a linee",
+        "_f7": "7. Dati inferiori 1",
+        "_l7": "7. Etichetta inferiore 1",
+        "_f8": "8. Dati inferiori 2",
+        "_l8": "8. Etichetta inferiore 2",
+        "_f9": "9. Dati inferiori 3",
+        "_l9": "9. Etichetta inferiore 3",
+
+        "_sn": "Centro sinistro",
+        "_sb": "Centro destro",
+
+        "_r0": "Icona notifiche",
+        "_r1": "Icona Bluetooth spento",
+        "_r2": "AM/PM",
+        "_r3": "Secondi",
+
+        "_wi": "Icona meteo + 2 campi",
+        "_3f": "3 campi",
+        "_3p": "Barra progresso + 3 campi",
+
+        "_f920": "Progresso batteria",
+
+        "_tr": "👉 SCORCIATOIE TOCCO",
+        "_tc": "🎨 COLORI / SFONDO",
+        "_tt": "🔤 CARATTERI",
+        "_ta": "🖼️ IMPOSTAZIONI AOD (always on display)",
+        "_to": "💡 ALTRO",
+        "_tx": "➡️ OFFSET",
+        "_t1": "Scorciatoia tocco ora",
+        "_t2": "Scorciatoia tocco minuti",
+
+        "_fs": "Carattere testo",
+        "_ts": "Dimensione carattere testo (solo caratteri scalabili)",
+       
+        "_fn": "Carattere ore",
+        "_fnM": "Carattere minuti",
+        "_fnA": "Carattere ora AOD",
+        "_fnS": "Dimensione carattere ora",
+
+        "_ox": "Offset X ora (25=centro)",
+        "_oy": "Offset Y ora (25=centro)",
+        "_gradientq": "Qualità gradiente",
+        "ng": "Nessun gradiente",
+        "_pc": "Colore testo",
+        "_ic": "Colore etichetta",
+       
+        
+        "_bgc": "Colore sfondo",
+        "_hc1": "Colore ore",
+        "_hc2": "Colore ore 2",
+        "_m1": "Colore minuti",
+        "_m2": "Colore minuti 2",
+        "_dc": "Colore separatore",
+        "_aas": "Secondi sempre attivi",
+        "_aod": "Modalità AOD (always on display)",
+        "_aodct": "Colore ombra ora AOD",
+        "_aodc": "Colore ombra dati AOD",
+        "_aodT": "Luminosità ora AOD",
+        "_aodD": "Luminosità dati AOD. Se lo schermo si spegne durante AOD, riduci questo numero. Numero più basso = meno consumo batteria ma meno luminoso. Vedi FAQ)",
+        "_aodS": "Offset AOD - numero di pixel di cui lo schermo si muove casualmente ogni minuto per prevenire burn-in)",
+        "_f20": "Campo dati AOD",
+        "_l20": "Campo etichetta AOD",
+        "ad0": "Spegni schermo",
+        "ad100": "AOD completo (predefinito)",
+        "ad1": "Solo ora",
+        "ad3": "Solo ora - mobile",
+        "ad4": "Ora + campo dati (seleziona sotto)",
+        "ad6": "Ora mobile + campo dati"
+    }
+}

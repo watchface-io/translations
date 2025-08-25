@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Saules pozīcijas diagramma",
+        "_c52": "4 dienu laika prognoze",
+        "_c53": "4 stundu laika prognoze",
+
+        "_c1": "Diagramma / Grafiks",
+        "_c2": "Diagrammas krāsa 1",
+        "_c3": "Diagrammas krāsa 2",
+        "_c4": "Augšējās laika ikonas krāsa",
+        "_c5": "Progresa joslas krāsa 1",
+        "_c6": "Progresa joslas krāsa 2",
+        "_c7": "Paziņojumu ikonas krāsa",
+        "_c8": "Ciparnīcas krāsa",
+        "_c9": "Fona līnijas krāsa",
+        "_c10": "Diagrammas fona krāsa",
+
+        "_mc1": "Marķiera krāsa 1",
+        "_mc2": "Marķiera krāsa 2",
+
+        "_fo": "Iekārtots (ja pieejams)",
+        "_fk": "Saglabāt vienādu",
+
+        "_md1": "Marķiera dati 1",
+        "_md2": "Marķiera dati 2",
+
+        "_s1": "1. Augšējais stils",
+        "_f1": "1. Augšējie dati 1",
+        "_l1": "1. Augšējā etiķete 1",
+        "_f2": "2. Augšējie dati 2",
+        "_l2": "2. Augšējā etiķete 2",
+        "_f3": "3. Augšējie dati 3 (progress)",
+        "_l3": "3. Augšējā etiķete 3",
+
+        "_f4": "4. Vidējie dati 1",
+        "_l4": "4. Vidējā etiķete 1",
+        "_f5": "5. Vidējie dati 2",
+        "_l5": "5. Vidējā etiķete 2",
+        "_f6": "6. Vidējie dati 3",
+        "_l6": "6. Vidējā etiķete 3",
+
+        "_s2": "7. Apakšējais stils",
+        "_gs": "7. Apakšējā diagramma kā līniju grafiks",
+        "_f7": "7. Apakšējie dati 1",
+        "_l7": "7. Apakšējā etiķete 1",
+        "_f8": "8. Apakšējie dati 2",
+        "_l8": "8. Apakšējā etiķete 2",
+        "_f9": "9. Apakšējie dati 3",
+        "_l9": "9. Apakšējā etiķete 3",
+
+        "_sn": "Kreisais centrs",
+        "_sb": "Labais centrs",
+
+        "_r0": "Paziņojumu ikona",
+        "_r1": "Bluetooth izslēgts ikona",
+        "_r2": "AM/PM",
+        "_r3": "Sekundes",
+
+        "_wi": "Laika ikona + 2 lauki",
+        "_3f": "3 lauki",
+        "_3p": "Progresa josla + 3 lauki",
+
+        "_f920": "Baterijas progress",
+
+        "_tr": "👉 SKĀRIENA SAĪSNES",
+        "_tc": "🎨 KRĀSAS / FONS",
+        "_tt": "🔤 FONTI",
+        "_ta": "🖼️ AOD IESTATĪJUMI (vienmēr ieslēgts displejs)",
+        "_to": "💡 CITI",
+        "_tx": "➡️ NOBĪDES",
+        "_t1": "Stundu skāriena saīsne",
+        "_t2": "Minūšu skāriena saīsne",
+
+        "_fs": "Teksta fonts",
+        "_ts": "Teksta fonta izmērs (tikai mērogojamiem fontiem)",
+       
+        "_fn": "Stundu fonts",
+        "_fnM": "Minūšu fonts",
+        "_fnA": "AOD laika fonts",
+        "_fnS": "Laika fonta izmērs",
+
+        "_ox": "Laika X nobīde (25=centrs)",
+        "_oy": "Laika Y nobīde (25=centrs)",
+        "_gradientq": "Gradientu kvalitāte",
+        "ng": "Bez gradienta",
+        "_pc": "Teksta krāsa",
+        "_ic": "Etiķetes krāsa",
+       
+        
+        "_bgc": "Fona krāsa",
+        "_hc1": "Stundu krāsa",
+        "_hc2": "Stundu krāsa 2",
+        "_m1": "Minūšu krāsa",
+        "_m2": "Minūšu krāsa 2",
+        "_dc": "Atdalītāja krāsa",
+        "_aas": "Sekundes vienmēr ieslēgtas",
+        "_aod": "AOD režīms (vienmēr ieslēgts displejs)",
+        "_aodct": "AOD laika ēnas krāsa",
+        "_aodc": "AOD datu ēnas krāsa",
+        "_aodT": "AOD laika spilgtums",
+        "_aodD": "AOD datu spilgtums. Ja ekrāns izslēdzas AOD laikā, samaziniet šo skaitli. Mazāks skaitlis = mazāka baterijas patēriņš, bet mazāks spilgtums. Skatiet BUJ)",
+        "_aodS": "AOD nobīde - pikseļu skaits, par kuru ekrāns nejauši pārvietojas katru minūti, lai novērstu izdegšanu)",
+        "_f20": "AOD datu lauks",
+        "_l20": "AOD etiķetes lauks",
+        "ad0": "Izslēgt ekrānu",
+        "ad100": "Pilns AOD (noklusējums)",
+        "ad1": "Tikai laiks",
+        "ad3": "Tikai laiks - kustīgs",
+        "ad4": "Laiks + datu lauks (izvēlieties zemāk)",
+        "ad6": "Laiks kustīgs + datu lauks"
+    }
+}

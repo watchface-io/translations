@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Dijagram pozicije sunca",
+        "_c52": "4-dnevna vremenska prognoza",
+        "_c53": "4-satna vremenska prognoza",
+
+        "_c1": "Dijagram / Graf",
+        "_c2": "Boja dijagrama 1",
+        "_c3": "Boja dijagrama 2",
+        "_c4": "Boja gornje vremenske ikone",
+        "_c5": "Boja trake napretka 1",
+        "_c6": "Boja trake napretka 2",
+        "_c7": "Boja ikone obavijesti",
+        "_c8": "Boja brojčanika",
+        "_c9": "Boja pozadinske linije",
+        "_c10": "Boja pozadine dijagrama",
+
+        "_mc1": "Boja označavača 1",
+        "_mc2": "Boja označavača 2",
+
+        "_fo": "Obrubljen (ako je dostupno)",
+        "_fk": "Zadrži isto",
+
+        "_md1": "Podaci označavača 1",
+        "_md2": "Podaci označavača 2",
+
+        "_s1": "1. Gornji stil",
+        "_f1": "1. Gornji podaci 1",
+        "_l1": "1. Gornja oznaka 1",
+        "_f2": "2. Gornji podaci 2",
+        "_l2": "2. Gornja oznaka 2",
+        "_f3": "3. Gornji podaci 3 (napredak)",
+        "_l3": "3. Gornja oznaka 3",
+
+        "_f4": "4. Srednji podaci 1",
+        "_l4": "4. Srednja oznaka 1",
+        "_f5": "5. Srednji podaci 2",
+        "_l5": "5. Srednja oznaka 2",
+        "_f6": "6. Srednji podaci 3",
+        "_l6": "6. Srednja oznaka 3",
+
+        "_s2": "7. Donji stil",
+        "_gs": "7. Donji dijagram kao linijski graf",
+        "_f7": "7. Donji podaci 1",
+        "_l7": "7. Donja oznaka 1",
+        "_f8": "8. Donji podaci 2",
+        "_l8": "8. Donja oznaka 2",
+        "_f9": "9. Donji podaci 3",
+        "_l9": "9. Donja oznaka 3",
+
+        "_sn": "Lijevi centar",
+        "_sb": "Desni centar",
+
+        "_r0": "Ikona obavijesti",
+        "_r1": "Ikona isključenog Bluetootha",
+        "_r2": "AM/PM",
+        "_r3": "Sekunde",
+
+        "_wi": "Vremenska ikona + 2 polja",
+        "_3f": "3 polja",
+        "_3p": "Traka napretka + 3 polja",
+
+        "_f920": "Napredak baterije",
+
+        "_tr": "👉 PREČACI DODIROM",
+        "_tc": "🎨 BOJE / POZADINA",
+        "_tt": "🔤 FONTOVI",
+        "_ta": "🖼️ AOD POSTAVKE (uvijek uključen zaslon)",
+        "_to": "💡 OSTALO",
+        "_tx": "➡️ POMACI",
+        "_t1": "Prečac dodirom sat",
+        "_t2": "Prečac dodirom minuta",
+
+        "_fs": "Font teksta",
+        "_ts": "Veličina fonta teksta (samo skalabilni fontovi)",
+       
+        "_fn": "Font sati",
+        "_fnM": "Font minuta",
+        "_fnA": "Font vremena AOD",
+        "_fnS": "Veličina fonta vremena",
+
+        "_ox": "X pomak vremena (25=centar)",
+        "_oy": "Y pomak vremena (25=centar)",
+        "_gradientq": "Kvaliteta gradijenta",
+        "ng": "Bez gradijenta",
+        "_pc": "Boja teksta",
+        "_ic": "Boja oznake",
+       
+        
+        "_bgc": "Boja pozadine",
+        "_hc1": "Boja sati",
+        "_hc2": "Boja sati 2",
+        "_m1": "Boja minuta",
+        "_m2": "Boja minuta 2",
+        "_dc": "Boja razdjelnika",
+        "_aas": "Sekunde uvijek uključene",
+        "_aod": "AOD način (uvijek uključen zaslon)",
+        "_aodct": "AOD boja nijanse vremena",
+        "_aodc": "AOD boja nijanse podataka",
+        "_aodT": "AOD svjetlina vremena",
+        "_aodD": "AOD svjetlina podataka. Ako se zaslon isključi tijekom AOD-a, smanjite ovaj broj. Manji broj = manja potrošnja baterije ali manje svjetlo. Pogledajte FAQ)",
+        "_aodS": "AOD pomak - broj piksela za koji se zaslon nasumično pomiče svaku minutu za sprečavanje izgaranja)",
+        "_f20": "AOD podaci polja",
+        "_l20": "AOD oznaka polja",
+        "ad0": "Isključi zaslon",
+        "ad100": "Puni AOD (zadano)",
+        "ad1": "Samo vrijeme",
+        "ad3": "Samo vrijeme - pomično",
+        "ad4": "Vrijeme + polje podataka (odaberite ispod)",
+        "ad6": "Vrijeme pomično + polje podataka"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Diagrama de posição solar",
+        "_c52": "Previsão do tempo de 4 dias",
+        "_c53": "Previsão do tempo de 4 horas",
+
+        "_c1": "Diagrama / Gráfico",
+        "_c2": "Cor do diagrama 1",
+        "_c3": "Cor do diagrama 2",
+        "_c4": "Cor do ícone do tempo superior",
+        "_c5": "Cor da barra de progresso 1",
+        "_c6": "Cor da barra de progresso 2",
+        "_c7": "Cor do ícone de notificação",
+        "_c8": "Cor do mostrador",
+        "_c9": "Cor da linha de fundo",
+        "_c10": "Cor do fundo do diagrama",
+
+        "_mc1": "Cor do marcador 1",
+        "_mc2": "Cor do marcador 2",
+
+        "_fo": "Enquadrado (se disponível)",
+        "_fk": "Manter igual",
+
+        "_md1": "Dados do marcador 1",
+        "_md2": "Dados do marcador 2",
+
+        "_s1": "1. Estilo superior",
+        "_f1": "1. Dados superiores 1",
+        "_l1": "1. Etiqueta superior 1",
+        "_f2": "2. Dados superiores 2",
+        "_l2": "2. Etiqueta superior 2",
+        "_f3": "3. Dados superiores 3 (progresso)",
+        "_l3": "3. Etiqueta superior 3",
+
+        "_f4": "4. Dados do meio 1",
+        "_l4": "4. Etiqueta do meio 1",
+        "_f5": "5. Dados do meio 2",
+        "_l5": "5. Etiqueta do meio 2",
+        "_f6": "6. Dados do meio 3",
+        "_l6": "6. Etiqueta do meio 3",
+
+        "_s2": "7. Estilo inferior",
+        "_gs": "7. Diagrama inferior como gráfico de linha",
+        "_f7": "7. Dados inferiores 1",
+        "_l7": "7. Etiqueta inferior 1",
+        "_f8": "8. Dados inferiores 2",
+        "_l8": "8. Etiqueta inferior 2",
+        "_f9": "9. Dados inferiores 3",
+        "_l9": "9. Etiqueta inferior 3",
+
+        "_sn": "Centro esquerdo",
+        "_sb": "Centro direito",
+
+        "_r0": "Ícone de notificação",
+        "_r1": "Ícone Bluetooth desligado",
+        "_r2": "AM/PM",
+        "_r3": "Segundos",
+
+        "_wi": "Ícone do tempo + 2 campos",
+        "_3f": "3 campos",
+        "_3p": "Barra de progresso + 3 campos",
+
+        "_f920": "Progresso da bateria",
+
+        "_tr": "👉 ATALHOS DE TOQUE",
+        "_tc": "🎨 CORES / FUNDO",
+        "_tt": "🔤 FONTES",
+        "_ta": "🖼️ CONFIGURAÇÕES AOD (tela sempre ligada)",
+        "_to": "💡 OUTROS",
+        "_tx": "➡️ DESLOCAMENTOS",
+        "_t1": "Atalho de toque das horas",
+        "_t2": "Atalho de toque dos minutos",
+
+        "_fs": "Fonte do texto",
+        "_ts": "Tamanho da fonte do texto (apenas fontes escaláveis)",
+       
+        "_fn": "Fonte das horas",
+        "_fnM": "Fonte dos minutos",
+        "_fnA": "Fonte da hora AOD",
+        "_fnS": "Tamanho da fonte da hora",
+
+        "_ox": "Deslocamento X da hora (25=centro)",
+        "_oy": "Deslocamento Y da hora (25=centro)",
+        "_gradientq": "Qualidade do gradiente",
+        "ng": "Sem gradiente",
+        "_pc": "Cor do texto",
+        "_ic": "Cor da etiqueta",
+       
+        
+        "_bgc": "Cor do fundo",
+        "_hc1": "Cor das horas",
+        "_hc2": "Cor das horas 2",
+        "_m1": "Cor dos minutos",
+        "_m2": "Cor dos minutos 2",
+        "_dc": "Cor do separador",
+        "_aas": "Segundos sempre ligados",
+        "_aod": "Modo AOD (tela sempre ligada)",
+        "_aodct": "Cor da sombra da hora AOD",
+        "_aodc": "Cor da sombra dos dados AOD",
+        "_aodT": "Brilho da hora AOD",
+        "_aodD": "Brilho dos dados AOD. Se a tela desligar durante AOD, diminua este número. Número menor = menos uso da bateria mas menos brilhante. Veja FAQ)",
+        "_aodS": "Deslocamento AOD - número de pixels que a tela se move aleatoriamente a cada minuto para evitar queimadura)",
+        "_f20": "Campo de dados AOD",
+        "_l20": "Campo de etiqueta AOD",
+        "ad0": "Desligar tela",
+        "ad100": "AOD completo (padrão)",
+        "ad1": "Apenas hora",
+        "ad3": "Apenas hora - móvel",
+        "ad4": "Hora + campo de dados (selecione abaixo)",
+        "ad6": "Hora móvel + campo de dados"
+    }
+}

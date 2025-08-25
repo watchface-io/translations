@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Zonpositie diagram",
+        "_c52": "4-daagse weersvoorspelling",
+        "_c53": "4-uurs weersvoorspelling",
+
+        "_c1": "Diagram / Grafiek",
+        "_c2": "Diagram kleur 1",
+        "_c3": "Diagram kleur 2",
+        "_c4": "Bovenste weericon kleur",
+        "_c5": "Voortgangsbalk kleur 1",
+        "_c6": "Voortgangsbalk kleur 2",
+        "_c7": "Meldingsicon kleur",
+        "_c8": "Wijzerplaat kleur",
+        "_c9": "Achtergrondlijn kleur",
+        "_c10": "Diagram achtergrond kleur",
+
+        "_mc1": "Markering 1 kleur",
+        "_mc2": "Markering 2 kleur",
+
+        "_fo": "Omlijnd (indien beschikbaar)",
+        "_fk": "Hetzelfde houden",
+
+        "_md1": "Markering 1 gegevens",
+        "_md2": "Markering 2 gegevens",
+
+        "_s1": "1. Bovenste stijl",
+        "_f1": "1. Bovenste 1 gegevens",
+        "_l1": "1. Bovenste 1 label",
+        "_f2": "2. Bovenste 2 gegevens",
+        "_l2": "2. Bovenste 2 label",
+        "_f3": "3. Bovenste 3 (voortgang) gegevens",
+        "_l3": "3. Bovenste 3 label",
+
+        "_f4": "4. Midden 1 gegevens",
+        "_l4": "4. Midden 1 label",
+        "_f5": "5. Midden 2 gegevens",
+        "_l5": "5. Midden 2 label",
+        "_f6": "6. Midden 3 gegevens",
+        "_l6": "6. Midden 3 label",
+
+        "_s2": "7. Onderste stijl",
+        "_gs": "7. Onderste diagram als lijndiagram",
+        "_f7": "7. Onderste 1 gegevens",
+        "_l7": "7. Onderste 1 label",
+        "_f8": "8. Onderste 2 gegevens",
+        "_l8": "8. Onderste 2 label",
+        "_f9": "9. Onderste 3 gegevens",
+        "_l9": "9. Onderste 3 label",
+
+        "_sn": "Links midden",
+        "_sb": "Rechts midden",
+
+        "_r0": "Meldingsicon",
+        "_r1": "Bluetooth uitgeschakeld icon",
+        "_r2": "AM/PM",
+        "_r3": "Seconden",
+
+        "_wi": "Weericon + 2 velden",
+        "_3f": "3 velden",
+        "_3p": "Voortgangsbalk + 3 velden",
+
+        "_f920": "Batterij voortgang",
+
+        "_tr": "👉 AANRAAKSNELKOPPELINGEN",
+        "_tc": "🎨 KLEUREN / ACHTERGROND",
+        "_tt": "🔤 LETTERTYPEN",
+        "_ta": "🖼️ AOD INSTELLINGEN (Always-on Display)",
+        "_to": "💡 OVERIG",
+        "_tx": "➡️ VERSCHUIVINGEN",
+        "_t1": "Aanraaksnelkoppeling uur",
+        "_t2": "Aanraaksnelkoppeling minuut",
+
+        "_fs": "Tekstlettertype",
+        "_ts": "Tekstlettergrootte (alleen schaalbare lettertypen)",
+       
+        "_fn": "Uur lettertype",
+        "_fnM": "Minuut lettertype",
+        "_fnA": "Tijd lettertype AOD",
+        "_fnS": "Tijd lettergrootte",
+
+        "_ox": "Tijd X verschuiving (25=centrum)",
+        "_oy": "Tijd Y verschuiving (25=centrum)",
+        "_gradientq": "Gradiënt kwaliteit",
+        "ng": "Geen gradiënt",
+        "_pc": "Tekstkleur",
+        "_ic": "Labelkleur",
+       
+        
+        "_bgc": "Achtergrondkleur",
+        "_hc1": "Uurkleur",
+        "_hc2": "Uurkleur 2",
+        "_m1": "Minuutkleur",
+        "_m2": "Minuutkleur 2",
+        "_dc": "Scheidingskleur",
+        "_aas": "Seconden altijd aan",
+        "_aod": "AOD modus (Always-on Display)",
+        "_aodct": "AOD tijd tint kleur",
+        "_aodc": "AOD gegevens tint kleur",
+        "_aodT": "AOD tijd helderheid",
+        "_aodD": "AOD gegevens helderheid. Als het scherm uitschakelt tijdens AOD, maak dit getal lager. Lager getal = minder batterijverbruik maar minder helder. Zie FAQ)",
+        "_aodS": "AOD verschuiving - aantal pixels dat het scherm willekeurig elke minuut verschuift om inbranden te voorkomen)",
+        "_f20": "AOD veld gegevens",
+        "_l20": "AOD veld label",
+        "ad0": "Scherm uitschakelen",
+        "ad100": "Volledige AOD (standaard)",
+        "ad1": "Alleen tijd",
+        "ad3": "Alleen tijd - bewegend",
+        "ad4": "Tijd + gegevensveld (selecteer hieronder)",
+        "ad6": "Tijd bewegend + gegevensveld"
+    }
+}

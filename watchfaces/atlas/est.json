@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Päikese asukoha diagramm",
+        "_c52": "4-päevane ilmaprognoos",
+        "_c53": "4-tunnine ilmaprognoos",
+
+        "_c1": "Diagramm / Graafik",
+        "_c2": "Diagrammi värv 1",
+        "_c3": "Diagrammi värv 2",
+        "_c4": "Ülemise ilmaikoo värv",
+        "_c5": "Edenemisriba värv 1",
+        "_c6": "Edenemisriba värv 2",
+        "_c7": "Teatise ikooni värv",
+        "_c8": "Kellatipi värv",
+        "_c9": "Tausta joone värv",
+        "_c10": "Diagrammi tausta värv",
+
+        "_mc1": "Märgi 1 värv",
+        "_mc2": "Märgi 2 värv",
+
+        "_fo": "Äärjoontega (kui saadaval)",
+        "_fk": "Jäta samaks",
+
+        "_md1": "Märgi 1 andmed",
+        "_md2": "Märgi 2 andmed",
+
+        "_s1": "1. Ülemine stiil",
+        "_f1": "1. Ülemine 1 andmed",
+        "_l1": "1. Ülemine 1 silt",
+        "_f2": "2. Ülemine 2 andmed",
+        "_l2": "2. Ülemine 2 silt",
+        "_f3": "3. Ülemine 3 (edenemine) andmed",
+        "_l3": "3. Ülemine 3 silt",
+
+        "_f4": "4. Keskmine 1 andmed",
+        "_l4": "4. Keskmine 1 silt",
+        "_f5": "5. Keskmine 2 andmed",
+        "_l5": "5. Keskmine 2 silt",
+        "_f6": "6. Keskmine 3 andmed",
+        "_l6": "6. Keskmine 3 silt",
+
+        "_s2": "7. Alumine stiil",
+        "_gs": "7. Alumine diagramm joondiagrammina",
+        "_f7": "7. Alumine 1 andmed",
+        "_l7": "7. Alumine 1 silt",
+        "_f8": "8. Alumine 2 andmed",
+        "_l8": "8. Alumine 2 silt",
+        "_f9": "9. Alumine 3 andmed",
+        "_l9": "9. Alumine 3 silt",
+
+        "_sn": "Vasak keskmine",
+        "_sb": "Parem keskmine",
+
+        "_r0": "Teatise ikoon",
+        "_r1": "Bluetooth väljas ikoon",
+        "_r2": "AM/PM",
+        "_r3": "Sekundid",
+
+        "_wi": "Ilmaikoon + 2 välja",
+        "_3f": "3 välja",
+        "_3p": "Edenemisriba + 3 välja",
+
+        "_f920": "Aku edenemine",
+
+        "_tr": "👉 PUUDUTUSE OTSETEED",
+        "_tc": "🎨 VÄRVID / TAUST",
+        "_tt": "🔤 FONDID",
+        "_ta": "🖼️ AOD SEADED (alati põlev ekraan)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ NIHKED",
+        "_t1": "Puudutuse otsetee tund",
+        "_t2": "Puudutuse otsetee minut",
+
+        "_fs": "Teksti font",
+        "_ts": "Teksti fondi suurus (ainult suurendatavad fondid)",
+       
+        "_fn": "Tunni font",
+        "_fnM": "Minuti font",
+        "_fnA": "Aja font AOD",
+        "_fnS": "Aja fondi suurus",
+
+        "_ox": "Aja X nihe (25=keskmine)",
+        "_oy": "Aja Y nihe (25=keskmine)",
+        "_gradientq": "Gradiendi kvaliteet",
+        "ng": "Ilma gradiendita",
+        "_pc": "Teksti värv",
+        "_ic": "Sildi värv",
+       
+        
+        "_bgc": "Tausta värv",
+        "_hc1": "Tunni värv",
+        "_hc2": "Tunni värv 2",
+        "_m1": "Minuti värv",
+        "_m2": "Minuti värv 2",
+        "_dc": "Eraldaja värv",
+        "_aas": "Sekundid alati sees",
+        "_aod": "AOD režiim (alati põlev ekraan)",
+        "_aodct": "AOD aja tooni värv",
+        "_aodc": "AOD andmete tooni värv",
+        "_aodT": "AOD aja heledus",
+        "_aodD": "AOD andmete heledus. Kui ekraan lülitub AOD ajal välja, vähenda seda numbrit. Madalam number = vähem aku tarbimist, kuid vähem hele. Vaata FAQ)",
+        "_aodS": "AOD nihe - pikslite arv, mille võrra ekraan iga minuti juhuslikult nihkub sissepõlemise vältimiseks)",
+        "_f20": "AOD välja andmed",
+        "_l20": "AOD välja silt",
+        "ad0": "Lülita ekraan välja",
+        "ad100": "Täielik AOD (vaikimisi)",
+        "ad1": "Ainult aeg",
+        "ad3": "Ainult aeg - liikuv",
+        "ad4": "Aeg + andmeväli (vali allpool)",
+        "ad6": "Aeg liikuv + andmeväli"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Solpositionsdiagram",
+        "_c52": "4-dages vejrudsigt",
+        "_c53": "4-timers vejrudsigt",
+
+        "_c1": "Diagram / Graf",
+        "_c2": "Diagramfarve 1",
+        "_c3": "Diagramfarve 2",
+        "_c4": "Øverste vejrikon farve",
+        "_c5": "Statusbjælke farve 1",
+        "_c6": "Statusbjælke farve 2",
+        "_c7": "Notifikationsikon farve",
+        "_c8": "Urskive farve",
+        "_c9": "Baggrundslinje farve",
+        "_c10": "Diagram baggrund farve",
+
+        "_mc1": "Markør 1 farve",
+        "_mc2": "Markør 2 farve",
+
+        "_fo": "Med kant (hvis tilgængelig)",
+        "_fk": "Behold samme",
+
+        "_md1": "Markør 1 data",
+        "_md2": "Markør 2 data",
+
+        "_s1": "1. Øverste stil",
+        "_f1": "1. Øverste 1 data",
+        "_l1": "1. Øverste 1 mærkat",
+        "_f2": "2. Øverste 2 data",
+        "_l2": "2. Øverste 2 mærkat",
+        "_f3": "3. Øverste 3 (fremgang) data",
+        "_l3": "3. Øverste 3 mærkat",
+
+        "_f4": "4. Midterste 1 data",
+        "_l4": "4. Midterste 1 mærkat",
+        "_f5": "5. Midterste 2 data",
+        "_l5": "5. Midterste 2 mærkat",
+        "_f6": "6. Midterste 3 data",
+        "_l6": "6. Midterste 3 mærkat",
+
+        "_s2": "7. Nederste stil",
+        "_gs": "7. Nederste diagram som linjediagram",
+        "_f7": "7. Nederste 1 data",
+        "_l7": "7. Nederste 1 mærkat",
+        "_f8": "8. Nederste 2 data",
+        "_l8": "8. Nederste 2 mærkat",
+        "_f9": "9. Nederste 3 data",
+        "_l9": "9. Nederste 3 mærkat",
+
+        "_sn": "Venstre midte",
+        "_sb": "Højre midte",
+
+        "_r0": "Notifikationsikon",
+        "_r1": "Bluetooth deaktiveret ikon",
+        "_r2": "AM/PM",
+        "_r3": "Sekunder",
+
+        "_wi": "Vejrikon + 2 felter",
+        "_3f": "3 felter",
+        "_3p": "Statusbjælke + 3 felter",
+
+        "_f920": "Batteri fremgang",
+
+        "_tr": "👉 BERØRINGSGENVEJE",
+        "_tc": "🎨 FARVER / BAGGRUND",
+        "_tt": "🔤 SKRIFTTYPER",
+        "_ta": "🖼️ AOD INDSTILLINGER (altid tændt display)",
+        "_to": "💡 ANDET",
+        "_tx": "➡️ FORSKYDNINGER",
+        "_t1": "Berøringsgenvej time",
+        "_t2": "Berøringsgenvej minut",
+
+        "_fs": "Tekstskrifttype",
+        "_ts": "Tekstskriftstørrelse (kun skalerbare skrifttyper)",
+       
+        "_fn": "Time skrifttype",
+        "_fnM": "Minut skrifttype",
+        "_fnA": "Tid skrifttype AOD",
+        "_fnS": "Tid skriftstørrelse",
+
+        "_ox": "Tid X forskydning (25=center)",
+        "_oy": "Tid Y forskydning (25=center)",
+        "_gradientq": "Gradient kvalitet",
+        "ng": "Ingen gradient",
+        "_pc": "Tekstfarve",
+        "_ic": "Mærkat farve",
+       
+        
+        "_bgc": "Baggrundsfarve",
+        "_hc1": "Time farve",
+        "_hc2": "Time farve 2",
+        "_m1": "Minut farve",
+        "_m2": "Minut farve 2",
+        "_dc": "Adskiller farve",
+        "_aas": "Altid tændte sekunder",
+        "_aod": "AOD tilstand (altid tændt display)",
+        "_aodct": "AOD tid tone farve",
+        "_aodc": "AOD data tone farve",
+        "_aodT": "AOD tid lysstyrke",
+        "_aodD": "AOD data lysstyrke. Hvis skærmen slukker under AOD, sænk dette tal. Lavere tal = mindre batteriforbrug men mindre lyst. Se FAQ)",
+        "_aodS": "AOD forskydning - antal pixels skærmen tilfældigt flytter sig hvert minut for at forhindre indbrænding)",
+        "_f20": "AOD felt data",
+        "_l20": "AOD felt mærkat",
+        "ad0": "Sluk skærm",
+        "ad100": "Fuld AOD (standard)",
+        "ad1": "Kun tid",
+        "ad3": "Kun tid - bevægende",
+        "ad4": "Tid + datafelt (vælg nedenfor)",
+        "ad6": "Tid bevægende + datafelt"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Graphique de position du soleil",
+        "_c52": "Prévisions météo 4 jours",
+        "_c53": "Prévisions météo 4 heures",
+
+        "_c1": "Graphique / Diagramme",
+        "_c2": "Couleur du graphique 1",
+        "_c3": "Couleur du graphique 2",
+        "_c4": "Couleur de l'icône météo du haut",
+        "_c5": "Couleur de la barre de progression 1",
+        "_c6": "Couleur de la barre de progression 2",
+        "_c7": "Couleur de l'icône de notification",
+        "_c8": "Couleur du cadran",
+        "_c9": "Couleur de la ligne d'arrière-plan",
+        "_c10": "Couleur de l'arrière-plan du graphique",
+
+        "_mc1": "Couleur du marqueur 1",
+        "_mc2": "Couleur du marqueur 2",
+
+        "_fo": "Contour (si disponible)",
+        "_fk": "Garder le même",
+
+        "_md1": "Données du marqueur 1",
+        "_md2": "Données du marqueur 2",
+
+        "_s1": "1. Style du haut",
+        "_f1": "1. Données du haut 1",
+        "_l1": "1. Étiquette du haut 1",
+        "_f2": "2. Données du haut 2",
+        "_l2": "2. Étiquette du haut 2",
+        "_f3": "3. Données du haut 3 (progression)",
+        "_l3": "3. Étiquette du haut 3",
+
+        "_f4": "4. Données du centre 1",
+        "_l4": "4. Étiquette du centre 1",
+        "_f5": "5. Données du centre 2",
+        "_l5": "5. Étiquette du centre 2",
+        "_f6": "6. Données du centre 3",
+        "_l6": "6. Étiquette du centre 3",
+
+        "_s2": "7. Style du bas",
+        "_gs": "7. Graphique du bas en graphique linéaire",
+        "_f7": "7. Données du bas 1",
+        "_l7": "7. Étiquette du bas 1",
+        "_f8": "8. Données du bas 2",
+        "_l8": "8. Étiquette du bas 2",
+        "_f9": "9. Données du bas 3",
+        "_l9": "9. Étiquette du bas 3",
+
+        "_sn": "Centre gauche",
+        "_sb": "Centre droite",
+
+        "_r0": "Icône de notification",
+        "_r1": "Icône Bluetooth désactivé",
+        "_r2": "AM/PM",
+        "_r3": "Secondes",
+
+        "_wi": "Icône météo + 2 champs",
+        "_3f": "3 champs",
+        "_3p": "Barre de progression + 3 champs",
+
+        "_f920": "Progression de la batterie",
+
+        "_tr": "👉 RACCOURCIS TACTILES",
+        "_tc": "🎨 COULEURS / ARRIÈRE-PLAN",
+        "_tt": "🔤 POLICES",
+        "_ta": "🖼️ PARAMÈTRES AOD (écran toujours allumé)",
+        "_to": "💡 AUTRES",
+        "_tx": "➡️ DÉCALAGES",
+        "_t1": "Raccourci tactile heure",
+        "_t2": "Raccourci tactile minute",
+
+        "_fs": "Police du texte",
+        "_ts": "Taille de police du texte (polices redimensionnables uniquement)",
+       
+        "_fn": "Police des heures",
+        "_fnM": "Police des minutes",
+        "_fnA": "Police du temps AOD",
+        "_fnS": "Taille de police du temps",
+
+        "_ox": "Décalage X du temps (25=centre)",
+        "_oy": "Décalage Y du temps (25=centre)",
+        "_gradientq": "Qualité du dégradé",
+        "ng": "Pas de dégradé",
+        "_pc": "Couleur du texte",
+        "_ic": "Couleur de l'étiquette",
+       
+        
+        "_bgc": "Couleur d'arrière-plan",
+        "_hc1": "Couleur des heures",
+        "_hc2": "Couleur des heures 2",
+        "_m1": "Couleur des minutes",
+        "_m2": "Couleur des minutes 2",
+        "_dc": "Couleur du séparateur",
+        "_aas": "Secondes toujours allumées",
+        "_aod": "Mode AOD (écran toujours allumé)",
+        "_aodct": "Couleur de teinte du temps AOD",
+        "_aodc": "Couleur de teinte des données AOD",
+        "_aodT": "Luminosité du temps AOD",
+        "_aodD": "Luminosité des données AOD. Si l'écran s'éteint pendant AOD, diminuez ce nombre. Nombre plus faible = moins de consommation de batterie mais moins lumineux. Voir FAQ)",
+        "_aodS": "Décalage AOD - nombre de pixels dont l'écran se décale aléatoirement chaque minute pour éviter la rémanence)",
+        "_f20": "Données du champ AOD",
+        "_l20": "Étiquette du champ AOD",
+        "ad0": "Éteindre l'écran",
+        "ad100": "AOD complet (par défaut)",
+        "ad1": "Temps seulement",
+        "ad3": "Temps seulement - en mouvement",
+        "ad4": "Temps + champ de données (sélectionner ci-dessous)",
+        "ad6": "Temps en mouvement + champ de données"
+    }
+}

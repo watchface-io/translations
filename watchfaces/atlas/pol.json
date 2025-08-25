@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Diagram pozycji słońca",
+        "_c52": "4-dniowa prognoza pogody",
+        "_c53": "4-godzinna prognoza pogody",
+
+        "_c1": "Diagram / Wykres",
+        "_c2": "Kolor diagramu 1",
+        "_c3": "Kolor diagramu 2",
+        "_c4": "Kolor górnej ikony pogody",
+        "_c5": "Kolor paska postępu 1",
+        "_c6": "Kolor paska postępu 2",
+        "_c7": "Kolor ikony powiadomień",
+        "_c8": "Kolor tarczy",
+        "_c9": "Kolor linii tła",
+        "_c10": "Kolor tła diagramu",
+
+        "_mc1": "Kolor znacznika 1",
+        "_mc2": "Kolor znacznika 2",
+
+        "_fo": "Obramowany (jeśli dostępny)",
+        "_fk": "Zachowaj taki sam",
+
+        "_md1": "Dane znacznika 1",
+        "_md2": "Dane znacznika 2",
+
+        "_s1": "1. Styl górny",
+        "_f1": "1. Dane górne 1",
+        "_l1": "1. Etykieta górna 1",
+        "_f2": "2. Dane górne 2",
+        "_l2": "2. Etykieta górna 2",
+        "_f3": "3. Dane górne 3 (postęp)",
+        "_l3": "3. Etykieta górna 3",
+
+        "_f4": "4. Dane środkowe 1",
+        "_l4": "4. Etykieta środkowa 1",
+        "_f5": "5. Dane środkowe 2",
+        "_l5": "5. Etykieta środkowa 2",
+        "_f6": "6. Dane środkowe 3",
+        "_l6": "6. Etykieta środkowa 3",
+
+        "_s2": "7. Styl dolny",
+        "_gs": "7. Dolny diagram jako wykres liniowy",
+        "_f7": "7. Dane dolne 1",
+        "_l7": "7. Etykieta dolna 1",
+        "_f8": "8. Dane dolne 2",
+        "_l8": "8. Etykieta dolna 2",
+        "_f9": "9. Dane dolne 3",
+        "_l9": "9. Etykieta dolna 3",
+
+        "_sn": "Lewy środek",
+        "_sb": "Prawy środek",
+
+        "_r0": "Ikona powiadomień",
+        "_r1": "Ikona wyłączonego Bluetooth",
+        "_r2": "AM/PM",
+        "_r3": "Sekundy",
+
+        "_wi": "Ikona pogody + 2 pola",
+        "_3f": "3 pola",
+        "_3p": "Pasek postępu + 3 pola",
+
+        "_f920": "Postęp baterii",
+
+        "_tr": "👉 SKRÓTY DOTYKOWE",
+        "_tc": "🎨 KOLORY / TŁO",
+        "_tt": "🔤 CZCIONKI",
+        "_ta": "🖼️ USTAWIENIA AOD (zawsze włączony wyświetlacz)",
+        "_to": "💡 INNE",
+        "_tx": "➡️ PRZESUNIĘCIA",
+        "_t1": "Skrót dotykowy godziny",
+        "_t2": "Skrót dotykowy minuty",
+
+        "_fs": "Czcionka tekstu",
+        "_ts": "Rozmiar czcionki tekstu (tylko czcionki skalowalne)",
+       
+        "_fn": "Czcionka godzin",
+        "_fnM": "Czcionka minut",
+        "_fnA": "Czcionka czasu AOD",
+        "_fnS": "Rozmiar czcionki czasu",
+
+        "_ox": "Przesunięcie X czasu (25=środek)",
+        "_oy": "Przesunięcie Y czasu (25=środek)",
+        "_gradientq": "Jakość gradientu",
+        "ng": "Bez gradientu",
+        "_pc": "Kolor tekstu",
+        "_ic": "Kolor etykiety",
+       
+        
+        "_bgc": "Kolor tła",
+        "_hc1": "Kolor godzin",
+        "_hc2": "Kolor godzin 2",
+        "_m1": "Kolor minut",
+        "_m2": "Kolor minut 2",
+        "_dc": "Kolor separatora",
+        "_aas": "Sekundy zawsze włączone",
+        "_aod": "Tryb AOD (zawsze włączony wyświetlacz)",
+        "_aodct": "Kolor cienia czasu AOD",
+        "_aodc": "Kolor cienia danych AOD",
+        "_aodT": "Jasność czasu AOD",
+        "_aodD": "Jasność danych AOD. Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Mniejsza liczba = mniejsze zużycie baterii, ale ciemniejszy. Zobacz FAQ)",
+        "_aodS": "Przesunięcie AOD - liczba pikseli o które ekran losowo przesuwa się co minutę, aby zapobiec wypaleniu)",
+        "_f20": "Pole danych AOD",
+        "_l20": "Pole etykiety AOD",
+        "ad0": "Wyłącz ekran",
+        "ad100": "Pełny AOD (domyślny)",
+        "ad1": "Tylko czas",
+        "ad3": "Tylko czas - ruchomy",
+        "ad4": "Czas + pole danych (wybierz poniżej)",
+        "ad6": "Czas ruchomy + pole danych"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Solposisjon diagram",
+        "_c52": "4-dagers værvarsel",
+        "_c53": "4-timers værvarsel",
+
+        "_c1": "Diagram / Graf",
+        "_c2": "Diagram farge 1",
+        "_c3": "Diagram farge 2",
+        "_c4": "Øvre værikon farge",
+        "_c5": "Fremdriftslinje farge 1",
+        "_c6": "Fremdriftslinje farge 2",
+        "_c7": "Varsel ikon farge",
+        "_c8": "Urskive farge",
+        "_c9": "Bakgrunnslinje farge",
+        "_c10": "Diagram bakgrunn farge",
+
+        "_mc1": "Markør farge 1",
+        "_mc2": "Markør farge 2",
+
+        "_fo": "Innrammet (hvis tilgjengelig)",
+        "_fk": "Behold samme",
+
+        "_md1": "Markør data 1",
+        "_md2": "Markør data 2",
+
+        "_s1": "1. Øvre stil",
+        "_f1": "1. Øvre data 1",
+        "_l1": "1. Øvre etikett 1",
+        "_f2": "2. Øvre data 2",
+        "_l2": "2. Øvre etikett 2",
+        "_f3": "3. Øvre data 3 (fremgang)",
+        "_l3": "3. Øvre etikett 3",
+
+        "_f4": "4. Midtre data 1",
+        "_l4": "4. Midtre etikett 1",
+        "_f5": "5. Midtre data 2",
+        "_l5": "5. Midtre etikett 2",
+        "_f6": "6. Midtre data 3",
+        "_l6": "6. Midtre etikett 3",
+
+        "_s2": "7. Nedre stil",
+        "_gs": "7. Nedre diagram som linjegraf",
+        "_f7": "7. Nedre data 1",
+        "_l7": "7. Nedre etikett 1",
+        "_f8": "8. Nedre data 2",
+        "_l8": "8. Nedre etikett 2",
+        "_f9": "9. Nedre data 3",
+        "_l9": "9. Nedre etikett 3",
+
+        "_sn": "Venstre senter",
+        "_sb": "Høyre senter",
+
+        "_r0": "Varsel ikon",
+        "_r1": "Bluetooth av ikon",
+        "_r2": "AM/PM",
+        "_r3": "Sekunder",
+
+        "_wi": "Vær ikon + 2 felt",
+        "_3f": "3 felt",
+        "_3p": "Fremdriftslinje + 3 felt",
+
+        "_f920": "Batteri fremgang",
+
+        "_tr": "👉 BERØRINGSSNARVEI",
+        "_tc": "🎨 FARGER / BAKGRUNN",
+        "_tt": "🔤 SKRIFTTYPER",
+        "_ta": "🖼️ AOD INNSTILLINGER (alltid på skjerm)",
+        "_to": "💡 ANNET",
+        "_tx": "➡️ FORSKYVNINGER",
+        "_t1": "Time berøringssnarvei",
+        "_t2": "Minutt berøringssnarvei",
+
+        "_fs": "Tekst skrifttype",
+        "_ts": "Tekst skriftstørrelse (kun skalerbare skrifttyper)",
+       
+        "_fn": "Time skrifttype",
+        "_fnM": "Minutt skrifttype",
+        "_fnA": "AOD tid skrifttype",
+        "_fnS": "Tid skriftstørrelse",
+
+        "_ox": "Tid X forskyvning (25=senter)",
+        "_oy": "Tid Y forskyvning (25=senter)",
+        "_gradientq": "Gradient kvalitet",
+        "ng": "Ingen gradient",
+        "_pc": "Tekst farge",
+        "_ic": "Etikett farge",
+       
+        
+        "_bgc": "Bakgrunn farge",
+        "_hc1": "Time farge",
+        "_hc2": "Time farge 2",
+        "_m1": "Minutt farge",
+        "_m2": "Minutt farge 2",
+        "_dc": "Skilletegn farge",
+        "_aas": "Sekunder alltid på",
+        "_aod": "AOD modus (alltid på skjerm)",
+        "_aodct": "AOD tid skygge farge",
+        "_aodc": "AOD data skygge farge",
+        "_aodT": "AOD tid lysstyrke",
+        "_aodD": "AOD data lysstyrke. Hvis skjermen slår seg av under AOD, reduser dette tallet. Lavere tall = mindre batteribruk men mindre lyst. Se FAQ)",
+        "_aodS": "AOD forskyvning - antall piksler skjermen beveger seg tilfeldig hvert minutt for å unngå innbrenning)",
+        "_f20": "AOD data felt",
+        "_l20": "AOD etikett felt",
+        "ad0": "Slå av skjerm",
+        "ad100": "Full AOD (standard)",
+        "ad1": "Bare tid",
+        "ad3": "Bare tid - bevegelig",
+        "ad4": "Tid + data felt (velg nedenfor)",
+        "ad6": "Tid bevegelig + data felt"
+    }
+}

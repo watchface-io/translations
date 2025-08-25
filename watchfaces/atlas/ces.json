@@ -1,0 +1,113 @@
+{
+    "settings": {
+
+        "_c30": "Graf pozice slunce",
+        "_c52": "4denní předpověď počasí",
+        "_c53": "4hodinová předpověď počasí",
+
+        "_c1": "Graf / Diagram",
+        "_c2": "Barva grafu 1",
+        "_c3": "Barva grafu 2",
+        "_c4": "Barva horní ikony počasí",
+        "_c5": "Barva ukazatele průběhu 1",
+        "_c6": "Barva ukazatele průběhu 2",
+        "_c7": "Barva ikony upozornění",
+        "_c8": "Barva ciferníku",
+        "_c9": "Barva čáry pozadí",
+        "_c10": "Barva pozadí grafu",
+
+        "_mc1": "Barva značky 1",
+        "_mc2": "Barva značky 2",
+
+        "_fo": "Obrysy (pokud je k dispozici)",
+        "_fk": "Ponechat stejné",
+
+        "_md1": "Data značky 1",
+        "_md2": "Data značky 2",
+
+        "_s1": "1. Styl horní části",
+        "_f1": "1. Data horní části 1",
+        "_l1": "1. Popisek horní části 1",
+        "_f2": "2. Data horní části 2",
+        "_l2": "2. Popisek horní části 2",
+        "_f3": "3. Data horní části 3 (průběh)",
+        "_l3": "3. Popisek horní části 3",
+
+        "_f4": "4. Data středu 1",
+        "_l4": "4. Popisek středu 1",
+        "_f5": "5. Data středu 2",
+        "_l5": "5. Popisek středu 2",
+        "_f6": "6. Data středu 3",
+        "_l6": "6. Popisek středu 3",
+
+        "_s2": "7. Styl spodní části",
+        "_gs": "7. Graf spodní části jako čárový graf",
+        "_f7": "7. Data spodní části 1",
+        "_l7": "7. Popisek spodní části 1",
+        "_f8": "8. Data spodní části 2",
+        "_l8": "8. Popisek spodní části 2",
+        "_f9": "9. Data spodní části 3",
+        "_l9": "9. Popisek spodní části 3",
+
+        "_sn": "Levý střed",
+        "_sb": "Pravý střed",
+
+        "_r0": "Ikona upozornění",
+        "_r1": "Ikona vypnutého Bluetooth",
+        "_r2": "AM/PM",
+        "_r3": "Sekundy",
+
+        "_wi": "Ikona počasí + 2 pole",
+        "_3f": "3 pole",
+        "_3p": "Ukazatel průběhu + 3 pole",
+
+        "_f920": "Průběh baterie",
+
+        "_tr": "👉 DOTYKOVÉ ZKRATKY",
+        "_tc": "🎨 BARVY / POZADÍ",
+        "_tt": "🔤 PÍSMA",
+        "_ta": "🖼️ NASTAVENÍ AOD (vždy zapnutý displej)",
+        "_to": "💡 OSTATNÍ",
+        "_tx": "➡️ POSUNY",
+        "_t1": "Dotyková zkratka hodiny",
+        "_t2": "Dotyková zkratka minuty",
+
+        "_fs": "Písmo textu",
+        "_ts": "Velikost písma textu (pouze u měnitelných písem)",
+       
+        "_fn": "Písmo hodiny",
+        "_fnM": "Písmo minuty",
+        "_fnA": "Písmo času pro AOD",
+        "_fnS": "Velikost písma času",
+
+        "_ox": "X posun času (25=střed)",
+        "_oy": "Y posun času (25=střed)",
+        "_gradientq": "Kvalita gradientu",
+        "ng": "Bez gradientu",
+        "_pc": "Barva textu",
+        "_ic": "Barva popisku",
+       
+        
+        "_bgc": "Barva pozadí",
+        "_hc1": "Barva hodiny",
+        "_hc2": "Barva hodiny 2",
+        "_m1": "Barva minuty",
+        "_m2": "Barva minuty 2",
+        "_dc": "Barva oddělovače",
+        "_aas": "Vždy zapnuté sekundy",
+        "_aod": "AOD režim (vždy zapnutý displej)",
+        "_aodct": "AOD barva zabarvení času",
+        "_aodc": "AOD barva zabarvení dat",
+        "_aodT": "AOD jas času",
+        "_aodD": "AOD jas dat. Pokud se obrazovka vypne během AOD, snižte toto číslo. Nižší číslo = menší spotřeba baterie, ale méně jasné. Viz FAQ)",
+        "_aodS": "AOD posun - počet pixelů, o které se obrazovka náhodně posune každou minutu pro prevenci vypálení)",
+        "_f20": "AOD data pole",
+        "_l20": "AOD popisek pole",
+        "ad0": "Vypnout obrazovku",
+        "ad100": "Plné AOD (výchozí)",
+        "ad1": "Pouze čas",
+        "ad3": "Pouze čas - pohybující se",
+        "ad4": "Čas + datové pole (vyberte níže)",
+        "ad6": "Čas pohybující se + datové pole"
+    }
+}
