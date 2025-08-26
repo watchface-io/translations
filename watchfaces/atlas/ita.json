@@ -80,8 +80,8 @@
         "_fnA": "Carattere ora AOD",
         "_fnS": "Dimensione carattere ora",
 
-        "_ox": "Offset X ora (25=centro)",
-        "_oy": "Offset Y ora (25=centro)",
+        "_ox": "Offset X ora (50=centro)",
+        "_oy": "Offset Y ora (50=centro)",
         "_gradientq": "Qualità gradiente",
         "ng": "Nessun gradiente",
         "_pc": "Colore testo",

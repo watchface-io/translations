@@ -80,8 +80,8 @@
         "_fnA": "AOD idő betűtípus",
         "_fnS": "Idő betűméret",
 
-        "_ox": "Idő X eltolás (25=központ)",
-        "_oy": "Idő Y eltolás (25=központ)",
+        "_ox": "Idő X eltolás (50=központ)",
+        "_oy": "Idő Y eltolás (50=központ)",
         "_gradientq": "Színátmenet minőség",
         "ng": "Nincs színátmenet",
         "_pc": "Szövegszín",

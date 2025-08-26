@@ -80,8 +80,8 @@
         "_fnA": "Ajan fontti AOD",
         "_fnS": "Ajan fonttikoko",
 
-        "_ox": "Ajan X siirtymä (25=keskikohta)",
-        "_oy": "Ajan Y siirtymä (25=keskikohta)",
+        "_ox": "Ajan X siirtymä (50=keskikohta)",
+        "_oy": "Ajan Y siirtymä (50=keskikohta)",
         "_gradientq": "Liukuvärjäyksen laatu",
         "ng": "Ei liukuvärjäystä",
         "_pc": "Tekstin väri",

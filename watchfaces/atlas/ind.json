@@ -80,8 +80,8 @@
         "_fnA": "Font waktu AOD",
         "_fnS": "Ukuran font waktu",
 
-        "_ox": "Offset X waktu (25=tengah)",
-        "_oy": "Offset Y waktu (25=tengah)",
+        "_ox": "Offset X waktu (50=tengah)",
+        "_oy": "Offset Y waktu (50=tengah)",
         "_gradientq": "Kualitas gradien",
         "ng": "Tanpa gradien",
         "_pc": "Warna teks",

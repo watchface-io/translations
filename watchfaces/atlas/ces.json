@@ -80,8 +80,8 @@
         "_fnA": "Písmo času pro AOD",
         "_fnS": "Velikost písma času",
 
-        "_ox": "X posun času (25=střed)",
-        "_oy": "Y posun času (25=střed)",
+        "_ox": "X posun času (50=střed)",
+        "_oy": "Y posun času (50=střed)",
         "_gradientq": "Kvalita gradientu",
         "ng": "Bez gradientu",
         "_pc": "Barva textu",

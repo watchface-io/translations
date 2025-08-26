@@ -80,8 +80,8 @@
         "_fnA": "Time font AOD",
         "_fnS": "Time Font size",
 
-        "_ox": "Time X Offset (25=center)",
-        "_oy": "Time Y Offset (25=center)",
+        "_ox": "Time X Offset (50=center)",
+        "_oy": "Time Y Offset (50=center)",
         "_gradientq": "Gradient Quality",
         "ng": "No Gradient",
         "_pc": "Text color",

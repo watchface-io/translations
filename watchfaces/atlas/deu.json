@@ -80,8 +80,8 @@
         "_fnA": "Zeit-Schriftart AOD",
         "_fnS": "Zeit-Schriftgröße",
 
-        "_ox": "Zeit X-Versatz (25=Mitte)",
-        "_oy": "Zeit Y-Versatz (25=Mitte)",
+        "_ox": "Zeit X-Versatz (50=Mitte)",
+        "_oy": "Zeit Y-Versatz (50=Mitte)",
         "_gradientq": "Farbverlauf-Qualität",
         "ng": "Kein Farbverlauf",
         "_pc": "Textfarbe",

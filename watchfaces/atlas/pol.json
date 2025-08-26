@@ -80,8 +80,8 @@
         "_fnA": "Czcionka czasu AOD",
         "_fnS": "Rozmiar czcionki czasu",
 
-        "_ox": "Przesunięcie X czasu (25=środek)",
-        "_oy": "Przesunięcie Y czasu (25=środek)",
+        "_ox": "Przesunięcie X czasu (50=środek)",
+        "_oy": "Przesunięcie Y czasu (50=środek)",
         "_gradientq": "Jakość gradientu",
         "ng": "Bez gradientu",
         "_pc": "Kolor tekstu",
