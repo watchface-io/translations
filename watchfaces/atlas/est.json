@@ -80,8 +80,8 @@
         "_fnA": "Aja font AOD",
         "_fnS": "Aja fondi suurus",
 
-        "_ox": "Aja X nihe (25=keskmine)",
-        "_oy": "Aja Y nihe (25=keskmine)",
+        "_ox": "Aja X nihe (50=keskmine)",
+        "_oy": "Aja Y nihe (50=keskmine)",
         "_gradientq": "Gradiendi kvaliteet",
         "ng": "Ilma gradiendita",
         "_pc": "Teksti värv",

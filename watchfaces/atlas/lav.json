@@ -80,8 +80,8 @@
         "_fnA": "AOD laika fonts",
         "_fnS": "Laika fonta izmērs",
 
-        "_ox": "Laika X nobīde (25=centrs)",
-        "_oy": "Laika Y nobīde (25=centrs)",
+        "_ox": "Laika X nobīde (50=centrs)",
+        "_oy": "Laika Y nobīde (50=centrs)",
         "_gradientq": "Gradientu kvalitāte",
         "ng": "Bez gradienta",
         "_pc": "Teksta krāsa",

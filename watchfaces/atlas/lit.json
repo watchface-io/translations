@@ -80,8 +80,8 @@
         "_fnA": "AOD laiko šriftas",
         "_fnS": "Laiko šrifto dydis",
 
-        "_ox": "Laiko X poslinkis (25=centras)",
-        "_oy": "Laiko Y poslinkis (25=centras)",
+        "_ox": "Laiko X poslinkis (50=centras)",
+        "_oy": "Laiko Y poslinkis (50=centras)",
         "_gradientq": "Gradiento kokybė",
         "ng": "Be gradiento",
         "_pc": "Teksto spalva",

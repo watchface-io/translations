@@ -80,8 +80,8 @@
         "_fnA": "Fonte da hora AOD",
         "_fnS": "Tamanho da fonte da hora",
 
-        "_ox": "Deslocamento X da hora (25=centro)",
-        "_oy": "Deslocamento Y da hora (25=centro)",
+        "_ox": "Deslocamento X da hora (50=centro)",
+        "_oy": "Deslocamento Y da hora (50=centro)",
         "_gradientq": "Qualidade do gradiente",
         "ng": "Sem gradiente",
         "_pc": "Cor do texto",

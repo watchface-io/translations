@@ -80,8 +80,8 @@
         "_fnA": "Police du temps AOD",
         "_fnS": "Taille de police du temps",
 
-        "_ox": "Décalage X du temps (25=centre)",
-        "_oy": "Décalage Y du temps (25=centre)",
+        "_ox": "Décalage X du temps (50=centre)",
+        "_oy": "Décalage Y du temps (50=centre)",
         "_gradientq": "Qualité du dégradé",
         "ng": "Pas de dégradé",
         "_pc": "Couleur du texte",

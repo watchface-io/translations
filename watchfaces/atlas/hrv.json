@@ -80,8 +80,8 @@
         "_fnA": "Font vremena AOD",
         "_fnS": "Veličina fonta vremena",
 
-        "_ox": "X pomak vremena (25=centar)",
-        "_oy": "Y pomak vremena (25=centar)",
+        "_ox": "X pomak vremena (50=centar)",
+        "_oy": "Y pomak vremena (50=centar)",
         "_gradientq": "Kvaliteta gradijenta",
         "ng": "Bez gradijenta",
         "_pc": "Boja teksta",

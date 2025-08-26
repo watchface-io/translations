@@ -80,8 +80,8 @@
         "_fnA": "Tijd lettertype AOD",
         "_fnS": "Tijd lettergrootte",
 
-        "_ox": "Tijd X verschuiving (25=centrum)",
-        "_oy": "Tijd Y verschuiving (25=centrum)",
+        "_ox": "Tijd X verschuiving (50=centrum)",
+        "_oy": "Tijd Y verschuiving (50=centrum)",
         "_gradientq": "Gradiënt kwaliteit",
         "ng": "Geen gradiënt",
         "_pc": "Tekstkleur",

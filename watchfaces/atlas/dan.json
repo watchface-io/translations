@@ -80,8 +80,8 @@
         "_fnA": "Tid skrifttype AOD",
         "_fnS": "Tid skriftstørrelse",
 
-        "_ox": "Tid X forskydning (25=center)",
-        "_oy": "Tid Y forskydning (25=center)",
+        "_ox": "Tid X forskydning (50=center)",
+        "_oy": "Tid Y forskydning (50=center)",
         "_gradientq": "Gradient kvalitet",
         "ng": "Ingen gradient",
         "_pc": "Tekstfarve",
