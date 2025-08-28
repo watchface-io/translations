@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Sun Position Chart",
+        "_sg" : "Switch Bottom Style/Graph",
+        "_c32": "Moon Position Chart",
+        "_c31": "Sun Position Chart",
+        "_c30": "Sun + Moon Position Chart",
         "_c52": "4 Day Weather Forecast",
         "_c53": "4 Hour Weather Forecast",
 

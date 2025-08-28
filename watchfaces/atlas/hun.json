@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Napállás diagram",
+        "_sg": "Alsó stílus/diagram váltása",
+        "_c32": "Holdállás diagram",
+        "_c31": "Napállás diagram",
+        "_c30": "Nap + holdállás diagram",
         "_c52": "4 napos időjárás előrejelzés",
         "_c53": "4 órás időjárás előrejelzés",
 

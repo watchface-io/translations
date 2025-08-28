@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Sonnenpositionsdiagramm",
+        "_sg": "Unteren Stil/Graph wechseln",
+        "_c32": "Mondpositionsdiagramm",
+        "_c31": "Sonnenpositionsdiagramm",
+        "_c30": "Sonnen- + Mondpositionsdiagramm",
         "_c52": "4-Tage-Wettervorhersage",
         "_c53": "4-Stunden-Wettervorhersage",
 

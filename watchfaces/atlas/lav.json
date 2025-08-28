@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Saules pozīcijas diagramma",
+        "_sg": "Pārslēgt apakšējo stilu/diagrammu",
+        "_c32": "Mēness pozīcijas diagramma",
+        "_c31": "Saules pozīcijas diagramma",
+        "_c30": "Saules + mēness pozīcijas diagramma",
         "_c52": "4 dienu laika prognoze",
         "_c53": "4 stundu laika prognoze",
 

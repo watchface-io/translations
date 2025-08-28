@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Solpositionsdiagram",
+        "_sg": "Skift nederste stil/graf",
+        "_c32": "Månepositionsdiagram",
+        "_c31": "Solpositionsdiagram",
+        "_c30": "Sol + månepositionsdiagram",
         "_c52": "4-dages vejrudsigt",
         "_c53": "4-timers vejrudsigt",
 

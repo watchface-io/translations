@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Päikese asukoha diagramm",
+        "_sg": "Lülita alumist stiili/diagrammi",
+        "_c32": "Kuu asukoha diagramm",
+        "_c31": "Päikese asukoha diagramm",
+        "_c30": "Päikese + kuu asukoha diagramm",
         "_c52": "4-päevane ilmaprognoos",
         "_c53": "4-tunnine ilmaprognoos",
 

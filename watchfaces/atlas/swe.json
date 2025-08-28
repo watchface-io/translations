@@ -1,6 +1,9 @@
 {
     "settings": {
-        "_c30": "Solpositionsdiagram",
+        "_sg": "Växla nedre stil/graf",
+        "_c32": "Månpositionsdiagram",
+        "_c31": "Solpositionsdiagram",
+        "_c30": "Sol + månpositionsdiagram",
         "_c52": "4-dagars väderprognos",
         "_c53": "4-timmars väderprognos",
         "_c1": "Diagram / Graf",

@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Diagrama de posição solar",
+        "_sg": "Alternar estilo/gráfico inferior",
+        "_c32": "Diagrama de posição lunar",
+        "_c31": "Diagrama de posição solar",
+        "_c30": "Diagrama de posição solar + lunar",
         "_c52": "Previsão do tempo de 4 dias",
         "_c53": "Previsão do tempo de 4 horas",
 

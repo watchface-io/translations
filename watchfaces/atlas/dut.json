@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Zonpositie diagram",
+        "_sg": "Wissel onderkant stijl/grafiek",
+        "_c32": "Maanpositie diagram",
+        "_c31": "Zonpositie diagram",
+        "_c30": "Zon + maanpositie diagram",
         "_c52": "4-daagse weersvoorspelling",
         "_c53": "4-uurs weersvoorspelling",
 

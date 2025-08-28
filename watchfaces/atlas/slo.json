@@ -1,6 +1,9 @@
 {
     "settings": {
-        "_c30": "Graf pozície slnka",
+        "_sg": "Prepnúť spodný štýl/graf",
+        "_c32": "Graf pozície mesiaca",
+        "_c31": "Graf pozície slnka",
+        "_c30": "Graf pozície slnka + mesiaca",
         "_c52": "4-dňová predpoveď počasia",
         "_c53": "4-hodinová predpoveď počasia",
         "_c1": "Graf / Diagram",

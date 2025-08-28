@@ -1,6 +1,9 @@
 {
     "settings": {
-        "_c30": "Biểu đồ vị trí mặt trời",
+        "_sg": "Chuyển kiểu/biểu đồ dưới",
+        "_c32": "Biểu đồ vị trí mặt trăng",
+        "_c31": "Biểu đồ vị trí mặt trời",
+        "_c30": "Biểu đồ vị trí mặt trời + mặt trăng",
         "_c52": "Dự báo thời tiết 4 ngày",
         "_c53": "Dự báo thời tiết 4 giờ",
         "_c1": "Biểu đồ / Đồ thị",

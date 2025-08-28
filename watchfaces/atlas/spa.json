@@ -1,6 +1,9 @@
 {
     "settings": {
-        "_c30": "Gráfico posición del sol",
+        "_sg": "Cambiar estilo/gráfico inferior",
+        "_c32": "Gráfico posición de la luna",
+        "_c31": "Gráfico posición del sol",
+        "_c30": "Gráfico posición del sol + luna",
         "_c52": "Pronóstico del tiempo 4 días",
         "_c53": "Pronóstico del tiempo 4 horas",
         "_c1": "Gráfico / Diagrama",

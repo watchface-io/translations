@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Diagram posisi matahari",
+        "_sg": "Ganti gaya/grafik bawah",
+        "_c32": "Diagram posisi bulan",
+        "_c31": "Diagram posisi matahari",
+        "_c30": "Diagram posisi matahari + bulan",
         "_c52": "Prakiraan cuaca 4 hari",
         "_c53": "Prakiraan cuaca 4 jam",
 

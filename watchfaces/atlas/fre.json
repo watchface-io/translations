@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Graphique de position du soleil",
+        "_sg": "Changer style/graphique du bas",
+        "_c32": "Graphique de position de la lune",
+        "_c31": "Graphique de position du soleil",
+        "_c30": "Graphique de position du soleil + lune",
         "_c52": "Prévisions météo 4 jours",
         "_c53": "Prévisions météo 4 heures",
 

@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Dijagram pozicije sunca",
+        "_sg": "Prebaci donji stil/grafikon",
+        "_c32": "Dijagram pozicije mjeseca",
+        "_c31": "Dijagram pozicije sunca",
+        "_c30": "Dijagram pozicije sunca + mjeseca",
         "_c52": "4-dnevna vremenska prognoza",
         "_c53": "4-satna vremenska prognoza",
 

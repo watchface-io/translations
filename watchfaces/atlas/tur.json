@@ -1,6 +1,9 @@
 {
     "settings": {
-        "_c30": "Güneş Pozisyonu Grafiği",
+        "_sg": "Alt stil/grafik değiştir",
+        "_c32": "Ay Pozisyonu Grafiği",
+        "_c31": "Güneş Pozisyonu Grafiği",
+        "_c30": "Güneş + Ay Pozisyonu Grafiği",
         "_c52": "4 Günlük Hava Durumu Tahmini",
         "_c53": "4 Saatlik Hava Durumu Tahmini",
         "_c1": "Grafik / Diyagram",

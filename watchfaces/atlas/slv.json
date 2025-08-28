@@ -1,6 +1,9 @@
 {
     "settings": {
-        "_c30": "Grafikon položaja sonca",
+        "_sg": "Preklopi spodnji slog/grafikon",
+        "_c32": "Grafikon položaja lune",
+        "_c31": "Grafikon položaja sonca",
+        "_c30": "Grafikon položaja sonca + lune",
         "_c52": "4-dnevna vremenska napoved",
         "_c53": "4-urna vremenska napoved",
         "_c1": "Grafikon / Diagram",

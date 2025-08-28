@@ -1,6 +1,9 @@
 {
     "settings": {
-        "_c30": "Carta Kedudukan Matahari",
+        "_sg": "Tukar gaya/carta bawah",
+        "_c32": "Carta Kedudukan Bulan",
+        "_c31": "Carta Kedudukan Matahari",
+        "_c30": "Carta Kedudukan Matahari + Bulan",
         "_c52": "Ramalan Cuaca 4 Hari",
         "_c53": "Ramalan Cuaca 4 Jam",
         "_c1": "Carta / Graf",

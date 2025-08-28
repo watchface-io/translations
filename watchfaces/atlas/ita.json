@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Diagramma posizione sole",
+        "_sg": "Cambia stile/grafico inferiore",
+        "_c32": "Diagramma posizione luna",
+        "_c31": "Diagramma posizione sole",
+        "_c30": "Diagramma posizione sole + luna",
         "_c52": "Previsioni meteo a 4 giorni",
         "_c53": "Previsioni meteo a 4 ore",
 

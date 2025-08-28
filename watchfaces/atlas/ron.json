@@ -1,6 +1,9 @@
 {
     "settings": {
-        "_c30": "Grafic poziție soare",
+        "_sg": "Comută stilul/graficul de jos",
+        "_c32": "Grafic poziție lună",
+        "_c31": "Grafic poziție soare",
+        "_c30": "Grafic poziție soare + lună",
         "_c52": "Prognoză meteo 4 zile",
         "_c53": "Prognoză meteo 4 ore",
         "_c1": "Grafic / Diagramă",

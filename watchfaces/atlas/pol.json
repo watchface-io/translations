@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Diagram pozycji słońca",
+        "_sg": "Przełącz dolny styl/wykres",
+        "_c32": "Diagram pozycji księżyca",
+        "_c31": "Diagram pozycji słońca",
+        "_c30": "Diagram pozycji słońca + księżyca",
         "_c52": "4-dniowa prognoza pogody",
         "_c53": "4-godzinna prognoza pogody",
 

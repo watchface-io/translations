@@ -1,7 +1,9 @@
 {
     "settings": {
-
-        "_c30": "Auringon sijainti kaavio",
+        "_sg": "Vaihda alempaa tyyliä/kaaviota",
+        "_c32": "Kuun sijainti kaavio",
+        "_c31": "Auringon sijainti kaavio",
+        "_c30": "Auringon + kuun sijainti kaavio",
         "_c52": "4 päivän sääennuste",
         "_c53": "4 tunnin sääennuste",
 
