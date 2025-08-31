@@ -1,0 +1,172 @@
+{
+    "settings": {
+
+
+        "_t1": "Time Font",
+        "_t2": "Time Font AOD",
+        "_t3": "Text Font",
+        "_t4": "Weekdays Font",
+        "_t1s": "Time Font Size (resizeable fonts only)",
+        "_t3s": "Text Font Size (resizeable fonts only)",
+        "_t4s": "Weekdays Font Size",
+        "_ot": "Time Offsets (X, Y, X Spacing, Y Spacing, Weekdays, Weekday Marker) Default: 20",
+
+        "_c1": "Hour 1 Color",
+        "_c2": "Hour 2 Color",
+        "_c3": "Minute 1 Color",
+        "_c4": "Minute 2 Color",
+        "_dr": "75% Darker",
+
+        "_c5": "Bottom Circle Color 1",
+        "_c6": "Bottom Circle Color 2",
+        "_c7": "Bottom Circle Unfilled",
+        "_c8": "Bottom Circle Background",
+        "_c9": "Bottom Circle Shade Color",
+
+        "_c10": "Left/Right Circle Color 1",
+        "_c11": "Left/Right Circle Color 2",
+        "_c12": "Left/Right Circle Unfilled",
+
+        "_c13": "Left/Right Circle Background",
+        "_c14": "Left/Right Circle Shade Color",
+
+        "_c15": "Weekdays Current Day Color",
+        "_c16": "Weekdays Color",
+
+        "_b1": "Background Color",
+        "_b2": "Background Color Left/Right",
+
+        "_gq": "Gradient Quality",
+        "_ng": "No Gradient",
+        "_sh": "Time Shade",
+        
+        "_f1": "Bottom Circle Data",
+        "_l1": "Bottom Circle Label",
+        "_p1": "Bottom Circle Progress Style",
+        "_0f" : "Show Field Progress",
+        "_1f" : "Full",
+        "_2f" : "Empty",
+        "_3f" : "Hide",
+
+        "_g1" : "Progress Circles Gap size",
+        "_g2" : "Progress Circles Step size",
+        "_g3" : "Circles Background Transparency",
+        "_g4" : "Weekdays Use English",
+        
+      
+       
+         
+
+
+
+
+
+        "___": "DONT translate below here, needs to be sorted",
+
+
+  "_s2": "Bottom Style",
+
+         "_k0": "Circle + Weekdays + 2 fields",
+
+
+
+
+
+
+        "_sg" : "Switch Bottom Style/Graph",
+        "_c32": "Moon Position Chart",
+        "_c31": "Sun Position Chart",
+        "_c30": "Sun + Moon Position Chart",
+        "_c52": "4 Day Weather Forecast",
+        "_c53": "4 Hour Weather Forecast",
+
+
+
+        "_mc1": "Marker 1 Color",
+        "_mc2": "Marker 2 Color",
+
+        "_fo": "Outlined (If available)",
+        "_fk": "Keep the same",
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+        "_s1": "1. Top Style",
+
+        "_f2": "2. Top 2 Data",
+        "_l2": "2. Top 2 Label",
+        "_f3": "3. Top 3 (Progress) Data",
+        "_l3": "3. Top 3 Label",
+
+        "_f4": "4. Center 1 Data",
+        "_l4": "4. Center 1 Label",
+        "_f5": "5. Center 2 Data",
+        "_l5": "5. Center 2 Label",
+        "_f6": "6. Center 3 Data",
+        "_l6": "6. Center 3 Label",
+
+       
+        "_gs": "7. Bottom Chart as Linechart",
+        "_f7": "7. Bottom 1 Data",
+        "_l7": "7. Bottom 1 Label",
+        "_f8": "8. Bottom 2 Data",
+        "_l8": "8. Bottom 2 Label",
+        "_f9": "9. Bottom 3 Data",
+        "_l9": "9. Bottom 3 Label",
+
+        "_sn": "Left Center",
+        "_sb": "Right Center",
+
+        "_r0": "Notification Icon",
+        "_r1": "Bluetooth Disabled Icon",
+        "_r2": "AM/PM",
+        "_r3": "Seconds",
+
+        "_f920": "Battery Progress",
+
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+
+
+        "_fs": "Text Font",
+        
+       
+        "_fn": "Hour Font",
+        "_fnM": "Minute Font",
+        "_fnA": "Time font AOD",
+        "_fnS": "Time Font size",
+
+
+        
+        
+        "_pc": "Text color",
+        "_ic": "Label color",
+       
+        
+        "_bgc": "Background Color",
+        "_hc1": "Hour Color",
+        "_hc2": "Hour Color 2",
+        "_m1": "Minute Color",
+        "_m2": "Minute Color 2",
+        "_dc": "Divider Color",
+        "_aas": "Always on seconds",
+        "_aod": "AOD Mode (Always on Display)",
+        "_aodct": "AOD Time Tint Color",
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "_f20": "AOD Field Data",
+        "_l20": "AOD Field Label",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        "ad1": "Time Only",
+        "ad3": "Time Only - Moving",
+        "ad4": "Time + data field (Select Below)",
+        "ad6": "Time Moving + data field"
+    }
+}
