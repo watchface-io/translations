@@ -1,5 +1,7 @@
 {
     "settings": {
+        "_xx" : "Crash fix - Fixes crash on FR970, FR570 and some Fenix8 models in AOD mode",
+
         "_tr": "👉 TOUCH SHORTCUTS",
         "_tc": "🎨 COLORS",
         "_tt": "🔤 FONTS",
