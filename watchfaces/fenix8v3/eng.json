@@ -1,15 +1,45 @@
 {
     "settings": {
 
+        "_s1": "Top Style",
+        "_s10": "Progressbar + 2 fields",
+        "_s11": "Half Progressbar + 2 horizontal fields",
+        "_s12": "2 fields with Progress",
+        "_s13": "Weekdays",
+        "_s14": "Weekdays, no marker",
+        "_s15": "Sun Progress",
+
+        "_s2": "Bottom Circle Style",
+        "_s3": "Bottom Style",
+        "_s16": "60 Segment Circle",
+        "_s17": "Regular Progress Circle",
+        "_s18": "No Circle",
+
+    
+
 
         "_t1": "Time Font",
         "_t2": "Time Font AOD",
         "_t3": "Text Font",
         "_t4": "Weekdays Font",
+        "_t5": "Top 2 Font",
+        "_t6": "Left/Right Circle Font",
+        "_t7": "Bottom Circle Text Font",
+        "_t8": "Bottom Circle Label Font",
+        "_t9": "Bottom Center Fields Font",
+
         "_t1s": "Time Font Size (resizeable fonts only)",
         "_t3s": "Text Font Size (resizeable fonts only)",
         "_t4s": "Weekdays Font Size",
-        "_ot": "Time Offsets (X, Y, X Spacing, Y Spacing, Weekdays, Weekday Marker) Default: 20",
+        "_t5s": "Top 2 Font Size",
+        "_t6s": "Left/Right Circle Font Size",
+        "_t7s": "Bottom Circle Text Font  Size",
+        "_t8s": "Bottom Circle Label Font Size",
+        "_t9s": "Bottom Center Fields Font Size",
+
+        "_o1": "Time Offsets (X, Y, X Spacing, Y Spacing, Weekdays, Weekday Marker) Default: 20",
+        "_o2": "Field offsets (Top 1 Y, Top 2 Y, L/R Top Text Y, L/R Top Label Y, L/R Bottom Text Y, L/R Bottom Label Y)",
+        "_o3": "Field offsets 2 (Bottom Circle Text y, Bottom Circle Label Y, L/R Circles Text Y, L/R Circles Label Y, Center Bottom Left Y, Center Bottom Right Y)",
 
         "_c1": "Hour 1 Color",
         "_c2": "Hour 2 Color",
@@ -32,9 +62,22 @@
 
         "_c15": "Weekdays Current Day Color",
         "_c16": "Weekdays Color",
+        "_c17": "Top Label Color",
+        "_c18": "Top Text Color",
+        "_c19": "Top 2 Label Color",
+        "_c20": "Top 2 Text Color",
+
+        "_c21": "Left/Right Circle Text Color",
+        "_c22": "Left/Right Circle Label Color",
+        "_c23": "Bottom Circle Text Color",
+        "_c24": "Bottom Circle Label Color",
+        "_c25": "Center Bottom Text Color",
+        "_c26": "Center Bottom Label Color",
+
 
         "_b1": "Background Color",
         "_b2": "Background Color Left/Right",
+        "_b3": "Background Lines-only color",
 
         "_gq": "Gradient Quality",
         "_ng": "No Gradient",
@@ -43,17 +86,73 @@
         "_f1": "Bottom Circle Data",
         "_l1": "Bottom Circle Label",
         "_p1": "Bottom Circle Progress Style",
+
+        "_f2": "Left Circle Data",
+        "_l2": "Left Circle Label",
+        "_p2": "Left Circle Progress Style",
+
+        "_f3": "Right Circle Data",
+        "_l3": "Right Circle Label",
+        "_p3": "Right Circle Progress Style",
+
+        "_f4": "Top Progress Data",
+        "_f5": "Bottom Progress Data",
+
+        "_f10": "Top 1 Data",
+        "_l10": "Top 1 Label",
+        "_f11": "Top 2 Data",
+        "_l11": "Top 2 Label",
+
+        "_l12": "Left Top Label",
+        "_f12": "Left Top Data",
+        "_l13": "Right Top Label",
+        "_f13": "Right Top Data",
+
+        "_l14": "Left Bottom Label",
+        "_f14": "Left Bottom Data",
+
+        "_l15": "Right Bottom Label",
+        "_f15": "Right Bottom Data",
+
+
+        "_l16": "Center Bottom Left Label",
+        "_f16": "Center Bottom Left Data",
+
+        "_l17": "Center Bottom Right Label",
+        "_f17": "Center Bottom Right Data",
+
+
         "_0f" : "Show Field Progress",
         "_1f" : "Full",
         "_2f" : "Empty",
         "_3f" : "Hide",
 
+        "_4f" : "Same as Main Label Color",
+        "_5f" : "Same as Main Text Color",
+
+
+
         "_g1" : "Progress Circles Gap size",
         "_g2" : "Progress Circles Step size",
         "_g3" : "Circles Background Transparency",
         "_g4" : "Weekdays Use English",
-        
+        "_g5" : "Progress Top/Bottom shading",
       
+        "_bgs": "Background Style",
+        "bg_detailed": "=== Detailed Backgrounds: ===",
+        "bg0": "No Background",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (Legacy)",
+
+        "bg3": "Camo",
+
+        "bg_simple": "=== Simple Backgrounds: ===",
+        "bg10": "Outlines",
+        "bg11": "Lines (1px)",
+        "bg12": "Lines (2px)",
+        "bg13": "Lines (3px)",
+        "bg14": "Lines (4px)",
+
        
          
 
@@ -64,7 +163,7 @@
         "___": "DONT translate below here, needs to be sorted",
 
 
-  "_s2": "Bottom Style",
+
 
          "_k0": "Circle + Weekdays + 2 fields",
 
@@ -91,19 +190,8 @@
         "_md1": "Marker 1 Data",
         "_md2": "Marker 2 Data",
 
-        "_s1": "1. Top Style",
+        
 
-        "_f2": "2. Top 2 Data",
-        "_l2": "2. Top 2 Label",
-        "_f3": "3. Top 3 (Progress) Data",
-        "_l3": "3. Top 3 Label",
-
-        "_f4": "4. Center 1 Data",
-        "_l4": "4. Center 1 Label",
-        "_f5": "5. Center 2 Data",
-        "_l5": "5. Center 2 Label",
-        "_f6": "6. Center 3 Data",
-        "_l6": "6. Center 3 Label",
 
        
         "_gs": "7. Bottom Chart as Linechart",
