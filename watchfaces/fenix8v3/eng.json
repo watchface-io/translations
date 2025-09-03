@@ -39,7 +39,7 @@
 
         "_o1": "Time Offsets (X, Y, X Spacing, Y Spacing, Weekdays, Weekday Marker) Default: 20",
         "_o2": "Field offsets (Top 1 Y, Top 2 Y, L/R Top Text Y, L/R Top Label Y, L/R Bottom Text Y, L/R Bottom Label Y)",
-        "_o3": "Field offsets 2 (Bottom Circle Text y, Bottom Circle Label Y, L/R Circles Text Y, L/R Circles Label Y)",
+        "_o3": "Field offsets 2 (Bottom Circle Text y, Bottom Circle Label Y, L/R Circles Text Y, L/R Circles Label Y, Center Bottom Left Y, Center Bottom Right Y)",
 
         "_c1": "Hour 1 Color",
         "_c2": "Hour 2 Color",
@@ -77,6 +77,7 @@
 
         "_b1": "Background Color",
         "_b2": "Background Color Left/Right",
+        "_b3": "Background Lines-only color",
 
         "_gq": "Gradient Quality",
         "_ng": "No Gradient",
@@ -137,6 +138,21 @@
         "_g4" : "Weekdays Use English",
         "_g5" : "Progress Top/Bottom shading",
       
+        "_bgs": "Background Style",
+        "bg_detailed": "=== Detailed Backgrounds: ===",
+        "bg0": "No Background",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (Legacy)",
+
+        "bg3": "Camo",
+
+        "bg_simple": "=== Simple Backgrounds: ===",
+        "bg10": "Outlines",
+        "bg11": "Lines (1px)",
+        "bg12": "Lines (2px)",
+        "bg13": "Lines (3px)",
+        "bg14": "Lines (4px)",
+
        
          
 
