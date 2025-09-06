@@ -65,7 +65,13 @@
 
         "_pc": "Text color",
         "_ic": "Label color",      
-        "_bgc": "Background Color",
+        
+        "_b1": "Background Color Center / Tint",
+        "_b2": "Background Color Left/Right",
+        "_b3": "Background Lines-only color",
+        "_bgc": "Background Color Sides (Simple bg only)",
+        "_b4": "Background behind MIPS gradient time",
+
 
         "_c5": "Bottom Circle Color 1",
         "_c6": "Bottom Circle Color 2",
@@ -101,9 +107,7 @@
         "_c30": "Status Icons Color",
 
 
-        "_b1": "Background Color",
-        "_b2": "Background Color Left/Right",
-        "_b3": "Background Lines-only color",
+
 
         "_gq": "Gradient Quality",
         "_ng": "No Gradient",
@@ -163,6 +167,7 @@
         "_4f" : "Same as Main Label Color",
         "_5f" : "Same as Main Text Color",
         "_6f" : "Same as Progress Color",
+        "_7f" : "Same as Background Color",
 
 
 
