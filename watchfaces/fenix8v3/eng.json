@@ -1,6 +1,13 @@
 {
     "settings": {
 
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+
         "_s1": "Top Style",
         "_s10": "Progressbar + 2 fields",
         "_s11": "Half Progressbar + 2 horizontal fields",
@@ -8,18 +15,21 @@
         "_s13": "Weekdays",
         "_s14": "Weekdays, no marker",
         "_s15": "Sun Progress",
+        "_s19": "Radial Datafield (only slow updating values recommended)",
 
         "_s2": "Bottom Circle Style",
         "_s3": "Bottom Style",
         "_s16": "60 Segment Circle",
         "_s17": "Regular Progress Circle",
         "_s18": "No Circle",
-
+        "_si": "Draw Status Icons (set positions below, see FAQ)",
+       
     
-
-
         "_t1": "Time Font",
         "_t2": "Time Font AOD",
+        "_fo": "Outlined (If available)",
+        "_fk": "Keep the same",
+
         "_t3": "Text Font",
         "_t4": "Weekdays Font",
         "_t5": "Top 2 Font",
@@ -27,6 +37,8 @@
         "_t7": "Bottom Circle Text Font",
         "_t8": "Bottom Circle Label Font",
         "_t9": "Bottom Center Fields Font",
+
+        
 
         "_t1s": "Time Font Size (resizeable fonts only)",
         "_t3s": "Text Font Size (resizeable fonts only)",
@@ -40,12 +52,20 @@
         "_o1": "Time Offsets (X, Y, X Spacing, Y Spacing, Weekdays, Weekday Marker) Default: 20",
         "_o2": "Field offsets (Top 1 Y, Top 2 Y, L/R Top Text Y, L/R Top Label Y, L/R Bottom Text Y, L/R Bottom Label Y)",
         "_o3": "Field offsets 2 (Bottom Circle Text y, Bottom Circle Label Y, L/R Circles Text Y, L/R Circles Label Y, Center Bottom Left Y, Center Bottom Right Y)",
+        "_o4": "Status Icon Positions % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Disable: -1, Default: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Marker 1 Color",
+        "_mc2": "Marker 2 Color",
 
         "_c1": "Hour 1 Color",
         "_c2": "Hour 2 Color",
         "_c3": "Minute 1 Color",
         "_c4": "Minute 2 Color",
         "_dr": "75% Darker",
+
+        "_pc": "Text color",
+        "_ic": "Label color",      
+        "_bgc": "Background Color",
 
         "_c5": "Bottom Circle Color 1",
         "_c6": "Bottom Circle Color 2",
@@ -74,6 +94,12 @@
         "_c25": "Center Bottom Text Color",
         "_c26": "Center Bottom Label Color",
 
+        "_c27": "Progress Color 1",
+        "_c28": "Progress Color 2",
+        "_c29": "Progress Unfilled",
+
+        "_c30": "Status Icons Color",
+
 
         "_b1": "Background Color",
         "_b2": "Background Color Left/Right",
@@ -82,6 +108,10 @@
         "_gq": "Gradient Quality",
         "_ng": "No Gradient",
         "_sh": "Time Shade",
+
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
         
         "_f1": "Bottom Circle Data",
         "_l1": "Bottom Circle Label",
@@ -120,6 +150,9 @@
 
         "_l17": "Center Bottom Right Label",
         "_f17": "Center Bottom Right Data",
+        "_f18": "Radial Data Field (See FAQ!)",
+
+        
 
 
         "_0f" : "Show Field Progress",
@@ -129,6 +162,7 @@
 
         "_4f" : "Same as Main Label Color",
         "_5f" : "Same as Main Text Color",
+        "_6f" : "Same as Progress Color",
 
 
 
@@ -153,94 +187,19 @@
         "bg13": "Lines (3px)",
         "bg14": "Lines (4px)",
 
+        "_x2": "Load Random Theme",
+        "_a1": "Touch shortcut Hour Left",
+        "_a2": "Touch shortcut Hour Right",
+        "_a3": "Touch shortcut Minute Left",
+        "_a4": "Touch shortcut Minute Right",
+
        
          
 
 
 
 
-
-        "___": "DONT translate below here, needs to be sorted",
-
-
-
-
-         "_k0": "Circle + Weekdays + 2 fields",
-
-
-
-
-
-
-        "_sg" : "Switch Bottom Style/Graph",
-        "_c32": "Moon Position Chart",
-        "_c31": "Sun Position Chart",
-        "_c30": "Sun + Moon Position Chart",
-        "_c52": "4 Day Weather Forecast",
-        "_c53": "4 Hour Weather Forecast",
-
-
-
-        "_mc1": "Marker 1 Color",
-        "_mc2": "Marker 2 Color",
-
-        "_fo": "Outlined (If available)",
-        "_fk": "Keep the same",
-
-        "_md1": "Marker 1 Data",
-        "_md2": "Marker 2 Data",
-
-        
-
-
        
-        "_gs": "7. Bottom Chart as Linechart",
-        "_f7": "7. Bottom 1 Data",
-        "_l7": "7. Bottom 1 Label",
-        "_f8": "8. Bottom 2 Data",
-        "_l8": "8. Bottom 2 Label",
-        "_f9": "9. Bottom 3 Data",
-        "_l9": "9. Bottom 3 Label",
-
-        "_sn": "Left Center",
-        "_sb": "Right Center",
-
-        "_r0": "Notification Icon",
-        "_r1": "Bluetooth Disabled Icon",
-        "_r2": "AM/PM",
-        "_r3": "Seconds",
-
-        "_f920": "Battery Progress",
-
-        "_tr": "👉 TOUCH SHORTCUTS",
-        "_tc": "🎨 COLORS / BACKGROUND",
-        "_tt": "🔤 FONTS",
-        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
-        "_to": "💡 OTHER",
-        "_tx": "➡️ OFFSETS",
-
-
-        "_fs": "Text Font",
-        
-       
-        "_fn": "Hour Font",
-        "_fnM": "Minute Font",
-        "_fnA": "Time font AOD",
-        "_fnS": "Time Font size",
-
-
-        
-        
-        "_pc": "Text color",
-        "_ic": "Label color",
-       
-        
-        "_bgc": "Background Color",
-        "_hc1": "Hour Color",
-        "_hc2": "Hour Color 2",
-        "_m1": "Minute Color",
-        "_m2": "Minute Color 2",
-        "_dc": "Divider Color",
         "_aas": "Always on seconds",
         "_aod": "AOD Mode (Always on Display)",
         "_aodct": "AOD Time Tint Color",
@@ -256,5 +215,10 @@
         "ad3": "Time Only - Moving",
         "ad4": "Time + data field (Select Below)",
         "ad6": "Time Moving + data field"
+
+        
+
+
+        
     }
 }
