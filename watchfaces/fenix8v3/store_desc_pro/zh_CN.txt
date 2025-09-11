@@ -2,19 +2,20 @@
 
 请注意，此表盘由第三方创建，不是官方 Garmin Fenix8 表盘。它不代表原始表盘的功能或性能。
 
-⭐️ 购买前试用！⭐️
-在购买此表盘之前，请先试用免费版本，以确保这是您想要的，并且您喜欢它在您的手表上的外观：https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
+⭐️先试后买！⭐️
+购买前请先体验免费版，确保表盘功能与显示效果符合您的预期：https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
 
-⭐️ MIPS 设备（Fenix 7、Enduro、Forerunner 255 等）⭐️
-此表盘针对 MIPS 进行了完全优化，但颜色可能与大多数照片看起来不同，因为它们是在 Amoled 设备上拍摄的。此表盘有许多针对 MIPS 优化的主题，并支持 MIPS 渐变。所有内置主题可在此处找到：https://watchface.io/fenix8v3/themes#MIPS
+⭐️MIP屏幕兼容性（Fenix 7、Enduro、Forerunner 255等）⭐️
+本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。
+本表盘提供多款专为MIPS设备优化的模式颜色，并支持MIPS渐变效果。所有内置模式颜色可在此查看: https://watchface.io/datadash/themes#MIPS
 
-⭐️ 资源 ⭐️
-* 常见问题：https://watchface.io/faq
-* 手册：https://watchface.io/fenix8v3/manual
-* 免费版本：https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
-* 主题列表：https://watchface.io/fenix8v3/themes
-* 颜色指南：https://watchface.io/docs/color-list
-* 可用数据字段：https://watchface.io/docs/datafields
+⭐️资源中心⭐️
+* 常见问题FAQ: https://watchface.io/faq
+* 使用手册: https://watchface.io/fenix8v3/manual
+* 免费版: https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
+* 模式颜色: https://watchface.io/fenix8v3/themes
+* 配色指南: https://watchface.io/docs/color-list
+* 栏位数据:https://watchface.io/docs/datafields
 
 ⭐️ 配置 ⭐️
 注意：有两个不同的设置位置：
