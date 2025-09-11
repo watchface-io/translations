@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 PUUDUTUSE OTSETEED",
+        "_tc": "🎨 VÄRVID / TAUST",
+        "_tt": "🔤 FONDID",
+        "_ta": "🖼️ AOD SEADED (Alati sees ekraan)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ NIHKED",
+
+        "_s1": "Ülemine stiil",
+        "_s10": "Edenemisriba + 2 välja",
+        "_s11": "Pool edenemisriba + 2 horisontaalset välja",
+        "_s12": "2 välja edenemisega",
+        "_s13": "Nädalapäevad",
+        "_s14": "Nädalapäevad, ilma märgita",
+        "_s15": "Päikese edenemine",
+        "_s19": "Radiaalne andmeväli (soovitatud ainult aeglaselt uuenevad väärtused)",
+
+        "_s2": "Alumise ringi stiil",
+        "_s3": "Alumine stiil",
+        "_s16": "60 segmendi ring",
+        "_s20": "30 segmendi ring",
+        "_s17": "Tavaline edenemisring",
+        "_s18": "Ringita",
+        "_si": "Joonista oleku ikoonid (määra positsioonid allpool, vaata KKK)",
+       
+    
+        "_t1": "Aja font",
+        "_t2": "Aja font AOD",
+        "_fo": "Kontuuriga (kui saadaval)",
+        "_fk": "Jäta samaks",
+
+        "_t3": "Teksti font",
+        "_t4": "Nädalapäevade font",
+        "_t5": "Ülemine 2 font",
+        "_t6": "Vasak/parem ringi font",
+        "_t7": "Alumise ringi teksti font",
+        "_t8": "Alumise ringi sildi font",
+        "_t9": "Alumise keskme väljade font",
+
+        
+
+        "_t1s": "Aja fondi suurus (ainult suurust muudetavad fondid)",
+        "_t3s": "Teksti fondi suurus (ainult suurust muudetavad fondid)",
+        "_t4s": "Nädalapäevade fondi suurus",
+        "_t5s": "Ülemine 2 fondi suurus",
+        "_t6s": "Vasak/parem ringi fondi suurus",
+        "_t7s": "Alumise ringi teksti fondi suurus",
+        "_t8s": "Alumise ringi sildi fondi suurus",
+        "_t9s": "Alumise keskme väljade fondi suurus",
+
+        "_o1": "Aja nihked (X, Y, X vahemaa, Y vahemaa, nädalapäevad, nädalapäeva märge) Vaikimisi: 20",
+        "_o2": "Välja nihked (Ülemine 1 Y, Ülemine 2 Y, V/P ülemine tekst Y, V/P ülemine silt Y, V/P alumine tekst Y, V/P alumine silt Y)",
+        "_o3": "Välja nihked 2 (Alumise ringi tekst y, Alumise ringi silt Y, V/P ringide tekst Y, V/P ringide silt Y, Keskmine alumine vasak Y, Keskmine alumine parem Y)",
+        "_o4": "Oleku ikoonide positsioonid % (Teavitus X, Teavitus Y, BT X, BT Y, Mitte segada X, Mitte segada Y, Äratus X, Äratus Y) Keela: -1, Vaikimisi: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Märke 1 värv",
+        "_mc2": "Märke 2 värv",
+
+        "_c1": "Tund 1 värv",
+        "_c2": "Tund 2 värv",
+        "_c3": "Minut 1 värv",
+        "_c4": "Minut 2 värv",
+        "_dr": "75% tumedam",
+
+        "_pc": "Teksti värv",
+        "_ic": "Sildi värv",      
+        
+        "_b1": "Tausta värv keskus / toon",
+        "_b2": "Tausta värv vasak/parem",
+        "_b3": "Tausta ainult-jooned värv",
+        "_bgc": "Tausta värv küljed (ainult lihtne taust)",
+        "_b4": "Taust MIPS gradientaja taga",
+
+        "_c5": "Alumise ringi värv 1",
+        "_c6": "Alumise ringi värv 2",
+        "_c7": "Alumine ring täitmata",
+        "_c8": "Alumise ringi taust",
+        "_c9": "Alumise ringi varju värv",
+
+        "_c10": "Vasak/parem ringi värv 1",
+        "_c11": "Vasak/parem ringi värv 2",
+        "_c12": "Vasak/parem ring täitmata",
+
+        "_c13": "Vasak/parem ringi taust",
+        "_c14": "Vasak/parem ringi varju värv",
+
+        "_c15": "Nädalapäevade praeguse päeva värv",
+        "_c16": "Nädalapäevade värv",
+        "_c17": "Ülemise sildi värv",
+        "_c18": "Ülemise teksti värv",
+        "_c19": "Ülemine 2 sildi värv",
+        "_c20": "Ülemine 2 teksti värv",
+
+        "_c21": "Vasak/parem ringi teksti värv",
+        "_c22": "Vasak/parem ringi sildi värv",
+        "_c23": "Alumise ringi teksti värv",
+        "_c24": "Alumise ringi sildi värv",
+        "_c25": "Keskmine alumine teksti värv",
+        "_c26": "Keskmine alumine sildi värv",
+
+        "_c27": "Edenemise värv 1",
+        "_c28": "Edenemise värv 2",
+        "_c29": "Edenemine täitmata",
+
+        "_c30": "Oleku ikoonide värv",
+
+        "_gq": "Gradiendi kvaliteet",
+        "_ng": "Ilma gradiendita",
+        "_sh": "Aja vari",
+
+        "_md1": "Märke 1 andmed",
+        "_md2": "Märke 2 andmed",
+        
+        "_f1": "Alumise ringi andmed",
+        "_l1": "Alumise ringi silt",
+        "_p1": "Alumise ringi edenemise stiil",
+
+        "_f2": "Vasaku ringi andmed",
+        "_l2": "Vasaku ringi silt",
+        "_p2": "Vasaku ringi edenemise stiil",
+
+        "_f3": "Parema ringi andmed",
+        "_l3": "Parema ringi silt",
+        "_p3": "Parema ringi edenemise stiil",
+
+        "_f4": "Ülemise edenemise andmed",
+        "_f5": "Alumise edenemise andmed",
+
+        "_f10": "Ülemine 1 andmed",
+        "_l10": "Ülemine 1 silt",
+        "_f11": "Ülemine 2 andmed",
+        "_l11": "Ülemine 2 silt",
+
+        "_l12": "Vasak ülemine silt",
+        "_f12": "Vasak ülemine andmed",
+        "_l13": "Parem ülemine silt",
+        "_f13": "Parem ülemine andmed",
+
+        "_l14": "Vasak alumine silt",
+        "_f14": "Vasak alumine andmed",
+
+        "_l15": "Parem alumine silt",
+        "_f15": "Parem alumine andmed",
+
+        "_l16": "Keskmine alumine vasak silt",
+        "_f16": "Keskmine alumine vasak andmed",
+
+        "_l17": "Keskmine alumine parem silt",
+        "_f17": "Keskmine alumine parem andmed",
+        "_f18": "Radiaalne andmeväli (vaata KKK!)",
+
+        "_0f" : "Näita välja edenemist",
+        "_1f" : "Täis",
+        "_2f" : "Tühi",
+        "_3f" : "Peida",
+
+        "_4f" : "Sama kui peamise sildi värv",
+        "_5f" : "Sama kui peamise teksti värv",
+        "_6f" : "Sama kui edenemise värv",
+        "_7f" : "Sama kui tausta värv",
+
+        "_g1" : "Edenemisringide vahe suurus",
+        "_g2" : "Edenemisringide sammu suurus",
+        "_g3" : "Ringide tausta läbipaistvus",
+        "_g4" : "Nädalapäevad inglise keeles",
+        "_g5" : "Edenemise ülemine/alumine varjutus",
+      
+        "_bgs": "Tausta stiil",
+        "bg_detailed": "=== Üksikasjalikud taustad: ===",
+        "bg0": "Taustata",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (aegunud)",
+        "bg4": "Varjutatud",
+        "bg5": "2x varjutatud",
+
+        "bg3": "MIPS ühtlane keskus, varjutatud küljed",
+
+        "bg_simple": "=== Lihtsad taustad: ===",
+        "bg10": "Kontuurid",
+        "bg11": "Jooned (1px)",
+        "bg12": "Jooned (2px)",
+        "bg13": "Jooned (3px)",
+        "bg14": "Jooned (4px)",
+
+        "_x2": "Laadi järgmine värvi teema",
+        "_a1": "Puudutuse otsetee tund vasak",
+        "_a2": "Puudutuse otsetee tund parem",
+        "_a3": "Puudutuse otsetee minut vasak",
+        "_a4": "Puudutuse otsetee minut parem",
+
+        "_aas": "Alati sees sekundid",
+        "_aod": "AOD režiim (alati sees ekraan)",
+        "_aodct": "AOD aja tooni värv",
+        "_aodc": "AOD andmete tooni värv",
+        "_aodT": "AOD aja heledus",
+        "_aodD": "AOD andmete heledus. Kui ekraan läheb AOD ajal välja, tee see arv väiksemaks. Väiksem arv = vähem aku kasutust aga vähem hele. Vaata KKK)",
+        "_aodS": "AOD nihe - pikslite arv, mille võrra ekraan minutis juhuslikult nihkub sisseküsimise vältimiseks)",
+        "_f20": "AOD välja andmed",
+        "_l20": "AOD välja silt",
+        "ad0": "Lülita ekraan VÄLJA",
+        "ad100": "Täielik AOD (vaikimisi)",
+        "ad1": "Ainult aeg",
+        "ad3": "Ainult aeg - liikuv",
+        "ad4": "Aeg + andmeväli (vali allpool)",
+        "ad6": "Liikuv aeg + andmeväli"
+    }
+}

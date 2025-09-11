@@ -1,0 +1,227 @@
+{
+    "settings": {
+
+        "_tr": "👉 PHÍM TẮT CẢM ỨNG",
+        "_tc": "🎨 MÀU SẮC / NỀN",
+        "_tt": "🔤 PHÔNG CHỮ",
+        "_ta": "🖼️ CÀI ĐẶT AOD (Luôn bật màn hình)",
+        "_to": "💡 KHÁC",
+        "_tx": "➡️ ĐỘ LỆCH",
+
+        "_s1": "Kiểu trên cùng",
+        "_s10": "Thanh tiến trình + 2 trường",
+        "_s11": "Nửa thanh tiến trình + 2 trường ngang",
+        "_s12": "2 trường có tiến trình",
+        "_s13": "Các ngày trong tuần",
+        "_s14": "Các ngày trong tuần, không có đánh dấu",
+        "_s15": "Tiến trình mặt trời",
+        "_s19": "Trường dữ liệu hướng tâm (chỉ khuyến nghị các giá trị cập nhật chậm)",
+
+        "_s2": "Kiểu vòng tròn dưới",
+        "_s3": "Kiểu dưới",
+        "_s16": "Vòng tròn 60 phân đoạn",
+        "_s20": "Vòng tròn 30 phân đoạn",
+        "_s17": "Vòng tròn tiến trình thường",
+        "_s18": "Không có vòng tròn",
+        "_si": "Vẽ biểu tượng trạng thái (đặt vị trí bên dưới, xem FAQ)",
+       
+    
+        "_t1": "Phông chữ thời gian",
+        "_t2": "Phông chữ thời gian AOD",
+        "_fo": "Viền (nếu có)",
+        "_fk": "Giữ nguyên",
+
+        "_t3": "Phông chữ văn bản",
+        "_t4": "Phông chữ các ngày trong tuần",
+        "_t5": "Phông chữ trên cùng 2",
+        "_t6": "Phông chữ vòng tròn trái/phải",
+        "_t7": "Phông chữ văn bản vòng tròn dưới",
+        "_t8": "Phông chữ nhãn vòng tròn dưới",
+        "_t9": "Phông chữ trường trung tâm dưới",
+
+        
+
+        "_t1s": "Kích thước phông chữ thời gian (chỉ phông chữ có thể thay đổi kích thước)",
+        "_t3s": "Kích thước phông chữ văn bản (chỉ phông chữ có thể thay đổi kích thước)",
+        "_t4s": "Kích thước phông chữ các ngày trong tuần",
+        "_t5s": "Kích thước phông chữ trên cùng 2",
+        "_t6s": "Kích thước phông chữ vòng tròn trái/phải",
+        "_t7s": "Kích thước phông chữ văn bản vòng tròn dưới",
+        "_t8s": "Kích thước phông chữ nhãn vòng tròn dưới",
+        "_t9s": "Kích thước phông chữ trường trung tâm dưới",
+
+        "_o1": "Độ lệch thời gian (X, Y, Khoảng cách X, Khoảng cách Y, Các ngày trong tuần, Đánh dấu ngày trong tuần) Mặc định: 20",
+        "_o2": "Độ lệch trường (Trên cùng 1 Y, Trên cùng 2 Y, T/P văn bản trên Y, T/P nhãn trên Y, T/P văn bản dưới Y, T/P nhãn dưới Y)",
+        "_o3": "Độ lệch trường 2 (Văn bản vòng tròn dưới y, Nhãn vòng tròn dưới Y, Văn bản vòng tròn T/P Y, Nhãn vòng tròn T/P Y, Trung tâm dưới trái Y, Trung tâm dưới phải Y)",
+        "_o4": "Vị trí biểu tượng trạng thái % (Thông báo X, Thông báo Y, BT X, BT Y, DND X, DND Y, Báo thức X, Báo thức Y) Tắt: -1, Mặc định: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Màu đánh dấu 1",
+        "_mc2": "Màu đánh dấu 2",
+
+        "_c1": "Màu giờ 1",
+        "_c2": "Màu giờ 2",
+        "_c3": "Màu phút 1",
+        "_c4": "Màu phút 2",
+        "_dr": "Tối hơn 75%",
+
+        "_pc": "Màu văn bản",
+        "_ic": "Màu nhãn",      
+        
+        "_b1": "Màu nền trung tâm / tông màu",
+        "_b2": "Màu nền trái/phải",
+        "_b3": "Màu nền chỉ có đường",
+        "_bgc": "Màu nền các bên (chỉ nền đơn giản)",
+        "_b4": "Nền phía sau thời gian gradient MIPS",
+
+
+        "_c5": "Màu vòng tròn dưới 1",
+        "_c6": "Màu vòng tròn dưới 2",
+        "_c7": "Vòng tròn dưới chưa điền",
+        "_c8": "Nền vòng tròn dưới",
+        "_c9": "Màu bóng vòng tròn dưới",
+
+        "_c10": "Màu vòng tròn trái/phải 1",
+        "_c11": "Màu vòng tròn trái/phải 2",
+        "_c12": "Vòng tròn trái/phải chưa điền",
+
+        "_c13": "Nền vòng tròn trái/phải",
+        "_c14": "Màu bóng vòng tròn trái/phải",
+
+        "_c15": "Màu ngày hiện tại trong tuần",
+        "_c16": "Màu các ngày trong tuần",
+        "_c17": "Màu nhãn trên cùng",
+        "_c18": "Màu văn bản trên cùng",
+        "_c19": "Màu nhãn trên cùng 2",
+        "_c20": "Màu văn bản trên cùng 2",
+
+        "_c21": "Màu văn bản vòng tròn trái/phải",
+        "_c22": "Màu nhãn vòng tròn trái/phải",
+        "_c23": "Màu văn bản vòng tròn dưới",
+        "_c24": "Màu nhãn vòng tròn dưới",
+
+        "_c25": "Màu văn bản trung tâm dưới",
+        "_c26": "Màu nhãn trung tâm dưới",
+
+        "_c27": "Màu tiến trình 1",
+        "_c28": "Màu tiến trình 2",
+        "_c29": "Tiến trình chưa điền",
+
+        "_c30": "Màu biểu tượng trạng thái",
+
+
+
+
+        "_gq": "Chất lượng gradient",
+        "_ng": "Không có gradient",
+        "_sh": "Bóng thời gian",
+
+
+        "_md1": "Dữ liệu đánh dấu 1",
+        "_md2": "Dữ liệu đánh dấu 2",
+        
+        "_f1": "Dữ liệu vòng tròn dưới",
+        "_l1": "Nhãn vòng tròn dưới",
+        "_p1": "Kiểu tiến trình vòng tròn dưới",
+
+        "_f2": "Dữ liệu vòng tròn trái",
+        "_l2": "Nhãn vòng tròn trái",
+        "_p2": "Kiểu tiến trình vòng tròn trái",
+
+        "_f3": "Dữ liệu vòng tròn phải",
+        "_l3": "Nhãn vòng tròn phải",
+        "_p3": "Kiểu tiến trình vòng tròn phải",
+
+        "_f4": "Dữ liệu tiến trình trên cùng",
+        "_f5": "Dữ liệu tiến trình dưới",
+
+        "_f10": "Dữ liệu trên cùng 1",
+        "_l10": "Nhãn trên cùng 1",
+        "_f11": "Dữ liệu trên cùng 2",
+        "_l11": "Nhãn trên cùng 2",
+
+        "_l12": "Nhãn trên trái",
+        "_f12": "Dữ liệu trên trái",
+        "_l13": "Nhãn trên phải",
+        "_f13": "Dữ liệu trên phải",
+
+        "_l14": "Nhãn dưới trái",
+        "_f14": "Dữ liệu dưới trái",
+
+        "_l15": "Nhãn dưới phải",
+        "_f15": "Dữ liệu dưới phải",
+
+
+        "_l16": "Nhãn trung tâm dưới trái",
+        "_f16": "Dữ liệu trung tâm dưới trái",
+
+        "_l17": "Nhãn trung tâm dưới phải",
+        "_f17": "Dữ liệu trung tâm dưới phải",
+        "_f18": "Trường dữ liệu hướng tâm (xem FAQ!)",
+
+        
+
+
+        "_0f" : "Hiển thị tiến trình trường",
+        "_1f" : "Đầy",
+        "_2f" : "Trống",
+        "_3f" : "Ẩn",
+
+        "_4f" : "Giống như màu nhãn chính",
+        "_5f" : "Giống như màu văn bản chính",
+        "_6f" : "Giống như màu tiến trình",
+        "_7f" : "Giống như màu nền",
+
+
+
+        "_g1" : "Kích thước khoảng cách vòng tròn tiến trình",
+        "_g2" : "Kích thước bước vòng tròn tiến trình",
+        "_g3" : "Độ trong suốt nền vòng tròn",
+        "_g4" : "Các ngày trong tuần sử dụng tiếng Anh",
+        "_g5" : "Tạo bóng tiến trình trên/dưới",
+      
+        "_bgs": "Kiểu nền",
+        "bg_detailed": "=== Nền chi tiết: ===",
+        "bg0": "Không có nền",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (cũ)",
+        "bg4": "Có bóng",
+        "bg5": "Bóng 2x",
+
+        "bg3": "MIPS trung tâm đặc, các bên có bóng",
+
+        "bg_simple": "=== Nền đơn giản: ===",
+        "bg10": "Viền",
+        "bg11": "Đường (1px)",
+        "bg12": "Đường (2px)",
+        "bg13": "Đường (3px)",
+        "bg14": "Đường (4px)",
+
+        "_x2": "Tải chủ đề màu tiếp theo",
+        "_a1": "Phím tắt cảm ứng giờ trái",
+        "_a2": "Phím tắt cảm ứng giờ phải",
+        "_a3": "Phím tắt cảm ứng phút trái",
+        "_a4": "Phím tắt cảm ứng phút phải",
+
+       
+        "_aas": "Luôn bật giây",
+        "_aod": "Chế độ AOD (luôn bật màn hình)",
+        "_aodct": "Màu tông thời gian AOD",
+        "_aodc": "Màu tông dữ liệu AOD",
+        "_aodT": "Độ sáng thời gian AOD",
+        "_aodD": "Độ sáng dữ liệu AOD. Nếu màn hình tắt trong AOD, hãy giảm số này. Số thấp hơn = ít tiêu thụ pin hơn nhưng ít sáng hơn. Xem FAQ)",
+        "_aodS": "Dịch chuyển AOD - số pixel màn hình dịch chuyển ngẫu nhiên mỗi phút để ngăn cháy màn hình)",
+        "_f20": "Dữ liệu trường AOD",
+        "_l20": "Nhãn trường AOD",
+        "ad0": "Tắt màn hình",
+        "ad100": "AOD đầy đủ (mặc định)",
+        "ad1": "Chỉ thời gian",
+        "ad3": "Chỉ thời gian - di chuyển",
+        "ad4": "Thời gian + trường dữ liệu (chọn bên dưới)",
+        "ad6": "Thời gian di chuyển + trường dữ liệu"
+
+        
+
+
+        
+    }
+}

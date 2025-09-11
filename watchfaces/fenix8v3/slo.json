@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 DOTYKOVÉ SKRATKY",
+        "_tc": "🎨 FARBY / POZADIE",
+        "_tt": "🔤 PÍSMA",
+        "_ta": "🖼️ NASTAVENIA AOD (Vždy zapnutý displej)",
+        "_to": "💡 OSTATNÉ",
+        "_tx": "➡️ POSUNY",
+
+        "_s1": "Horný štýl",
+        "_s10": "Ukazovateľ priebehu + 2 polia",
+        "_s11": "Polovičný ukazovateľ priebehu + 2 horizontálne polia",
+        "_s12": "2 polia s priebehom",
+        "_s13": "Dni v týždni",
+        "_s14": "Dni v týždni, bez značky",
+        "_s15": "Priebeh slnka",
+        "_s19": "Radiálne dátové pole (odporúčané iba pomaly aktualizované hodnoty)",
+
+        "_s2": "Štýl dolného kruhu",
+        "_s3": "Dolný štýl",
+        "_s16": "Kruh s 60 segmentmi",
+        "_s20": "Kruh s 30 segmentmi",
+        "_s17": "Bežný kruh priebehu",
+        "_s18": "Bez kruhu",
+        "_si": "Kresliť ikony stavu (nastaviť pozície nižšie, pozri FAQ)",
+       
+    
+        "_t1": "Písmo času",
+        "_t2": "Písmo času AOD",
+        "_fo": "Obrysované (ak je dostupné)",
+        "_fk": "Ponechať rovnaké",
+
+        "_t3": "Písmo textu",
+        "_t4": "Písmo dní v týždni",
+        "_t5": "Písmo horné 2",
+        "_t6": "Písmo kruhu vľavo/vpravo",
+        "_t7": "Písmo textu dolného kruhu",
+        "_t8": "Písmo štítku dolného kruhu",
+        "_t9": "Písmo polí dolného centra",
+
+        
+
+        "_t1s": "Veľkosť písma času (iba písma s možnosťou zmeny veľkosti)",
+        "_t3s": "Veľkosť písma textu (iba písma s možnosťou zmeny veľkosti)",
+        "_t4s": "Veľkosť písma dní v týždni",
+        "_t5s": "Veľkosť písma horné 2",
+        "_t6s": "Veľkosť písma kruhu vľavo/vpravo",
+        "_t7s": "Veľkosť písma textu dolného kruhu",
+        "_t8s": "Veľkosť písma štítku dolného kruhu",
+        "_t9s": "Veľkosť písma polí dolného centra",
+
+        "_o1": "Posuny času (X, Y, rozostup X, rozostup Y, dni v týždni, značka dňa v týždni) Predvolené: 20",
+        "_o2": "Posuny polí (Horné 1 Y, Horné 2 Y, V/P text horný Y, V/P štítok horný Y, V/P text dolný Y, V/P štítok dolný Y)",
+        "_o3": "Posuny polí 2 (Text dolného kruhu y, Štítok dolného kruhu Y, Text kruhov V/P Y, Štítok kruhov V/P Y, Centrum dolné vľavo Y, Centrum dolné vpravo Y)",
+        "_o4": "Pozície ikon stavu % (Oznámenie X, Oznámenie Y, BT X, BT Y, Nerušiť X, Nerušiť Y, Budík X, Budík Y) Zakázať: -1, Predvolené: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Farba značky 1",
+        "_mc2": "Farba značky 2",
+
+        "_c1": "Farba hodiny 1",
+        "_c2": "Farba hodiny 2",
+        "_c3": "Farba minúty 1",
+        "_c4": "Farba minúty 2",
+        "_dr": "75% tmavšie",
+
+        "_pc": "Farba textu",
+        "_ic": "Farba štítku",      
+        
+        "_b1": "Farba pozadia centrum / odtieň",
+        "_b2": "Farba pozadia vľavo/vpravo",
+        "_b3": "Farba pozadia iba čiary",
+        "_bgc": "Farba pozadia strany (iba jednoduché pozadie)",
+        "_b4": "Pozadie MIPS za progresívnym časom",
+
+        "_c5": "Farba dolného kruhu 1",
+        "_c6": "Farba dolného kruhu 2",
+        "_c7": "Dolný kruh nevyplnený",
+        "_c8": "Pozadie dolného kruhu",
+        "_c9": "Farba tieňa dolného kruhu",
+
+        "_c10": "Farba kruhu vľavo/vpravo 1",
+        "_c11": "Farba kruhu vľavo/vpravo 2",
+        "_c12": "Kruh vľavo/vpravo nevyplnený",
+
+        "_c13": "Pozadie kruhu vľavo/vpravo",
+        "_c14": "Farba tieňa kruhu vľavo/vpravo",
+
+        "_c15": "Farba aktuálneho dňa v týždni",
+        "_c16": "Farba dní v týždni",
+        "_c17": "Farba horného štítku",
+        "_c18": "Farba horného textu",
+        "_c19": "Farba horného štítku 2",
+        "_c20": "Farba horného textu 2",
+
+        "_c21": "Farba textu kruhu vľavo/vpravo",
+        "_c22": "Farba štítku kruhu vľavo/vpravo",
+        "_c23": "Farba textu dolného kruhu",
+        "_c24": "Farba štítku dolného kruhu",
+        "_c25": "Farba textu dolného centra",
+        "_c26": "Farba štítku dolného centra",
+
+        "_c27": "Farba priebehu 1",
+        "_c28": "Farba priebehu 2",
+        "_c29": "Priebeh nevyplnený",
+
+        "_c30": "Farba ikon stavu",
+
+        "_gq": "Kvalita prechodu",
+        "_ng": "Bez prechodu",
+        "_sh": "Tieň času",
+
+        "_md1": "Údaje značky 1",
+        "_md2": "Údaje značky 2",
+        
+        "_f1": "Údaje dolného kruhu",
+        "_l1": "Štítok dolného kruhu",
+        "_p1": "Štýl priebehu dolného kruhu",
+
+        "_f2": "Údaje ľavého kruhu",
+        "_l2": "Štítok ľavého kruhu",
+        "_p2": "Štýl priebehu ľavého kruhu",
+
+        "_f3": "Údaje pravého kruhu",
+        "_l3": "Štítok pravého kruhu",
+        "_p3": "Štýl priebehu pravého kruhu",
+
+        "_f4": "Údaje horného priebehu",
+        "_f5": "Údaje dolného priebehu",
+
+        "_f10": "Údaje horné 1",
+        "_l10": "Štítok horný 1",
+        "_f11": "Údaje horné 2",
+        "_l11": "Štítok horný 2",
+
+        "_l12": "Štítok vľavo horný",
+        "_f12": "Údaje vľavo horné",
+        "_l13": "Štítok vpravo horný",
+        "_f13": "Údaje vpravo horné",
+
+        "_l14": "Štítok vľavo dolný",
+        "_f14": "Údaje vľavo dolné",
+
+        "_l15": "Štítok vpravo dolný",
+        "_f15": "Údaje vpravo dolné",
+
+        "_l16": "Štítok centrum dolné vľavo",
+        "_f16": "Údaje centrum dolné vľavo",
+
+        "_l17": "Štítok centrum dolné vpravo",
+        "_f17": "Údaje centrum dolné vpravo",
+        "_f18": "Radiálne dátové pole (pozri FAQ!)",
+
+        "_0f" : "Zobraziť priebeh poľa",
+        "_1f" : "Plný",
+        "_2f" : "Prázdny",
+        "_3f" : "Skryť",
+
+        "_4f" : "Rovnaké ako farba hlavného štítku",
+        "_5f" : "Rovnaké ako farba hlavného textu",
+        "_6f" : "Rovnaké ako farba priebehu",
+        "_7f" : "Rovnaké ako farba pozadia",
+
+        "_g1" : "Veľkosť rozostupu kruhov priebehu",
+        "_g2" : "Veľkosť kroku kruhov priebehu",
+        "_g3" : "Priehľadnosť pozadia kruhov",
+        "_g4" : "Dni v týždni v angličtine",
+        "_g5" : "Tieňovanie priebehu horné/dolné",
+      
+        "_bgs": "Štýl pozadia",
+        "bg_detailed": "=== Podrobné pozadia: ===",
+        "bg0": "Bez pozadia",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (zastarané)",
+        "bg4": "Tieňované",
+        "bg5": "Dvojito tieňované",
+
+        "bg3": "MIPS pevné centrum, tieňované strany",
+
+        "bg_simple": "=== Jednoduché pozadia: ===",
+        "bg10": "Obrysy",
+        "bg11": "Čiary (1px)",
+        "bg12": "Čiary (2px)",
+        "bg13": "Čiary (3px)",
+        "bg14": "Čiary (4px)",
+
+        "_x2": "Načítať ďalšiu farebnú tému",
+        "_a1": "Dotyková skratka hodina vľavo",
+        "_a2": "Dotyková skratka hodina vpravo",
+        "_a3": "Dotyková skratka minúta vľavo",
+        "_a4": "Dotyková skratka minúta vpravo",
+
+        "_aas": "Sekundy vždy zapnuté",
+        "_aod": "Režim AOD (vždy zapnutý displej)",
+        "_aodct": "Farba odtieňa času AOD",
+        "_aodc": "Farba odtieňa údajov AOD",
+        "_aodT": "Jas času AOD",
+        "_aodD": "Jas údajov AOD. Ak sa obrazovka vypne počas AOD, znížte toto číslo. Menšie číslo = menšia spotreba batérie, ale menej jasné. Pozri FAQ)",
+        "_aodS": "Posun AOD - počet pixelov, o ktoré sa obrazovka náhodne posúva každú minútu na zabránenie vypálenia)",
+        "_f20": "Údaje poľa AOD",
+        "_l20": "Štítok poľa AOD",
+        "ad0": "Vypnúť obrazovku",
+        "ad100": "Plný AOD (predvolené)",
+        "ad1": "Iba čas",
+        "ad3": "Iba čas - pohyblivý",
+        "ad4": "Čas + dátové pole (vybrať nižšie)",
+        "ad6": "Pohyblivý čas + dátové pole"
+    }
+}

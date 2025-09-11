@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 AANRAAKSNELKOPPELINGEN",
+        "_tc": "🎨 KLEUREN / ACHTERGROND",
+        "_tt": "🔤 LETTERTYPEN",
+        "_ta": "🖼️ AOD INSTELLINGEN (Altijd aan display)",
+        "_to": "💡 OVERIG",
+        "_tx": "➡️ VERSCHUIVINGEN",
+
+        "_s1": "Bovenstijl",
+        "_s10": "Voortgangsbalk + 2 velden",
+        "_s11": "Halve voortgangsbalk + 2 horizontale velden",
+        "_s12": "2 velden met voortgang",
+        "_s13": "Weekdagen",
+        "_s14": "Weekdagen, geen markering",
+        "_s15": "Zonvoortgang",
+        "_s19": "Radiaal gegevensveld (alleen langzaam bijwerkende waarden aanbevolen)",
+
+        "_s2": "Onderste cirkelstijl",
+        "_s3": "Onderstijl",
+        "_s16": "60 segment cirkel",
+        "_s20": "30 segment cirkel",
+        "_s17": "Reguliere voortgangscirkel",
+        "_s18": "Geen cirkel",
+        "_si": "Statuspictogrammen tekenen (posities hieronder instellen, zie FAQ)",
+       
+    
+        "_t1": "Tijd lettertype",
+        "_t2": "Tijd lettertype AOD",
+        "_fo": "Omlijnd (indien beschikbaar)",
+        "_fk": "Hetzelfde houden",
+
+        "_t3": "Tekst lettertype",
+        "_t4": "Weekdagen lettertype",
+        "_t5": "Boven 2 lettertype",
+        "_t6": "Links/rechts cirkel lettertype",
+        "_t7": "Onderste cirkel tekst lettertype",
+        "_t8": "Onderste cirkel label lettertype",
+        "_t9": "Onder centrum velden lettertype",
+
+        
+
+        "_t1s": "Tijd lettertype grootte (alleen voor aanpasbare lettertypen)",
+        "_t3s": "Tekst lettertype grootte (alleen voor aanpasbare lettertypen)",
+        "_t4s": "Weekdagen lettertype grootte",
+        "_t5s": "Boven 2 lettertype grootte",
+        "_t6s": "Links/rechts cirkel lettertype grootte",
+        "_t7s": "Onderste cirkel tekst lettertype grootte",
+        "_t8s": "Onderste cirkel label lettertype grootte",
+        "_t9s": "Onder centrum velden lettertype grootte",
+
+        "_o1": "Tijd verschuivingen (X, Y, X afstand, Y afstand, weekdagen, weekdag markering) Standaard: 20",
+        "_o2": "Veld verschuivingen (Boven 1 Y, Boven 2 Y, L/R boven tekst Y, L/R boven label Y, L/R onder tekst Y, L/R onder label Y)",
+        "_o3": "Veld verschuivingen 2 (Onderste cirkel tekst y, Onderste cirkel label Y, L/R cirkels tekst Y, L/R cirkels label Y, Centrum onder links Y, Centrum onder rechts Y)",
+        "_o4": "Statuspictogram posities % (Meld X, Meld Y, BT X, BT Y, NSD X, NSD Y, Alarm X, Alarm Y) Uitschakelen: -1, Standaard: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Markering 1 kleur",
+        "_mc2": "Markering 2 kleur",
+
+        "_c1": "Uur 1 kleur",
+        "_c2": "Uur 2 kleur",
+        "_c3": "Minuut 1 kleur",
+        "_c4": "Minuut 2 kleur",
+        "_dr": "75% donkerder",
+
+        "_pc": "Tekstkleur",
+        "_ic": "Labelkleur",      
+        
+        "_b1": "Achtergrondkleur centrum / tint",
+        "_b2": "Achtergrondkleur links/rechts",
+        "_b3": "Achtergrond alleen-lijnen kleur",
+        "_bgc": "Achtergrondkleur zijden (alleen eenvoudige achtergrond)",
+        "_b4": "Achtergrond achter MIPS verloop tijd",
+
+        "_c5": "Onderste cirkel kleur 1",
+        "_c6": "Onderste cirkel kleur 2",
+        "_c7": "Onderste cirkel ongevuld",
+        "_c8": "Onderste cirkel achtergrond",
+        "_c9": "Onderste cirkel schaduwkleur",
+
+        "_c10": "Links/rechts cirkel kleur 1",
+        "_c11": "Links/rechts cirkel kleur 2",
+        "_c12": "Links/rechts cirkel ongevuld",
+
+        "_c13": "Links/rechts cirkel achtergrond",
+        "_c14": "Links/rechts cirkel schaduwkleur",
+
+        "_c15": "Weekdagen huidige dag kleur",
+        "_c16": "Weekdagen kleur",
+        "_c17": "Boven label kleur",
+        "_c18": "Boven tekst kleur",
+        "_c19": "Boven 2 label kleur",
+        "_c20": "Boven 2 tekst kleur",
+
+        "_c21": "Links/rechts cirkel tekst kleur",
+        "_c22": "Links/rechts cirkel label kleur",
+        "_c23": "Onderste cirkel tekst kleur",
+        "_c24": "Onderste cirkel label kleur",
+        "_c25": "Centrum onder tekst kleur",
+        "_c26": "Centrum onder label kleur",
+
+        "_c27": "Voortgang kleur 1",
+        "_c28": "Voortgang kleur 2",
+        "_c29": "Voortgang ongevuld",
+
+        "_c30": "Statuspictogrammen kleur",
+
+        "_gq": "Verloop kwaliteit",
+        "_ng": "Geen verloop",
+        "_sh": "Tijd schaduw",
+
+        "_md1": "Markering 1 gegevens",
+        "_md2": "Markering 2 gegevens",
+        
+        "_f1": "Onderste cirkel gegevens",
+        "_l1": "Onderste cirkel label",
+        "_p1": "Onderste cirkel voortgangsstijl",
+
+        "_f2": "Linker cirkel gegevens",
+        "_l2": "Linker cirkel label",
+        "_p2": "Linker cirkel voortgangsstijl",
+
+        "_f3": "Rechter cirkel gegevens",
+        "_l3": "Rechter cirkel label",
+        "_p3": "Rechter cirkel voortgangsstijl",
+
+        "_f4": "Boven voortgang gegevens",
+        "_f5": "Onder voortgang gegevens",
+
+        "_f10": "Boven 1 gegevens",
+        "_l10": "Boven 1 label",
+        "_f11": "Boven 2 gegevens",
+        "_l11": "Boven 2 label",
+
+        "_l12": "Links boven label",
+        "_f12": "Links boven gegevens",
+        "_l13": "Rechts boven label",
+        "_f13": "Rechts boven gegevens",
+
+        "_l14": "Links onder label",
+        "_f14": "Links onder gegevens",
+
+        "_l15": "Rechts onder label",
+        "_f15": "Rechts onder gegevens",
+
+        "_l16": "Centrum onder links label",
+        "_f16": "Centrum onder links gegevens",
+
+        "_l17": "Centrum onder rechts label",
+        "_f17": "Centrum onder rechts gegevens",
+        "_f18": "Radiaal gegevensveld (zie FAQ!)",
+
+        "_0f" : "Veld voortgang tonen",
+        "_1f" : "Vol",
+        "_2f" : "Leeg",
+        "_3f" : "Verbergen",
+
+        "_4f" : "Zelfde als hoofdlabel kleur",
+        "_5f" : "Zelfde als hoofdtekst kleur",
+        "_6f" : "Zelfde als voortgang kleur",
+        "_7f" : "Zelfde als achtergrond kleur",
+
+        "_g1" : "Voortgangscirkels tussenruimte grootte",
+        "_g2" : "Voortgangscirkels stapgrootte",
+        "_g3" : "Cirkels achtergrond transparantie",
+        "_g4" : "Weekdagen Engels gebruiken",
+        "_g5" : "Voortgang boven/onder schaduwing",
+      
+        "_bgs": "Achtergrondstijl",
+        "bg_detailed": "=== Gedetailleerde achtergronden: ===",
+        "bg0": "Geen achtergrond",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (verouderd)",
+        "bg4": "Geschaduwd",
+        "bg5": "2x geschaduwd",
+
+        "bg3": "MIPS vast centrum, geschaduwde zijden",
+
+        "bg_simple": "=== Eenvoudige achtergronden: ===",
+        "bg10": "Omtrekken",
+        "bg11": "Lijnen (1px)",
+        "bg12": "Lijnen (2px)",
+        "bg13": "Lijnen (3px)",
+        "bg14": "Lijnen (4px)",
+
+        "_x2": "Volgende kleurenthema laden",
+        "_a1": "Aanraaksnelkoppeling uur links",
+        "_a2": "Aanraaksnelkoppeling uur rechts",
+        "_a3": "Aanraaksnelkoppeling minuut links",
+        "_a4": "Aanraaksnelkoppeling minuut rechts",
+
+        "_aas": "Altijd aan seconden",
+        "_aod": "AOD modus (altijd aan display)",
+        "_aodct": "AOD tijd tint kleur",
+        "_aodc": "AOD gegevens tint kleur",
+        "_aodT": "AOD tijd helderheid",
+        "_aodD": "AOD gegevens helderheid. Als scherm uitgaat tijdens AOD, maak dit getal lager. Lager getal = minder batterijverbruik maar minder helder. Zie FAQ)",
+        "_aodS": "AOD verschuiving - aantal pixels die het scherm willekeurig per minuut verschuift om inbranden te voorkomen)",
+        "_f20": "AOD veld gegevens",
+        "_l20": "AOD veld label",
+        "ad0": "Scherm UITSCHAKELEN",
+        "ad100": "Volledige AOD (standaard)",
+        "ad1": "Alleen tijd",
+        "ad3": "Alleen tijd - bewegend",
+        "ad4": "Tijd + gegevensveld (selecteer hieronder)",
+        "ad6": "Bewegende tijd + gegevensveld"
+    }
+}

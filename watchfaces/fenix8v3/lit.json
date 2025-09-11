@@ -1,0 +1,227 @@
+{
+    "settings": {
+
+        "_tr": "👉 PALIESTI SPARTIEJI KLAVIŠAI",
+        "_tc": "🎨 SPALVOS / FONAS",
+        "_tt": "🔤 ŠRIFTAI",
+        "_ta": "🖼️ AOD NUSTATYMAI (Visada įjungtas ekranas)",
+        "_to": "💡 KITA",
+        "_tx": "➡️ POSLINKIAI",
+
+        "_s1": "Viršutinis stilius",
+        "_s10": "Progreso juosta + 2 laukai",
+        "_s11": "Pusės progreso juosta + 2 horizontalūs laukai",
+        "_s12": "2 laukai su progresu",
+        "_s13": "Savaitės dienos",
+        "_s14": "Savaitės dienos, be žymeklio",
+        "_s15": "Saulės progresas",
+        "_s19": "Radialinis duomenų laukas (rekomenduojamos tik lėtai atnaujinamos reikšmės)",
+
+        "_s2": "Apatinio rato stilius",
+        "_s3": "Apatinis stilius",
+        "_s16": "60 segmentų ratas",
+        "_s20": "30 segmentų ratas",
+        "_s17": "Įprastas progreso ratas",
+        "_s18": "Be rato",
+        "_si": "Piešti būsenos piktogramas (nustatykite pozicijas žemiau, žr. DUK)",
+       
+    
+        "_t1": "Laiko šriftas",
+        "_t2": "Laiko šriftas AOD",
+        "_fo": "Kontūrinis (jei galimas)",
+        "_fk": "Palikti tą patį",
+
+        "_t3": "Teksto šriftas",
+        "_t4": "Savaitės dienų šriftas",
+        "_t5": "Viršutinis 2 šriftas",
+        "_t6": "Kairės/dešinės rato šriftas",
+        "_t7": "Apatinio rato teksto šriftas",
+        "_t8": "Apatinio rato etiketės šriftas",
+        "_t9": "Apatinio centro laukų šriftas",
+
+        
+
+        "_t1s": "Laiko šrifto dydis (tik keičiamo dydžio šriftai)",
+        "_t3s": "Teksto šrifto dydis (tik keičiamo dydžio šriftai)",
+        "_t4s": "Savaitės dienų šrifto dydis",
+        "_t5s": "Viršutinio 2 šrifto dydis",
+        "_t6s": "Kairės/dešinės rato šrifto dydis",
+        "_t7s": "Apatinio rato teksto šrifto dydis",
+        "_t8s": "Apatinio rato etiketės šrifto dydis",
+        "_t9s": "Apatinio centro laukų šrifto dydis",
+
+        "_o1": "Laiko poslinkiai (X, Y, X tarpas, Y tarpas, Savaitės dienos, Savaitės dienos žymeklis) Numatytasis: 20",
+        "_o2": "Laukų poslinkiai (Viršutinis 1 Y, Viršutinis 2 Y, K/D viršutinis tekstas Y, K/D viršutinė etiketė Y, K/D apatinis tekstas Y, K/D apatinė etiketė Y)",
+        "_o3": "Laukų poslinkiai 2 (Apatinio rato tekstas y, Apatinio rato etiketė Y, K/D ratų tekstas Y, K/D ratų etiketė Y, Centro apatinis kairys Y, Centro apatinis dešinys Y)",
+        "_o4": "Būsenos piktogramų pozicijos % (Pran X, Pran Y, BT X, BT Y, DND X, DND Y, Žad X, Žad Y) Išjungti: -1, Numatytasis: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Žymeklio 1 spalva",
+        "_mc2": "Žymeklio 2 spalva",
+
+        "_c1": "Valandos 1 spalva",
+        "_c2": "Valandos 2 spalva",
+        "_c3": "Minutės 1 spalva",
+        "_c4": "Minutės 2 spalva",
+        "_dr": "75% tamsiau",
+
+        "_pc": "Teksto spalva",
+        "_ic": "Etiketės spalva",      
+        
+        "_b1": "Fono spalva centre / atspalvis",
+        "_b2": "Fono spalva kairėje/dešinėje",
+        "_b3": "Fono linijų spalva",
+        "_bgc": "Fono spalva šonuose (tik paprastas fonas)",
+        "_b4": "Fonas už MIPS gradiento laiko",
+
+
+        "_c5": "Apatinio rato spalva 1",
+        "_c6": "Apatinio rato spalva 2",
+        "_c7": "Apatinis ratas neužpildytas",
+        "_c8": "Apatinio rato fonas",
+        "_c9": "Apatinio rato šešėlio spalva",
+
+        "_c10": "Kairės/dešinės rato spalva 1",
+        "_c11": "Kairės/dešinės rato spalva 2",
+        "_c12": "Kairės/dešinės ratas neužpildytas",
+
+        "_c13": "Kairės/dešinės rato fonas",
+        "_c14": "Kairės/dešinės rato šešėlio spalva",
+
+        "_c15": "Savaitės dienų dabartinės dienos spalva",
+        "_c16": "Savaitės dienų spalva",
+        "_c17": "Viršutinės etiketės spalva",
+        "_c18": "Viršutinio teksto spalva",
+        "_c19": "Viršutinės 2 etiketės spalva",
+        "_c20": "Viršutinio 2 teksto spalva",
+
+        "_c21": "Kairės/dešinės rato teksto spalva",
+        "_c22": "Kairės/dešinės rato etiketės spalva",
+        "_c23": "Apatinio rato teksto spalva",
+        "_c24": "Apatinio rato etiketės spalva",
+
+        "_c25": "Centro apatinio teksto spalva",
+        "_c26": "Centro apatinės etiketės spalva",
+
+        "_c27": "Progreso spalva 1",
+        "_c28": "Progreso spalva 2",
+        "_c29": "Progresas neužpildytas",
+
+        "_c30": "Būsenos piktogramų spalva",
+
+
+
+
+        "_gq": "Gradiento kokybė",
+        "_ng": "Be gradiento",
+        "_sh": "Laiko šešėlis",
+
+
+        "_md1": "Žymeklio 1 duomenys",
+        "_md2": "Žymeklio 2 duomenys",
+        
+        "_f1": "Apatinio rato duomenys",
+        "_l1": "Apatinio rato etiketė",
+        "_p1": "Apatinio rato progreso stilius",
+
+        "_f2": "Kairės rato duomenys",
+        "_l2": "Kairės rato etiketė",
+        "_p2": "Kairės rato progreso stilius",
+
+        "_f3": "Dešinės rato duomenys",
+        "_l3": "Dešinės rato etiketė",
+        "_p3": "Dešinės rato progreso stilius",
+
+        "_f4": "Viršutinio progreso duomenys",
+        "_f5": "Apatinio progreso duomenys",
+
+        "_f10": "Viršutiniai 1 duomenys",
+        "_l10": "Viršutinė 1 etiketė",
+        "_f11": "Viršutiniai 2 duomenys",
+        "_l11": "Viršutinė 2 etiketė",
+
+        "_l12": "Kairės viršutinė etiketė",
+        "_f12": "Kairės viršutiniai duomenys",
+        "_l13": "Dešinės viršutinė etiketė",
+        "_f13": "Dešinės viršutiniai duomenys",
+
+        "_l14": "Kairės apatinė etiketė",
+        "_f14": "Kairės apatiniai duomenys",
+
+        "_l15": "Dešinės apatinė etiketė",
+        "_f15": "Dešinės apatiniai duomenys",
+
+
+        "_l16": "Centro apatinė kairė etiketė",
+        "_f16": "Centro apatiniai kairieji duomenys",
+
+        "_l17": "Centro apatinė dešinė etiketė",
+        "_f17": "Centro apatiniai dešinieji duomenys",
+        "_f18": "Radialinis duomenų laukas (žr. DUK!)",
+
+        
+
+
+        "_0f" : "Rodyti lauko progresą",
+        "_1f" : "Pilnas",
+        "_2f" : "Tuščias",
+        "_3f" : "Slėpti",
+
+        "_4f" : "Tas pats kaip pagrindinės etiketės spalva",
+        "_5f" : "Tas pats kaip pagrindinio teksto spalva",
+        "_6f" : "Tas pats kaip progreso spalva",
+        "_7f" : "Tas pats kaip fono spalva",
+
+
+
+        "_g1" : "Progreso ratų tarpo dydis",
+        "_g2" : "Progreso ratų žingsnio dydis",
+        "_g3" : "Ratų fono skaidrumas",
+        "_g4" : "Savaitės dienos naudoti anglų kalba",
+        "_g5" : "Progreso viršaus/apačios šešėliavimas",
+      
+        "_bgs": "Fono stilius",
+        "bg_detailed": "=== Detalūs fonai: ===",
+        "bg0": "Be fono",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (paveldėtas)",
+        "bg4": "Su šešėliu",
+        "bg5": "2x su šešėliu",
+
+        "bg3": "MIPS kietas centras, šešėliuoti šonai",
+
+        "bg_simple": "=== Paprasti fonai: ===",
+        "bg10": "Kontūrai",
+        "bg11": "Linijos (1px)",
+        "bg12": "Linijos (2px)",
+        "bg13": "Linijos (3px)",
+        "bg14": "Linijos (4px)",
+
+        "_x2": "Įkelti kitą spalvų temą",
+        "_a1": "Paliesti spartysis valandos kairė",
+        "_a2": "Paliesti spartysis valandos dešinė",
+        "_a3": "Paliesti spartysis minutės kairė",
+        "_a4": "Paliesti spartysis minutės dešinė",
+
+       
+        "_aas": "Visada įjungtos sekundės",
+        "_aod": "AOD režimas (visada įjungtas ekranas)",
+        "_aodct": "AOD laiko atspalvio spalva",
+        "_aodc": "AOD duomenų atspalvio spalva",
+        "_aodT": "AOD laiko ryškumas",
+        "_aodD": "AOD duomenų ryškumas. Jei AOD metu ekranas išsijungia, sumažinkite šį skaičių. Mažesnis skaičius = mažesnis baterijos naudojimas, bet mažesnis ryškumas. Žr. DUK)",
+        "_aodS": "AOD poslinkis - pikselių skaičius, per kurį ekranas kas minutę atsitiktinai pasislenka, kad būtų išvengta prideginimo)",
+        "_f20": "AOD lauko duomenys",
+        "_l20": "AOD lauko etiketė",
+        "ad0": "Išjungti ekraną",
+        "ad100": "Pilnas AOD (numatytasis)",
+        "ad1": "Tik laikas",
+        "ad3": "Tik laikas - judantis",
+        "ad4": "Laikas + duomenų laukas (pasirinkite žemiau)",
+        "ad6": "Judantis laikas + duomenų laukas"
+
+        
+
+
+        
+    }
+}

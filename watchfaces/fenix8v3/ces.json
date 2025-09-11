@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 DOTYKOVÁ ZKRATKY",
+        "_tc": "🎨 BARVY / POZADÍ",
+        "_tt": "🔤 PÍSMA",
+        "_ta": "🖼️ NASTAVENÍ AOD (Vždy zapnutý displej)",
+        "_to": "💡 OSTATNÍ",
+        "_tx": "➡️ POSUNY",
+
+        "_s1": "Horní styl",
+        "_s10": "Progressbar + 2 pole",
+        "_s11": "Poloviční progressbar + 2 horizontální pole",
+        "_s12": "2 pole s pokrokem",
+        "_s13": "Dny v týdnu",
+        "_s14": "Dny v týdnu, bez značky",
+        "_s15": "Pokrok slunce",
+        "_s19": "Radiální datové pole (doporučuje se pouze pro pomalu se aktualizující hodnoty)",
+
+        "_s2": "Styl spodního kruhu",
+        "_s3": "Spodní styl",
+        "_s16": "60segmentový kruh",
+        "_s20": "30segmentový kruh",
+        "_s17": "Běžný kruh pokroku",
+        "_s18": "Bez kruhu",
+        "_si": "Kreslit ikony stavu (nastavte pozice níže, viz FAQ)",
+       
+    
+        "_t1": "Písmo času",
+        "_t2": "Písmo času AOD",
+        "_fo": "Obrysy (pokud jsou dostupné)",
+        "_fk": "Ponechat stejné",
+
+        "_t3": "Písmo textu",
+        "_t4": "Písmo dnů v týdnu",
+        "_t5": "Písmo horní 2",
+        "_t6": "Písmo levého/pravého kruhu",
+        "_t7": "Písmo textu spodního kruhu",
+        "_t8": "Písmo popisku spodního kruhu",
+        "_t9": "Písmo polí spodního středu",
+
+        
+
+        "_t1s": "Velikost písma času (pouze u písem s měnitelnou velikostí)",
+        "_t3s": "Velikost písma textu (pouze u písem s měnitelnou velikostí)",
+        "_t4s": "Velikost písma dnů v týdnu",
+        "_t5s": "Velikost písma horní 2",
+        "_t6s": "Velikost písma levého/pravého kruhu",
+        "_t7s": "Velikost písma textu spodního kruhu",
+        "_t8s": "Velikost písma popisku spodního kruhu",
+        "_t9s": "Velikost písma polí spodního středu",
+
+        "_o1": "Posuny času (X, Y, rozestup X, rozestup Y, dny v týdnu, značka dne v týdnu) Výchozí: 20",
+        "_o2": "Posuny polí (horní 1 Y, horní 2 Y, L/P horní text Y, L/P horní popisek Y, L/P spodní text Y, L/P spodní popisek Y)",
+        "_o3": "Posuny polí 2 (text spodního kruhu y, popisek spodního kruhu Y, text L/P kruhů Y, popisek L/P kruhů Y, střed spodní levý Y, střed spodní pravý Y)",
+        "_o4": "Pozice ikon stavu % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Zakázat: -1, Výchozí: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Barva značky 1",
+        "_mc2": "Barva značky 2",
+
+        "_c1": "Barva hodiny 1",
+        "_c2": "Barva hodiny 2",
+        "_c3": "Barva minuty 1",
+        "_c4": "Barva minuty 2",
+        "_dr": "75% tmavší",
+
+        "_pc": "Barva textu",
+        "_ic": "Barva popisku",      
+        
+        "_b1": "Barva pozadí střed / odstín",
+        "_b2": "Barva pozadí vlevo/vpravo",
+        "_b3": "Barva pozadí pouze čáry",
+        "_bgc": "Barva pozadí strany (pouze jednoduché pozadí)",
+        "_b4": "Pozadí za MIPS gradientním časem",
+
+        "_c5": "Barva spodního kruhu 1",
+        "_c6": "Barva spodního kruhu 2",
+        "_c7": "Spodní kruh nevyplněný",
+        "_c8": "Pozadí spodního kruhu",
+        "_c9": "Barva stínu spodního kruhu",
+
+        "_c10": "Barva levého/pravého kruhu 1",
+        "_c11": "Barva levého/pravého kruhu 2",
+        "_c12": "Levý/pravý kruh nevyplněný",
+
+        "_c13": "Pozadí levého/pravého kruhu",
+        "_c14": "Barva stínu levého/pravého kruhu",
+
+        "_c15": "Barva aktuálního dne v týdnu",
+        "_c16": "Barva dnů v týdnu",
+        "_c17": "Barva horního popisku",
+        "_c18": "Barva horního textu",
+        "_c19": "Barva popisku horní 2",
+        "_c20": "Barva textu horní 2",
+
+        "_c21": "Barva textu levého/pravého kruhu",
+        "_c22": "Barva popisku levého/pravého kruhu",
+        "_c23": "Barva textu spodního kruhu",
+        "_c24": "Barva popisku spodního kruhu",
+        "_c25": "Barva textu spodního středu",
+        "_c26": "Barva popisku spodního středu",
+
+        "_c27": "Barva pokroku 1",
+        "_c28": "Barva pokroku 2",
+        "_c29": "Pokrok nevyplněný",
+
+        "_c30": "Barva ikon stavu",
+
+        "_gq": "Kvalita gradientu",
+        "_ng": "Bez gradientu",
+        "_sh": "Stín času",
+
+        "_md1": "Data značky 1",
+        "_md2": "Data značky 2",
+        
+        "_f1": "Data spodního kruhu",
+        "_l1": "Popisek spodního kruhu",
+        "_p1": "Styl pokroku spodního kruhu",
+
+        "_f2": "Data levého kruhu",
+        "_l2": "Popisek levého kruhu",
+        "_p2": "Styl pokroku levého kruhu",
+
+        "_f3": "Data pravého kruhu",
+        "_l3": "Popisek pravého kruhu",
+        "_p3": "Styl pokroku pravého kruhu",
+
+        "_f4": "Data horního pokroku",
+        "_f5": "Data spodního pokroku",
+
+        "_f10": "Data horní 1",
+        "_l10": "Popisek horní 1",
+        "_f11": "Data horní 2",
+        "_l11": "Popisek horní 2",
+
+        "_l12": "Popisek horní levý",
+        "_f12": "Data horní levý",
+        "_l13": "Popisek horní pravý",
+        "_f13": "Data horní pravý",
+
+        "_l14": "Popisek spodní levý",
+        "_f14": "Data spodní levý",
+
+        "_l15": "Popisek spodní pravý",
+        "_f15": "Data spodní pravý",
+
+        "_l16": "Popisek střed spodní levý",
+        "_f16": "Data střed spodní levý",
+
+        "_l17": "Popisek střed spodní pravý",
+        "_f17": "Data střed spodní pravý",
+        "_f18": "Radiální datové pole (viz FAQ!)",
+
+        "_0f" : "Zobrazit pokrok pole",
+        "_1f" : "Plný",
+        "_2f" : "Prázdný",
+        "_3f" : "Skrýt",
+
+        "_4f" : "Stejná jako barva hlavního popisku",
+        "_5f" : "Stejná jako barva hlavního textu",
+        "_6f" : "Stejná jako barva pokroku",
+        "_7f" : "Stejná jako barva pozadí",
+
+        "_g1" : "Velikost mezery kruhů pokroku",
+        "_g2" : "Velikost kroku kruhů pokroku",
+        "_g3" : "Průhlednost pozadí kruhů",
+        "_g4" : "Dny v týdnu anglicky",
+        "_g5" : "Stínování pokroku horní/spodní",
+      
+        "_bgs": "Styl pozadí",
+        "bg_detailed": "=== Podrobná pozadí: ===",
+        "bg0": "Bez pozadí",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (starší)",
+        "bg4": "Stínované",
+        "bg5": "2x stínované",
+
+        "bg3": "MIPS plný střed, stínované strany",
+
+        "bg_simple": "=== Jednoduchá pozadí: ===",
+        "bg10": "Obrysy",
+        "bg11": "Čáry (1px)",
+        "bg12": "Čáry (2px)",
+        "bg13": "Čáry (3px)",
+        "bg14": "Čáry (4px)",
+
+        "_x2": "Načíst další barevné téma",
+        "_a1": "Dotyková zkratka hodina vlevo",
+        "_a2": "Dotyková zkratka hodina vpravo",
+        "_a3": "Dotyková zkratka minuta vlevo",
+        "_a4": "Dotyková zkratka minuta vpravo",
+
+        "_aas": "Vždy zapnuté sekundy",
+        "_aod": "AOD režim (vždy zapnutý displej)",
+        "_aodct": "Barva odstínu času AOD",
+        "_aodc": "Barva odstínu dat AOD",
+        "_aodT": "Jas času AOD",
+        "_aodD": "Jas dat AOD. Pokud se obrazovka vypne během AOD, snižte toto číslo. Nižší číslo = menší spotřeba baterie, ale méně jasné. Viz FAQ)",
+        "_aodS": "AOD posun - počet pixelů, o které se obrazovka náhodně posune každou minutu, aby se zabránilo vypálení)",
+        "_f20": "Data pole AOD",
+        "_l20": "Popisek pole AOD",
+        "ad0": "Vypnout obrazovku",
+        "ad100": "Plný AOD (výchozí)",
+        "ad1": "Pouze čas",
+        "ad3": "Pouze čas - pohyblivý",
+        "ad4": "Čas + datové pole (vyberte níže)",
+        "ad6": "Pohyblivý čas + datové pole"
+    }
+}

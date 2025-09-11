@@ -1,0 +1,227 @@
+{
+    "settings": {
+
+        "_tr": "👉 BERØRINGSSNARVEIER",
+        "_tc": "🎨 FARGER / BAKGRUNN",
+        "_tt": "🔤 SKRIFTER",
+        "_ta": "🖼️ AOD INNSTILLINGER (Alltid på skjerm)",
+        "_to": "💡 ANNET",
+        "_tx": "➡️ FORFLYTNINGER",
+
+        "_s1": "Topp stil",
+        "_s10": "Fremdriftslinje + 2 felter",
+        "_s11": "Halv fremdriftslinje + 2 horisontale felter",
+        "_s12": "2 felter med fremdrift",
+        "_s13": "Ukedager",
+        "_s14": "Ukedager, ingen markør",
+        "_s15": "Sol fremdrift",
+        "_s19": "Radialt datafelt (kun sakte oppdaterende verdier anbefalt)",
+
+        "_s2": "Bunn sirkel stil",
+        "_s3": "Bunn stil",
+        "_s16": "60 segment sirkel",
+        "_s20": "30 segment sirkel",
+        "_s17": "Vanlig fremdriftssirkel",
+        "_s18": "Ingen sirkel",
+        "_si": "Tegn statusikoner (angi posisjoner nedenfor, se FAQ)",
+       
+    
+        "_t1": "Tid skrift",
+        "_t2": "Tid skrift AOD",
+        "_fo": "Konturert (hvis tilgjengelig)",
+        "_fk": "Behold den samme",
+
+        "_t3": "Tekst skrift",
+        "_t4": "Ukedager skrift",
+        "_t5": "Topp 2 skrift",
+        "_t6": "Venstre/høyre sirkel skrift",
+        "_t7": "Bunn sirkel tekst skrift",
+        "_t8": "Bunn sirkel etikett skrift",
+        "_t9": "Bunn senter felt skrift",
+
+        
+
+        "_t1s": "Tid skriftstørrelse (kun skalerbare skrifter)",
+        "_t3s": "Tekst skriftstørrelse (kun skalerbare skrifter)",
+        "_t4s": "Ukedager skriftstørrelse",
+        "_t5s": "Topp 2 skriftstørrelse",
+        "_t6s": "Venstre/høyre sirkel skriftstørrelse",
+        "_t7s": "Bunn sirkel tekst skriftstørrelse",
+        "_t8s": "Bunn sirkel etikett skriftstørrelse",
+        "_t9s": "Bunn senter felt skriftstørrelse",
+
+        "_o1": "Tid forflytninger (X, Y, X avstand, Y avstand, Ukedager, Ukedag markør) Standard: 20",
+        "_o2": "Felt forflytninger (Topp 1 Y, Topp 2 Y, V/H topp tekst Y, V/H topp etikett Y, V/H bunn tekst Y, V/H bunn etikett Y)",
+        "_o3": "Felt forflytninger 2 (Bunn sirkel tekst y, Bunn sirkel etikett Y, V/H sirkler tekst Y, V/H sirkler etikett Y, Senter bunn venstre Y, Senter bunn høyre Y)",
+        "_o4": "Statusikon posisjoner % (Vars X, Vars Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Deaktiver: -1, Standard: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Markør 1 farge",
+        "_mc2": "Markør 2 farge",
+
+        "_c1": "Time 1 farge",
+        "_c2": "Time 2 farge",
+        "_c3": "Minutt 1 farge",
+        "_c4": "Minutt 2 farge",
+        "_dr": "75% mørkere",
+
+        "_pc": "Tekst farge",
+        "_ic": "Etikett farge",      
+        
+        "_b1": "Bakgrunnsfarge senter / fargetone",
+        "_b2": "Bakgrunnsfarge venstre/høyre",
+        "_b3": "Bakgrunn linjer-kun farge",
+        "_bgc": "Bakgrunnsfarge sider (kun enkel bakgrunn)",
+        "_b4": "Bakgrunn bak MIPS gradient tid",
+
+
+        "_c5": "Bunn sirkel farge 1",
+        "_c6": "Bunn sirkel farge 2",
+        "_c7": "Bunn sirkel ufylt",
+        "_c8": "Bunn sirkel bakgrunn",
+        "_c9": "Bunn sirkel skygge farge",
+
+        "_c10": "Venstre/høyre sirkel farge 1",
+        "_c11": "Venstre/høyre sirkel farge 2",
+        "_c12": "Venstre/høyre sirkel ufylt",
+
+        "_c13": "Venstre/høyre sirkel bakgrunn",
+        "_c14": "Venstre/høyre sirkel skygge farge",
+
+        "_c15": "Ukedager gjeldende dag farge",
+        "_c16": "Ukedager farge",
+        "_c17": "Topp etikett farge",
+        "_c18": "Topp tekst farge",
+        "_c19": "Topp 2 etikett farge",
+        "_c20": "Topp 2 tekst farge",
+
+        "_c21": "Venstre/høyre sirkel tekst farge",
+        "_c22": "Venstre/høyre sirkel etikett farge",
+        "_c23": "Bunn sirkel tekst farge",
+        "_c24": "Bunn sirkel etikett farge",
+
+        "_c25": "Senter bunn tekst farge",
+        "_c26": "Senter bunn etikett farge",
+
+        "_c27": "Fremdrift farge 1",
+        "_c28": "Fremdrift farge 2",
+        "_c29": "Fremdrift ufylt",
+
+        "_c30": "Statusikoner farge",
+
+
+
+
+        "_gq": "Gradient kvalitet",
+        "_ng": "Ingen gradient",
+        "_sh": "Tid skygge",
+
+
+        "_md1": "Markør 1 data",
+        "_md2": "Markør 2 data",
+        
+        "_f1": "Bunn sirkel data",
+        "_l1": "Bunn sirkel etikett",
+        "_p1": "Bunn sirkel fremdrift stil",
+
+        "_f2": "Venstre sirkel data",
+        "_l2": "Venstre sirkel etikett",
+        "_p2": "Venstre sirkel fremdrift stil",
+
+        "_f3": "Høyre sirkel data",
+        "_l3": "Høyre sirkel etikett",
+        "_p3": "Høyre sirkel fremdrift stil",
+
+        "_f4": "Topp fremdrift data",
+        "_f5": "Bunn fremdrift data",
+
+        "_f10": "Topp 1 data",
+        "_l10": "Topp 1 etikett",
+        "_f11": "Topp 2 data",
+        "_l11": "Topp 2 etikett",
+
+        "_l12": "Venstre topp etikett",
+        "_f12": "Venstre topp data",
+        "_l13": "Høyre topp etikett",
+        "_f13": "Høyre topp data",
+
+        "_l14": "Venstre bunn etikett",
+        "_f14": "Venstre bunn data",
+
+        "_l15": "Høyre bunn etikett",
+        "_f15": "Høyre bunn data",
+
+
+        "_l16": "Senter bunn venstre etikett",
+        "_f16": "Senter bunn venstre data",
+
+        "_l17": "Senter bunn høyre etikett",
+        "_f17": "Senter bunn høyre data",
+        "_f18": "Radialt datafelt (se FAQ!)",
+
+        
+
+
+        "_0f" : "Vis felt fremdrift",
+        "_1f" : "Full",
+        "_2f" : "Tom",
+        "_3f" : "Skjul",
+
+        "_4f" : "Samme som hoved etikett farge",
+        "_5f" : "Samme som hoved tekst farge",
+        "_6f" : "Samme som fremdrift farge",
+        "_7f" : "Samme som bakgrunn farge",
+
+
+
+        "_g1" : "Fremdrift sirkler avstand størrelse",
+        "_g2" : "Fremdrift sirkler steg størrelse",
+        "_g3" : "Sirkler bakgrunn gjennomsiktighet",
+        "_g4" : "Ukedager bruk engelsk",
+        "_g5" : "Fremdrift topp/bunn skygge",
+      
+        "_bgs": "Bakgrunn stil",
+        "bg_detailed": "=== Detaljerte bakgrunner: ===",
+        "bg0": "Ingen bakgrunn",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (arv)",
+        "bg4": "Skygget",
+        "bg5": "2x skygget",
+
+        "bg3": "MIPS solid senter, skyggede sider",
+
+        "bg_simple": "=== Enkle bakgrunner: ===",
+        "bg10": "Konturer",
+        "bg11": "Linjer (1px)",
+        "bg12": "Linjer (2px)",
+        "bg13": "Linjer (3px)",
+        "bg14": "Linjer (4px)",
+
+        "_x2": "Last neste fargetema",
+        "_a1": "Berøring snarvei time venstre",
+        "_a2": "Berøring snarvei time høyre",
+        "_a3": "Berøring snarvei minutt venstre",
+        "_a4": "Berøring snarvei minutt høyre",
+
+       
+        "_aas": "Alltid på sekunder",
+        "_aod": "AOD modus (alltid på skjerm)",
+        "_aodct": "AOD tid fargetone farge",
+        "_aodc": "AOD data fargetone farge",
+        "_aodT": "AOD tid lysstyrke",
+        "_aodD": "AOD data lysstyrke. Hvis skjermen slås av under AOD, gjør dette tallet lavere. Lavere tall = mindre batterier bruk men mindre lysstyrke. Se FAQ)",
+        "_aodS": "AOD forskyvning - antall piksler skjermen tilfeldig flytter per minutt for å forhindre innbrenning)",
+        "_f20": "AOD felt data",
+        "_l20": "AOD felt etikett",
+        "ad0": "Slå av skjerm",
+        "ad100": "Full AOD (standard)",
+        "ad1": "Kun tid",
+        "ad3": "Kun tid - bevegelig",
+        "ad4": "Tid + datafelt (velg nedenfor)",
+        "ad6": "Bevegelig tid + datafelt"
+
+        
+
+
+        
+    }
+}

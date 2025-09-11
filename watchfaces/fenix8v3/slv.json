@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 DOTIK BLIŽNJICE",
+        "_tc": "🎨 BARVE / OZADJE",
+        "_tt": "🔤 PISAVE",
+        "_ta": "🖼️ NASTAVITVE AOD (Vedno vklopljen zaslon)",
+        "_to": "💡 DRUGO",
+        "_tx": "➡️ ZAMIKI",
+
+        "_s1": "Zgornji slog",
+        "_s10": "Napredek + 2 polji",
+        "_s11": "Pol napredka + 2 vodoravni polji",
+        "_s12": "2 polji z napredkom",
+        "_s13": "Dnevi v tednu",
+        "_s14": "Dnevi v tednu, brez oznake",
+        "_s15": "Napredek sonca",
+        "_s19": "Radialno podatkovno polje (priporočeno samo počasi posodabljane vrednosti)",
+
+        "_s2": "Slog spodnjega kroga",
+        "_s3": "Spodnji slog",
+        "_s16": "60 segmentni krog",
+        "_s20": "30 segmentni krog",
+        "_s17": "Navaden krog napredka",
+        "_s18": "Brez kroga",
+        "_si": "Nariši ikone stanja (nastavi pozicije spodaj, glej FAQ)",
+       
+    
+        "_t1": "Pisava časa",
+        "_t2": "Pisava časa AOD",
+        "_fo": "Obrisano (če je na voljo)",
+        "_fk": "Obdrži enako",
+
+        "_t3": "Pisava besedila",
+        "_t4": "Pisava dni v tednu",
+        "_t5": "Pisava zgornja 2",
+        "_t6": "Pisava kroga levo/desno",
+        "_t7": "Pisava besedila spodnjega kroga",
+        "_t8": "Pisava oznake spodnjega kroga",
+        "_t9": "Pisava polj spodnji center",
+
+        
+
+        "_t1s": "Velikost pisave časa (samo pisave z možnostjo spreminjanja velikosti)",
+        "_t3s": "Velikost pisave besedila (samo pisave z možnostjo spreminjanja velikosti)",
+        "_t4s": "Velikost pisave dni v tednu",
+        "_t5s": "Velikost pisave zgornja 2",
+        "_t6s": "Velikost pisave kroga levo/desno",
+        "_t7s": "Velikost pisave besedila spodnjega kroga",
+        "_t8s": "Velikost pisave oznake spodnjega kroga",
+        "_t9s": "Velikost pisave polj spodnji center",
+
+        "_o1": "Zamiki časa (X, Y, razmik X, razmik Y, dnevi v tednu, oznaka dneva v tednu) Privzeto: 20",
+        "_o2": "Zamiki polj (Zgornje 1 Y, Zgornje 2 Y, L/D besedilo zgornje Y, L/D oznaka zgornja Y, L/D besedilo spodnje Y, L/D oznaka spodnja Y)",
+        "_o3": "Zamiki polj 2 (Besedilo spodnjega kroga y, Oznaka spodnjega kroga Y, Besedilo krogov L/D Y, Oznaka krogov L/D Y, Center spodnji levi Y, Center spodnji desni Y)",
+        "_o4": "Pozicije ikon stanja % (Obvestilo X, Obvestilo Y, BT X, BT Y, Ne moti X, Ne moti Y, Alarm X, Alarm Y) Onemogoči: -1, Privzeto: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Barva oznake 1",
+        "_mc2": "Barva oznake 2",
+
+        "_c1": "Barva ure 1",
+        "_c2": "Barva ure 2",
+        "_c3": "Barva minute 1",
+        "_c4": "Barva minute 2",
+        "_dr": "75% temneje",
+
+        "_pc": "Barva besedila",
+        "_ic": "Barva oznake",      
+        
+        "_b1": "Barva ozadja center / odtenek",
+        "_b2": "Barva ozadja levo/desno",
+        "_b3": "Barva ozadja samo črte",
+        "_bgc": "Barva ozadja strani (samo preprosto ozadje)",
+        "_b4": "Ozadje MIPS za progresivnim časom",
+
+        "_c5": "Barva spodnjega kroga 1",
+        "_c6": "Barva spodnjega kroga 2",
+        "_c7": "Spodnji krog neizpolnjen",
+        "_c8": "Ozadje spodnjega kroga",
+        "_c9": "Barva sence spodnjega kroga",
+
+        "_c10": "Barva kroga levo/desno 1",
+        "_c11": "Barva kroga levo/desno 2",
+        "_c12": "Krog levo/desno neizpolnjen",
+
+        "_c13": "Ozadje kroga levo/desno",
+        "_c14": "Barva sence kroga levo/desno",
+
+        "_c15": "Barva trenutnega dne v tednu",
+        "_c16": "Barva dni v tednu",
+        "_c17": "Barva zgornje oznake",
+        "_c18": "Barva zgornjega besedila",
+        "_c19": "Barva zgornje oznake 2",
+        "_c20": "Barva zgornjega besedila 2",
+
+        "_c21": "Barva besedila kroga levo/desno",
+        "_c22": "Barva oznake kroga levo/desno",
+        "_c23": "Barva besedila spodnjega kroga",
+        "_c24": "Barva oznake spodnjega kroga",
+        "_c25": "Barva besedila spodnjega centra",
+        "_c26": "Barva oznake spodnjega centra",
+
+        "_c27": "Barva napredka 1",
+        "_c28": "Barva napredka 2",
+        "_c29": "Napredek neizpolnjen",
+
+        "_c30": "Barva ikon stanja",
+
+        "_gq": "Kakovost prehoda",
+        "_ng": "Brez prehoda",
+        "_sh": "Senca časa",
+
+        "_md1": "Podatki oznake 1",
+        "_md2": "Podatki oznake 2",
+        
+        "_f1": "Podatki spodnjega kroga",
+        "_l1": "Oznaka spodnjega kroga",
+        "_p1": "Slog napredka spodnjega kroga",
+
+        "_f2": "Podatki levega kroga",
+        "_l2": "Oznaka levega kroga",
+        "_p2": "Slog napredka levega kroga",
+
+        "_f3": "Podatki desnega kroga",
+        "_l3": "Oznaka desnega kroga",
+        "_p3": "Slog napredka desnega kroga",
+
+        "_f4": "Podatki zgornjega napredka",
+        "_f5": "Podatki spodnjega napredka",
+
+        "_f10": "Podatki zgornji 1",
+        "_l10": "Oznaka zgornja 1",
+        "_f11": "Podatki zgornji 2",
+        "_l11": "Oznaka zgornja 2",
+
+        "_l12": "Oznaka levi zgornji",
+        "_f12": "Podatki levi zgornji",
+        "_l13": "Oznaka desni zgornji",
+        "_f13": "Podatki desni zgornji",
+
+        "_l14": "Oznaka levi spodnji",
+        "_f14": "Podatki levi spodnji",
+
+        "_l15": "Oznaka desni spodnji",
+        "_f15": "Podatki desni spodnji",
+
+        "_l16": "Oznaka center spodnji levi",
+        "_f16": "Podatki center spodnji levi",
+
+        "_l17": "Oznaka center spodnji desni",
+        "_f17": "Podatki center spodnji desni",
+        "_f18": "Radialno podatkovno polje (glej FAQ!)",
+
+        "_0f" : "Prikaži napredek polja",
+        "_1f" : "Polno",
+        "_2f" : "Prazno",
+        "_3f" : "Skrij",
+
+        "_4f" : "Enako kot barva glavne oznake",
+        "_5f" : "Enako kot barva glavnega besedila",
+        "_6f" : "Enako kot barva napredka",
+        "_7f" : "Enako kot barva ozadja",
+
+        "_g1" : "Velikost razmika krogov napredka",
+        "_g2" : "Velikost koraka krogov napredka",
+        "_g3" : "Prosojnost ozadja krogov",
+        "_g4" : "Dnevi v tednu v angleščini",
+        "_g5" : "Senčenje napredka zgornji/spodnji",
+      
+        "_bgs": "Slog ozadja",
+        "bg_detailed": "=== Podrobna ozadja: ===",
+        "bg0": "Brez ozadja",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (zastarelo)",
+        "bg4": "Osenceno",
+        "bg5": "Dvojno osenceno",
+
+        "bg3": "MIPS fiksni center, osencene strani",
+
+        "bg_simple": "=== Preprosta ozadja: ===",
+        "bg10": "Obrisi",
+        "bg11": "Črte (1px)",
+        "bg12": "Črte (2px)",
+        "bg13": "Črte (3px)",
+        "bg14": "Črte (4px)",
+
+        "_x2": "Naloži naslednjo barvno temo",
+        "_a1": "Dotik bližnjica ura levo",
+        "_a2": "Dotik bližnjica ura desno",
+        "_a3": "Dotik bližnjica minuta levo",
+        "_a4": "Dotik bližnjica minuta desno",
+
+        "_aas": "Sekunde vedno vklopljene",
+        "_aod": "Način AOD (vedno vklopljen zaslon)",
+        "_aodct": "Barva odtenka časa AOD",
+        "_aodc": "Barva odtenka podatkov AOD",
+        "_aodT": "Svetlost časa AOD",
+        "_aodD": "Svetlost podatkov AOD. Če se zaslon ugasne med AOD, znižajte to številko. Manjša številka = manjša poraba baterije, vendar manj svetlo. Glej FAQ)",
+        "_aodS": "Zamik AOD - število slikovnih pik, za katere se zaslon naključno premakne vsako minuto za preprečevanje ožiga)",
+        "_f20": "Podatki polja AOD",
+        "_l20": "Oznaka polja AOD",
+        "ad0": "Ugasni zaslon",
+        "ad100": "Poln AOD (privzeto)",
+        "ad1": "Samo čas",
+        "ad3": "Samo čas - premikajoč",
+        "ad4": "Čas + podatkovno polje (izberi spodaj)",
+        "ad6": "Premikajoč čas + podatkovno polje"
+    }
+}

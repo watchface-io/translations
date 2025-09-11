@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 KOSKETUSPIKAVALINNAT",
+        "_tc": "🎨 VÄRIT / TAUSTA",
+        "_tt": "🔤 FONTIT",
+        "_ta": "🖼️ AOD ASETUKSET (Aina päällä oleva näyttö)",
+        "_to": "💡 MUUT",
+        "_tx": "➡️ SIIRTYMÄT",
+
+        "_s1": "Ylätyyli",
+        "_s10": "Edistymispalkki + 2 kenttää",
+        "_s11": "Puoli edistymispalkki + 2 vaakasuuntaista kenttää",
+        "_s12": "2 kenttää edistymisellä",
+        "_s13": "Viikonpäivät",
+        "_s14": "Viikonpäivät, ei merkintää",
+        "_s15": "Auringon edistyminen",
+        "_s19": "Radiaalinen tietokenttä (vain hitaasti päivittyvät arvot suositeltuja)",
+
+        "_s2": "Alaympyrän tyyli",
+        "_s3": "Alatyyli",
+        "_s16": "60 segmentin ympyrä",
+        "_s20": "30 segmentin ympyrä",
+        "_s17": "Tavallinen edistymisympyrä",
+        "_s18": "Ei ympyrää",
+        "_si": "Piirrä tilakuvakkeet (aseta sijainnit alla, katso UKK)",
+       
+    
+        "_t1": "Aika fontti",
+        "_t2": "Aika fontti AOD",
+        "_fo": "Ääriviivat (jos saatavilla)",
+        "_fk": "Pidä sama",
+
+        "_t3": "Teksti fontti",
+        "_t4": "Viikonpäivien fontti",
+        "_t5": "Ylä 2 fontti",
+        "_t6": "Vasen/oikea ympyrä fontti",
+        "_t7": "Alaympyrän teksti fontti",
+        "_t8": "Alaympyrän tunnisteen fontti",
+        "_t9": "Alakeskus kenttien fontti",
+
+        
+
+        "_t1s": "Aika fontin koko (vain koon muuttamiseen soveltuvat fontit)",
+        "_t3s": "Teksti fontin koko (vain koon muuttamiseen soveltuvat fontit)",
+        "_t4s": "Viikonpäivien fontin koko",
+        "_t5s": "Ylä 2 fontin koko",
+        "_t6s": "Vasen/oikea ympyrä fontin koko",
+        "_t7s": "Alaympyrän teksti fontin koko",
+        "_t8s": "Alaympyrän tunnisteen fontin koko",
+        "_t9s": "Alakeskus kenttien fontin koko",
+
+        "_o1": "Ajan siirtymät (X, Y, X väli, Y väli, viikonpäivät, viikonpäivän merkintä) Oletus: 20",
+        "_o2": "Kenttien siirtymät (Ylä 1 Y, Ylä 2 Y, V/O ylä teksti Y, V/O ylä tunniste Y, V/O ala teksti Y, V/O ala tunniste Y)",
+        "_o3": "Kenttien siirtymät 2 (Alaympyrän teksti y, Alaympyrän tunniste Y, V/O ympyröiden teksti Y, V/O ympyröiden tunniste Y, Keskus ala vasen Y, Keskus ala oikea Y)",
+        "_o4": "Tilakuvakkeiden sijainnit % (Ilmoitus X, Ilmoitus Y, BT X, BT Y, Älä häiritse X, Älä häiritse Y, Hälytys X, Hälytys Y) Poista käytöstä: -1, Oletus: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Merkinnän 1 väri",
+        "_mc2": "Merkinnän 2 väri",
+
+        "_c1": "Tunti 1 väri",
+        "_c2": "Tunti 2 väri",
+        "_c3": "Minuutti 1 väri",
+        "_c4": "Minuutti 2 väri",
+        "_dr": "75% tummempi",
+
+        "_pc": "Tekstin väri",
+        "_ic": "Tunnisteen väri",      
+        
+        "_b1": "Taustaväri keskus / sävy",
+        "_b2": "Taustaväri vasen/oikea",
+        "_b3": "Tausta vain-viivat väri",
+        "_bgc": "Taustaväri sivut (vain yksinkertainen tausta)",
+        "_b4": "Tausta MIPS liukuajan takana",
+
+        "_c5": "Alaympyrän väri 1",
+        "_c6": "Alaympyrän väri 2",
+        "_c7": "Alaympyrä täyttämätön",
+        "_c8": "Alaympyrän tausta",
+        "_c9": "Alaympyrän varjon väri",
+
+        "_c10": "Vasen/oikea ympyrän väri 1",
+        "_c11": "Vasen/oikea ympyrän väri 2",
+        "_c12": "Vasen/oikea ympyrä täyttämätön",
+
+        "_c13": "Vasen/oikea ympyrän tausta",
+        "_c14": "Vasen/oikea ympyrän varjon väri",
+
+        "_c15": "Viikonpäivien nykyisen päivän väri",
+        "_c16": "Viikonpäivien väri",
+        "_c17": "Ylätunnisteen väri",
+        "_c18": "Ylätekstin väri",
+        "_c19": "Ylä 2 tunnisteen väri",
+        "_c20": "Ylä 2 tekstin väri",
+
+        "_c21": "Vasen/oikea ympyrän tekstin väri",
+        "_c22": "Vasen/oikea ympyrän tunnisteen väri",
+        "_c23": "Alaympyrän tekstin väri",
+        "_c24": "Alaympyrän tunnisteen väri",
+        "_c25": "Keskus ala tekstin väri",
+        "_c26": "Keskus ala tunnisteen väri",
+
+        "_c27": "Edistymisen väri 1",
+        "_c28": "Edistymisen väri 2",
+        "_c29": "Edistyminen täyttämätön",
+
+        "_c30": "Tilakuvakkeiden väri",
+
+        "_gq": "Liukuman laatu",
+        "_ng": "Ei liukumaa",
+        "_sh": "Ajan varjo",
+
+        "_md1": "Merkinnän 1 tiedot",
+        "_md2": "Merkinnän 2 tiedot",
+        
+        "_f1": "Alaympyrän tiedot",
+        "_l1": "Alaympyrän tunniste",
+        "_p1": "Alaympyrän edistymistyyli",
+
+        "_f2": "Vasemman ympyrän tiedot",
+        "_l2": "Vasemman ympyrän tunniste",
+        "_p2": "Vasemman ympyrän edistymistyyli",
+
+        "_f3": "Oikean ympyrän tiedot",
+        "_l3": "Oikean ympyrän tunniste",
+        "_p3": "Oikean ympyrän edistymistyyli",
+
+        "_f4": "Yläedistymisen tiedot",
+        "_f5": "Alaedistymisen tiedot",
+
+        "_f10": "Ylä 1 tiedot",
+        "_l10": "Ylä 1 tunniste",
+        "_f11": "Ylä 2 tiedot",
+        "_l11": "Ylä 2 tunniste",
+
+        "_l12": "Vasen ylä tunniste",
+        "_f12": "Vasen ylä tiedot",
+        "_l13": "Oikea ylä tunniste",
+        "_f13": "Oikea ylä tiedot",
+
+        "_l14": "Vasen ala tunniste",
+        "_f14": "Vasen ala tiedot",
+
+        "_l15": "Oikea ala tunniste",
+        "_f15": "Oikea ala tiedot",
+
+        "_l16": "Keskus ala vasen tunniste",
+        "_f16": "Keskus ala vasen tiedot",
+
+        "_l17": "Keskus ala oikea tunniste",
+        "_f17": "Keskus ala oikea tiedot",
+        "_f18": "Radiaalinen tietokenttä (katso UKK!)",
+
+        "_0f" : "Näytä kentän edistyminen",
+        "_1f" : "Täysi",
+        "_2f" : "Tyhjä",
+        "_3f" : "Piilota",
+
+        "_4f" : "Sama kuin päätunnisteen väri",
+        "_5f" : "Sama kuin päätekstin väri",
+        "_6f" : "Sama kuin edistymisen väri",
+        "_7f" : "Sama kuin taustan väri",
+
+        "_g1" : "Edistymisympyröiden välin koko",
+        "_g2" : "Edistymisympyröiden askeleen koko",
+        "_g3" : "Ympyröiden taustan läpinäkyvyys",
+        "_g4" : "Viikonpäivät englanninkielellä",
+        "_g5" : "Edistymisen ylä/ala varjostus",
+      
+        "_bgs": "Taustatyyli",
+        "bg_detailed": "=== Yksityiskohtaiset taustat: ===",
+        "bg0": "Ei taustaa",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (vanhentunut)",
+        "bg4": "Varjostettu",
+        "bg5": "2x varjostettu",
+
+        "bg3": "MIPS kiinteä keskus, varjostetut sivut",
+
+        "bg_simple": "=== Yksinkertaiset taustat: ===",
+        "bg10": "Ääriviivat",
+        "bg11": "Viivat (1px)",
+        "bg12": "Viivat (2px)",
+        "bg13": "Viivat (3px)",
+        "bg14": "Viivat (4px)",
+
+        "_x2": "Lataa seuraava väriteema",
+        "_a1": "Kosketuspikavalinnat tunti vasen",
+        "_a2": "Kosketuspikavalinnat tunti oikea",
+        "_a3": "Kosketuspikavalinnat minuutti vasen",
+        "_a4": "Kosketuspikavalinnat minuutti oikea",
+
+        "_aas": "Aina päällä sekunnit",
+        "_aod": "AOD-tila (aina päällä oleva näyttö)",
+        "_aodct": "AOD ajan sävyn väri",
+        "_aodc": "AOD tietojen sävyn väri",
+        "_aodT": "AOD ajan kirkkaus",
+        "_aodD": "AOD tietojen kirkkaus. Jos näyttö sammuu AOD:n aikana, tee tämä numero pienemmäksi. Pienempi numero = vähemmän akun kulutusta mutta vähemmän kirkas. Katso UKK)",
+        "_aodS": "AOD siirtymä - pikselien määrä, jonka verran näyttö siirtyy satunnaisesti minuutissa sisäänpalamisen estämiseksi)",
+        "_f20": "AOD kentän tiedot",
+        "_l20": "AOD kentän tunniste",
+        "ad0": "Sammuta näyttö",
+        "ad100": "Täysi AOD (oletus)",
+        "ad1": "Vain aika",
+        "ad3": "Vain aika - liikkuva",
+        "ad4": "Aika + tietokenttä (valitse alla)",
+        "ad6": "Liikkuva aika + tietokenttä"
+    }
+}

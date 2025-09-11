@@ -20,6 +20,7 @@
         "_s2": "Bottom Circle Style",
         "_s3": "Bottom Style",
         "_s16": "60 Segment Circle",
+        "_s20": "30 Segment Circle",
         "_s17": "Regular Progress Circle",
         "_s18": "No Circle",
         "_si": "Draw Status Icons (set positions below, see FAQ)",
@@ -182,8 +183,10 @@
         "bg0": "No Background",
         "bg1": "Fenix 8 V3",
         "bg2": "Fenix 8 V1 (Legacy)",
+        "bg4": "Shaded",
+        "bg5": "2x Shaded",
 
-        "bg3": "Camo",
+        "bg3": "MIPS Solid Center, Shaded sides",
 
         "bg_simple": "=== Simple Backgrounds: ===",
         "bg10": "Outlines",
@@ -192,17 +195,11 @@
         "bg13": "Lines (3px)",
         "bg14": "Lines (4px)",
 
-        "_x2": "Load Random Theme",
+        "_x2": "Load Next Color Theme",
         "_a1": "Touch shortcut Hour Left",
         "_a2": "Touch shortcut Hour Right",
         "_a3": "Touch shortcut Minute Left",
         "_a4": "Touch shortcut Minute Right",
-
-       
-         
-
-
-
 
        
         "_aas": "Always on seconds",

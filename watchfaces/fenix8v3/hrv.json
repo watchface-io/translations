@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 DODIRNI PREČACI",
+        "_tc": "🎨 BOJE / POZADINA",
+        "_tt": "🔤 FONTOVI",
+        "_ta": "🖼️ AOD POSTAVKE (Uvijek uključen zaslon)",
+        "_to": "💡 OSTALO",
+        "_tx": "➡️ POMACI",
+
+        "_s1": "Gornji stil",
+        "_s10": "Traka napretka + 2 polja",
+        "_s11": "Pola trake napretka + 2 vodoravna polja",
+        "_s12": "2 polja s napretkom",
+        "_s13": "Dani u tjednu",
+        "_s14": "Dani u tjednu, bez markera",
+        "_s15": "Napredak sunca",
+        "_s19": "Radijalno podatkovno polje (preporučuju se samo sporo ažurirane vrijednosti)",
+
+        "_s2": "Stil donjeg kruga",
+        "_s3": "Donji stil",
+        "_s16": "60 segmentni krug",
+        "_s20": "30 segmentni krug",
+        "_s17": "Obični krug napretka",
+        "_s18": "Bez kruga",
+        "_si": "Nacrtaj ikone stanja (postavi pozicije dolje, vidi FAQ)",
+       
+    
+        "_t1": "Font vremena",
+        "_t2": "Font vremena AOD",
+        "_fo": "Obrubi (ako su dostupni)",
+        "_fk": "Zadrži isti",
+
+        "_t3": "Font teksta",
+        "_t4": "Font dana u tjednu",
+        "_t5": "Font gornji 2",
+        "_t6": "Font kruga lijevo/desno",
+        "_t7": "Font teksta donjeg kruga",
+        "_t8": "Font oznake donjeg kruga",
+        "_t9": "Font polja donji centar",
+
+        
+
+        "_t1s": "Veličina fonta vremena (samo fontovi promjenjive veličine)",
+        "_t3s": "Veličina fonta teksta (samo fontovi promjenjive veličine)",
+        "_t4s": "Veličina fonta dana u tjednu",
+        "_t5s": "Veličina fonta gornji 2",
+        "_t6s": "Veličina fonta kruga lijevo/desno",
+        "_t7s": "Veličina fonta teksta donjeg kruga",
+        "_t8s": "Veličina fonta oznake donjeg kruga",
+        "_t9s": "Veličina fonta polja donji centar",
+
+        "_o1": "Pomaci vremena (X, Y, razmak X, razmak Y, dani u tjednu, marker dana u tjednu) Zadano: 20",
+        "_o2": "Pomaci polja (Gornji 1 Y, Gornji 2 Y, L/D tekst gornji Y, L/D oznaka gornja Y, L/D tekst donji Y, L/D oznaka donja Y)",
+        "_o3": "Pomaci polja 2 (Tekst donjeg kruga y, Oznaka donjeg kruga Y, Tekst krugova L/D Y, Oznaka krugova L/D Y, Centar donji lijevo Y, Centar donji desno Y)",
+        "_o4": "Pozicije ikona stanja % (Obavijest X, Obavijest Y, BT X, BT Y, Ne ometaj X, Ne ometaj Y, Alarm X, Alarm Y) Onemogući: -1, Zadano: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Boja markera 1",
+        "_mc2": "Boja markera 2",
+
+        "_c1": "Boja sata 1",
+        "_c2": "Boja sata 2",
+        "_c3": "Boja minute 1",
+        "_c4": "Boja minute 2",
+        "_dr": "75% tamnije",
+
+        "_pc": "Boja teksta",
+        "_ic": "Boja oznake",      
+        
+        "_b1": "Boja pozadine centar / nijansa",
+        "_b2": "Boja pozadine lijevo/desno",
+        "_b3": "Boja pozadine samo linije",
+        "_bgc": "Boja pozadine strane (samo jednostavna pozadina)",
+        "_b4": "Pozadina MIPS iza progresivnog vremena",
+
+        "_c5": "Boja donjeg kruga 1",
+        "_c6": "Boja donjeg kruga 2",
+        "_c7": "Donji krug neispunjen",
+        "_c8": "Pozadina donjeg kruga",
+        "_c9": "Boja sjene donjeg kruga",
+
+        "_c10": "Boja kruga lijevo/desno 1",
+        "_c11": "Boja kruga lijevo/desno 2",
+        "_c12": "Krug lijevo/desno neispunjen",
+
+        "_c13": "Pozadina kruga lijevo/desno",
+        "_c14": "Boja sjene kruga lijevo/desno",
+
+        "_c15": "Boja trenutnog dana u tjednu",
+        "_c16": "Boja dana u tjednu",
+        "_c17": "Boja gornje oznake",
+        "_c18": "Boja gornjeg teksta",
+        "_c19": "Boja gornje oznake 2",
+        "_c20": "Boja gornjeg teksta 2",
+
+        "_c21": "Boja teksta kruga lijevo/desno",
+        "_c22": "Boja oznake kruga lijevo/desno",
+        "_c23": "Boja teksta donjeg kruga",
+        "_c24": "Boja oznake donjeg kruga",
+        "_c25": "Boja teksta donjeg centra",
+        "_c26": "Boja oznake donjeg centra",
+
+        "_c27": "Boja napretka 1",
+        "_c28": "Boja napretka 2",
+        "_c29": "Napredak neispunjen",
+
+        "_c30": "Boja ikona stanja",
+
+        "_gq": "Kvaliteta prijelaza",
+        "_ng": "Bez prijelaza",
+        "_sh": "Sjena vremena",
+
+        "_md1": "Podaci markera 1",
+        "_md2": "Podaci markera 2",
+        
+        "_f1": "Podaci donjeg kruga",
+        "_l1": "Oznaka donjeg kruga",
+        "_p1": "Stil napretka donjeg kruga",
+
+        "_f2": "Podaci lijevog kruga",
+        "_l2": "Oznaka lijevog kruga",
+        "_p2": "Stil napretka lijevog kruga",
+
+        "_f3": "Podaci desnog kruga",
+        "_l3": "Oznaka desnog kruga",
+        "_p3": "Stil napretka desnog kruga",
+
+        "_f4": "Podaci gornjeg napretka",
+        "_f5": "Podaci donjeg napretka",
+
+        "_f10": "Podaci gornji 1",
+        "_l10": "Oznaka gornja 1",
+        "_f11": "Podaci gornji 2",
+        "_l11": "Oznaka gornja 2",
+
+        "_l12": "Oznaka lijevo gornja",
+        "_f12": "Podaci lijevo gornji",
+        "_l13": "Oznaka desno gornja",
+        "_f13": "Podaci desno gornji",
+
+        "_l14": "Oznaka lijevo donja",
+        "_f14": "Podaci lijevo donji",
+
+        "_l15": "Oznaka desno donja",
+        "_f15": "Podaci desno donji",
+
+        "_l16": "Oznaka centar donji lijevo",
+        "_f16": "Podaci centar donji lijevo",
+
+        "_l17": "Oznaka centar donji desno",
+        "_f17": "Podaci centar donji desno",
+        "_f18": "Radijalno podatkovno polje (vidi FAQ!)",
+
+        "_0f" : "Prikaži napredak polja",
+        "_1f" : "Puno",
+        "_2f" : "Prazno",
+        "_3f" : "Sakrij",
+
+        "_4f" : "Isto kao boja glavne oznake",
+        "_5f" : "Isto kao boja glavnog teksta",
+        "_6f" : "Isto kao boja napretka",
+        "_7f" : "Isto kao boja pozadine",
+
+        "_g1" : "Veličina razmaka krugova napretka",
+        "_g2" : "Veličina koraka krugova napretka",
+        "_g3" : "Prozirnost pozadine krugova",
+        "_g4" : "Dani u tjednu na engleskom",
+        "_g5" : "Sjenčanje napretka gornji/donji",
+      
+        "_bgs": "Stil pozadine",
+        "bg_detailed": "=== Detaljne pozadine: ===",
+        "bg0": "Bez pozadine",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (zastarjelo)",
+        "bg4": "Osjenčano",
+        "bg5": "Dvostruko osjenčano",
+
+        "bg3": "MIPS fiksni centar, osjenčane strane",
+
+        "bg_simple": "=== Jednostavne pozadine: ===",
+        "bg10": "Obrubi",
+        "bg11": "Linije (1px)",
+        "bg12": "Linije (2px)",
+        "bg13": "Linije (3px)",
+        "bg14": "Linije (4px)",
+
+        "_x2": "Učitaj sljedeću temu boja",
+        "_a1": "Dodirni prečac sat lijevo",
+        "_a2": "Dodirni prečac sat desno",
+        "_a3": "Dodirni prečac minuta lijevo",
+        "_a4": "Dodirni prečac minuta desno",
+
+        "_aas": "Sekunde uvijek uključene",
+        "_aod": "AOD način rada (uvijek uključen zaslon)",
+        "_aodct": "Boja nijanse vremena AOD",
+        "_aodc": "Boja nijanse podataka AOD",
+        "_aodT": "Svjetlina vremena AOD",
+        "_aodD": "Svjetlina podataka AOD. Ako se zaslon ugasi tijekom AOD-a, smanjite ovaj broj. Manji broj = manja potrošnja baterije ali manje svijetlo. Vidi FAQ)",
+        "_aodS": "Pomak AOD-a - broj piksela za koji se zaslon nasumično pomiče svaku minutu za sprječavanje urezanja)",
+        "_f20": "Podaci polja AOD",
+        "_l20": "Oznaka polja AOD",
+        "ad0": "Ugasi zaslon",
+        "ad100": "Puni AOD (zadano)",
+        "ad1": "Samo vrijeme",
+        "ad3": "Samo vrijeme - pokretno",
+        "ad4": "Vrijeme + podatkovno polje (odaberi dolje)",
+        "ad6": "Pokretno vrijeme + podatkovno polje"
+    }
+}

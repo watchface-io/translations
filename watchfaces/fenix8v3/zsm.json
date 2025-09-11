@@ -1,0 +1,227 @@
+{
+    "settings": {
+
+        "_tr": "👉 PINTASAN SENTUH",
+        "_tc": "🎨 WARNA / LATAR BELAKANG",
+        "_tt": "🔤 FON",
+        "_ta": "🖼️ TETAPAN AOD (Sentiasa Hidup)",
+        "_to": "💡 LAIN-LAIN",
+        "_tx": "➡️ ANJAKAN",
+
+        "_s1": "Gaya Atas",
+        "_s10": "Bar kemajuan + 2 medan",
+        "_s11": "Separuh bar kemajuan + 2 medan mendatar",
+        "_s12": "2 medan dengan kemajuan",
+        "_s13": "Hari dalam minggu",
+        "_s14": "Hari dalam minggu, tiada penanda",
+        "_s15": "Kemajuan Matahari",
+        "_s19": "Medan Data Jejari (hanya nilai kemas kini perlahan disyorkan)",
+
+        "_s2": "Gaya Bulatan Bawah",
+        "_s3": "Gaya Bawah",
+        "_s16": "Bulatan 60 Segmen",
+        "_s20": "Bulatan 30 Segmen",
+        "_s17": "Bulatan Kemajuan Biasa",
+        "_s18": "Tiada Bulatan",
+        "_si": "Lukis Ikon Status (tetapkan kedudukan di bawah, lihat FAQ)",
+       
+    
+        "_t1": "Fon Masa",
+        "_t2": "Fon Masa AOD",
+        "_fo": "Bergaris (Jika ada)",
+        "_fk": "Kekalkan sama",
+
+        "_t3": "Fon Teks",
+        "_t4": "Fon Hari Minggu",
+        "_t5": "Fon Atas 2",
+        "_t6": "Fon Bulatan Kiri/Kanan",
+        "_t7": "Fon Teks Bulatan Bawah",
+        "_t8": "Fon Label Bulatan Bawah",
+        "_t9": "Fon Medan Tengah Bawah",
+
+        
+
+        "_t1s": "Saiz Fon Masa (fon boleh diubah saiz sahaja)",
+        "_t3s": "Saiz Fon Teks (fon boleh diubah saiz sahaja)",
+        "_t4s": "Saiz Fon Hari Minggu",
+        "_t5s": "Saiz Fon Atas 2",
+        "_t6s": "Saiz Fon Bulatan Kiri/Kanan",
+        "_t7s": "Saiz Fon Teks Bulatan Bawah",
+        "_t8s": "Saiz Fon Label Bulatan Bawah",
+        "_t9s": "Saiz Fon Medan Tengah Bawah",
+
+        "_o1": "Anjakan Masa (X, Y, Jarak X, Jarak Y, Hari Minggu, Penanda Hari Minggu) Lalai: 20",
+        "_o2": "Anjakan medan (Atas 1 Y, Atas 2 Y, K/K Teks Atas Y, K/K Label Atas Y, K/K Teks Bawah Y, K/K Label Bawah Y)",
+        "_o3": "Anjakan medan 2 (Teks Bulatan Bawah y, Label Bulatan Bawah Y, Teks Bulatan K/K Y, Label Bulatan K/K Y, Tengah Bawah Kiri Y, Tengah Bawah Kanan Y)",
+        "_o4": "Kedudukan Ikon Status % (Pemberitahuan X, Pemberitahuan Y, BT X, BT Y, DND X, DND Y, Penggera X, Penggera Y) Lumpuhkan: -1, Lalai: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Warna Penanda 1",
+        "_mc2": "Warna Penanda 2",
+
+        "_c1": "Warna Jam 1",
+        "_c2": "Warna Jam 2",
+        "_c3": "Warna Minit 1",
+        "_c4": "Warna Minit 2",
+        "_dr": "75% Lebih Gelap",
+
+        "_pc": "Warna teks",
+        "_ic": "Warna label",      
+        
+        "_b1": "Warna Latar Belakang Tengah / Warna",
+        "_b2": "Warna Latar Belakang Kiri/Kanan",
+        "_b3": "Warna garisan-sahaja latar belakang",
+        "_bgc": "Warna Latar Belakang Sisi (latar belakang mudah sahaja)",
+        "_b4": "Latar belakang di sebalik masa kecerunan MIPS",
+
+
+        "_c5": "Warna Bulatan Bawah 1",
+        "_c6": "Warna Bulatan Bawah 2",
+        "_c7": "Bulatan Bawah Tidak Diisi",
+        "_c8": "Latar Belakang Bulatan Bawah",
+        "_c9": "Warna Bayang Bulatan Bawah",
+
+        "_c10": "Warna Bulatan Kiri/Kanan 1",
+        "_c11": "Warna Bulatan Kiri/Kanan 2",
+        "_c12": "Bulatan Kiri/Kanan Tidak Diisi",
+
+        "_c13": "Latar Belakang Bulatan Kiri/Kanan",
+        "_c14": "Warna Bayang Bulatan Kiri/Kanan",
+
+        "_c15": "Warna Hari Semasa Hari Minggu",
+        "_c16": "Warna Hari Minggu",
+        "_c17": "Warna Label Atas",
+        "_c18": "Warna Teks Atas",
+        "_c19": "Warna Label Atas 2",
+        "_c20": "Warna Teks Atas 2",
+
+        "_c21": "Warna Teks Bulatan Kiri/Kanan",
+        "_c22": "Warna Label Bulatan Kiri/Kanan",
+        "_c23": "Warna Teks Bulatan Bawah",
+        "_c24": "Warna Label Bulatan Bawah",
+
+        "_c25": "Warna Teks Tengah Bawah",
+        "_c26": "Warna Label Tengah Bawah",
+
+        "_c27": "Warna Kemajuan 1",
+        "_c28": "Warna Kemajuan 2",
+        "_c29": "Kemajuan Tidak Diisi",
+
+        "_c30": "Warna Ikon Status",
+
+
+
+
+        "_gq": "Kualiti Kecerunan",
+        "_ng": "Tiada Kecerunan",
+        "_sh": "Bayang Masa",
+
+
+        "_md1": "Data Penanda 1",
+        "_md2": "Data Penanda 2",
+        
+        "_f1": "Data Bulatan Bawah",
+        "_l1": "Label Bulatan Bawah",
+        "_p1": "Gaya Kemajuan Bulatan Bawah",
+
+        "_f2": "Data Bulatan Kiri",
+        "_l2": "Label Bulatan Kiri",
+        "_p2": "Gaya Kemajuan Bulatan Kiri",
+
+        "_f3": "Data Bulatan Kanan",
+        "_l3": "Label Bulatan Kanan",
+        "_p3": "Gaya Kemajuan Bulatan Kanan",
+
+        "_f4": "Data Kemajuan Atas",
+        "_f5": "Data Kemajuan Bawah",
+
+        "_f10": "Data Atas 1",
+        "_l10": "Label Atas 1",
+        "_f11": "Data Atas 2",
+        "_l11": "Label Atas 2",
+
+        "_l12": "Label Atas Kiri",
+        "_f12": "Data Atas Kiri",
+        "_l13": "Label Atas Kanan",
+        "_f13": "Data Atas Kanan",
+
+        "_l14": "Label Bawah Kiri",
+        "_f14": "Data Bawah Kiri",
+
+        "_l15": "Label Bawah Kanan",
+        "_f15": "Data Bawah Kanan",
+
+
+        "_l16": "Label Tengah Bawah Kiri",
+        "_f16": "Data Tengah Bawah Kiri",
+
+        "_l17": "Label Tengah Bawah Kanan",
+        "_f17": "Data Tengah Bawah Kanan",
+        "_f18": "Medan Data Jejari (Lihat FAQ!)",
+
+        
+
+
+        "_0f" : "Tunjuk Kemajuan Medan",
+        "_1f" : "Penuh",
+        "_2f" : "Kosong",
+        "_3f" : "Sembunyi",
+
+        "_4f" : "Sama seperti Warna Label Utama",
+        "_5f" : "Sama seperti Warna Teks Utama",
+        "_6f" : "Sama seperti Warna Kemajuan",
+        "_7f" : "Sama seperti Warna Latar Belakang",
+
+
+
+        "_g1" : "Saiz jurang Bulatan Kemajuan",
+        "_g2" : "Saiz langkah Bulatan Kemajuan",
+        "_g3" : "Ketelusan Latar Belakang Bulatan",
+        "_g4" : "Hari Minggu Guna Bahasa Inggeris",
+        "_g5" : "Bayang Kemajuan Atas/Bawah",
+      
+        "_bgs": "Gaya Latar Belakang",
+        "bg_detailed": "=== Latar Belakang Terperinci: ===",
+        "bg0": "Tiada Latar Belakang",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (Warisan)",
+        "bg4": "Berbayang",
+        "bg5": "2x Berbayang",
+
+        "bg3": "MIPS Tengah Pejal, sisi berbayang",
+
+        "bg_simple": "=== Latar Belakang Mudah: ===",
+        "bg10": "Garis Luar",
+        "bg11": "Garisan (1px)",
+        "bg12": "Garisan (2px)",
+        "bg13": "Garisan (3px)",
+        "bg14": "Garisan (4px)",
+
+        "_x2": "Muat Tema Warna Seterusnya",
+        "_a1": "Pintasan sentuh Jam Kiri",
+        "_a2": "Pintasan sentuh Jam Kanan",
+        "_a3": "Pintasan sentuh Minit Kiri",
+        "_a4": "Pintasan sentuh Minit Kanan",
+
+       
+        "_aas": "Saat sentiasa hidup",
+        "_aod": "Mod AOD (Sentiasa hidup)",
+        "_aodct": "Warna Warna Masa AOD",
+        "_aodc": "Warna Warna Data AOD",
+        "_aodT": "Kecerahan Masa AOD",
+        "_aodD": "Kecerahan Data AOD. Jika skrin mati semasa AOD, kurangkan nombor ini. Nombor rendah = kurang penggunaan bateri tetapi kurang cerah. Lihat FAQ)",
+        "_aodS": "Anjakan AOD - bilangan piksel skrin beralih secara rawak setiap minit untuk mencegah terbakar)",
+        "_f20": "Data Medan AOD",
+        "_l20": "Label Medan AOD",
+        "ad0": "Matikan Skrin",
+        "ad100": "AOD Penuh (Lalai)",
+        "ad1": "Masa Sahaja",
+        "ad3": "Masa Sahaja - Bergerak",
+        "ad4": "Masa + medan data (Pilih Di Bawah)",
+        "ad6": "Masa Bergerak + medan data"
+
+        
+
+
+        
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 BERØRINGSGENVEJE",
+        "_tc": "🎨 FARVER / BAGGRUND",
+        "_tt": "🔤 SKRIFTTYPER",
+        "_ta": "🖼️ AOD INDSTILLINGER (Altid tændt skærm)",
+        "_to": "💡 ANDET",
+        "_tx": "➡️ FORSKYDNINGER",
+
+        "_s1": "Top stil",
+        "_s10": "Progressbjælke + 2 felter",
+        "_s11": "Halv progressbjælke + 2 horisontale felter",
+        "_s12": "2 felter med fremskridt",
+        "_s13": "Ugedage",
+        "_s14": "Ugedage, ingen markør",
+        "_s15": "Sol fremskridt",
+        "_s19": "Radialt datafelt (kun langsomt opdaterende værdier anbefales)",
+
+        "_s2": "Bundcirkel stil",
+        "_s3": "Bund stil",
+        "_s16": "60 segment cirkel",
+        "_s20": "30 segment cirkel",
+        "_s17": "Almindelig fremskridtscirkel",
+        "_s18": "Ingen cirkel",
+        "_si": "Tegn statusikoner (indstil positioner nedenfor, se FAQ)",
+       
+    
+        "_t1": "Tids skrifttype",
+        "_t2": "Tids skrifttype AOD",
+        "_fo": "Omridset (hvis tilgængelig)",
+        "_fk": "Behold den samme",
+
+        "_t3": "Tekst skrifttype",
+        "_t4": "Ugedage skrifttype",
+        "_t5": "Top 2 skrifttype",
+        "_t6": "Venstre/højre cirkel skrifttype",
+        "_t7": "Bundcirkel tekst skrifttype",
+        "_t8": "Bundcirkel etiket skrifttype",
+        "_t9": "Bund center felter skrifttype",
+
+        
+
+        "_t1s": "Tids skrifttype størrelse (kun skrifttyper med justerbar størrelse)",
+        "_t3s": "Tekst skrifttype størrelse (kun skrifttyper med justerbar størrelse)",
+        "_t4s": "Ugedage skrifttype størrelse",
+        "_t5s": "Top 2 skrifttype størrelse",
+        "_t6s": "Venstre/højre cirkel skrifttype størrelse",
+        "_t7s": "Bundcirkel tekst skrifttype størrelse",
+        "_t8s": "Bundcirkel etiket skrifttype størrelse",
+        "_t9s": "Bund center felter skrifttype størrelse",
+
+        "_o1": "Tids forskydninger (X, Y, X afstand, Y afstand, ugedage, ugedag markør) Standard: 20",
+        "_o2": "Felt forskydninger (Top 1 Y, Top 2 Y, V/H top tekst Y, V/H top etiket Y, V/H bund tekst Y, V/H bund etiket Y)",
+        "_o3": "Felt forskydninger 2 (Bundcirkel tekst y, Bundcirkel etiket Y, V/H cirkler tekst Y, V/H cirkler etiket Y, Center bund venstre Y, Center bund højre Y)",
+        "_o4": "Statusikon positioner % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Deaktiver: -1, Standard: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Markør 1 farve",
+        "_mc2": "Markør 2 farve",
+
+        "_c1": "Time 1 farve",
+        "_c2": "Time 2 farve",
+        "_c3": "Minut 1 farve",
+        "_c4": "Minut 2 farve",
+        "_dr": "75% mørkere",
+
+        "_pc": "Tekst farve",
+        "_ic": "Etiket farve",      
+        
+        "_b1": "Baggrund farve center / nuance",
+        "_b2": "Baggrund farve venstre/højre",
+        "_b3": "Baggrund kun-linjer farve",
+        "_bgc": "Baggrund farve sider (kun simpel baggrund)",
+        "_b4": "Baggrund bag MIPS gradient tid",
+
+        "_c5": "Bundcirkel farve 1",
+        "_c6": "Bundcirkel farve 2",
+        "_c7": "Bundcirkel uudfyldt",
+        "_c8": "Bundcirkel baggrund",
+        "_c9": "Bundcirkel skygge farve",
+
+        "_c10": "Venstre/højre cirkel farve 1",
+        "_c11": "Venstre/højre cirkel farve 2",
+        "_c12": "Venstre/højre cirkel uudfyldt",
+
+        "_c13": "Venstre/højre cirkel baggrund",
+        "_c14": "Venstre/højre cirkel skygge farve",
+
+        "_c15": "Ugedage nuværende dag farve",
+        "_c16": "Ugedage farve",
+        "_c17": "Top etiket farve",
+        "_c18": "Top tekst farve",
+        "_c19": "Top 2 etiket farve",
+        "_c20": "Top 2 tekst farve",
+
+        "_c21": "Venstre/højre cirkel tekst farve",
+        "_c22": "Venstre/højre cirkel etiket farve",
+        "_c23": "Bundcirkel tekst farve",
+        "_c24": "Bundcirkel etiket farve",
+        "_c25": "Center bund tekst farve",
+        "_c26": "Center bund etiket farve",
+
+        "_c27": "Fremskridt farve 1",
+        "_c28": "Fremskridt farve 2",
+        "_c29": "Fremskridt uudfyldt",
+
+        "_c30": "Statusikoner farve",
+
+        "_gq": "Gradient kvalitet",
+        "_ng": "Ingen gradient",
+        "_sh": "Tids skygge",
+
+        "_md1": "Markør 1 data",
+        "_md2": "Markør 2 data",
+        
+        "_f1": "Bundcirkel data",
+        "_l1": "Bundcirkel etiket",
+        "_p1": "Bundcirkel fremskridt stil",
+
+        "_f2": "Venstre cirkel data",
+        "_l2": "Venstre cirkel etiket",
+        "_p2": "Venstre cirkel fremskridt stil",
+
+        "_f3": "Højre cirkel data",
+        "_l3": "Højre cirkel etiket",
+        "_p3": "Højre cirkel fremskridt stil",
+
+        "_f4": "Top fremskridt data",
+        "_f5": "Bund fremskridt data",
+
+        "_f10": "Top 1 data",
+        "_l10": "Top 1 etiket",
+        "_f11": "Top 2 data",
+        "_l11": "Top 2 etiket",
+
+        "_l12": "Venstre top etiket",
+        "_f12": "Venstre top data",
+        "_l13": "Højre top etiket",
+        "_f13": "Højre top data",
+
+        "_l14": "Venstre bund etiket",
+        "_f14": "Venstre bund data",
+
+        "_l15": "Højre bund etiket",
+        "_f15": "Højre bund data",
+
+        "_l16": "Center bund venstre etiket",
+        "_f16": "Center bund venstre data",
+
+        "_l17": "Center bund højre etiket",
+        "_f17": "Center bund højre data",
+        "_f18": "Radialt datafelt (se FAQ!)",
+
+        "_0f" : "Vis felt fremskridt",
+        "_1f" : "Fuld",
+        "_2f" : "Tom",
+        "_3f" : "Skjul",
+
+        "_4f" : "Samme som hoved etiket farve",
+        "_5f" : "Samme som hoved tekst farve",
+        "_6f" : "Samme som fremskridt farve",
+        "_7f" : "Samme som baggrund farve",
+
+        "_g1" : "Fremskridtscirkler mellemrum størrelse",
+        "_g2" : "Fremskridtscirkler trin størrelse",
+        "_g3" : "Cirkler baggrund gennemsigtighed",
+        "_g4" : "Ugedage brug engelsk",
+        "_g5" : "Fremskridt top/bund skygning",
+      
+        "_bgs": "Baggrund stil",
+        "bg_detailed": "=== Detaljerede baggrunde: ===",
+        "bg0": "Ingen baggrund",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (forældet)",
+        "bg4": "Skygget",
+        "bg5": "2x skygget",
+
+        "bg3": "MIPS solid center, skyggede sider",
+
+        "bg_simple": "=== Simple baggrunde: ===",
+        "bg10": "Konturer",
+        "bg11": "Linjer (1px)",
+        "bg12": "Linjer (2px)",
+        "bg13": "Linjer (3px)",
+        "bg14": "Linjer (4px)",
+
+        "_x2": "Indlæs næste farvetema",
+        "_a1": "Berøringsgenvej time venstre",
+        "_a2": "Berøringsgenvej time højre",
+        "_a3": "Berøringsgenvej minut venstre",
+        "_a4": "Berøringsgenvej minut højre",
+
+        "_aas": "Altid tændte sekunder",
+        "_aod": "AOD tilstand (altid tændt skærm)",
+        "_aodct": "AOD tid nuance farve",
+        "_aodc": "AOD data nuance farve",
+        "_aodT": "AOD tid lysstyrke",
+        "_aodD": "AOD data lysstyrke. Hvis skærmen slukker under AOD, gør dette tal lavere. Lavere tal = mindre batteriforbrug men mindre lyst. Se FAQ)",
+        "_aodS": "AOD skift - antal pixels skærmen tilfældigt skifter per minut for at forhindre indbrænding)",
+        "_f20": "AOD felt data",
+        "_l20": "AOD felt etiket",
+        "ad0": "Sluk skærm",
+        "ad100": "Fuld AOD (standard)",
+        "ad1": "Kun tid",
+        "ad3": "Kun tid - bevægende",
+        "ad4": "Tid + datafelt (vælg nedenfor)",
+        "ad6": "Bevægende tid + datafelt"
+    }
+}

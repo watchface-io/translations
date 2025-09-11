@@ -1,0 +1,227 @@
+{
+    "settings": {
+
+        "_tr": "👉 SKRÓTY DOTYKOWE",
+        "_tc": "🎨 KOLORY / TŁO",
+        "_tt": "🔤 CZCIONKI",
+        "_ta": "🖼️ USTAWIENIA AOD (Zawsze włączony wyświetlacz)",
+        "_to": "💡 INNE",
+        "_tx": "➡️ PRZESUNIĘCIA",
+
+        "_s1": "Styl górny",
+        "_s10": "Pasek postępu + 2 pola",
+        "_s11": "Połowa paska postępu + 2 pola poziome",
+        "_s12": "2 pola z postępem",
+        "_s13": "Dni tygodnia",
+        "_s14": "Dni tygodnia, bez znacznika",
+        "_s15": "Postęp słońca",
+        "_s19": "Radialne pole danych (zalecane tylko wolno aktualizujące się wartości)",
+
+        "_s2": "Styl dolnego koła",
+        "_s3": "Styl dolny",
+        "_s16": "Koło 60 segmentów",
+        "_s20": "Koło 30 segmentów",
+        "_s17": "Zwykłe koło postępu",
+        "_s18": "Brak koła",
+        "_si": "Rysuj ikony statusu (ustaw pozycje poniżej, zobacz FAQ)",
+       
+    
+        "_t1": "Czcionka czasu",
+        "_t2": "Czcionka czasu AOD",
+        "_fo": "Konturowa (jeśli dostępna)",
+        "_fk": "Zachowaj tę samą",
+
+        "_t3": "Czcionka tekstu",
+        "_t4": "Czcionka dni tygodnia",
+        "_t5": "Czcionka górna 2",
+        "_t6": "Czcionka koła lewy/prawy",
+        "_t7": "Czcionka tekstu dolnego koła",
+        "_t8": "Czcionka etykiety dolnego koła",
+        "_t9": "Czcionka pól dolnego centrum",
+
+        
+
+        "_t1s": "Rozmiar czcionki czasu (tylko czcionki skalowalne)",
+        "_t3s": "Rozmiar czcionki tekstu (tylko czcionki skalowalne)",
+        "_t4s": "Rozmiar czcionki dni tygodnia",
+        "_t5s": "Rozmiar czcionki górnej 2",
+        "_t6s": "Rozmiar czcionki koła lewy/prawy",
+        "_t7s": "Rozmiar czcionki tekstu dolnego koła",
+        "_t8s": "Rozmiar czcionki etykiety dolnego koła",
+        "_t9s": "Rozmiar czcionki pól dolnego centrum",
+
+        "_o1": "Przesunięcia czasu (X, Y, Odstęp X, Odstęp Y, Dni tygodnia, Znacznik dnia tygodnia) Domyślne: 20",
+        "_o2": "Przesunięcia pól (Górny 1 Y, Górny 2 Y, L/P górny tekst Y, L/P górna etykieta Y, L/P dolny tekst Y, L/P dolna etykieta Y)",
+        "_o3": "Przesunięcia pól 2 (Tekst dolnego koła y, Etykieta dolnego koła Y, Tekst kół L/P Y, Etykieta kół L/P Y, Centrum dolny lewy Y, Centrum dolny prawy Y)",
+        "_o4": "Pozycje ikon statusu % (Powiad X, Powiad Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Wyłącz: -1, Domyślne: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Kolor znacznika 1",
+        "_mc2": "Kolor znacznika 2",
+
+        "_c1": "Kolor godziny 1",
+        "_c2": "Kolor godziny 2",
+        "_c3": "Kolor minuty 1",
+        "_c4": "Kolor minuty 2",
+        "_dr": "75% ciemniej",
+
+        "_pc": "Kolor tekstu",
+        "_ic": "Kolor etykiety",      
+        
+        "_b1": "Kolor tła centrum / odcień",
+        "_b2": "Kolor tła lewy/prawy",
+        "_b3": "Kolor linii tła",
+        "_bgc": "Kolor tła boki (tylko proste tło)",
+        "_b4": "Tło za czasem gradientu MIPS",
+
+
+        "_c5": "Kolor dolnego koła 1",
+        "_c6": "Kolor dolnego koła 2",
+        "_c7": "Dolne koło niewypełnione",
+        "_c8": "Tło dolnego koła",
+        "_c9": "Kolor cienia dolnego koła",
+
+        "_c10": "Kolor koła lewy/prawy 1",
+        "_c11": "Kolor koła lewy/prawy 2",
+        "_c12": "Koło lewy/prawy niewypełnione",
+
+        "_c13": "Tło koła lewy/prawy",
+        "_c14": "Kolor cienia koła lewy/prawy",
+
+        "_c15": "Kolor bieżącego dnia tygodnia",
+        "_c16": "Kolor dni tygodnia",
+        "_c17": "Kolor górnej etykiety",
+        "_c18": "Kolor górnego tekstu",
+        "_c19": "Kolor górnej etykiety 2",
+        "_c20": "Kolor górnego tekstu 2",
+
+        "_c21": "Kolor tekstu koła lewy/prawy",
+        "_c22": "Kolor etykiety koła lewy/prawy",
+        "_c23": "Kolor tekstu dolnego koła",
+        "_c24": "Kolor etykiety dolnego koła",
+
+        "_c25": "Kolor tekstu dolnego centrum",
+        "_c26": "Kolor etykiety dolnego centrum",
+
+        "_c27": "Kolor postępu 1",
+        "_c28": "Kolor postępu 2",
+        "_c29": "Postęp niewypełniony",
+
+        "_c30": "Kolor ikon statusu",
+
+
+
+
+        "_gq": "Jakość gradientu",
+        "_ng": "Brak gradientu",
+        "_sh": "Cień czasu",
+
+
+        "_md1": "Dane znacznika 1",
+        "_md2": "Dane znacznika 2",
+        
+        "_f1": "Dane dolnego koła",
+        "_l1": "Etykieta dolnego koła",
+        "_p1": "Styl postępu dolnego koła",
+
+        "_f2": "Dane lewego koła",
+        "_l2": "Etykieta lewego koła",
+        "_p2": "Styl postępu lewego koła",
+
+        "_f3": "Dane prawego koła",
+        "_l3": "Etykieta prawego koła",
+        "_p3": "Styl postępu prawego koła",
+
+        "_f4": "Dane górnego postępu",
+        "_f5": "Dane dolnego postępu",
+
+        "_f10": "Dane górne 1",
+        "_l10": "Etykieta górna 1",
+        "_f11": "Dane górne 2",
+        "_l11": "Etykieta górna 2",
+
+        "_l12": "Etykieta lewa górna",
+        "_f12": "Dane lewe górne",
+        "_l13": "Etykieta prawa górna",
+        "_f13": "Dane prawe górne",
+
+        "_l14": "Etykieta lewa dolna",
+        "_f14": "Dane lewe dolne",
+
+        "_l15": "Etykieta prawa dolna",
+        "_f15": "Dane prawe dolne",
+
+
+        "_l16": "Etykieta centrum dolna lewa",
+        "_f16": "Dane centrum dolne lewe",
+
+        "_l17": "Etykieta centrum dolna prawa",
+        "_f17": "Dane centrum dolne prawe",
+        "_f18": "Radialne pole danych (zobacz FAQ!)",
+
+        
+
+
+        "_0f" : "Pokaż postęp pola",
+        "_1f" : "Pełny",
+        "_2f" : "Pusty",
+        "_3f" : "Ukryj",
+
+        "_4f" : "Taki sam jak kolor głównej etykiety",
+        "_5f" : "Taki sam jak kolor głównego tekstu",
+        "_6f" : "Taki sam jak kolor postępu",
+        "_7f" : "Taki sam jak kolor tła",
+
+
+
+        "_g1" : "Rozmiar przerwy kół postępu",
+        "_g2" : "Rozmiar kroku kół postępu",
+        "_g3" : "Przezroczystość tła kół",
+        "_g4" : "Dni tygodnia używaj angielskiego",
+        "_g5" : "Cieniowanie górne/dolne postępu",
+      
+        "_bgs": "Styl tła",
+        "bg_detailed": "=== Szczegółowe tła: ===",
+        "bg0": "Brak tła",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (dziedzictwo)",
+        "bg4": "Zacienione",
+        "bg5": "2x zacienione",
+
+        "bg3": "MIPS stały środek, zacienione boki",
+
+        "bg_simple": "=== Proste tła: ===",
+        "bg10": "Kontury",
+        "bg11": "Linie (1px)",
+        "bg12": "Linie (2px)",
+        "bg13": "Linie (3px)",
+        "bg14": "Linie (4px)",
+
+        "_x2": "Wczytaj następny motyw kolorów",
+        "_a1": "Skrót dotykowy godzina lewy",
+        "_a2": "Skrót dotykowy godzina prawy",
+        "_a3": "Skrót dotykowy minuta lewy",
+        "_a4": "Skrót dotykowy minuta prawy",
+
+       
+        "_aas": "Zawsze włączone sekundy",
+        "_aod": "Tryb AOD (zawsze włączony wyświetlacz)",
+        "_aodct": "Kolor odcienia czasu AOD",
+        "_aodc": "Kolor odcienia danych AOD",
+        "_aodT": "Jasność czasu AOD",
+        "_aodD": "Jasność danych AOD. Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Mniejsza liczba = mniejsze zużycie baterii, ale mniejsza jasność. Zobacz FAQ)",
+        "_aodS": "Przesunięcie AOD - liczba pikseli, o które ekran losowo przesuwa się co minutę, aby zapobiec wypaleniu)",
+        "_f20": "Dane pola AOD",
+        "_l20": "Etykieta pola AOD",
+        "ad0": "Wyłącz ekran",
+        "ad100": "Pełny AOD (domyślny)",
+        "ad1": "Tylko czas",
+        "ad3": "Tylko czas - poruszający się",
+        "ad4": "Czas + pole danych (wybierz poniżej)",
+        "ad6": "Poruszający się czas + pole danych"
+
+        
+
+
+        
+    }
+}

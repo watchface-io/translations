@@ -1,0 +1,227 @@
+{
+    "settings": {
+
+        "_tr": "👉 DOKUNMA KISAYOLLARI",
+        "_tc": "🎨 RENKLER / ARKAPLAN",
+        "_tt": "🔤 FONTLAR",
+        "_ta": "🖼️ AOD AYARLARI (Her zaman açık ekran)",
+        "_to": "💡 DİĞER",
+        "_tx": "➡️ OFSETLER",
+
+        "_s1": "Üst Stil",
+        "_s10": "İlerleme çubuğu + 2 alan",
+        "_s11": "Yarı ilerleme çubuğu + 2 yatay alan",
+        "_s12": "İlerlemeli 2 alan",
+        "_s13": "Haftanın günleri",
+        "_s14": "Haftanın günleri, işaretçi yok",
+        "_s15": "Güneş İlerlemesi",
+        "_s19": "Radyal Veri Alanı (sadece yavaş güncellenen değerler önerilir)",
+
+        "_s2": "Alt Çember Stili",
+        "_s3": "Alt Stil",
+        "_s16": "60 Segment Çember",
+        "_s20": "30 Segment Çember",
+        "_s17": "Normal İlerleme Çemberi",
+        "_s18": "Çember Yok",
+        "_si": "Durum Simgelerini Çiz (aşağıda konumları ayarlayın, SSS'ye bakın)",
+       
+    
+        "_t1": "Saat Fontu",
+        "_t2": "Saat Fontu AOD",
+        "_fo": "Çerçeveli (Varsa)",
+        "_fk": "Aynısını koru",
+
+        "_t3": "Metin Fontu",
+        "_t4": "Haftanın Günleri Fontu",
+        "_t5": "Üst 2 Font",
+        "_t6": "Sol/Sağ Çember Fontu",
+        "_t7": "Alt Çember Metin Fontu",
+        "_t8": "Alt Çember Etiket Fontu",
+        "_t9": "Alt Merkez Alan Fontu",
+
+        
+
+        "_t1s": "Saat Font Boyutu (sadece yeniden boyutlandırılabilir fontlar)",
+        "_t3s": "Metin Font Boyutu (sadece yeniden boyutlandırılabilir fontlar)",
+        "_t4s": "Haftanın Günleri Font Boyutu",
+        "_t5s": "Üst 2 Font Boyutu",
+        "_t6s": "Sol/Sağ Çember Font Boyutu",
+        "_t7s": "Alt Çember Metin Font Boyutu",
+        "_t8s": "Alt Çember Etiket Font Boyutu",
+        "_t9s": "Alt Merkez Alan Font Boyutu",
+
+        "_o1": "Saat Ofsetleri (X, Y, X Boşluk, Y Boşluk, Haftanın Günleri, Hafta Günü İşaretçisi) Varsayılan: 20",
+        "_o2": "Alan ofsetleri (Üst 1 Y, Üst 2 Y, S/S Üst Metin Y, S/S Üst Etiket Y, S/S Alt Metin Y, S/S Alt Etiket Y)",
+        "_o3": "Alan ofsetleri 2 (Alt Çember Metin y, Alt Çember Etiket Y, S/S Çemberler Metin Y, S/S Çemberler Etiket Y, Merkez Alt Sol Y, Merkez Alt Sağ Y)",
+        "_o4": "Durum Simgesi Konumları % (Bildir X, Bildir Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Devre dışı: -1, Varsayılan: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "İşaretçi 1 Rengi",
+        "_mc2": "İşaretçi 2 Rengi",
+
+        "_c1": "Saat 1 Rengi",
+        "_c2": "Saat 2 Rengi",
+        "_c3": "Dakika 1 Rengi",
+        "_c4": "Dakika 2 Rengi",
+        "_dr": "%75 Daha Koyu",
+
+        "_pc": "Metin rengi",
+        "_ic": "Etiket rengi",      
+        
+        "_b1": "Arkaplan Rengi Merkez / Ton",
+        "_b2": "Arkaplan Rengi Sol/Sağ",
+        "_b3": "Arkaplan Sadece-çizgiler rengi",
+        "_bgc": "Arkaplan Rengi Yanlar (Sadece basit arkaplan)",
+        "_b4": "MIPS gradyan zamanının arkasındaki arkaplan",
+
+
+        "_c5": "Alt Çember Rengi 1",
+        "_c6": "Alt Çember Rengi 2",
+        "_c7": "Alt Çember Doldurulmamış",
+        "_c8": "Alt Çember Arkaplanı",
+        "_c9": "Alt Çember Gölge Rengi",
+
+        "_c10": "Sol/Sağ Çember Rengi 1",
+        "_c11": "Sol/Sağ Çember Rengi 2",
+        "_c12": "Sol/Sağ Çember Doldurulmamış",
+
+        "_c13": "Sol/Sağ Çember Arkaplanı",
+        "_c14": "Sol/Sağ Çember Gölge Rengi",
+
+        "_c15": "Haftanın Günleri Mevcut Gün Rengi",
+        "_c16": "Haftanın Günleri Rengi",
+        "_c17": "Üst Etiket Rengi",
+        "_c18": "Üst Metin Rengi",
+        "_c19": "Üst 2 Etiket Rengi",
+        "_c20": "Üst 2 Metin Rengi",
+
+        "_c21": "Sol/Sağ Çember Metin Rengi",
+        "_c22": "Sol/Sağ Çember Etiket Rengi",
+        "_c23": "Alt Çember Metin Rengi",
+        "_c24": "Alt Çember Etiket Rengi",
+
+        "_c25": "Merkez Alt Metin Rengi",
+        "_c26": "Merkez Alt Etiket Rengi",
+
+        "_c27": "İlerleme Rengi 1",
+        "_c28": "İlerleme Rengi 2",
+        "_c29": "İlerleme Doldurulmamış",
+
+        "_c30": "Durum Simgeleri Rengi",
+
+
+
+
+        "_gq": "Gradyan Kalitesi",
+        "_ng": "Gradyan Yok",
+        "_sh": "Saat Gölgesi",
+
+
+        "_md1": "İşaretçi 1 Verisi",
+        "_md2": "İşaretçi 2 Verisi",
+        
+        "_f1": "Alt Çember Verisi",
+        "_l1": "Alt Çember Etiketi",
+        "_p1": "Alt Çember İlerleme Stili",
+
+        "_f2": "Sol Çember Verisi",
+        "_l2": "Sol Çember Etiketi",
+        "_p2": "Sol Çember İlerleme Stili",
+
+        "_f3": "Sağ Çember Verisi",
+        "_l3": "Sağ Çember Etiketi",
+        "_p3": "Sağ Çember İlerleme Stili",
+
+        "_f4": "Üst İlerleme Verisi",
+        "_f5": "Alt İlerleme Verisi",
+
+        "_f10": "Üst 1 Verisi",
+        "_l10": "Üst 1 Etiketi",
+        "_f11": "Üst 2 Verisi",
+        "_l11": "Üst 2 Etiketi",
+
+        "_l12": "Sol Üst Etiket",
+        "_f12": "Sol Üst Veri",
+        "_l13": "Sağ Üst Etiket",
+        "_f13": "Sağ Üst Veri",
+
+        "_l14": "Sol Alt Etiket",
+        "_f14": "Sol Alt Veri",
+
+        "_l15": "Sağ Alt Etiket",
+        "_f15": "Sağ Alt Veri",
+
+
+        "_l16": "Merkez Alt Sol Etiket",
+        "_f16": "Merkez Alt Sol Veri",
+
+        "_l17": "Merkez Alt Sağ Etiket",
+        "_f17": "Merkez Alt Sağ Veri",
+        "_f18": "Radyal Veri Alanı (SSS'ye bakın!)",
+
+        
+
+
+        "_0f" : "Alan İlerlemesini Göster",
+        "_1f" : "Dolu",
+        "_2f" : "Boş",
+        "_3f" : "Gizle",
+
+        "_4f" : "Ana Etiket Rengi ile Aynı",
+        "_5f" : "Ana Metin Rengi ile Aynı",
+        "_6f" : "İlerleme Rengi ile Aynı",
+        "_7f" : "Arkaplan Rengi ile Aynı",
+
+
+
+        "_g1" : "İlerleme Çemberleri Boşluk boyutu",
+        "_g2" : "İlerleme Çemberleri Adım boyutu",
+        "_g3" : "Çemberler Arkaplan Şeffaflığı",
+        "_g4" : "Haftanın Günleri İngilizce Kullan",
+        "_g5" : "İlerleme Üst/Alt gölgelendirme",
+      
+        "_bgs": "Arkaplan Stili",
+        "bg_detailed": "=== Detaylı Arkaplanlar: ===",
+        "bg0": "Arkaplan Yok",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (Eski)",
+        "bg4": "Gölgeli",
+        "bg5": "2x Gölgeli",
+
+        "bg3": "MIPS Katı Merkez, Gölgeli yanlar",
+
+        "bg_simple": "=== Basit Arkaplanlar: ===",
+        "bg10": "Çerçeveler",
+        "bg11": "Çizgiler (1px)",
+        "bg12": "Çizgiler (2px)",
+        "bg13": "Çizgiler (3px)",
+        "bg14": "Çizgiler (4px)",
+
+        "_x2": "Sonraki Renk Temasını Yükle",
+        "_a1": "Dokunma kısayolu Saat Sol",
+        "_a2": "Dokunma kısayolu Saat Sağ",
+        "_a3": "Dokunma kısayolu Dakika Sol",
+        "_a4": "Dokunma kısayolu Dakika Sağ",
+
+       
+        "_aas": "Her zaman açık saniyeler",
+        "_aod": "AOD Modu (Her zaman açık ekran)",
+        "_aodct": "AOD Saat Ton Rengi",
+        "_aodc": "AOD Veri Ton Rengi",
+        "_aodT": "AOD Saat Parlaklığı",
+        "_aodD": "AOD Veri Parlaklığı. AOD sırasında ekran kapanırsa, bu sayıyı düşürün. Düşük sayı = daha az pil kullanımı ama daha az parlak. SSS'ye bakın)",
+        "_aodS": "AOD Kayması - yanmayı önlemek için ekranın dakikada rastgele kaydığı piksel sayısı)",
+        "_f20": "AOD Alan Verisi",
+        "_l20": "AOD Alan Etiketi",
+        "ad0": "Ekranı KAPAT",
+        "ad100": "Tam AOD (Varsayılan)",
+        "ad1": "Sadece Saat",
+        "ad3": "Sadece Saat - Hareketli",
+        "ad4": "Saat + veri alanı (Aşağıdan Seçin)",
+        "ad6": "Hareketli Saat + veri alanı"
+
+        
+
+
+        
+    }
+}

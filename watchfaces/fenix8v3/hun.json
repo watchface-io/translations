@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 ÉRINTÉSES GYORSBILLENTYŰK",
+        "_tc": "🎨 SZÍNEK / HÁTTÉR",
+        "_tt": "🔤 BETŰTÍPUSOK",
+        "_ta": "🖼️ AOD BEÁLLÍTÁSOK (Mindig bekapcsolt kijelző)",
+        "_to": "💡 EGYÉB",
+        "_tx": "➡️ ELTOLÁSOK",
+
+        "_s1": "Felső stílus",
+        "_s10": "Folyamatjelző + 2 mező",
+        "_s11": "Fél folyamatjelző + 2 vízszintes mező",
+        "_s12": "2 mező haladással",
+        "_s13": "Hét napjai",
+        "_s14": "Hét napjai, jelölő nélkül",
+        "_s15": "Nap haladása",
+        "_s19": "Radiális adatmező (csak lassan frissülő értékek ajánlottak)",
+
+        "_s2": "Alsó kör stílusa",
+        "_s3": "Alsó stílus",
+        "_s16": "60 szegmensű kör",
+        "_s20": "30 szegmensű kör",
+        "_s17": "Szokásos haladási kör",
+        "_s18": "Nincs kör",
+        "_si": "Állapot ikonok rajzolása (állítsd be a pozíciókat alul, lásd GYIK)",
+       
+    
+        "_t1": "Idő betűtípus",
+        "_t2": "Idő betűtípus AOD",
+        "_fo": "Körvonalak (ha elérhető)",
+        "_fk": "Azonos megtartása",
+
+        "_t3": "Szöveg betűtípus",
+        "_t4": "Hét napjai betűtípus",
+        "_t5": "Felső 2 betűtípus",
+        "_t6": "Bal/jobb kör betűtípus",
+        "_t7": "Alsó kör szöveg betűtípus",
+        "_t8": "Alsó kör címke betűtípus",
+        "_t9": "Alsó közép mezők betűtípus",
+
+        
+
+        "_t1s": "Idő betűtípus méret (csak átméretezhető betűtípusok)",
+        "_t3s": "Szöveg betűtípus méret (csak átméretezhető betűtípusok)",
+        "_t4s": "Hét napjai betűtípus méret",
+        "_t5s": "Felső 2 betűtípus méret",
+        "_t6s": "Bal/jobb kör betűtípus méret",
+        "_t7s": "Alsó kör szöveg betűtípus méret",
+        "_t8s": "Alsó kör címke betűtípus méret",
+        "_t9s": "Alsó közép mezők betűtípus méret",
+
+        "_o1": "Idő eltolások (X, Y, X távolság, Y távolság, hét napjai, hét napja jelölő) Alapértelmezett: 20",
+        "_o2": "Mezők eltolásai (Felső 1 Y, Felső 2 Y, B/J felső szöveg Y, B/J felső címke Y, B/J alsó szöveg Y, B/J alsó címke Y)",
+        "_o3": "Mezők eltolásai 2 (Alsó kör szöveg y, Alsó kör címke Y, B/J körök szöveg Y, B/J körök címke Y, Közép alsó bal Y, Közép alsó jobb Y)",
+        "_o4": "Állapot ikonok pozíciók % (Értesítés X, Értesítés Y, BT X, BT Y, Ne zavarj X, Ne zavarj Y, Riasztás X, Riasztás Y) Letiltás: -1, Alapértelmezett: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Jelölő 1 szín",
+        "_mc2": "Jelölő 2 szín",
+
+        "_c1": "Óra 1 szín",
+        "_c2": "Óra 2 szín",
+        "_c3": "Perc 1 szín",
+        "_c4": "Perc 2 szín",
+        "_dr": "75% sötétebb",
+
+        "_pc": "Szöveg szín",
+        "_ic": "Címke szín",      
+        
+        "_b1": "Háttér szín közép / árnyalat",
+        "_b2": "Háttér szín bal/jobb",
+        "_b3": "Háttér csak vonalak szín",
+        "_bgc": "Háttér szín oldalak (csak egyszerű háttér)",
+        "_b4": "Háttér MIPS a progresszív idő mögött",
+
+        "_c5": "Alsó kör szín 1",
+        "_c6": "Alsó kör szín 2",
+        "_c7": "Alsó kör nem kitöltött",
+        "_c8": "Alsó kör háttér",
+        "_c9": "Alsó kör árnyék szín",
+
+        "_c10": "Bal/jobb kör szín 1",
+        "_c11": "Bal/jobb kör szín 2",
+        "_c12": "Bal/jobb kör nem kitöltött",
+
+        "_c13": "Bal/jobb kör háttér",
+        "_c14": "Bal/jobb kör árnyék szín",
+
+        "_c15": "Hét napjai aktuális nap szín",
+        "_c16": "Hét napjai szín",
+        "_c17": "Felső címke szín",
+        "_c18": "Felső szöveg szín",
+        "_c19": "Felső 2 címke szín",
+        "_c20": "Felső 2 szöveg szín",
+
+        "_c21": "Bal/jobb kör szöveg szín",
+        "_c22": "Bal/jobb kör címke szín",
+        "_c23": "Alsó kör szöveg szín",
+        "_c24": "Alsó kör címke szín",
+        "_c25": "Alsó közép szöveg szín",
+        "_c26": "Alsó közép címke szín",
+
+        "_c27": "Haladás szín 1",
+        "_c28": "Haladás szín 2",
+        "_c29": "Haladás nem kitöltött",
+
+        "_c30": "Állapot ikonok szín",
+
+        "_gq": "Gradiens minőség",
+        "_ng": "Nincs gradiens",
+        "_sh": "Idő árnyék",
+
+        "_md1": "Jelölő 1 adatok",
+        "_md2": "Jelölő 2 adatok",
+        
+        "_f1": "Alsó kör adatok",
+        "_l1": "Alsó kör címke",
+        "_p1": "Alsó kör haladási stílus",
+
+        "_f2": "Bal kör adatok",
+        "_l2": "Bal kör címke",
+        "_p2": "Bal kör haladási stílus",
+
+        "_f3": "Jobb kör adatok",
+        "_l3": "Jobb kör címke",
+        "_p3": "Jobb kör haladási stílus",
+
+        "_f4": "Felső haladás adatok",
+        "_f5": "Alsó haladás adatok",
+
+        "_f10": "Felső 1 adatok",
+        "_l10": "Felső 1 címke",
+        "_f11": "Felső 2 adatok",
+        "_l11": "Felső 2 címke",
+
+        "_l12": "Bal felső címke",
+        "_f12": "Bal felső adatok",
+        "_l13": "Jobb felső címke",
+        "_f13": "Jobb felső adatok",
+
+        "_l14": "Bal alsó címke",
+        "_f14": "Bal alsó adatok",
+
+        "_l15": "Jobb alsó címke",
+        "_f15": "Jobb alsó adatok",
+
+        "_l16": "Közép alsó bal címke",
+        "_f16": "Közép alsó bal adatok",
+
+        "_l17": "Közép alsó jobb címke",
+        "_f17": "Közép alsó jobb adatok",
+        "_f18": "Radiális adatmező (lásd GYIK!)",
+
+        "_0f" : "Mező haladás megjelenítése",
+        "_1f" : "Tele",
+        "_2f" : "Üres",
+        "_3f" : "Elrejtés",
+
+        "_4f" : "Azonos a fő címke színével",
+        "_5f" : "Azonos a fő szöveg színével",
+        "_6f" : "Azonos a haladás színével",
+        "_7f" : "Azonos a háttér színével",
+
+        "_g1" : "Haladási körök közötti távolság mérete",
+        "_g2" : "Haladási körök lépés mérete",
+        "_g3" : "Körök háttér átlátszóság",
+        "_g4" : "Hét napjai angolul",
+        "_g5" : "Haladás felső/alsó árnyékolás",
+      
+        "_bgs": "Háttér stílus",
+        "bg_detailed": "=== Részletes hátterek: ===",
+        "bg0": "Nincs háttér",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (elavult)",
+        "bg4": "Árnyékolt",
+        "bg5": "Dupla árnyékolt",
+
+        "bg3": "MIPS fix közép, árnyékolt oldalak",
+
+        "bg_simple": "=== Egyszerű hátterek: ===",
+        "bg10": "Körvonalak",
+        "bg11": "Vonalak (1px)",
+        "bg12": "Vonalak (2px)",
+        "bg13": "Vonalak (3px)",
+        "bg14": "Vonalak (4px)",
+
+        "_x2": "Következő színtéma betöltése",
+        "_a1": "Érintéses gyorsbillentyű óra bal",
+        "_a2": "Érintéses gyorsbillentyű óra jobb",
+        "_a3": "Érintéses gyorsbillentyű perc bal",
+        "_a4": "Érintéses gyorsbillentyű perc jobb",
+
+        "_aas": "Másodpercek mindig bekapcsolva",
+        "_aod": "AOD mód (mindig bekapcsolt kijelző)",
+        "_aodct": "AOD idő árnyalat szín",
+        "_aodc": "AOD adat árnyalat szín",
+        "_aodT": "AOD idő fényerő",
+        "_aodD": "AOD adat fényerő. Ha a képernyő kikapcsol AOD alatt, csökkentsd ezt a számot. Kisebb szám = kevesebb akkumulátor-fogyasztás, de kevésbé fényes. Lásd GYIK)",
+        "_aodS": "AOD eltolás - pixelek száma, amennyivel a képernyő véletlenszerűen mozog minden percben az égés megakadályozása érdekében)",
+        "_f20": "AOD mező adatok",
+        "_l20": "AOD mező címke",
+        "ad0": "Képernyő kikapcsolása",
+        "ad100": "Teljes AOD (alapértelmezett)",
+        "ad1": "Csak idő",
+        "ad3": "Csak idő - mozgó",
+        "ad4": "Idő + adatmező (válassz alul)",
+        "ad6": "Mozgó idő + adatmező"
+    }
+}

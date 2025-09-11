@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 TOUCHGENVÄGAR",
+        "_tc": "🎨 FÄRGER / BAKGRUND",
+        "_tt": "🔤 TYPSNITT",
+        "_ta": "🖼️ AOD INSTÄLLNINGAR (Alltid på-skärm)",
+        "_to": "💡 ÖVRIGT",
+        "_tx": "➡️ FÖRSKJUTNINGAR",
+
+        "_s1": "Övre stil",
+        "_s10": "Förloppsindikator + 2 fält",
+        "_s11": "Halv förloppsindikator + 2 horisontella fält",
+        "_s12": "2 fält med framsteg",
+        "_s13": "Veckodagar",
+        "_s14": "Veckodagar, ingen markör",
+        "_s15": "Solframsteg",
+        "_s19": "Radiellt datafält (endast långsamt uppdaterade värden rekommenderas)",
+
+        "_s2": "Nedre cirkelstil",
+        "_s3": "Nedre stil",
+        "_s16": "60 segment cirkel",
+        "_s20": "30 segment cirkel",
+        "_s17": "Vanlig framstegscirkel",
+        "_s18": "Ingen cirkel",
+        "_si": "Rita statusikoner (ställ in positioner nedan, se FAQ)",
+       
+    
+        "_t1": "Tidstypsnitt",
+        "_t2": "Tidstypsnitt AOD",
+        "_fo": "Konturerad (om tillgänglig)",
+        "_fk": "Behåll samma",
+
+        "_t3": "Texttypsnitt",
+        "_t4": "Veckodagar typsnitt",
+        "_t5": "Övre 2 typsnitt",
+        "_t6": "Vänster/höger cirkel typsnitt",
+        "_t7": "Nedre cirkel text typsnitt",
+        "_t8": "Nedre cirkel etikett typsnitt",
+        "_t9": "Nedre centrum fält typsnitt",
+
+        
+
+        "_t1s": "Tidstypsnitt storlek (endast storleksändringsbara typsnitt)",
+        "_t3s": "Texttypsnitt storlek (endast storleksändringsbara typsnitt)",
+        "_t4s": "Veckodagar typsnitt storlek",
+        "_t5s": "Övre 2 typsnitt storlek",
+        "_t6s": "Vänster/höger cirkel typsnitt storlek",
+        "_t7s": "Nedre cirkel text typsnitt storlek",
+        "_t8s": "Nedre cirkel etikett typsnitt storlek",
+        "_t9s": "Nedre centrum fält typsnitt storlek",
+
+        "_o1": "Tidsförskjutningar (X, Y, avstånd X, avstånd Y, veckodagar, veckodagsmarkör) Standard: 20",
+        "_o2": "Fältförskjutningar (Övre 1 Y, Övre 2 Y, V/H text övre Y, V/H etikett övre Y, V/H text nedre Y, V/H etikett nedre Y)",
+        "_o3": "Fältförskjutningar 2 (Nedre cirkel text y, Nedre cirkel etikett Y, V/H cirklar text Y, V/H cirklar etikett Y, Centrum nedre vänster Y, Centrum nedre höger Y)",
+        "_o4": "Statusikoner positioner % (Meddelande X, Meddelande Y, BT X, BT Y, Stör ej X, Stör ej Y, Alarm X, Alarm Y) Inaktivera: -1, Standard: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Markörfärg 1",
+        "_mc2": "Markörfärg 2",
+
+        "_c1": "Timfärg 1",
+        "_c2": "Timfärg 2",
+        "_c3": "Minutfärg 1",
+        "_c4": "Minutfärg 2",
+        "_dr": "75% mörkare",
+
+        "_pc": "Textfärg",
+        "_ic": "Etikettfärg",      
+        
+        "_b1": "Bakgrundsfärg centrum / nyans",
+        "_b2": "Bakgrundsfärg vänster/höger",
+        "_b3": "Bakgrundsfärg endast linjer",
+        "_bgc": "Bakgrundsfärg sidor (endast enkel bakgrund)",
+        "_b4": "Bakgrund MIPS bakom progressiv tid",
+
+        "_c5": "Nedre cirkelfärg 1",
+        "_c6": "Nedre cirkelfärg 2",
+        "_c7": "Nedre cirkel ofylld",
+        "_c8": "Nedre cirkel bakgrund",
+        "_c9": "Nedre cirkel skuggfärg",
+
+        "_c10": "Vänster/höger cirkelfärg 1",
+        "_c11": "Vänster/höger cirkelfärg 2",
+        "_c12": "Vänster/höger cirkel ofylld",
+
+        "_c13": "Vänster/höger cirkel bakgrund",
+        "_c14": "Vänster/höger cirkel skuggfärg",
+
+        "_c15": "Veckodagar aktuell dag färg",
+        "_c16": "Veckodagar färg",
+        "_c17": "Övre etikett färg",
+        "_c18": "Övre text färg",
+        "_c19": "Övre 2 etikett färg",
+        "_c20": "Övre 2 text färg",
+
+        "_c21": "Vänster/höger cirkel text färg",
+        "_c22": "Vänster/höger cirkel etikett färg",
+        "_c23": "Nedre cirkel text färg",
+        "_c24": "Nedre cirkel etikett färg",
+        "_c25": "Nedre centrum text färg",
+        "_c26": "Nedre centrum etikett färg",
+
+        "_c27": "Framstegsfärg 1",
+        "_c28": "Framstegsfärg 2",
+        "_c29": "Framsteg ofyllt",
+
+        "_c30": "Statusikoner färg",
+
+        "_gq": "Gradientkvalitet",
+        "_ng": "Ingen gradient",
+        "_sh": "Tidsskugga",
+
+        "_md1": "Markördata 1",
+        "_md2": "Markördata 2",
+        
+        "_f1": "Nedre cirkeldata",
+        "_l1": "Nedre cirkeletikett",
+        "_p1": "Nedre cirkel framstegsstil",
+
+        "_f2": "Vänster cirkeldata",
+        "_l2": "Vänster cirkeletikett",
+        "_p2": "Vänster cirkel framstegsstil",
+
+        "_f3": "Höger cirkeldata",
+        "_l3": "Höger cirkeletikett",
+        "_p3": "Höger cirkel framstegsstil",
+
+        "_f4": "Övre framstegsdata",
+        "_f5": "Nedre framstegsdata",
+
+        "_f10": "Övre 1 data",
+        "_l10": "Övre 1 etikett",
+        "_f11": "Övre 2 data",
+        "_l11": "Övre 2 etikett",
+
+        "_l12": "Vänster övre etikett",
+        "_f12": "Vänster övre data",
+        "_l13": "Höger övre etikett",
+        "_f13": "Höger övre data",
+
+        "_l14": "Vänster nedre etikett",
+        "_f14": "Vänster nedre data",
+
+        "_l15": "Höger nedre etikett",
+        "_f15": "Höger nedre data",
+
+        "_l16": "Centrum nedre vänster etikett",
+        "_f16": "Centrum nedre vänster data",
+
+        "_l17": "Centrum nedre höger etikett",
+        "_f17": "Centrum nedre höger data",
+        "_f18": "Radiellt datafält (se FAQ!)",
+
+        "_0f" : "Visa fältframsteg",
+        "_1f" : "Fylld",
+        "_2f" : "Tom",
+        "_3f" : "Dölj",
+
+        "_4f" : "Samma som huvudetikett färg",
+        "_5f" : "Samma som huvudtext färg",
+        "_6f" : "Samma som framstegsfärg",
+        "_7f" : "Samma som bakgrundsfärg",
+
+        "_g1" : "Framstegscirklar avståndsstorlek",
+        "_g2" : "Framstegscirklar stegstorlek",
+        "_g3" : "Cirklar bakgrund transparens",
+        "_g4" : "Veckodagar på engelska",
+        "_g5" : "Framsteg övre/nedre skuggning",
+      
+        "_bgs": "Bakgrundsstil",
+        "bg_detailed": "=== Detaljerade bakgrunder: ===",
+        "bg0": "Ingen bakgrund",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (föråldrad)",
+        "bg4": "Skuggad",
+        "bg5": "Dubbelskuggad",
+
+        "bg3": "MIPS fast centrum, skuggade sidor",
+
+        "bg_simple": "=== Enkla bakgrunder: ===",
+        "bg10": "Konturer",
+        "bg11": "Linjer (1px)",
+        "bg12": "Linjer (2px)",
+        "bg13": "Linjer (3px)",
+        "bg14": "Linjer (4px)",
+
+        "_x2": "Ladda nästa färgtema",
+        "_a1": "Touchgenväg timme vänster",
+        "_a2": "Touchgenväg timme höger",
+        "_a3": "Touchgenväg minut vänster",
+        "_a4": "Touchgenväg minut höger",
+
+        "_aas": "Sekunder alltid på",
+        "_aod": "AOD-läge (alltid på-skärm)",
+        "_aodct": "AOD tidsnyansfärg",
+        "_aodc": "AOD datanyansfärg",
+        "_aodT": "AOD tidsljusstyrka",
+        "_aodD": "AOD dataljusstyrka. Om skärmen stängs av under AOD, minska detta nummer. Mindre nummer = mindre batterianvändning men mindre ljus. Se FAQ)",
+        "_aodS": "AOD-förskjutning - antal pixlar som skärmen slumpmässigt rör sig varje minut för att förhindra inbränning)",
+        "_f20": "AOD fältdata",
+        "_l20": "AOD fältetikett",
+        "ad0": "Stäng av skärm",
+        "ad100": "Full AOD (standard)",
+        "ad1": "Endast tid",
+        "ad3": "Endast tid - rörlig",
+        "ad4": "Tid + datafält (välj nedan)",
+        "ad6": "Rörlig tid + datafält"
+    }
+}

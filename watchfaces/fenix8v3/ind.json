@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 PINTASAN SENTUH",
+        "_tc": "🎨 WARNA / LATAR BELAKANG",
+        "_tt": "🔤 FONT",
+        "_ta": "🖼️ PENGATURAN AOD (Layar Selalu Menyala)",
+        "_to": "💡 LAINNYA",
+        "_tx": "➡️ PERGESERAN",
+
+        "_s1": "Gaya atas",
+        "_s10": "Progress bar + 2 bidang",
+        "_s11": "Setengah progress bar + 2 bidang horizontal",
+        "_s12": "2 bidang dengan kemajuan",
+        "_s13": "Hari dalam seminggu",
+        "_s14": "Hari dalam seminggu, tanpa penanda",
+        "_s15": "Kemajuan matahari",
+        "_s19": "Bidang data radial (hanya nilai update lambat yang direkomendasikan)",
+
+        "_s2": "Gaya lingkaran bawah",
+        "_s3": "Gaya bawah",
+        "_s16": "Lingkaran 60 segmen",
+        "_s20": "Lingkaran 30 segmen",
+        "_s17": "Lingkaran kemajuan biasa",
+        "_s18": "Tanpa lingkaran",
+        "_si": "Gambar ikon status (atur posisi di bawah, lihat FAQ)",
+       
+    
+        "_t1": "Font waktu",
+        "_t2": "Font waktu AOD",
+        "_fo": "Garis tepi (jika tersedia)",
+        "_fk": "Tetap sama",
+
+        "_t3": "Font teks",
+        "_t4": "Font hari dalam seminggu",
+        "_t5": "Font atas 2",
+        "_t6": "Font lingkaran kiri/kanan",
+        "_t7": "Font teks lingkaran bawah",
+        "_t8": "Font label lingkaran bawah",
+        "_t9": "Font bidang tengah bawah",
+
+        
+
+        "_t1s": "Ukuran font waktu (hanya font yang dapat diubah ukurannya)",
+        "_t3s": "Ukuran font teks (hanya font yang dapat diubah ukurannya)",
+        "_t4s": "Ukuran font hari dalam seminggu",
+        "_t5s": "Ukuran font atas 2",
+        "_t6s": "Ukuran font lingkaran kiri/kanan",
+        "_t7s": "Ukuran font teks lingkaran bawah",
+        "_t8s": "Ukuran font label lingkaran bawah",
+        "_t9s": "Ukuran font bidang tengah bawah",
+
+        "_o1": "Pergeseran waktu (X, Y, spasi X, spasi Y, hari dalam seminggu, penanda hari dalam seminggu) Default: 20",
+        "_o2": "Pergeseran bidang (Atas 1 Y, Atas 2 Y, K/Ka teks atas Y, K/Ka label atas Y, K/Ka teks bawah Y, K/Ka label bawah Y)",
+        "_o3": "Pergeseran bidang 2 (Teks lingkaran bawah y, Label lingkaran bawah Y, Teks lingkaran K/Ka Y, Label lingkaran K/Ka Y, Tengah bawah kiri Y, Tengah bawah kanan Y)",
+        "_o4": "Posisi ikon status % (Notifikasi X, Notifikasi Y, BT X, BT Y, Jangan Ganggu X, Jangan Ganggu Y, Alarm X, Alarm Y) Nonaktifkan: -1, Default: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Warna penanda 1",
+        "_mc2": "Warna penanda 2",
+
+        "_c1": "Warna jam 1",
+        "_c2": "Warna jam 2",
+        "_c3": "Warna menit 1",
+        "_c4": "Warna menit 2",
+        "_dr": "75% lebih gelap",
+
+        "_pc": "Warna teks",
+        "_ic": "Warna label",      
+        
+        "_b1": "Warna latar belakang tengah / bayangan",
+        "_b2": "Warna latar belakang kiri/kanan",
+        "_b3": "Warna latar belakang hanya garis",
+        "_bgc": "Warna latar belakang sisi (hanya latar belakang sederhana)",
+        "_b4": "Latar belakang MIPS di belakang waktu progresif",
+
+        "_c5": "Warna lingkaran bawah 1",
+        "_c6": "Warna lingkaran bawah 2",
+        "_c7": "Lingkaran bawah tidak terisi",
+        "_c8": "Latar belakang lingkaran bawah",
+        "_c9": "Warna bayangan lingkaran bawah",
+
+        "_c10": "Warna lingkaran kiri/kanan 1",
+        "_c11": "Warna lingkaran kiri/kanan 2",
+        "_c12": "Lingkaran kiri/kanan tidak terisi",
+
+        "_c13": "Latar belakang lingkaran kiri/kanan",
+        "_c14": "Warna bayangan lingkaran kiri/kanan",
+
+        "_c15": "Warna hari saat ini dalam seminggu",
+        "_c16": "Warna hari dalam seminggu",
+        "_c17": "Warna label atas",
+        "_c18": "Warna teks atas",
+        "_c19": "Warna label atas 2",
+        "_c20": "Warna teks atas 2",
+
+        "_c21": "Warna teks lingkaran kiri/kanan",
+        "_c22": "Warna label lingkaran kiri/kanan",
+        "_c23": "Warna teks lingkaran bawah",
+        "_c24": "Warna label lingkaran bawah",
+        "_c25": "Warna teks tengah bawah",
+        "_c26": "Warna label tengah bawah",
+
+        "_c27": "Warna kemajuan 1",
+        "_c28": "Warna kemajuan 2",
+        "_c29": "Kemajuan tidak terisi",
+
+        "_c30": "Warna ikon status",
+
+        "_gq": "Kualitas gradien",
+        "_ng": "Tanpa gradien",
+        "_sh": "Bayangan waktu",
+
+        "_md1": "Data penanda 1",
+        "_md2": "Data penanda 2",
+        
+        "_f1": "Data lingkaran bawah",
+        "_l1": "Label lingkaran bawah",
+        "_p1": "Gaya kemajuan lingkaran bawah",
+
+        "_f2": "Data lingkaran kiri",
+        "_l2": "Label lingkaran kiri",
+        "_p2": "Gaya kemajuan lingkaran kiri",
+
+        "_f3": "Data lingkaran kanan",
+        "_l3": "Label lingkaran kanan",
+        "_p3": "Gaya kemajuan lingkaran kanan",
+
+        "_f4": "Data kemajuan atas",
+        "_f5": "Data kemajuan bawah",
+
+        "_f10": "Data atas 1",
+        "_l10": "Label atas 1",
+        "_f11": "Data atas 2",
+        "_l11": "Label atas 2",
+
+        "_l12": "Label kiri atas",
+        "_f12": "Data kiri atas",
+        "_l13": "Label kanan atas",
+        "_f13": "Data kanan atas",
+
+        "_l14": "Label kiri bawah",
+        "_f14": "Data kiri bawah",
+
+        "_l15": "Label kanan bawah",
+        "_f15": "Data kanan bawah",
+
+        "_l16": "Label tengah bawah kiri",
+        "_f16": "Data tengah bawah kiri",
+
+        "_l17": "Label tengah bawah kanan",
+        "_f17": "Data tengah bawah kanan",
+        "_f18": "Bidang data radial (lihat FAQ!)",
+
+        "_0f" : "Tampilkan kemajuan bidang",
+        "_1f" : "Penuh",
+        "_2f" : "Kosong",
+        "_3f" : "Sembunyikan",
+
+        "_4f" : "Sama dengan warna label utama",
+        "_5f" : "Sama dengan warna teks utama",
+        "_6f" : "Sama dengan warna kemajuan",
+        "_7f" : "Sama dengan warna latar belakang",
+
+        "_g1" : "Ukuran spasi lingkaran kemajuan",
+        "_g2" : "Ukuran langkah lingkaran kemajuan",
+        "_g3" : "Transparansi latar belakang lingkaran",
+        "_g4" : "Hari dalam seminggu dalam bahasa Inggris",
+        "_g5" : "Bayangan kemajuan atas/bawah",
+      
+        "_bgs": "Gaya latar belakang",
+        "bg_detailed": "=== Latar belakang detail: ===",
+        "bg0": "Tanpa latar belakang",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (usang)",
+        "bg4": "Berarsir",
+        "bg5": "Berarsir ganda",
+
+        "bg3": "MIPS tengah tetap, sisi berarsir",
+
+        "bg_simple": "=== Latar belakang sederhana: ===",
+        "bg10": "Garis tepi",
+        "bg11": "Garis (1px)",
+        "bg12": "Garis (2px)",
+        "bg13": "Garis (3px)",
+        "bg14": "Garis (4px)",
+
+        "_x2": "Muat tema warna berikutnya",
+        "_a1": "Pintasan sentuh jam kiri",
+        "_a2": "Pintasan sentuh jam kanan",
+        "_a3": "Pintasan sentuh menit kiri",
+        "_a4": "Pintasan sentuh menit kanan",
+
+        "_aas": "Detik selalu menyala",
+        "_aod": "Mode AOD (layar selalu menyala)",
+        "_aodct": "Warna bayangan waktu AOD",
+        "_aodc": "Warna bayangan data AOD",
+        "_aodT": "Kecerahan waktu AOD",
+        "_aodD": "Kecerahan data AOD. Jika layar mati saat AOD, kurangi angka ini. Angka lebih kecil = konsumsi baterai lebih sedikit tapi kurang cerah. Lihat FAQ)",
+        "_aodS": "Pergeseran AOD - jumlah piksel layar bergeser secara acak setiap menit untuk mencegah burn-in)",
+        "_f20": "Data bidang AOD",
+        "_l20": "Label bidang AOD",
+        "ad0": "Matikan layar",
+        "ad100": "AOD penuh (default)",
+        "ad1": "Hanya waktu",
+        "ad3": "Hanya waktu - bergerak",
+        "ad4": "Waktu + bidang data (pilih di bawah)",
+        "ad6": "Waktu bergerak + bidang data"
+    }
+}

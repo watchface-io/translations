@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 RACCOURCIS TACTILES",
+        "_tc": "🎨 COULEURS / ARRIÈRE-PLAN",
+        "_tt": "🔤 POLICES",
+        "_ta": "🖼️ PARAMÈTRES AOD (Affichage toujours activé)",
+        "_to": "💡 AUTRES",
+        "_tx": "➡️ DÉCALAGES",
+
+        "_s1": "Style du haut",
+        "_s10": "Barre de progression + 2 champs",
+        "_s11": "Demi-barre de progression + 2 champs horizontaux",
+        "_s12": "2 champs avec progression",
+        "_s13": "Jours de la semaine",
+        "_s14": "Jours de la semaine, pas de marqueur",
+        "_s15": "Progression du soleil",
+        "_s19": "Champ de données radial (seules les valeurs lentement mises à jour recommandées)",
+
+        "_s2": "Style du cercle inférieur",
+        "_s3": "Style du bas",
+        "_s16": "Cercle à 60 segments",
+        "_s20": "Cercle à 30 segments",
+        "_s17": "Cercle de progression ordinaire",
+        "_s18": "Pas de cercle",
+        "_si": "Dessiner les icônes d'état (définir les positions ci-dessous, voir FAQ)",
+       
+    
+        "_t1": "Police de l'heure",
+        "_t2": "Police de l'heure AOD",
+        "_fo": "Contours (si disponibles)",
+        "_fk": "Garder la même",
+
+        "_t3": "Police du texte",
+        "_t4": "Police des jours de la semaine",
+        "_t5": "Police du haut 2",
+        "_t6": "Police du cercle gauche/droite",
+        "_t7": "Police du texte du cercle inférieur",
+        "_t8": "Police de l'étiquette du cercle inférieur",
+        "_t9": "Police des champs du centre inférieur",
+
+        
+
+        "_t1s": "Taille de la police de l'heure (polices redimensionnables uniquement)",
+        "_t3s": "Taille de la police du texte (polices redimensionnables uniquement)",
+        "_t4s": "Taille de la police des jours de la semaine",
+        "_t5s": "Taille de la police du haut 2",
+        "_t6s": "Taille de la police du cercle gauche/droite",
+        "_t7s": "Taille de la police du texte du cercle inférieur",
+        "_t8s": "Taille de la police de l'étiquette du cercle inférieur",
+        "_t9s": "Taille de la police des champs du centre inférieur",
+
+        "_o1": "Décalages de l'heure (X, Y, espacement X, espacement Y, jours de la semaine, marqueur du jour de la semaine) Par défaut: 20",
+        "_o2": "Décalages des champs (Haut 1 Y, Haut 2 Y, G/D texte haut Y, G/D étiquette haut Y, G/D texte bas Y, G/D étiquette bas Y)",
+        "_o3": "Décalages des champs 2 (Texte cercle inférieur y, Étiquette cercle inférieur Y, Texte cercles G/D Y, Étiquette cercles G/D Y, Centre bas gauche Y, Centre bas droite Y)",
+        "_o4": "Positions des icônes d'état % (Notification X, Notification Y, BT X, BT Y, Ne pas déranger X, Ne pas déranger Y, Alarme X, Alarme Y) Désactiver: -1, Par défaut: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Couleur du marqueur 1",
+        "_mc2": "Couleur du marqueur 2",
+
+        "_c1": "Couleur de l'heure 1",
+        "_c2": "Couleur de l'heure 2",
+        "_c3": "Couleur des minutes 1",
+        "_c4": "Couleur des minutes 2",
+        "_dr": "75% plus sombre",
+
+        "_pc": "Couleur du texte",
+        "_ic": "Couleur de l'étiquette",      
+        
+        "_b1": "Couleur d'arrière-plan centre / teinte",
+        "_b2": "Couleur d'arrière-plan gauche/droite",
+        "_b3": "Couleur d'arrière-plan lignes seulement",
+        "_bgc": "Couleur d'arrière-plan côtés (arrière-plan simple uniquement)",
+        "_b4": "Arrière-plan MIPS derrière le temps progressif",
+
+        "_c5": "Couleur du cercle inférieur 1",
+        "_c6": "Couleur du cercle inférieur 2",
+        "_c7": "Cercle inférieur non rempli",
+        "_c8": "Arrière-plan du cercle inférieur",
+        "_c9": "Couleur de l'ombre du cercle inférieur",
+
+        "_c10": "Couleur du cercle gauche/droite 1",
+        "_c11": "Couleur du cercle gauche/droite 2",
+        "_c12": "Cercle gauche/droite non rempli",
+
+        "_c13": "Arrière-plan du cercle gauche/droite",
+        "_c14": "Couleur de l'ombre du cercle gauche/droite",
+
+        "_c15": "Couleur du jour actuel des jours de la semaine",
+        "_c16": "Couleur des jours de la semaine",
+        "_c17": "Couleur de l'étiquette du haut",
+        "_c18": "Couleur du texte du haut",
+        "_c19": "Couleur de l'étiquette du haut 2",
+        "_c20": "Couleur du texte du haut 2",
+
+        "_c21": "Couleur du texte du cercle gauche/droite",
+        "_c22": "Couleur de l'étiquette du cercle gauche/droite",
+        "_c23": "Couleur du texte du cercle inférieur",
+        "_c24": "Couleur de l'étiquette du cercle inférieur",
+        "_c25": "Couleur du texte du centre inférieur",
+        "_c26": "Couleur de l'étiquette du centre inférieur",
+
+        "_c27": "Couleur de progression 1",
+        "_c28": "Couleur de progression 2",
+        "_c29": "Progression non remplie",
+
+        "_c30": "Couleur des icônes d'état",
+
+        "_gq": "Qualité du dégradé",
+        "_ng": "Pas de dégradé",
+        "_sh": "Ombre de l'heure",
+
+        "_md1": "Données du marqueur 1",
+        "_md2": "Données du marqueur 2",
+        
+        "_f1": "Données du cercle inférieur",
+        "_l1": "Étiquette du cercle inférieur",
+        "_p1": "Style de progression du cercle inférieur",
+
+        "_f2": "Données du cercle gauche",
+        "_l2": "Étiquette du cercle gauche",
+        "_p2": "Style de progression du cercle gauche",
+
+        "_f3": "Données du cercle droite",
+        "_l3": "Étiquette du cercle droite",
+        "_p3": "Style de progression du cercle droite",
+
+        "_f4": "Données de progression du haut",
+        "_f5": "Données de progression du bas",
+
+        "_f10": "Données du haut 1",
+        "_l10": "Étiquette du haut 1",
+        "_f11": "Données du haut 2",
+        "_l11": "Étiquette du haut 2",
+
+        "_l12": "Étiquette gauche du haut",
+        "_f12": "Données gauche du haut",
+        "_l13": "Étiquette droite du haut",
+        "_f13": "Données droite du haut",
+
+        "_l14": "Étiquette gauche du bas",
+        "_f14": "Données gauche du bas",
+
+        "_l15": "Étiquette droite du bas",
+        "_f15": "Données droite du bas",
+
+        "_l16": "Étiquette centre inférieur gauche",
+        "_f16": "Données centre inférieur gauche",
+
+        "_l17": "Étiquette centre inférieur droite",
+        "_f17": "Données centre inférieur droite",
+        "_f18": "Champ de données radial (voir FAQ!)",
+
+        "_0f" : "Afficher la progression du champ",
+        "_1f" : "Plein",
+        "_2f" : "Vide",
+        "_3f" : "Masquer",
+
+        "_4f" : "Identique à la couleur de l'étiquette principale",
+        "_5f" : "Identique à la couleur du texte principal",
+        "_6f" : "Identique à la couleur de progression",
+        "_7f" : "Identique à la couleur d'arrière-plan",
+
+        "_g1" : "Taille de l'espacement des cercles de progression",
+        "_g2" : "Taille du pas des cercles de progression",
+        "_g3" : "Transparence de l'arrière-plan des cercles",
+        "_g4" : "Jours de la semaine en anglais",
+        "_g5" : "Ombrage de progression haut/bas",
+      
+        "_bgs": "Style d'arrière-plan",
+        "bg_detailed": "=== Arrière-plans détaillés: ===",
+        "bg0": "Pas d'arrière-plan",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (obsolète)",
+        "bg4": "Ombré",
+        "bg5": "Doublement ombré",
+
+        "bg3": "MIPS centre fixe, côtés ombrés",
+
+        "bg_simple": "=== Arrière-plans simples: ===",
+        "bg10": "Contours",
+        "bg11": "Lignes (1px)",
+        "bg12": "Lignes (2px)",
+        "bg13": "Lignes (3px)",
+        "bg14": "Lignes (4px)",
+
+        "_x2": "Charger le thème de couleur suivant",
+        "_a1": "Raccourci tactile heure gauche",
+        "_a2": "Raccourci tactile heure droite",
+        "_a3": "Raccourci tactile minute gauche",
+        "_a4": "Raccourci tactile minute droite",
+
+        "_aas": "Secondes toujours activées",
+        "_aod": "Mode AOD (affichage toujours activé)",
+        "_aodct": "Couleur de teinte de l'heure AOD",
+        "_aodc": "Couleur de teinte des données AOD",
+        "_aodT": "Luminosité de l'heure AOD",
+        "_aodD": "Luminosité des données AOD. Si l'écran s'éteint pendant AOD, diminuez ce nombre. Nombre plus petit = moins de consommation de batterie mais moins lumineux. Voir FAQ)",
+        "_aodS": "Décalage AOD - nombre de pixels dont l'écran se décale aléatoirement chaque minute pour empêcher le marquage)",
+        "_f20": "Données du champ AOD",
+        "_l20": "Étiquette du champ AOD",
+        "ad0": "Éteindre l'écran",
+        "ad100": "AOD complet (par défaut)",
+        "ad1": "Heure seulement",
+        "ad3": "Heure seulement - mobile",
+        "ad4": "Heure + champ de données (sélectionner ci-dessous)",
+        "ad6": "Heure mobile + champ de données"
+    }
+}

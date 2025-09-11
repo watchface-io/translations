@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 SCORCIATOIE TOCCO",
+        "_tc": "🎨 COLORI / SFONDO",
+        "_tt": "🔤 CARATTERI",
+        "_ta": "🖼️ IMPOSTAZIONI AOD (Display sempre acceso)",
+        "_to": "💡 ALTRO",
+        "_tx": "➡️ SPOSTAMENTI",
+
+        "_s1": "Stile superiore",
+        "_s10": "Barra di progresso + 2 campi",
+        "_s11": "Mezza barra di progresso + 2 campi orizzontali",
+        "_s12": "2 campi con progresso",
+        "_s13": "Giorni della settimana",
+        "_s14": "Giorni della settimana, nessun marcatore",
+        "_s15": "Progresso del sole",
+        "_s19": "Campo dati radiale (si raccomandano solo valori a aggiornamento lento)",
+
+        "_s2": "Stile cerchio inferiore",
+        "_s3": "Stile inferiore",
+        "_s16": "Cerchio a 60 segmenti",
+        "_s20": "Cerchio a 30 segmenti",
+        "_s17": "Cerchio di progresso ordinario",
+        "_s18": "Nessun cerchio",
+        "_si": "Disegna icone di stato (imposta posizioni sotto, vedi FAQ)",
+       
+    
+        "_t1": "Carattere ora",
+        "_t2": "Carattere ora AOD",
+        "_fo": "Contorni (se disponibili)",
+        "_fk": "Mantieni uguale",
+
+        "_t3": "Carattere testo",
+        "_t4": "Carattere giorni della settimana",
+        "_t5": "Carattere superiore 2",
+        "_t6": "Carattere cerchio sinistro/destro",
+        "_t7": "Carattere testo cerchio inferiore",
+        "_t8": "Carattere etichetta cerchio inferiore",
+        "_t9": "Carattere campi centro inferiore",
+
+        
+
+        "_t1s": "Dimensione carattere ora (solo caratteri ridimensionabili)",
+        "_t3s": "Dimensione carattere testo (solo caratteri ridimensionabili)",
+        "_t4s": "Dimensione carattere giorni della settimana",
+        "_t5s": "Dimensione carattere superiore 2",
+        "_t6s": "Dimensione carattere cerchio sinistro/destro",
+        "_t7s": "Dimensione carattere testo cerchio inferiore",
+        "_t8s": "Dimensione carattere etichetta cerchio inferiore",
+        "_t9s": "Dimensione carattere campi centro inferiore",
+
+        "_o1": "Spostamenti ora (X, Y, spaziatura X, spaziatura Y, giorni della settimana, marcatore giorno della settimana) Predefinito: 20",
+        "_o2": "Spostamenti campi (Superiore 1 Y, Superiore 2 Y, S/D testo superiore Y, S/D etichetta superiore Y, S/D testo inferiore Y, S/D etichetta inferiore Y)",
+        "_o3": "Spostamenti campi 2 (Testo cerchio inferiore y, Etichetta cerchio inferiore Y, Testo cerchi S/D Y, Etichetta cerchi S/D Y, Centro inferiore sinistro Y, Centro inferiore destro Y)",
+        "_o4": "Posizioni icone di stato % (Notifica X, Notifica Y, BT X, BT Y, Non disturbare X, Non disturbare Y, Allarme X, Allarme Y) Disabilita: -1, Predefinito: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Colore marcatore 1",
+        "_mc2": "Colore marcatore 2",
+
+        "_c1": "Colore ora 1",
+        "_c2": "Colore ora 2",
+        "_c3": "Colore minuto 1",
+        "_c4": "Colore minuto 2",
+        "_dr": "75% più scuro",
+
+        "_pc": "Colore testo",
+        "_ic": "Colore etichetta",      
+        
+        "_b1": "Colore sfondo centro / tinta",
+        "_b2": "Colore sfondo sinistro/destro",
+        "_b3": "Colore sfondo solo linee",
+        "_bgc": "Colore sfondo lati (solo sfondo semplice)",
+        "_b4": "Sfondo MIPS dietro tempo progressivo",
+
+        "_c5": "Colore cerchio inferiore 1",
+        "_c6": "Colore cerchio inferiore 2",
+        "_c7": "Cerchio inferiore non riempito",
+        "_c8": "Sfondo cerchio inferiore",
+        "_c9": "Colore ombra cerchio inferiore",
+
+        "_c10": "Colore cerchio sinistro/destro 1",
+        "_c11": "Colore cerchio sinistro/destro 2",
+        "_c12": "Cerchio sinistro/destro non riempito",
+
+        "_c13": "Sfondo cerchio sinistro/destro",
+        "_c14": "Colore ombra cerchio sinistro/destro",
+
+        "_c15": "Colore giorno corrente della settimana",
+        "_c16": "Colore giorni della settimana",
+        "_c17": "Colore etichetta superiore",
+        "_c18": "Colore testo superiore",
+        "_c19": "Colore etichetta superiore 2",
+        "_c20": "Colore testo superiore 2",
+
+        "_c21": "Colore testo cerchio sinistro/destro",
+        "_c22": "Colore etichetta cerchio sinistro/destro",
+        "_c23": "Colore testo cerchio inferiore",
+        "_c24": "Colore etichetta cerchio inferiore",
+        "_c25": "Colore testo centro inferiore",
+        "_c26": "Colore etichetta centro inferiore",
+
+        "_c27": "Colore progresso 1",
+        "_c28": "Colore progresso 2",
+        "_c29": "Progresso non riempito",
+
+        "_c30": "Colore icone di stato",
+
+        "_gq": "Qualità gradiente",
+        "_ng": "Nessun gradiente",
+        "_sh": "Ombra ora",
+
+        "_md1": "Dati marcatore 1",
+        "_md2": "Dati marcatore 2",
+        
+        "_f1": "Dati cerchio inferiore",
+        "_l1": "Etichetta cerchio inferiore",
+        "_p1": "Stile progresso cerchio inferiore",
+
+        "_f2": "Dati cerchio sinistro",
+        "_l2": "Etichetta cerchio sinistro",
+        "_p2": "Stile progresso cerchio sinistro",
+
+        "_f3": "Dati cerchio destro",
+        "_l3": "Etichetta cerchio destro",
+        "_p3": "Stile progresso cerchio destro",
+
+        "_f4": "Dati progresso superiore",
+        "_f5": "Dati progresso inferiore",
+
+        "_f10": "Dati superiore 1",
+        "_l10": "Etichetta superiore 1",
+        "_f11": "Dati superiore 2",
+        "_l11": "Etichetta superiore 2",
+
+        "_l12": "Etichetta sinistra superiore",
+        "_f12": "Dati sinistra superiore",
+        "_l13": "Etichetta destra superiore",
+        "_f13": "Dati destra superiore",
+
+        "_l14": "Etichetta sinistra inferiore",
+        "_f14": "Dati sinistra inferiore",
+
+        "_l15": "Etichetta destra inferiore",
+        "_f15": "Dati destra inferiore",
+
+        "_l16": "Etichetta centro inferiore sinistro",
+        "_f16": "Dati centro inferiore sinistro",
+
+        "_l17": "Etichetta centro inferiore destro",
+        "_f17": "Dati centro inferiore destro",
+        "_f18": "Campo dati radiale (vedi FAQ!)",
+
+        "_0f" : "Mostra progresso campo",
+        "_1f" : "Pieno",
+        "_2f" : "Vuoto",
+        "_3f" : "Nascondi",
+
+        "_4f" : "Uguale al colore etichetta principale",
+        "_5f" : "Uguale al colore testo principale",
+        "_6f" : "Uguale al colore progresso",
+        "_7f" : "Uguale al colore sfondo",
+
+        "_g1" : "Dimensione spaziatura cerchi progresso",
+        "_g2" : "Dimensione passo cerchi progresso",
+        "_g3" : "Trasparenza sfondo cerchi",
+        "_g4" : "Giorni della settimana in inglese",
+        "_g5" : "Ombreggiatura progresso superiore/inferiore",
+      
+        "_bgs": "Stile sfondo",
+        "bg_detailed": "=== Sfondi dettagliati: ===",
+        "bg0": "Nessuno sfondo",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (obsoleto)",
+        "bg4": "Ombreggiato",
+        "bg5": "Doppio ombreggiato",
+
+        "bg3": "MIPS centro fisso, lati ombreggiati",
+
+        "bg_simple": "=== Sfondi semplici: ===",
+        "bg10": "Contorni",
+        "bg11": "Linee (1px)",
+        "bg12": "Linee (2px)",
+        "bg13": "Linee (3px)",
+        "bg14": "Linee (4px)",
+
+        "_x2": "Carica prossimo tema colori",
+        "_a1": "Scorciatoia tocco ora sinistra",
+        "_a2": "Scorciatoia tocco ora destra",
+        "_a3": "Scorciatoia tocco minuto sinistra",
+        "_a4": "Scorciatoia tocco minuto destra",
+
+        "_aas": "Secondi sempre accesi",
+        "_aod": "Modalità AOD (display sempre acceso)",
+        "_aodct": "Colore tinta ora AOD",
+        "_aodc": "Colore tinta dati AOD",
+        "_aodT": "Luminosità ora AOD",
+        "_aodD": "Luminosità dati AOD. Se lo schermo si spegne durante AOD, riduci questo numero. Numero più piccolo = meno consumo batteria ma meno luminoso. Vedi FAQ)",
+        "_aodS": "Spostamento AOD - numero di pixel di cui lo schermo si sposta casualmente ogni minuto per prevenire il burn-in)",
+        "_f20": "Dati campo AOD",
+        "_l20": "Etichetta campo AOD",
+        "ad0": "Spegni schermo",
+        "ad100": "AOD completo (predefinito)",
+        "ad1": "Solo ora",
+        "ad3": "Solo ora - mobile",
+        "ad4": "Ora + campo dati (seleziona sotto)",
+        "ad6": "Ora mobile + campo dati"
+    }
+}

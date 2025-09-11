@@ -1,0 +1,227 @@
+{
+    "settings": {
+
+        "_tr": "👉 ATALHOS DE TOQUE",
+        "_tc": "🎨 CORES / FUNDO",
+        "_tt": "🔤 FONTES",
+        "_ta": "🖼️ CONFIGURAÇÕES AOD (Sempre ligado)",
+        "_to": "💡 OUTROS",
+        "_tx": "➡️ DESLOCAMENTOS",
+
+        "_s1": "Estilo superior",
+        "_s10": "Barra de progresso + 2 campos",
+        "_s11": "Meia barra de progresso + 2 campos horizontais",
+        "_s12": "2 campos com progresso",
+        "_s13": "Dias da semana",
+        "_s14": "Dias da semana, sem marcador",
+        "_s15": "Progresso do sol",
+        "_s19": "Campo de dados radial (apenas valores de atualização lenta recomendados)",
+
+        "_s2": "Estilo do círculo inferior",
+        "_s3": "Estilo inferior",
+        "_s16": "Círculo de 60 segmentos",
+        "_s20": "Círculo de 30 segmentos",
+        "_s17": "Círculo de progresso regular",
+        "_s18": "Sem círculo",
+        "_si": "Desenhar ícones de status (defina posições abaixo, veja FAQ)",
+       
+    
+        "_t1": "Fonte da hora",
+        "_t2": "Fonte da hora AOD",
+        "_fo": "Contornado (se disponível)",
+        "_fk": "Manter o mesmo",
+
+        "_t3": "Fonte do texto",
+        "_t4": "Fonte dos dias da semana",
+        "_t5": "Fonte superior 2",
+        "_t6": "Fonte do círculo esquerdo/direito",
+        "_t7": "Fonte do texto do círculo inferior",
+        "_t8": "Fonte da etiqueta do círculo inferior",
+        "_t9": "Fonte dos campos do centro inferior",
+
+        
+
+        "_t1s": "Tamanho da fonte da hora (apenas fontes redimensionáveis)",
+        "_t3s": "Tamanho da fonte do texto (apenas fontes redimensionáveis)",
+        "_t4s": "Tamanho da fonte dos dias da semana",
+        "_t5s": "Tamanho da fonte superior 2",
+        "_t6s": "Tamanho da fonte do círculo esquerdo/direito",
+        "_t7s": "Tamanho da fonte do texto do círculo inferior",
+        "_t8s": "Tamanho da fonte da etiqueta do círculo inferior",
+        "_t9s": "Tamanho da fonte dos campos do centro inferior",
+
+        "_o1": "Deslocamentos da hora (X, Y, Espaçamento X, Espaçamento Y, Dias da semana, Marcador do dia da semana) Padrão: 20",
+        "_o2": "Deslocamentos dos campos (Superior 1 Y, Superior 2 Y, E/D texto superior Y, E/D etiqueta superior Y, E/D texto inferior Y, E/D etiqueta inferior Y)",
+        "_o3": "Deslocamentos dos campos 2 (Texto do círculo inferior y, Etiqueta do círculo inferior Y, Texto dos círculos E/D Y, Etiqueta dos círculos E/D Y, Centro inferior esquerdo Y, Centro inferior direito Y)",
+        "_o4": "Posições dos ícones de status % (Notif X, Notif Y, BT X, BT Y, DND X, DND Y, Alarme X, Alarme Y) Desabilitar: -1, Padrão: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Cor do marcador 1",
+        "_mc2": "Cor do marcador 2",
+
+        "_c1": "Cor da hora 1",
+        "_c2": "Cor da hora 2",
+        "_c3": "Cor do minuto 1",
+        "_c4": "Cor do minuto 2",
+        "_dr": "75% mais escuro",
+
+        "_pc": "Cor do texto",
+        "_ic": "Cor da etiqueta",      
+        
+        "_b1": "Cor do fundo centro / matiz",
+        "_b2": "Cor do fundo esquerda/direita",
+        "_b3": "Cor apenas das linhas do fundo",
+        "_bgc": "Cor do fundo lateral (apenas fundo simples)",
+        "_b4": "Fundo atrás do tempo gradiente MIPS",
+
+
+        "_c5": "Cor do círculo inferior 1",
+        "_c6": "Cor do círculo inferior 2",
+        "_c7": "Círculo inferior não preenchido",
+        "_c8": "Fundo do círculo inferior",
+        "_c9": "Cor da sombra do círculo inferior",
+
+        "_c10": "Cor do círculo esquerdo/direito 1",
+        "_c11": "Cor do círculo esquerdo/direito 2",
+        "_c12": "Círculo esquerdo/direito não preenchido",
+
+        "_c13": "Fundo do círculo esquerdo/direito",
+        "_c14": "Cor da sombra do círculo esquerdo/direito",
+
+        "_c15": "Cor do dia atual dos dias da semana",
+        "_c16": "Cor dos dias da semana",
+        "_c17": "Cor da etiqueta superior",
+        "_c18": "Cor do texto superior",
+        "_c19": "Cor da etiqueta superior 2",
+        "_c20": "Cor do texto superior 2",
+
+        "_c21": "Cor do texto do círculo esquerdo/direito",
+        "_c22": "Cor da etiqueta do círculo esquerdo/direito",
+        "_c23": "Cor do texto do círculo inferior",
+        "_c24": "Cor da etiqueta do círculo inferior",
+
+        "_c25": "Cor do texto do centro inferior",
+        "_c26": "Cor da etiqueta do centro inferior",
+
+        "_c27": "Cor do progresso 1",
+        "_c28": "Cor do progresso 2",
+        "_c29": "Progresso não preenchido",
+
+        "_c30": "Cor dos ícones de status",
+
+
+
+
+        "_gq": "Qualidade do gradiente",
+        "_ng": "Sem gradiente",
+        "_sh": "Sombra da hora",
+
+
+        "_md1": "Dados do marcador 1",
+        "_md2": "Dados do marcador 2",
+        
+        "_f1": "Dados do círculo inferior",
+        "_l1": "Etiqueta do círculo inferior",
+        "_p1": "Estilo de progresso do círculo inferior",
+
+        "_f2": "Dados do círculo esquerdo",
+        "_l2": "Etiqueta do círculo esquerdo",
+        "_p2": "Estilo de progresso do círculo esquerdo",
+
+        "_f3": "Dados do círculo direito",
+        "_l3": "Etiqueta do círculo direito",
+        "_p3": "Estilo de progresso do círculo direito",
+
+        "_f4": "Dados do progresso superior",
+        "_f5": "Dados do progresso inferior",
+
+        "_f10": "Dados superiores 1",
+        "_l10": "Etiqueta superior 1",
+        "_f11": "Dados superiores 2",
+        "_l11": "Etiqueta superior 2",
+
+        "_l12": "Etiqueta superior esquerda",
+        "_f12": "Dados superiores esquerdos",
+        "_l13": "Etiqueta superior direita",
+        "_f13": "Dados superiores direitos",
+
+        "_l14": "Etiqueta inferior esquerda",
+        "_f14": "Dados inferiores esquerdos",
+
+        "_l15": "Etiqueta inferior direita",
+        "_f15": "Dados inferiores direitos",
+
+
+        "_l16": "Etiqueta do centro inferior esquerdo",
+        "_f16": "Dados do centro inferior esquerdo",
+
+        "_l17": "Etiqueta do centro inferior direito",
+        "_f17": "Dados do centro inferior direito",
+        "_f18": "Campo de dados radial (veja FAQ!)",
+
+        
+
+
+        "_0f" : "Mostrar progresso do campo",
+        "_1f" : "Cheio",
+        "_2f" : "Vazio",
+        "_3f" : "Ocultar",
+
+        "_4f" : "Mesmo que a cor da etiqueta principal",
+        "_5f" : "Mesmo que a cor do texto principal",
+        "_6f" : "Mesmo que a cor do progresso",
+        "_7f" : "Mesmo que a cor do fundo",
+
+
+
+        "_g1" : "Tamanho da lacuna dos círculos de progresso",
+        "_g2" : "Tamanho do passo dos círculos de progresso",
+        "_g3" : "Transparência do fundo dos círculos",
+        "_g4" : "Dias da semana usar inglês",
+        "_g5" : "Sombreamento superior/inferior do progresso",
+      
+        "_bgs": "Estilo do fundo",
+        "bg_detailed": "=== Fundos detalhados: ===",
+        "bg0": "Sem fundo",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (legado)",
+        "bg4": "Sombreado",
+        "bg5": "2x sombreado",
+
+        "bg3": "MIPS centro sólido, laterais sombreadas",
+
+        "bg_simple": "=== Fundos simples: ===",
+        "bg10": "Contornos",
+        "bg11": "Linhas (1px)",
+        "bg12": "Linhas (2px)",
+        "bg13": "Linhas (3px)",
+        "bg14": "Linhas (4px)",
+
+        "_x2": "Carregar próximo tema de cores",
+        "_a1": "Atalho de toque hora esquerda",
+        "_a2": "Atalho de toque hora direita",
+        "_a3": "Atalho de toque minuto esquerda",
+        "_a4": "Atalho de toque minuto direita",
+
+       
+        "_aas": "Segundos sempre ligados",
+        "_aod": "Modo AOD (sempre ligado)",
+        "_aodct": "Cor do matiz da hora AOD",
+        "_aodc": "Cor do matiz dos dados AOD",
+        "_aodT": "Brilho da hora AOD",
+        "_aodD": "Brilho dos dados AOD. Se a tela desligar durante o AOD, diminua este número. Número menor = menor uso da bateria mas menor brilho. Veja FAQ)",
+        "_aodS": "Deslocamento AOD - número de pixels que a tela desloca aleatoriamente por minuto para prevenir queimadura)",
+        "_f20": "Dados do campo AOD",
+        "_l20": "Etiqueta do campo AOD",
+        "ad0": "Desligar tela",
+        "ad100": "AOD completo (padrão)",
+        "ad1": "Apenas hora",
+        "ad3": "Apenas hora - movendo",
+        "ad4": "Hora + campo de dados (selecione abaixo)",
+        "ad6": "Hora movendo + campo de dados"
+
+        
+
+
+        
+    }
+}

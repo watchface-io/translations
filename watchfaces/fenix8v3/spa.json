@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 ATAJOS TÁCTILES",
+        "_tc": "🎨 COLORES / FONDO",
+        "_tt": "🔤 FUENTES",
+        "_ta": "🖼️ CONFIGURACIÓN AOD (Pantalla siempre encendida)",
+        "_to": "💡 OTROS",
+        "_tx": "➡️ DESPLAZAMIENTOS",
+
+        "_s1": "Estilo superior",
+        "_s10": "Barra de progreso + 2 campos",
+        "_s11": "Media barra de progreso + 2 campos horizontales",
+        "_s12": "2 campos con progreso",
+        "_s13": "Días de la semana",
+        "_s14": "Días de la semana, sin marcador",
+        "_s15": "Progreso del sol",
+        "_s19": "Campo de datos radial (solo se recomiendan valores de actualización lenta)",
+
+        "_s2": "Estilo del círculo inferior",
+        "_s3": "Estilo inferior",
+        "_s16": "Círculo de 60 segmentos",
+        "_s20": "Círculo de 30 segmentos",
+        "_s17": "Círculo de progreso regular",
+        "_s18": "Sin círculo",
+        "_si": "Dibujar iconos de estado (establecer posiciones abajo, ver FAQ)",
+       
+    
+        "_t1": "Fuente de hora",
+        "_t2": "Fuente de hora AOD",
+        "_fo": "Contorneado (si está disponible)",
+        "_fk": "Mantener igual",
+
+        "_t3": "Fuente de texto",
+        "_t4": "Fuente de días de la semana",
+        "_t5": "Fuente superior 2",
+        "_t6": "Fuente del círculo izquierdo/derecho",
+        "_t7": "Fuente del texto del círculo inferior",
+        "_t8": "Fuente de la etiqueta del círculo inferior",
+        "_t9": "Fuente de los campos del centro inferior",
+
+        
+
+        "_t1s": "Tamaño de fuente de hora (solo fuentes redimensionables)",
+        "_t3s": "Tamaño de fuente de texto (solo fuentes redimensionables)",
+        "_t4s": "Tamaño de fuente de días de la semana",
+        "_t5s": "Tamaño de fuente superior 2",
+        "_t6s": "Tamaño de fuente del círculo izquierdo/derecho",
+        "_t7s": "Tamaño de fuente del texto del círculo inferior",
+        "_t8s": "Tamaño de fuente de la etiqueta del círculo inferior",
+        "_t9s": "Tamaño de fuente de los campos del centro inferior",
+
+        "_o1": "Desplazamientos de hora (X, Y, espaciado X, espaciado Y, días de la semana, marcador del día de la semana) Por defecto: 20",
+        "_o2": "Desplazamientos de campos (Superior 1 Y, Superior 2 Y, I/D texto superior Y, I/D etiqueta superior Y, I/D texto inferior Y, I/D etiqueta inferior Y)",
+        "_o3": "Desplazamientos de campos 2 (Texto del círculo inferior y, Etiqueta del círculo inferior Y, Texto de círculos I/D Y, Etiqueta de círculos I/D Y, Centro inferior izquierdo Y, Centro inferior derecho Y)",
+        "_o4": "Posiciones de iconos de estado % (Notificación X, Notificación Y, BT X, BT Y, No molestar X, No molestar Y, Alarma X, Alarma Y) Desactivar: -1, Por defecto: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Color del marcador 1",
+        "_mc2": "Color del marcador 2",
+
+        "_c1": "Color de hora 1",
+        "_c2": "Color de hora 2",
+        "_c3": "Color de minuto 1",
+        "_c4": "Color de minuto 2",
+        "_dr": "75% más oscuro",
+
+        "_pc": "Color del texto",
+        "_ic": "Color de la etiqueta",      
+        
+        "_b1": "Color de fondo centro / tinte",
+        "_b2": "Color de fondo izquierdo/derecho",
+        "_b3": "Color de fondo solo líneas",
+        "_bgc": "Color de fondo lados (solo fondo simple)",
+        "_b4": "Fondo MIPS detrás del tiempo progresivo",
+
+        "_c5": "Color del círculo inferior 1",
+        "_c6": "Color del círculo inferior 2",
+        "_c7": "Círculo inferior sin rellenar",
+        "_c8": "Fondo del círculo inferior",
+        "_c9": "Color de sombra del círculo inferior",
+
+        "_c10": "Color del círculo izquierdo/derecho 1",
+        "_c11": "Color del círculo izquierdo/derecho 2",
+        "_c12": "Círculo izquierdo/derecho sin rellenar",
+
+        "_c13": "Fondo del círculo izquierdo/derecho",
+        "_c14": "Color de sombra del círculo izquierdo/derecho",
+
+        "_c15": "Color del día actual de la semana",
+        "_c16": "Color de los días de la semana",
+        "_c17": "Color de la etiqueta superior",
+        "_c18": "Color del texto superior",
+        "_c19": "Color de la etiqueta superior 2",
+        "_c20": "Color del texto superior 2",
+
+        "_c21": "Color del texto del círculo izquierdo/derecho",
+        "_c22": "Color de la etiqueta del círculo izquierdo/derecho",
+        "_c23": "Color del texto del círculo inferior",
+        "_c24": "Color de la etiqueta del círculo inferior",
+        "_c25": "Color del texto del centro inferior",
+        "_c26": "Color de la etiqueta del centro inferior",
+
+        "_c27": "Color de progreso 1",
+        "_c28": "Color de progreso 2",
+        "_c29": "Progreso sin rellenar",
+
+        "_c30": "Color de iconos de estado",
+
+        "_gq": "Calidad del degradado",
+        "_ng": "Sin degradado",
+        "_sh": "Sombra de hora",
+
+        "_md1": "Datos del marcador 1",
+        "_md2": "Datos del marcador 2",
+        
+        "_f1": "Datos del círculo inferior",
+        "_l1": "Etiqueta del círculo inferior",
+        "_p1": "Estilo de progreso del círculo inferior",
+
+        "_f2": "Datos del círculo izquierdo",
+        "_l2": "Etiqueta del círculo izquierdo",
+        "_p2": "Estilo de progreso del círculo izquierdo",
+
+        "_f3": "Datos del círculo derecho",
+        "_l3": "Etiqueta del círculo derecho",
+        "_p3": "Estilo de progreso del círculo derecho",
+
+        "_f4": "Datos de progreso superior",
+        "_f5": "Datos de progreso inferior",
+
+        "_f10": "Datos superior 1",
+        "_l10": "Etiqueta superior 1",
+        "_f11": "Datos superior 2",
+        "_l11": "Etiqueta superior 2",
+
+        "_l12": "Etiqueta izquierda superior",
+        "_f12": "Datos izquierda superior",
+        "_l13": "Etiqueta derecha superior",
+        "_f13": "Datos derecha superior",
+
+        "_l14": "Etiqueta izquierda inferior",
+        "_f14": "Datos izquierda inferior",
+
+        "_l15": "Etiqueta derecha inferior",
+        "_f15": "Datos derecha inferior",
+
+        "_l16": "Etiqueta centro inferior izquierdo",
+        "_f16": "Datos centro inferior izquierdo",
+
+        "_l17": "Etiqueta centro inferior derecho",
+        "_f17": "Datos centro inferior derecho",
+        "_f18": "Campo de datos radial (¡ver FAQ!)",
+
+        "_0f" : "Mostrar progreso del campo",
+        "_1f" : "Lleno",
+        "_2f" : "Vacío",
+        "_3f" : "Ocultar",
+
+        "_4f" : "Igual que el color de etiqueta principal",
+        "_5f" : "Igual que el color de texto principal",
+        "_6f" : "Igual que el color de progreso",
+        "_7f" : "Igual que el color de fondo",
+
+        "_g1" : "Tamaño del espaciado de círculos de progreso",
+        "_g2" : "Tamaño del paso de círculos de progreso",
+        "_g3" : "Transparencia del fondo de círculos",
+        "_g4" : "Días de la semana en inglés",
+        "_g5" : "Sombreado de progreso superior/inferior",
+      
+        "_bgs": "Estilo de fondo",
+        "bg_detailed": "=== Fondos detallados: ===",
+        "bg0": "Sin fondo",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (obsoleto)",
+        "bg4": "Sombreado",
+        "bg5": "Doble sombreado",
+
+        "bg3": "MIPS centro fijo, lados sombreados",
+
+        "bg_simple": "=== Fondos simples: ===",
+        "bg10": "Contornos",
+        "bg11": "Líneas (1px)",
+        "bg12": "Líneas (2px)",
+        "bg13": "Líneas (3px)",
+        "bg14": "Líneas (4px)",
+
+        "_x2": "Cargar siguiente tema de colores",
+        "_a1": "Atajo táctil hora izquierda",
+        "_a2": "Atajo táctil hora derecha",
+        "_a3": "Atajo táctil minuto izquierda",
+        "_a4": "Atajo táctil minuto derecha",
+
+        "_aas": "Segundos siempre encendidos",
+        "_aod": "Modo AOD (pantalla siempre encendida)",
+        "_aodct": "Color de tinte de hora AOD",
+        "_aodc": "Color de tinte de datos AOD",
+        "_aodT": "Brillo de hora AOD",
+        "_aodD": "Brillo de datos AOD. Si la pantalla se apaga durante AOD, reduce este número. Número más pequeño = menos consumo de batería pero menos brillante. Ver FAQ)",
+        "_aodS": "Desplazamiento AOD - número de píxeles que la pantalla se mueve aleatoriamente cada minuto para prevenir quemaduras)",
+        "_f20": "Datos del campo AOD",
+        "_l20": "Etiqueta del campo AOD",
+        "ad0": "Apagar pantalla",
+        "ad100": "AOD completo (por defecto)",
+        "ad1": "Solo hora",
+        "ad3": "Solo hora - móvil",
+        "ad4": "Hora + campo de datos (seleccionar abajo)",
+        "ad6": "Hora móvil + campo de datos"
+    }
+}

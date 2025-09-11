@@ -1,0 +1,227 @@
+{
+    "settings": {
+
+        "_tr": "👉 COMENZI RAPIDE ATINGERE",
+        "_tc": "🎨 CULORI / FUNDAL",
+        "_tt": "🔤 FONTURI",
+        "_ta": "🖼️ SETĂRI AOD (Mereu pornit)",
+        "_to": "💡 ALTELE",
+        "_tx": "➡️ DEPLASĂRI",
+
+        "_s1": "Stil superior",
+        "_s10": "Bara de progres + 2 câmpuri",
+        "_s11": "Jumătate bara de progres + 2 câmpuri orizontale",
+        "_s12": "2 câmpuri cu progres",
+        "_s13": "Zilele săptămânii",
+        "_s14": "Zilele săptămânii, fără marcator",
+        "_s15": "Progres soare",
+        "_s19": "Câmp de date radial (recomandate doar valorile cu actualizare lentă)",
+
+        "_s2": "Stil cerc inferior",
+        "_s3": "Stil inferior",
+        "_s16": "Cerc 60 segmente",
+        "_s20": "Cerc 30 segmente",
+        "_s17": "Cerc de progres obișnuit",
+        "_s18": "Fără cerc",
+        "_si": "Desenează pictograme de stare (setează pozițiile mai jos, vezi FAQ)",
+       
+    
+        "_t1": "Font oră",
+        "_t2": "Font oră AOD",
+        "_fo": "Contur (dacă disponibil)",
+        "_fk": "Păstrează același",
+
+        "_t3": "Font text",
+        "_t4": "Font zilele săptămânii",
+        "_t5": "Font superior 2",
+        "_t6": "Font cerc stânga/dreapta",
+        "_t7": "Font text cerc inferior",
+        "_t8": "Font etichetă cerc inferior",
+        "_t9": "Font câmpuri centru inferior",
+
+        
+
+        "_t1s": "Dimensiune font oră (doar fonturi redimensionabile)",
+        "_t3s": "Dimensiune font text (doar fonturi redimensionabile)",
+        "_t4s": "Dimensiune font zilele săptămânii",
+        "_t5s": "Dimensiune font superior 2",
+        "_t6s": "Dimensiune font cerc stânga/dreapta",
+        "_t7s": "Dimensiune font text cerc inferior",
+        "_t8s": "Dimensiune font etichetă cerc inferior",
+        "_t9s": "Dimensiune font câmpuri centru inferior",
+
+        "_o1": "Deplasări oră (X, Y, Spațiere X, Spațiere Y, Zilele săptămânii, Marcator zi săptămână) Implicit: 20",
+        "_o2": "Deplasări câmpuri (Superior 1 Y, Superior 2 Y, S/D text superior Y, S/D etichetă superioară Y, S/D text inferior Y, S/D etichetă inferioară Y)",
+        "_o3": "Deplasări câmpuri 2 (Text cerc inferior y, Etichetă cerc inferior Y, Text cercuri S/D Y, Etichetă cercuri S/D Y, Centru inferior stânga Y, Centru inferior dreapta Y)",
+        "_o4": "Poziții pictograme stare % (Notif X, Notif Y, BT X, BT Y, DND X, DND Y, Alarmă X, Alarmă Y) Dezactivează: -1, Implicit: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Culoare marcator 1",
+        "_mc2": "Culoare marcator 2",
+
+        "_c1": "Culoare oră 1",
+        "_c2": "Culoare oră 2",
+        "_c3": "Culoare minut 1",
+        "_c4": "Culoare minut 2",
+        "_dr": "75% mai închis",
+
+        "_pc": "Culoare text",
+        "_ic": "Culoare etichetă",      
+        
+        "_b1": "Culoare fundal centru / nuanță",
+        "_b2": "Culoare fundal stânga/dreapta",
+        "_b3": "Culoare doar linii fundal",
+        "_bgc": "Culoare fundal laturi (doar fundal simplu)",
+        "_b4": "Fundal în spatele timpului gradient MIPS",
+
+
+        "_c5": "Culoare cerc inferior 1",
+        "_c6": "Culoare cerc inferior 2",
+        "_c7": "Cerc inferior neumplut",
+        "_c8": "Fundal cerc inferior",
+        "_c9": "Culoare umbră cerc inferior",
+
+        "_c10": "Culoare cerc stânga/dreapta 1",
+        "_c11": "Culoare cerc stânga/dreapta 2",
+        "_c12": "Cerc stânga/dreapta neumplut",
+
+        "_c13": "Fundal cerc stânga/dreapta",
+        "_c14": "Culoare umbră cerc stânga/dreapta",
+
+        "_c15": "Culoare zi curentă zilele săptămânii",
+        "_c16": "Culoare zilele săptămânii",
+        "_c17": "Culoare etichetă superioară",
+        "_c18": "Culoare text superior",
+        "_c19": "Culoare etichetă superioară 2",
+        "_c20": "Culoare text superior 2",
+
+        "_c21": "Culoare text cerc stânga/dreapta",
+        "_c22": "Culoare etichetă cerc stânga/dreapta",
+        "_c23": "Culoare text cerc inferior",
+        "_c24": "Culoare etichetă cerc inferior",
+
+        "_c25": "Culoare text centru inferior",
+        "_c26": "Culoare etichetă centru inferior",
+
+        "_c27": "Culoare progres 1",
+        "_c28": "Culoare progres 2",
+        "_c29": "Progres neumplut",
+
+        "_c30": "Culoare pictograme stare",
+
+
+
+
+        "_gq": "Calitate gradient",
+        "_ng": "Fără gradient",
+        "_sh": "Umbră oră",
+
+
+        "_md1": "Date marcator 1",
+        "_md2": "Date marcator 2",
+        
+        "_f1": "Date cerc inferior",
+        "_l1": "Etichetă cerc inferior",
+        "_p1": "Stil progres cerc inferior",
+
+        "_f2": "Date cerc stânga",
+        "_l2": "Etichetă cerc stânga",
+        "_p2": "Stil progres cerc stânga",
+
+        "_f3": "Date cerc dreapta",
+        "_l3": "Etichetă cerc dreapta",
+        "_p3": "Stil progres cerc dreapta",
+
+        "_f4": "Date progres superior",
+        "_f5": "Date progres inferior",
+
+        "_f10": "Date superioare 1",
+        "_l10": "Etichetă superioară 1",
+        "_f11": "Date superioare 2",
+        "_l11": "Etichetă superioară 2",
+
+        "_l12": "Etichetă superioară stânga",
+        "_f12": "Date superioare stânga",
+        "_l13": "Etichetă superioară dreapta",
+        "_f13": "Date superioare dreapta",
+
+        "_l14": "Etichetă inferioară stânga",
+        "_f14": "Date inferioare stânga",
+
+        "_l15": "Etichetă inferioară dreapta",
+        "_f15": "Date inferioare dreapta",
+
+
+        "_l16": "Etichetă centru inferior stânga",
+        "_f16": "Date centru inferior stânga",
+
+        "_l17": "Etichetă centru inferior dreapta",
+        "_f17": "Date centru inferior dreapta",
+        "_f18": "Câmp de date radial (vezi FAQ!)",
+
+        
+
+
+        "_0f" : "Afișează progres câmp",
+        "_1f" : "Plin",
+        "_2f" : "Gol",
+        "_3f" : "Ascunde",
+
+        "_4f" : "Aceeași ca culoarea etichetei principale",
+        "_5f" : "Aceeași ca culoarea textului principal",
+        "_6f" : "Aceeași ca culoarea progresului",
+        "_7f" : "Aceeași ca culoarea fundalului",
+
+
+
+        "_g1" : "Dimensiune spațiu cercuri progres",
+        "_g2" : "Dimensiune pas cercuri progres",
+        "_g3" : "Transparență fundal cercuri",
+        "_g4" : "Zilele săptămânii folosește engleza",
+        "_g5" : "Umbrire progres sus/jos",
+      
+        "_bgs": "Stil fundal",
+        "bg_detailed": "=== Fundaluri detaliate: ===",
+        "bg0": "Fără fundal",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (moștenire)",
+        "bg4": "Umbrit",
+        "bg5": "2x umbrit",
+
+        "bg3": "MIPS centru solid, laturi umbrite",
+
+        "bg_simple": "=== Fundaluri simple: ===",
+        "bg10": "Contururi",
+        "bg11": "Linii (1px)",
+        "bg12": "Linii (2px)",
+        "bg13": "Linii (3px)",
+        "bg14": "Linii (4px)",
+
+        "_x2": "Încarcă următoarea temă de culori",
+        "_a1": "Comandă rapidă atingere oră stânga",
+        "_a2": "Comandă rapidă atingere oră dreapta",
+        "_a3": "Comandă rapidă atingere minut stânga",
+        "_a4": "Comandă rapidă atingere minut dreapta",
+
+       
+        "_aas": "Secunde mereu pornite",
+        "_aod": "Mod AOD (mereu pornit)",
+        "_aodct": "Culoare nuanță oră AOD",
+        "_aodc": "Culoare nuanță date AOD",
+        "_aodT": "Luminozitate oră AOD",
+        "_aodD": "Luminozitate date AOD. Dacă ecranul se stinge în timpul AOD, micșorează acest număr. Număr mai mic = mai puțin consum baterie dar mai puțină luminozitate. Vezi FAQ)",
+        "_aodS": "Deplasare AOD - numărul de pixeli cu care ecranul se deplasează aleator pe minut pentru a preveni arderea)",
+        "_f20": "Date câmp AOD",
+        "_l20": "Etichetă câmp AOD",
+        "ad0": "Stinge ecranul",
+        "ad100": "AOD complet (implicit)",
+        "ad1": "Doar oră",
+        "ad3": "Doar oră - în mișcare",
+        "ad4": "Oră + câmp de date (selectează mai jos)",
+        "ad6": "Oră în mișcare + câmp de date"
+
+        
+
+
+        
+    }
+}

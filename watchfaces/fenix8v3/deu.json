@@ -1,0 +1,209 @@
+{
+    "settings": {
+
+        "_tr": "👉 BERÜHRUNGSVERKNÜPFUNGEN",
+        "_tc": "🎨 FARBEN / HINTERGRUND",
+        "_tt": "🔤 SCHRIFTARTEN",
+        "_ta": "🖼️ AOD EINSTELLUNGEN (Immer eingeschaltetes Display)",
+        "_to": "💡 SONSTIGES",
+        "_tx": "➡️ VERSÄTZE",
+
+        "_s1": "Oberer Stil",
+        "_s10": "Fortschrittsbalken + 2 Felder",
+        "_s11": "Halber Fortschrittsbalken + 2 horizontale Felder",
+        "_s12": "2 Felder mit Fortschritt",
+        "_s13": "Wochentage",
+        "_s14": "Wochentage, ohne Markierung",
+        "_s15": "Sonnenfortschritt",
+        "_s19": "Radiales Datenfeld (nur langsam aktualisierende Werte empfohlen)",
+
+        "_s2": "Unterer Kreisstil",
+        "_s3": "Unterer Stil",
+        "_s16": "60-Segment-Kreis",
+        "_s20": "30-Segment-Kreis",
+        "_s17": "Regulärer Fortschrittskreis",
+        "_s18": "Kein Kreis",
+        "_si": "Status-Icons zeichnen (Positionen unten einstellen, siehe FAQ)",
+       
+    
+        "_t1": "Zeit-Schriftart",
+        "_t2": "Zeit-Schriftart AOD",
+        "_fo": "Umrandet (falls verfügbar)",
+        "_fk": "Gleich behalten",
+
+        "_t3": "Text-Schriftart",
+        "_t4": "Wochentage-Schriftart",
+        "_t5": "Oben 2-Schriftart",
+        "_t6": "Links/Rechts-Kreis-Schriftart",
+        "_t7": "Unterer Kreis Text-Schriftart",
+        "_t8": "Unterer Kreis Beschriftung-Schriftart",
+        "_t9": "Untere Mitte Felder-Schriftart",
+
+        
+
+        "_t1s": "Zeit-Schriftgröße (nur für größenveränderbare Schriften)",
+        "_t3s": "Text-Schriftgröße (nur für größenveränderbare Schriften)",
+        "_t4s": "Wochentage-Schriftgröße",
+        "_t5s": "Oben 2-Schriftgröße",
+        "_t6s": "Links/Rechts-Kreis-Schriftgröße",
+        "_t7s": "Unterer Kreis Text-Schriftgröße",
+        "_t8s": "Unterer Kreis Beschriftung-Schriftgröße",
+        "_t9s": "Untere Mitte Felder-Schriftgröße",
+
+        "_o1": "Zeit-Versätze (X, Y, X-Abstand, Y-Abstand, Wochentage, Wochentag-Markierung) Standard: 20",
+        "_o2": "Feld-Versätze (Oben 1 Y, Oben 2 Y, L/R oben Text Y, L/R oben Beschriftung Y, L/R unten Text Y, L/R unten Beschriftung Y)",
+        "_o3": "Feld-Versätze 2 (Unterer Kreis Text y, Unterer Kreis Beschriftung Y, L/R Kreise Text Y, L/R Kreise Beschriftung Y, Mitte unten links Y, Mitte unten rechts Y)",
+        "_o4": "Status-Icon-Positionen % (Benachrichtigung X, Benachrichtigung Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Deaktivieren: -1, Standard: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Markierung 1 Farbe",
+        "_mc2": "Markierung 2 Farbe",
+
+        "_c1": "Stunde 1 Farbe",
+        "_c2": "Stunde 2 Farbe",
+        "_c3": "Minute 1 Farbe",
+        "_c4": "Minute 2 Farbe",
+        "_dr": "75% dunkler",
+
+        "_pc": "Textfarbe",
+        "_ic": "Beschriftungsfarbe",      
+        
+        "_b1": "Hintergrundfarbe Mitte / Tönung",
+        "_b2": "Hintergrundfarbe links/rechts",
+        "_b3": "Hintergrund nur-Linien-Farbe",
+        "_bgc": "Hintergrundfarbe Seiten (nur einfacher Hintergrund)",
+        "_b4": "Hintergrund hinter MIPS-Verlaufszeit",
+
+        "_c5": "Unterer Kreis Farbe 1",
+        "_c6": "Unterer Kreis Farbe 2",
+        "_c7": "Unterer Kreis ungefüllt",
+        "_c8": "Unterer Kreis Hintergrund",
+        "_c9": "Unterer Kreis Schattenfarbe",
+
+        "_c10": "Links/Rechts-Kreis Farbe 1",
+        "_c11": "Links/Rechts-Kreis Farbe 2",
+        "_c12": "Links/Rechts-Kreis ungefüllt",
+
+        "_c13": "Links/Rechts-Kreis Hintergrund",
+        "_c14": "Links/Rechts-Kreis Schattenfarbe",
+
+        "_c15": "Wochentage aktueller Tag Farbe",
+        "_c16": "Wochentage Farbe",
+        "_c17": "Obere Beschriftungsfarbe",
+        "_c18": "Obere Textfarbe",
+        "_c19": "Oben 2 Beschriftungsfarbe",
+        "_c20": "Oben 2 Textfarbe",
+
+        "_c21": "Links/Rechts-Kreis Textfarbe",
+        "_c22": "Links/Rechts-Kreis Beschriftungsfarbe",
+        "_c23": "Unterer Kreis Textfarbe",
+        "_c24": "Unterer Kreis Beschriftungsfarbe",
+        "_c25": "Mitte unten Textfarbe",
+        "_c26": "Mitte unten Beschriftungsfarbe",
+
+        "_c27": "Fortschrittsfarbe 1",
+        "_c28": "Fortschrittsfarbe 2",
+        "_c29": "Fortschritt ungefüllt",
+
+        "_c30": "Status-Icons Farbe",
+
+        "_gq": "Verlaufsqualität",
+        "_ng": "Kein Verlauf",
+        "_sh": "Zeit-Schatten",
+
+        "_md1": "Markierung 1 Daten",
+        "_md2": "Markierung 2 Daten",
+        
+        "_f1": "Unterer Kreis Daten",
+        "_l1": "Unterer Kreis Beschriftung",
+        "_p1": "Unterer Kreis Fortschrittsstil",
+
+        "_f2": "Linker Kreis Daten",
+        "_l2": "Linker Kreis Beschriftung",
+        "_p2": "Linker Kreis Fortschrittsstil",
+
+        "_f3": "Rechter Kreis Daten",
+        "_l3": "Rechter Kreis Beschriftung",
+        "_p3": "Rechter Kreis Fortschrittsstil",
+
+        "_f4": "Oberer Fortschritt Daten",
+        "_f5": "Unterer Fortschritt Daten",
+
+        "_f10": "Oben 1 Daten",
+        "_l10": "Oben 1 Beschriftung",
+        "_f11": "Oben 2 Daten",
+        "_l11": "Oben 2 Beschriftung",
+
+        "_l12": "Links oben Beschriftung",
+        "_f12": "Links oben Daten",
+        "_l13": "Rechts oben Beschriftung",
+        "_f13": "Rechts oben Daten",
+
+        "_l14": "Links unten Beschriftung",
+        "_f14": "Links unten Daten",
+
+        "_l15": "Rechts unten Beschriftung",
+        "_f15": "Rechts unten Daten",
+
+        "_l16": "Mitte unten links Beschriftung",
+        "_f16": "Mitte unten links Daten",
+
+        "_l17": "Mitte unten rechts Beschriftung",
+        "_f17": "Mitte unten rechts Daten",
+        "_f18": "Radiales Datenfeld (siehe FAQ!)",
+
+        "_0f" : "Feld-Fortschritt anzeigen",
+        "_1f" : "Voll",
+        "_2f" : "Leer",
+        "_3f" : "Verstecken",
+
+        "_4f" : "Gleich wie Haupt-Beschriftungsfarbe",
+        "_5f" : "Gleich wie Haupt-Textfarbe",
+        "_6f" : "Gleich wie Fortschrittsfarbe",
+        "_7f" : "Gleich wie Hintergrundfarbe",
+
+        "_g1" : "Fortschrittskreise Lückengröße",
+        "_g2" : "Fortschrittskreise Schrittgröße",
+        "_g3" : "Kreise Hintergrund-Transparenz",
+        "_g4" : "Wochentage auf Englisch verwenden",
+        "_g5" : "Fortschritt oben/unten Schattierung",
+      
+        "_bgs": "Hintergrundstil",
+        "bg_detailed": "=== Detaillierte Hintergründe: ===",
+        "bg0": "Kein Hintergrund",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (Veraltet)",
+        "bg4": "Schattiert",
+        "bg5": "2x schattiert",
+
+        "bg3": "MIPS solide Mitte, schattierte Seiten",
+
+        "bg_simple": "=== Einfache Hintergründe: ===",
+        "bg10": "Umrisse",
+        "bg11": "Linien (1px)",
+        "bg12": "Linien (2px)",
+        "bg13": "Linien (3px)",
+        "bg14": "Linien (4px)",
+
+        "_x2": "Nächstes Farbthema laden",
+        "_a1": "Berührungsverknüpfung Stunde links",
+        "_a2": "Berührungsverknüpfung Stunde rechts",
+        "_a3": "Berührungsverknüpfung Minute links",
+        "_a4": "Berührungsverknüpfung Minute rechts",
+
+        "_aas": "Immer eingeschaltete Sekunden",
+        "_aod": "AOD-Modus (immer eingeschaltetes Display)",
+        "_aodct": "AOD Zeit-Tönungsfarbe",
+        "_aodc": "AOD Daten-Tönungsfarbe",
+        "_aodT": "AOD Zeit-Helligkeit",
+        "_aodD": "AOD Daten-Helligkeit. Wenn der Bildschirm während AOD ausgeht, diese Zahl verringern. Niedrigere Zahl = weniger Batterieverbrauch aber weniger hell. Siehe FAQ)",
+        "_aodS": "AOD-Verschiebung - Anzahl der Pixel, die der Bildschirm zufällig pro Minute verschiebt, um Einbrennen zu verhindern)",
+        "_f20": "AOD Felddaten",
+        "_l20": "AOD Feldbeschriftung",
+        "ad0": "Bildschirm AUSSCHALTEN",
+        "ad100": "Vollständiges AOD (Standard)",
+        "ad1": "Nur Zeit",
+        "ad3": "Nur Zeit - Bewegend",
+        "ad4": "Zeit + Datenfeld (unten auswählen)",
+        "ad6": "Bewegende Zeit + Datenfeld"
+    }
+}
