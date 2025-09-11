@@ -1,0 +1,34 @@
+Adatgazdag számlapok a Fenix 8 Iron Grid inspirációjával 
+
+Vegye figyelembe, hogy ezt a számllapot harmadik fél készítette, és nem hivatalos Garmin Fenix8 számlaap. Nem reprezentálja az eredeti számlaap funkcionalitását vagy teljesítményét.
+
+⭐️ Ingyenes vs Pro ⭐️
+Ez a számlaap ingyenesen elérhető minden alapfunkcióval. A prémium funkciók ([*] jelöléssel) Pro kulcsot igényelnek a feloldáshoz. Pro kulcsot itt vásárolhat: https://ko-fi.com/s/bca3846ae1 vagy https://watchface.io/fenix8v3, vagy a PRO verziót itt: https://apps.garmin.com/apps/844f8455-c828-489d-b94a-a72416ee7df6.
+
+⭐️ MIPS eszközök (Fenix 7, Enduro, Forerunner 255, stb.) ⭐️
+Ez a számlaap teljesen optimalizált MIPS-re, de a színek eltérően nézhetnek ki, mint a legtöbb képen, mivel azok Amoled eszközön készültek. Ez a számlaap sok MIPS-re optimalizált témával rendelkezik és támogatja a MIPS átmeneteket. Az összes beépített témát itt találja: https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ Források ⭐️
+* GYIK: https://watchface.io/faq
+* Kézikönyv: https://watchface.io/fenix8v3/manual
+* PRO kulcs beszerzése: https://ko-fi.com/s/bca3846ae1 vagy https://watchface.io/fenix8v3
+* Témalista: https://watchface.io/fenix8v3/themes
+* Színútmutató: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+Megjegyzés: Két különböző hely van beállításokkal:
+* Garmin IQ alkalmazás (telefonján menjen az eszközére, számlapok, beállítások): Konfigurálja az adatmezőket, színeket és általános beállításokat.
+* Órán lévő beállítások: Részletesebb opciókhoz férjen hozzá, mint időformátum, célok és mértékegységek közvetlenül az órán a menü gomb lenyomva tartásával, számlaap kiválasztásával és testreszabás megérintésével.
+
+⭐️ Adatmezők ⭐️
+Minden adatmező, amit a Garmin jelenleg harmadik féltől származó fejlesztőknek biztosít, elérhető, plusz extrák mint Glükóz Monitor (CGM) támogatás, Open Weather Map (OWM) és más harmadik féltől származó alkalmazások támogatása.
+Minden elérhető adatmező itt van felsorolva: https://watchface.io/docs/datafields. Néhány adatmező (mint edzésre való felkészültség vagy HRV) jelenleg nem elérhető harmadik féltől származó fejlesztőknek, lásd itt: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Megváltoztathatom a Fenix/Enduro, stb. szöveget? ⭐️
+Igen, lehet! Lásd itt: https://watchface.io/faq/how-to-change-the-fenix-text
+Valójában minden ezen a számlapon az Ön ízlése szerint beállítható.
+
+*** Ha hibákba vagy problémákba ütközik, kérem lépjen kapcsolatba velem a "Contact Developer" megnyomásával a véleményezési rendszer használata helyett. Gyorsan tudok válaszolni emailekre, míg lehet, hogy napokig nem látom a véleményeket. ***
+
+* Változásnapló: https://watchface.io/fenix8v3/changelog

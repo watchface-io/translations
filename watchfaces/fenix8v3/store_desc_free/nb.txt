@@ -1,0 +1,34 @@
+Datarik urskive inspirert av Fenix 8 Iron Grid 
+
+Merk at denne urskiven er laget av en tredjepart og er ikke en offisiell Garmin Fenix8 urskive. Den representerer ikke funksjonaliteten eller ytelsen til den originale urskiven.
+
+⭐️ Gratis vs Pro ⭐️
+Denne urskiven er tilgjengelig uten kostnad med alle grunnleggende funksjoner. Premium funksjoner (merket med [*]) krever en Pro nøkkel for å låse opp. Du kan kjøpe en Pro nøkkel her: https://ko-fi.com/s/bca3846ae1 eller https://watchface.io/fenix8v3, eller kjøpe PRO versjonen her: https://apps.garmin.com/apps/844f8455-c828-489d-b94a-a72416ee7df6.
+
+⭐️ MIPS enheter (Fenix 7, Enduro, Forerunner 255, osv.) ⭐️
+Denne urskiven er fullt optimalisert for MIPS, men farger kan se annerledes ut som i de fleste bildene, siden disse er tatt på en Amoled enhet. Denne urskiven har mange temaer optimalisert for MIPS og støtter MIPS gradienter. Du finner alle de innebygde temaene her: https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ Ressurser ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/fenix8v3/manual
+* Få en PRO nøkkel: https://ko-fi.com/s/bca3846ae1 eller https://watchface.io/fenix8v3
+* Temaliste: https://watchface.io/fenix8v3/themes
+* Fargeguide: https://watchface.io/docs/color-list
+* Tilgjengelige datafelter: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ app (på telefonen din gå til enheten din, urskiver, innstillinger): Konfigurer datafelter, farger og generelle innstillinger.
+* Innstillinger på klokka: Få tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde inne menyknappen, velge urskive og trykke tilpass.
+
+⭐️ Datafelter ⭐️
+Alle datafelter som Garmin for øyeblikket leverer til tredjepartsutviklere er tilgjengelige, pluss ekstra som Glukose Monitor (CGM) støtte, Open Weather Map (OWM) og støtte for andre tredjepartsapper.
+Alle tilgjengelige datafelter er listet her: https://watchface.io/docs/datafields. Noen datafelter (som treningsberedskap eller HRV) er for øyeblikket ikke tilgjengelige for tredjepartsutviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kan jeg endre Fenix/Enduro, osv. teksten? ⭐️
+Ja, det kan du! Se her: https://watchface.io/faq/how-to-change-the-fenix-text
+Faktisk kan alt på denne urskiven justeres etter din smak.
+
+*** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke "Contact Developer" i stedet for å bruke anmeldelsessystemet. Jeg kan svare på e-poster raskt, mens jeg kanskje ikke ser anmeldelser på flere dager. ***
+
+* Endringslogg: https://watchface.io/fenix8v3/changelog

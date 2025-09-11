@@ -1,0 +1,34 @@
+Mostrador rico em dados inspirado no Fenix 8 Iron Grid 
+
+Note que este mostrador é feito por terceiros e não é um mostrador oficial Garmin Fenix8. Não representa a funcionalidade ou desempenho do mostrador original.
+
+⭐️ Grátis vs Pro ⭐️
+Este mostrador está disponível sem custo com todas as funções básicas. Recursos premium (marcados com [*]) requerem uma Chave Pro para desbloquear. Você pode comprar uma Chave Pro aqui: https://ko-fi.com/s/bca3846ae1 ou https://watchface.io/fenix8v3, ou comprar a versão PRO aqui: https://apps.garmin.com/apps/844f8455-c828-489d-b94a-a72416ee7df6.
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Este mostrador é totalmente otimizado para MIPS, mas as cores podem parecer diferentes como na maioria das imagens, pois estas são tiradas em um dispositivo Amoled. Este mostrador tem muitos temas otimizados para MIPS e suporta gradientes MIPS. Você pode encontrar todos os temas integrados aqui: https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/fenix8v3/manual
+* Obter uma chave PRO: https://ko-fi.com/s/bca3846ae1 ou https://watchface.io/fenix8v3
+* Lista de temas: https://watchface.io/fenix8v3/themes
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Há dois lugares diferentes com configurações:
+* App Garmin IQ (no seu telefone vá para seu dispositivo, mostradores, configurações): Configure campos de dados, cores e configurações gerais.
+* Configurações no relógio: Acesse opções mais detalhadas como formato de hora, metas e unidades diretamente no relógio segurando o botão menu, selecionando mostrador e tocando personalizar.
+
+⭐️ Campos de dados ⭐️
+Todos os campos de dados que a Garmin atualmente fornece para desenvolvedores terceiros estão disponíveis, mais extras como suporte a Monitor de Glicose (CGM), Open Weather Map (OWM) e suporte para outros apps terceiros.
+Todos os campos de dados disponíveis estão listados aqui: https://watchface.io/docs/datafields. Alguns campos de dados (como prontidão para treino ou HRV) atualmente não estão disponíveis para desenvolvedores terceiros, veja aqui: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Posso mudar o texto Fenix/Enduro, etc.? ⭐️
+Sim, você pode! Veja aqui: https://watchface.io/faq/how-to-change-the-fenix-text
+Na verdade, tudo neste mostrador pode ser ajustado ao seu gosto.
+
+*** Se você encontrar bugs ou problemas, por favor me contate pressionando "Contact Developer" ao invés de usar o sistema de avaliações. Eu posso responder emails prontamente, enquanto posso não ver avaliações por vários dias. ***
+
+* Log de alterações: https://watchface.io/fenix8v3/changelog

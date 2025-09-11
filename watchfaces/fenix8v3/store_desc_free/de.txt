@@ -1,0 +1,34 @@
+Datenreiches Zifferblatt inspiriert von Fenix 8 Iron Grid 
+
+Beachten Sie, dass dieses Zifferblatt von einem Drittanbieter erstellt wurde und kein offizielles Garmin Fenix8 Zifferblatt ist. Es repräsentiert nicht die Funktionalität oder Leistung des ursprünglichen Zifferblatts.
+
+⭐️ Kostenlos vs Pro ⭐️
+Dieses Zifferblatt ist kostenlos mit allen Grundfunktionen verfügbar. Premium-Funktionen (markiert mit [*]) erfordern einen Pro-Schlüssel zum Freischalten. Sie können einen Pro-Schlüssel hier kaufen: https://ko-fi.com/s/bca3846ae1 oder https://watchface.io/fenix8v3, oder die PRO-Version hier kaufen: https://apps.garmin.com/apps/844f8455-c828-489d-b94a-a72416ee7df6.
+
+⭐️ MIPS-Geräte (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Dieses Zifferblatt ist vollständig für MIPS optimiert, aber Farben können anders aussehen als in den meisten Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden. Dieses Zifferblatt hat viele für MIPS optimierte Themen und unterstützt MIPS-Farbverläufe. Sie finden alle integrierten Themen hier: https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Handbuch: https://watchface.io/fenix8v3/manual
+* PRO-Schlüssel erhalten: https://ko-fi.com/s/bca3846ae1 oder https://watchface.io/fenix8v3
+* Themenliste: https://watchface.io/fenix8v3/themes
+* Farbführer: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon gehen Sie zu Ihrem Gerät, Zifferblätter, Einstellungen): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen.
+* Uhr-Einstellungen: Greifen Sie auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr zu, indem Sie die Menütaste gedrückt halten, Zifferblatt auswählen und auf Anpassen tippen.
+
+⭐️ Datenfelder ⭐️
+Alle Datenfelder, die Garmin derzeit Drittentwicklern zur Verfügung stellt, sind verfügbar, plus Extras wie Glukose-Monitor (CGM) Unterstützung, Open Weather Map (OWM) und Unterstützung für andere Drittanbieter-Apps.
+Alle verfügbaren Datenfelder sind hier aufgelistet: https://watchface.io/docs/datafields. Einige Datenfelder (wie Trainingsbereitschaft oder HRV) sind derzeit nicht für Drittentwickler verfügbar, siehe hier: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kann ich den Fenix/Enduro, etc. Text ändern? ⭐️
+Ja, können Sie! Siehe hier: https://watchface.io/faq/how-to-change-the-fenix-text
+Tatsächlich kann alles an diesem Zifferblatt nach Ihren Wünschen angepasst werden.
+
+*** Wenn Sie auf Bugs oder Probleme stoßen, kontaktieren Sie mich bitte durch Drücken von "Contact Developer" anstatt das Bewertungssystem zu verwenden. Ich kann E-Mails prompt beantworten, während ich Bewertungen möglicherweise mehrere Tage nicht sehe. ***
+
+* Änderungsprotokoll: https://watchface.io/fenix8v3/changelog

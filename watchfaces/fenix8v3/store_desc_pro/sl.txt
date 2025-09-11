@@ -1,0 +1,34 @@
+Podatkovni bogata številčnica navdihnjena s Fenix 8 Iron Grid
+
+Upoštevajte, da je to številčnico ustvarila tretja stranka in ni uradna Garmin Fenix8 številčnica. Ne predstavlja funkcionalnosti ali zmogljivosti originalne številčnice.
+
+⭐️ Preizkusite pred nakupom! ⭐️
+Pred nakupom te številčnice najprej preizkusite brezplačno različico, da se prepričate, da je to to, kar želite in da vam je všeč, kako izgleda na vaši uri: https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
+
+⭐️ MIPS naprave (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ta številčnica je popolnoma optimizirana za MIPS, vendar se barve lahko razlikujejo od večine fotografij, saj so bile posnete na Amoled napravi. Ta številčnica ima mnoge teme optimizirane za MIPS in podpira MIPS gradiente. Vse vgrajene teme lahko najdete tukaj: https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ Viri ⭐️
+* FAQ: https://watchface.io/faq
+* Priročnik: https://watchface.io/fenix8v3/manual
+* Brezplačna različica: https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
+* Seznam tem: https://watchface.io/fenix8v3/themes
+* Vodnik za barve: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Garmin IQ aplikacija (na vašem telefonu pojdite na vašo napravo, številčnice, nastavitve): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostop do bolj podrobnih možnosti kot je format časa, cilji in enote neposredno na uri z držanjem gumba meni, izberite številčnico in dotaknite se prilagodi.
+
+⭐️ Podatkovna polja ⭐️
+Vsa podatkovna polja, ki jih Garmin trenutno zagotavlja razvijalcem tretjih strank, so na voljo, plus dodatki kot podpora za Glucose Monitor (CGM), Open Weather Map (OWM) in podpora za druge aplikacije tretjih strank.
+Vsa razpoložljiva podatkovna polja so navedena tukaj: https://watchface.io/docs/datafields. Nekatera podatkovna polja (kot je pripravljenost za trening ali HRV) trenutno niso na voljo razvijalcem tretjih strank, glejte tukaj: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Ali lahko spremenim besedilo Fenix/Enduro, itd.? ⭐️
+Da, lahko! Glejte tukaj: https://watchface.io/faq/how-to-change-the-fenix-text
+Pravzaprav je mogoče vse na tej številčnici prilagoditi po vašem okusu.
+
+*** Če naletite na napake ali težave, me kontaktirajte s klikom na "Contact Developer" namesto uporabe sistema ocenjevanja. Lahko hitro odgovorim na e-poštne sporočila, medtem ko ocen morda ne vidim več dni. ***
+
+* Changelog: https://watchface.io/fenix8v3/changelog

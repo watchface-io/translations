@@ -1,0 +1,34 @@
+Fenix 8 Iron Gridにインスパイアされた、データリッチなウォッチフェイス
+
+このウォッチフェイスは第三者によって作成されており、公式のGarmin Fenix8ウォッチフェイスではないことにご注意ください。オリジナルウォッチフェイスの機能や性能を表すものではありません。
+
+⭐️ 購入前にお試しください！ ⭐️
+このウォッチフェイスを購入する前に、まず無料版をお試しして、これがお望みのものであり、あなたの時計での見た目を気に入っていただけるかご確認ください：https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
+
+⭐️ MIPSデバイス（Fenix 7、Enduro、Forerunner 255など） ⭐️
+このウォッチフェイスはMIPS用に完全に最適化されていますが、写真の多くがAmoledデバイスで撮影されているため、色が異なって見える場合があります。このウォッチフェイスには、MIPS用に最適化された多くのテーマがあり、MIPSグラデーションをサポートしています。すべての組み込みテーマはこちらでご覧いただけます：https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ リソース ⭐️
+* FAQ：https://watchface.io/faq
+* マニュアル：https://watchface.io/fenix8v3/manual
+* 無料版：https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
+* テーマリスト：https://watchface.io/fenix8v3/themes
+* カラーガイド：https://watchface.io/docs/color-list
+* 利用可能なデータフィールド：https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注：設定のある場所が2つあります：
+* Garmin IQアプリ（お使いの電話でデバイス、ウォッチフェイス、設定に移動）：データフィールド、色、一般設定を構成します。
+* 時計での設定：メニューボタンを長押ししてウォッチフェイスを選択し、カスタマイズをタッチして、時刻形式、目標、単位などのより詳細なオプションに時計から直接アクセスします。
+
+⭐️ データフィールド ⭐️
+Garminが現在サードパーティー開発者に提供しているすべてのデータフィールドが利用可能で、さらにGlucose Monitor（CGM）、Open Weather Map（OWM）サポート、その他のサードパーティーアプリサポートなどの追加機能があります。
+利用可能なすべてのデータフィールドはこちらにリストされています：https://watchface.io/docs/datafields。一部のデータフィールド（トレーニング準備度やHRVなど）は現在サードパーティー開発者には提供されていません。こちらをご覧ください：https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Fenix/Enduroなどのテキストを変更できますか？ ⭐️
+はい、できます！こちらをご覧ください：https://watchface.io/faq/how-to-change-the-fenix-text
+実際に、このウォッチフェイスのすべてをお好みに合わせてカスタマイズできます。
+
+*** バグや問題に遭遇した場合は、レビューシステムを使用する代わりに「Contact Developer」をクリックして私にご連絡ください。メールには迅速に返信できますが、レビューは数日間見逃す可能性があります。***
+
+* 変更履歴：https://watchface.io/fenix8v3/changelog

@@ -1,0 +1,34 @@
+Fenix 8 Iron Gridからインスピレーションを得たデータリッチな文字盤 
+
+この文字盤はサードパーティによって作成されており、公式のGarmin Fenix8文字盤ではないことにご注意ください。元の文字盤の機能や性能を表すものではありません。
+
+⭐️ 無料 vs Pro ⭐️
+この文字盤はすべての基本機能を含めて無料で利用できます。プレミアム機能（[*]でマークされた）はロック解除にProキーが必要です。Proキーはこちらで購入できます：https://ko-fi.com/s/bca3846ae1 または https://watchface.io/fenix8v3、またはPROバージョンをこちらで購入：https://apps.garmin.com/apps/844f8455-c828-489d-b94a-a72416ee7df6。
+
+⭐️ MIPSデバイス（Fenix 7、Enduro、Forerunner 255など） ⭐️
+この文字盤はMIPS用に完全に最適化されていますが、ほとんどの画像のように色が異なって見える場合があります。これらはAmoledデバイスで撮影されているためです。この文字盤にはMIPS用に最適化された多くのテーマがあり、MIPSグラデーションをサポートしています。すべての内蔵テーマはこちらで見つけることができます：https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ リソース ⭐️
+* FAQ：https://watchface.io/faq
+* マニュアル：https://watchface.io/fenix8v3/manual
+* PROキーを取得：https://ko-fi.com/s/bca3846ae1 または https://watchface.io/fenix8v3
+* テーマリスト：https://watchface.io/fenix8v3/themes
+* カラーガイド：https://watchface.io/docs/color-list
+* 利用可能なデータフィールド：https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：設定には2つの異なる場所があります：
+* Garmin IQアプリ（携帯電話でデバイス、文字盤、設定に移動）：データフィールド、色、一般設定を構成します。
+* ウォッチ上の設定：メニューボタンを長押しし、文字盤を選択してカスタマイズをタップすることで、時刻フォーマット、目標、単位などのより詳細なオプションにウォッチから直接アクセスします。
+
+⭐️ データフィールド ⭐️
+Garminが現在サードパーティ開発者に提供しているすべてのデータフィールドが利用可能で、さらにグルコースモニター（CGM）サポート、Open Weather Map（OWM）、その他のサードパーティアプリのサポートなどの追加機能があります。
+利用可能なすべてのデータフィールドはこちらにリストされています：https://watchface.io/docs/datafields。一部のデータフィールド（トレーニング準備状況やHRVなど）は現在サードパーティ開発者には利用できません。こちらを参照してください：https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Fenix/Enduroなどのテキストを変更できますか？ ⭐️
+はい、できます！こちらを参照してください：https://watchface.io/faq/how-to-change-the-fenix-text
+実際、この文字盤のすべてをお好みに合わせて調整できます。
+
+*** バグや問題に遭遇した場合は、レビューシステムを使用する代わりに「Contact Developer」を押して私に連絡してください。メールには迅速に返信できますが、レビューは数日見ない場合があります。 ***
+
+* 変更ログ：https://watchface.io/fenix8v3/changelog

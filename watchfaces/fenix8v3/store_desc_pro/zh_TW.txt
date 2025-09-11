@@ -1,0 +1,34 @@
+數據豐富的錶盤，靈感來自 Fenix 8 Iron Grid
+
+請注意，此錶盤由第三方創建，不是官方 Garmin Fenix8 錶盤。它不代表原始錶盤的功能或性能。
+
+⭐️ 購買前試用！⭐️
+在購買此錶盤之前，請先試用免費版本，以確保這是您想要的，並且您喜歡它在您的手錶上的外觀：https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
+
+⭐️ MIPS 設備（Fenix 7、Enduro、Forerunner 255 等）⭐️
+此錶盤針對 MIPS 進行了完全優化，但顏色可能與大多數照片看起來不同，因為它們是在 Amoled 設備上拍攝的。此錶盤有許多針對 MIPS 優化的主題，並支持 MIPS 漸變。所有內建主題可在此處找到：https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ 資源 ⭐️
+* 常見問題：https://watchface.io/faq
+* 手冊：https://watchface.io/fenix8v3/manual
+* 免費版本：https://apps.garmin.com/apps/c9f57ab1-c334-4f9b-87ec-5458cc79c868
+* 主題列表：https://watchface.io/fenix8v3/themes
+* 顏色指南：https://watchface.io/docs/color-list
+* 可用數據欄位：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有兩個不同的設定位置：
+* Garmin IQ 應用程式（在您的手機上轉到您的設備、錶盤、設定）：配置數據欄位、顏色和常規設定。
+* 手錶上的設定：通過長按選單按鈕、選擇錶盤並觸摸自訂，直接在手錶上訪問更精細的選項，如時間格式、目標和單位。
+
+⭐️ 數據欄位 ⭐️
+Garmin 目前為第三方開發者提供的所有數據欄位都可用，加上額外功能，如血糖監測器（CGM）、Open Weather Map（OWM）支援以及其他第三方應用程式支援。
+所有可用的數據欄位在此處列出：https://watchface.io/docs/datafields。某些數據欄位（如訓練準備度或 HRV）目前不向第三方開發者提供，請參見：https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ 我可以更改 Fenix/Enduro 等文本嗎？⭐️
+是的，您可以！請參見：https://watchface.io/faq/how-to-change-the-fenix-text
+實際上，此錶盤上的所有內容都可以根據您的喜好進行自訂。
+
+*** 如果您遇到錯誤或問題，請點擊「Contact Developer」聯繫我，而不是使用評論系統。我可以快速回覆電子郵件，而我可能幾天都看不到評論。***
+
+* 更新日誌：https://watchface.io/fenix8v3/changelog

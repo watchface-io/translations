@@ -1,0 +1,34 @@
+Cadran riche en données inspiré du Fenix 8 Iron Grid 
+
+Notez que ce cadran est fait par un tiers et n'est pas un cadran officiel Garmin Fenix8. Il ne représente pas la fonctionnalité ou les performances du cadran original.
+
+⭐️ Gratuit vs Pro ⭐️
+Ce cadran est disponible gratuitement avec toutes les fonctions de base. Les fonctionnalités premium (marquées avec [*]) nécessitent une Clé Pro pour débloquer. Vous pouvez acheter une Clé Pro ici : https://ko-fi.com/s/bca3846ae1 ou https://watchface.io/fenix8v3, ou acheter la version PRO ici : https://apps.garmin.com/apps/844f8455-c828-489d-b94a-a72416ee7df6.
+
+⭐️ Appareils MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Ce cadran est entièrement optimisé pour MIPS, mais les couleurs peuvent paraître différentes comme dans la plupart des images, car celles-ci sont prises sur un appareil Amoled. Ce cadran a de nombreux thèmes optimisés pour MIPS et prend en charge les dégradés MIPS. Vous pouvez trouver tous les thèmes intégrés ici : https://watchface.io/fenix8v3/themes#MIPS
+
+⭐️ Ressources ⭐️
+* FAQ : https://watchface.io/faq
+* Manuel : https://watchface.io/fenix8v3/manual
+* Obtenir une clé PRO : https://ko-fi.com/s/bca3846ae1 ou https://watchface.io/fenix8v3
+* Liste des thèmes : https://watchface.io/fenix8v3/themes
+* Guide des couleurs : https://watchface.io/docs/color-list
+* Champs de données disponibles : https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note : Il y a deux endroits différents avec des paramètres :
+* App Garmin IQ (sur votre téléphone allez à votre appareil, cadrans, paramètres) : Configurez les champs de données, couleurs et paramètres généraux.
+* Paramètres sur la montre : Accédez à des options plus détaillées comme le format de l'heure, les objectifs et les unités directement sur la montre en maintenant le bouton menu, sélectionnant cadran et appuyant sur personnaliser.
+
+⭐️ Champs de données ⭐️
+Tous les champs de données que Garmin fournit actuellement aux développeurs tiers sont disponibles, plus des extras comme le support Moniteur de Glucose (CGM), Open Weather Map (OWM) et le support pour d'autres applications tierces.
+Tous les champs de données disponibles sont listés ici : https://watchface.io/docs/datafields. Certains champs de données (comme la préparation à l'entraînement ou HRV) ne sont actuellement pas disponibles pour les développeurs tiers, voir ici : https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Puis-je changer le texte Fenix/Enduro, etc. ? ⭐️
+Oui, vous pouvez ! Voir ici : https://watchface.io/faq/how-to-change-the-fenix-text
+En fait, tout sur ce cadran peut être ajusté à votre goût.
+
+*** Si vous rencontrez des bugs ou des problèmes, veuillez me contacter en appuyant sur "Contact Developer" au lieu d'utiliser le système d'avis. Je peux répondre aux emails rapidement, alors que je pourrais ne pas voir les avis pendant plusieurs jours. ***
+
+* Journal des modifications : https://watchface.io/fenix8v3/changelog
