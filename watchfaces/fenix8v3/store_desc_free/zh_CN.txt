@@ -10,7 +10,7 @@
 
 ⭐️MIP屏幕兼容性（Fenix 7、Enduro、Forerunner 255等）⭐️
 本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。
-本表盘提供多款专为MIPS设备优化的模式颜色，并支持MIPS渐变效果。所有内置模式颜色可在此查看: https://watchface.io/datadash/themes#MIPS
+本表盘提供多款专为MIPS设备优化的模式颜色，并支持MIPS渐变效果。所有内置模式颜色可在此查看: https://watchface.io/fenix8v3/themes#MIPS
 
 ⭐️资源中心⭐️
 * 常见问题FAQ: https://watchface.io/faq
@@ -38,4 +38,4 @@ https://watchface.io/faq/can-you-add-training-readiness
 
 ***如遇任何问题或者需要应用程序支持，请选择联系开发者来获得快速邮件回复(不要点击“报告问题")。在评论区撰写评论可能很多天后才能看到，造成回复延迟。 ***
 
-* 更新日志: https://watchface.io/datadash/changelog
+* 更新日志: Changelog: https://watchface.io/fenix8v3/changelog
