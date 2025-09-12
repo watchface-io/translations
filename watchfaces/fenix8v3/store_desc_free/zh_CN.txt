@@ -38,4 +38,4 @@ https://watchface.io/faq/can-you-add-training-readiness
 
 ***如遇任何问题或者需要应用程序支持，请选择联系开发者来获得快速邮件回复(不要点击“报告问题")。在评论区撰写评论可能很多天后才能看到，造成回复延迟。 ***
 
-* 更新日志: Changelog: https://watchface.io/fenix8v3/changelog
+* 更新日志: https://watchface.io/fenix8v3/changelog
