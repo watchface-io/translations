@@ -43,7 +43,8 @@
         "_l6": "6. Label tengah 3",
 
         "_s2": "7. Gaya bawah",
-        "_gs": "7. Diagram bawah sebagai grafik garis",
+        "_gs": "7. Bagan bawah sebagai grafik garis",
+        "_g2": "7. Bagan bawah gunakan warna 2 saat target tercapai",
         "_f7": "7. Data bawah 1",
         "_l7": "7. Label bawah 1",
         "_f8": "8. Data bawah 2",

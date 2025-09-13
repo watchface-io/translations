@@ -43,7 +43,8 @@
         "_l6": "6. Etiqueta do meio 3",
 
         "_s2": "7. Estilo inferior",
-        "_gs": "7. Diagrama inferior como gráfico de linha",
+        "_gs": "7. Gráfico inferior como gráfico de linhas",
+        "_g2": "7. Gráfico inferior usa cor 2 quando objetivo atingido",
         "_f7": "7. Dados inferiores 1",
         "_l7": "7. Etiqueta inferior 1",
         "_f8": "8. Dados inferiores 2",

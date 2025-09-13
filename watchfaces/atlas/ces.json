@@ -44,6 +44,7 @@
 
         "_s2": "7. Styl spodní části",
         "_gs": "7. Graf spodní části jako čárový graf",
+        "_g2": "7. Graf spodní části použije barvu 2 při dosažení cíle",
         "_f7": "7. Data spodní části 1",
         "_l7": "7. Popisek spodní části 1",
         "_f8": "8. Data spodní části 2",
