@@ -77,7 +77,7 @@
         "_c5": "Bottom Circle Color 1",
         "_c6": "Bottom Circle Color 2",
         "_c7": "Bottom Circle Unfilled",
-        "_c8": "Bottom Circle Background",
+        "_c8": "Bottom Circle Background color",
         "_c9": "Bottom Circle Shade Color",
 
         "_c10": "Left/Right Circle Color 1",
@@ -89,8 +89,8 @@
 
         "_c15": "Weekdays Current Day Color",
         "_c16": "Weekdays Color",
-        "_c17": "Top Label Color",
-        "_c18": "Top Text Color",
+        "_c17": "Top 1 Label Color",
+        "_c18": "Top 1 Text Color",
         "_c19": "Top 2 Label Color",
         "_c20": "Top 2 Text Color",
 
