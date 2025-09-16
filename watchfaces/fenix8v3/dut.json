@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Vorige voorinstelling laden",
+        "_x3": "Vorig kleurenthema laden",
+        "ad102": "Volledige AOD - Alternatieve onderste cirkel bovenaan",
+        "ad101": "Volledige AOD - Houd onderste cirkel bovenaan (verhoogt batterijverbruik)",
+        "_s21": "Geen cirkel, toon gegevens",
         "_rst": "Alle instellingen resetten",
         "_tr": "👉 AANRAAKSNELKOPPELINGEN",
         "_tc": "🎨 KLEUREN / ACHTERGROND",

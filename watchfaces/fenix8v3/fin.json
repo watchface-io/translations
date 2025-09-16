@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Lataa edellinen esiasetus",
+        "_x3": "Lataa edellinen väriteema",
+        "ad102": "Täysi AOD - Vaihtoehtoinen alaympyrä päällä",
+        "ad101": "Täysi AOD - Pidä alaympyrä päällä (lisää akun kulutusta)",
+        "_s21": "Ei ympyrää, näytä tiedot",
         "_rst": "Nollaa kaikki asetukset",
         "_tr": "👉 KOSKETUSPIKAVALINNAT",
         "_tc": "🎨 VÄRIT / TAUSTA",

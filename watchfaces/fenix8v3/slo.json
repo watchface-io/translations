@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Načítať predchádzajúce prednastavenie",
+        "_x3": "Načítať predchádzajúcu farebnú tému",
+        "ad102": "Úplný AOD - Alternatívny spodný kruh hore",
+        "ad101": "Úplný AOD - Ponechať spodný kruh hore (zvyšuje spotrebu batérie)",
+        "_s21": "Bez kruhu, zobraziť údaje",
         "_rst": "Obnoviť všetky nastavenia",
         "_tr": "👉 DOTYKOVÉ SKRATKY",
         "_tc": "🎨 FARBY / POZADIE",

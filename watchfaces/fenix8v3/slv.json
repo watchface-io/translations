@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Naloži prejšnjo prednastavitev",
+        "_x3": "Naloži prejšnjo barvno temo",
+        "ad102": "Poln AOD - Alternativni spodnji krog na vrhu",
+        "ad101": "Poln AOD - Ohrani spodnji krog na vrhu (povečuje porabo baterije)",
+        "_s21": "Brez kroga, prikaži podatke",
         "_rst": "Ponastavi vse nastavitve",
         "_tr": "👉 DOTIK BLIŽNJICE",
         "_tc": "🎨 BARVE / OZADJE",

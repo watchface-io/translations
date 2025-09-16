@@ -1,5 +1,9 @@
-{
-    "settings": {
+{    "settings": {
+        "_x4": "Cargar configuración anterior",
+        "_x3": "Cargar tema de colores anterior",
+        "ad102": "AOD completo - Círculo inferior alternativo arriba",
+        "ad101": "AOD completo - Mantener círculo inferior arriba (aumenta el uso de batería)",
+        "_s21": "Sin círculo, mostrar datos",
 
         "_rst": "Restablecer todas las configuraciones",
         "_tr": "👉 ATAJOS TÁCTILES",

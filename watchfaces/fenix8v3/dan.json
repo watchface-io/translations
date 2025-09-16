@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Indlæs forrige forudindstilling",
+        "_x3": "Indlæs forrige farvetema",
+        "ad102": "Fuld AOD - Alternativ nederste cirkel øverst",
+        "ad101": "Fuld AOD - Hold nederste cirkel øverst (øger batteriforbrug)",
+        "_s21": "Ingen cirkel, vis data",
         "_rst": "Nulstil alle indstillinger",
         "_tr": "👉 BERØRINGSGENVEJE",
         "_tc": "🎨 FARVER / BAGGRUND",

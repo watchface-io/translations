@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Muat preset sebelumnya",
+        "_x3": "Muat tema warna sebelumnya",
+        "ad102": "AOD Penuh - Lingkaran bawah alternatif di atas",
+        "ad101": "AOD Penuh - Pertahankan lingkaran bawah di atas (meningkatkan penggunaan baterai)",
+        "_s21": "Tanpa lingkaran, tampilkan data",
         "_rst": "Reset semua pengaturan",
         "_tr": "👉 PINTASAN SENTUH",
         "_tc": "🎨 WARNA / LATAR BELAKANG",

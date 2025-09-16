@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Ladda föregående förinställning",
+        "_x3": "Ladda föregående färgtema",
+        "ad102": "Full AOD - Alternativ nedre cirkel upptill",
+        "ad101": "Full AOD - Behåll nedre cirkel upptill (ökar batterianvändning)",
+        "_s21": "Ingen cirkel, visa data",
         "_rst": "Återställ alla inställningar",
         "_tr": "👉 TOUCHGENVÄGAR",
         "_tc": "🎨 FÄRGER / BAKGRUND",

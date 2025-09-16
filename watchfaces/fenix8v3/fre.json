@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Charger le préréglage précédent",
+        "_x3": "Charger le thème de couleurs précédent",
+        "ad102": "AOD complet - Cercle inférieur alternatif en haut",
+        "ad101": "AOD complet - Garder le cercle du bas en haut (augmente l'utilisation de la batterie)",
+        "_s21": "Pas de cercle, afficher les données",
         "_rst": "Réinitialiser tous les paramètres",
         "_tr": "👉 RACCOURCIS TACTILES",
         "_tc": "🎨 COULEURS / ARRIÈRE-PLAN",

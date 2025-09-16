@@ -1,5 +1,9 @@
-{
-    "settings": {
+{    "settings": {
+        "_x4": "Előző előbeállítás betöltése",
+        "_x3": "Előző színtéma betöltése",
+        "ad102": "Teljes AOD - Alternatív alsó kör felül",
+        "ad101": "Teljes AOD - Tartsa az alsó kört felül (növeli az akkumulátor használatát)",
+        "_s21": "Nincs kör, adatok megjelenítése",
 
         "_rst": "Összes beállítás visszaállítása",
         "_tr": "👉 ÉRINTÉSES GYORSBILLENTYŰK",

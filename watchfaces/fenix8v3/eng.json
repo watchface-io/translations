@@ -1,5 +1,11 @@
 {
     "settings": {
+
+        "_x4": "Load Previous Preset",
+        "_x3": "Load Previous Color Theme",
+        "ad102": "Full AOD - Bottom circle on top with AOD datafield",
+        "ad101": "Full AOD - Bottom cirle on top (increases battery usage)",
+        "_s21": "No Circle, show data",
         "_rst": "Reset all settings",
         "_tr": "👉 TOUCH SHORTCUTS",
         "_tc": "🎨 COLORS / BACKGROUND",
@@ -196,6 +202,7 @@
         "bg14": "Lines (4px)",
 
         "_x2": "Load Next Color Theme",
+        
         "_a1": "Touch shortcut Hour Left",
         "_a2": "Touch shortcut Hour Right",
         "_a3": "Touch shortcut Minute Left",
@@ -213,6 +220,7 @@
         "_l20": "AOD Field Label",
         "ad0": "Turn Screen OFF",
         "ad100": "Full AOD (Default)",
+        
         "ad1": "Time Only",
         "ad3": "Time Only - Moving",
         "ad4": "Time + data field (Select Below)",

@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Last forrige forhåndsinnstilling",
+        "_x3": "Last forrige fargetema",
+        "ad102": "Full AOD - Alternativ nederste sirkel øverst",
+        "ad101": "Full AOD - Hold nederste sirkel øverst (øker batteribruk)",
+        "_s21": "Ingen sirkel, vis data",
         "_rst": "Tilbakestill alle innstillinger",
         "_tr": "👉 BERØRINGSSNARVEIER",
         "_tc": "🎨 FARGER / BAKGRUNN",

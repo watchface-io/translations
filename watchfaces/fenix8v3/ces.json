@@ -1,5 +1,9 @@
-{
-    "settings": {
+{    "settings": {
+        "_x4": "Načíst předchozí předvolbu",
+        "_x3": "Načíst předchozí barevné téma",
+        "ad102": "Plný AOD - Alternativní spodní kruh nahoře",
+        "ad101": "Plný AOD - Zachovat spodní kruh nahoře (zvyšuje spotřebu baterie)",
+        "_s21": "Bez kruhu, zobrazit data",
 
         "_rst": "Obnovit všechna nastavení",
         "_tr": "👉 DOTYKOVÁ ZKRATKY",

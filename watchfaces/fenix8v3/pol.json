@@ -1,7 +1,10 @@
-{
-    "settings": {
-
-        "_rst": "Resetuj wszystkie ustawienia",
+{    "settings": {
+        "_x4": "Załaduj poprzedni szablon",
+        "_x3": "Załaduj poprzedni motyw kolorów",
+        "ad102": "Pełny AOD - Alternatywne dolne koło na górze",
+        "ad101": "Pełny AOD - Zachowaj dolne koło na górze (zwiększa zużycie baterii)",
+        "_s21": "Bez koła, pokaż dane",
+        "_rst": "Zresetuj wszystkie ustawienia",
         "_tr": "👉 SKRÓTY DOTYKOWE",
         "_tc": "🎨 KOLORY / TŁO",
         "_tt": "🔤 CZCIONKI",

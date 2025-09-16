@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Vorherige Voreinstellung laden",
+        "_x3": "Vorheriges Farbthema laden",
+        "ad102": "Vollständiger AOD - Alternativer unterer Kreis oben",
+        "ad101": "Vollständiger AOD - Unteren Kreis oben behalten (erhöht Batterieverbrauch)",
+        "_s21": "Kein Kreis, Daten anzeigen",
         "_rst": "Alle Einstellungen zurücksetzen",
         "_tr": "👉 BERÜHRUNGSVERKNÜPFUNGEN",
         "_tc": "🎨 FARBEN / HINTERGRUND",

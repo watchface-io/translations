@@ -1,7 +1,10 @@
-{
-    "settings": {
-
-        "_rst": "Resetuj sve postavke",
+{    "settings": {
+        "_x4": "Učitaj prethodnu postavku",
+        "_x3": "Učitaj prethodnu temu boja",
+        "ad102": "Puni AOD - Alternativni donji krug na vrhu",
+        "ad101": "Puni AOD - Zadržite donji krug na vrhu (povećava potrošnju baterije)",
+        "_s21": "Bez kruga, prikaži podatke",
+        "_rst": "Resetiraj sve postavke",
         "_tr": "👉 DODIRNI PREČACI",
         "_tc": "🎨 BOJE / POZADINA",
         "_tt": "🔤 FONTOVI",

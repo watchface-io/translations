@@ -1,6 +1,10 @@
 {
     "settings": {
-
+        "_x4": "Tải cài đặt sẵn trước đó",
+        "_x3": "Tải chủ đề màu trước đó",
+        "ad102": "AOD đầy đủ - Vòng tròn dưới thay thế ở trên",
+        "ad101": "AOD đầy đủ - Giữ vòng tròn dưới ở trên (tăng sử dụng pin)",
+        "_s21": "Không có vòng tròn, hiển thị dữ liệu",
         "_rst": "Đặt lại tất cả cài đặt",
         "_tr": "👉 PHÍM TẮT CẢM ỨNG",
         "_tc": "🎨 MÀU SẮC / NỀN",
