@@ -1,0 +1,11 @@
+{
+    "Fără stare": 0,
+    "Deantrenament": 1,
+    "Recuperare": 2,
+    "Menținere": 3,
+    "Productiv": 4,
+    "Vârf": 5,
+    "Supraîncărcare": 6,
+    "Neproductiv": 7,
+    "Tensionat": 8
+}

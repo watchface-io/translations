@@ -1,0 +1,11 @@
+{
+    "Ingen status": 0,
+    "Forringelse": 1,
+    "Restituering": 2,
+    "Opprettholdelse": 3,
+    "Produktiv": 4,
+    "Topp": 5,
+    "Overbelastning": 6,
+    "Uproduktiv": 7,
+    "Belastet": 8
+}

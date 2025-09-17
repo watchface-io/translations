@@ -1,0 +1,11 @@
+{
+    "Nav statusa": 0,
+    "Samazināšanās": 1,
+    "Atveseļošanās": 2,
+    "Uzturēšana": 3,
+    "Produktīvs": 4,
+    "Virsotne": 5,
+    "Pārslodze": 6,
+    "Neproduktīvs": 7,
+    "Sasprindzinājums": 8
+}

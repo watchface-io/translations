@@ -1,0 +1,11 @@
+{
+    "Nincs állapot": 0,
+    "Leépülés": 1,
+    "Regenerálódás": 2,
+    "Fenntartás": 3,
+    "Produktív": 4,
+    "Csúcs": 5,
+    "Túlterheltség": 6,
+    "Nem produktív": 7,
+    "Feszültség": 8
+}

@@ -1,0 +1,11 @@
+{
+    "Nessuno stato": 0,
+    "Detraining": 1,
+    "Recupero": 2,
+    "Mantenimento": 3,
+    "Produttivo": 4,
+    "Picco": 5,
+    "Alta intensità": 6,
+    "Non produttivo": 7,
+    "Affaticato": 8
+}

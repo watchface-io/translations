@@ -1,0 +1,11 @@
+{
+    "Aucun statut": 0,
+    "Désentraînement": 1,
+    "Récupération": 2,
+    "Maintien": 3,
+    "Productif": 4,
+    "Pic": 5,
+    "Effort trop soutenu": 6,
+    "Non productif": 7,
+    "Sous tension": 8
+}

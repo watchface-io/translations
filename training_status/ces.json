@@ -1,0 +1,11 @@
+{
+    "Žádný stav": 0,
+    "Podtrénování": 1,
+    "Regenerace": 2,
+    "Udržování": 3,
+    "Produktivní": 4,
+    "Stoupající": 5,
+    "Nadměrná": 6,
+    "Neproduktivní": 7,
+    "Přetížení": 8
+}

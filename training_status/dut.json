@@ -1,0 +1,11 @@
+{
+    "Geen status": 0,
+    "Onttrainen": 1,
+    "Herstel": 2,
+    "Aanhouden": 3,
+    "Productief": 4,
+    "Piek": 5,
+    "Te intensief": 6,
+    "Niet productief": 7,
+    "Gespannen": 8
+}

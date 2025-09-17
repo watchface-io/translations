@@ -1,0 +1,11 @@
+{
+    "Brak stanu": 0,
+    "Roztrenowanie": 1,
+    "Regeneracja": 2,
+    "Utrzymanie": 3,
+    "Efektywny": 4,
+    "Szczytowy": 5,
+    "Ponad siły": 6,
+    "Bezproduktywne": 7,
+    "Zmęczenie": 8
+}

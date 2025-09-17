@@ -1,0 +1,11 @@
+{
+    "Kein Zustand": 0,
+    "Formverlust": 1,
+    "Erholung": 2,
+    "Formerhalt": 3,
+    "Formaufbau": 4,
+    "Höchstform": 5,
+    "Überbelastung": 6,
+    "Unproduktiv": 7,
+    "Ermüdet": 8
+}

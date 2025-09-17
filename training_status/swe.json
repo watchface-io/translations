@@ -1,0 +1,11 @@
+{
+    "Ingen status": 0,
+    "Minskande": 1,
+    "Återhämtning": 2,
+    "Bibehållen": 3,
+    "Produktiv": 4,
+    "Ökande": 5,
+    "Överdriven träning": 6,
+    "Inte produktiv": 7,
+    "Ansträngd": 8
+}

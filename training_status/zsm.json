@@ -1,0 +1,11 @@
+{
+    "Tiada status": 0,
+    "Kemerosotan": 1,
+    "Pemulihan": 2,
+    "Penyelenggaraan": 3,
+    "Produktif": 4,
+    "Puncak": 5,
+    "Beban berlebihan": 6,
+    "Tidak produktif": 7,
+    "Tertekan": 8
+}

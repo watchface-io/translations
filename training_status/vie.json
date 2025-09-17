@@ -1,0 +1,11 @@
+{
+    "Không có trạng thái": 0,
+    "Suy giảm": 1,
+    "Phục hồi": 2,
+    "Duy trì": 3,
+    "Hiệu quả": 4,
+    "Đỉnh cao": 5,
+    "Quá tải": 6,
+    "Không hiệu quả": 7,
+    "Căng thẳng": 8
+}

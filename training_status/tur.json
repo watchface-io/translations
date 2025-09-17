@@ -1,0 +1,11 @@
+{
+    "Durum yok": 0,
+    "Antrenman kaybı": 1,
+    "İyileşme": 2,
+    "Sürdürme": 3,
+    "Üretken": 4,
+    "Zirve": 5,
+    "Aşırı yüklenme": 6,
+    "Verimsiz": 7,
+    "Gergin": 8
+}

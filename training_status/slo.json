@@ -1,0 +1,11 @@
+{
+    "Žiadny stav": 0,
+    "Ústup kondície": 1,
+    "Zotavenie": 2,
+    "Udržiavanie": 3,
+    "Produktívny": 4,
+    "Vrchol": 5,
+    "Preťaženie": 6,
+    "Neproduktívny": 7,
+    "Napätie": 8
+}

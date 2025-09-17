@@ -1,0 +1,11 @@
+{
+    "Tidak ada status": 0,
+    "Penurunan": 1,
+    "Pemulihan": 2,
+    "Pemeliharaan": 3,
+    "Produktif": 4,
+    "Puncak": 5,
+    "Kelebihan beban": 6,
+    "Tidak produktif": 7,
+    "Tertekan": 8
+}

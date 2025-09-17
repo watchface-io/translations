@@ -1,0 +1,11 @@
+{
+    "Brez stanja": 0,
+    "Zmanjšanje": 1,
+    "Okrevanje": 2,
+    "Vzdrževanje": 3,
+    "Produktivno": 4,
+    "Vrh": 5,
+    "Preobremenitev": 6,
+    "Neproduktivno": 7,
+    "Napetost": 8
+}

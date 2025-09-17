@@ -1,0 +1,11 @@
+{
+    "Nema statusa": 0,
+    "Opadanje": 1,
+    "Oporavak": 2,
+    "Održavanje": 3,
+    "Produktivno": 4,
+    "Vrh": 5,
+    "Preopterećenje": 6,
+    "Neproduktivno": 7,
+    "Napetost": 8
+}

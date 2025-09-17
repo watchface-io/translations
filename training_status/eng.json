@@ -1,0 +1,11 @@
+{
+    "No Result": 0,
+    "Detraining": 1,
+    "Recovery": 2,
+    "Maintaining": 3,
+    "Productive": 4,
+    "Peaking": 5,
+    "Overreaching": 6,
+    "Unproductive": 7,
+    "Strained": 8
+}

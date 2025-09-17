@@ -1,0 +1,11 @@
+{
+    "Ei tilaa": 0,
+    "Harjoittelun väheneminen": 1,
+    "Palautuminen": 2,
+    "Ylläpito": 3,
+    "Tuottava": 4,
+    "Huippu": 5,
+    "Ylikuormitus": 6,
+    "Tuottamaton": 7,
+    "Rasitus": 8
+}

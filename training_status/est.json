@@ -1,0 +1,11 @@
+{
+    "Pole staatust": 0,
+    "Vormilangus": 1,
+    "Taastumine": 2,
+    "Säilitamine": 3,
+    "Tulemuslik": 4,
+    "Tipp": 5,
+    "Ülekoormuse": 6,
+    "Ebatulemuslik": 7,
+    "Pinges": 8
+}

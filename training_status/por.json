@@ -1,0 +1,11 @@
+{
+    "Sem status": 0,
+    "Destreinamento": 1,
+    "Recuperação": 2,
+    "Manutenção": 3,
+    "Produtivo": 4,
+    "Pico": 5,
+    "Sobrecarga": 6,
+    "Improdutivo": 7,
+    "Tensionado": 8
+}

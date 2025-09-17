@@ -1,0 +1,11 @@
+{
+    "Sin estado": 0,
+    "Deterioro": 1,
+    "Recuperación": 2,
+    "Mantenimiento": 3,
+    "Productivo": 4,
+    "Pico": 5,
+    "Sobreentrenamiento": 6,
+    "Improductivo": 7,
+    "Tensionado": 8
+}
