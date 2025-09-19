@@ -1,0 +1,30 @@
+經典、簡約且高度可自訂的錶盤。擁有超過100個資料點、多種AOD選項和低電池消耗，是時尚佩戴的完美錶盤。
+
+
+⭐️ 購買前試用！ ⭐️
+在購買此錶盤之前，請先查看免費版本，以確保這是您想要的，並且您喜歡它在手錶上的外觀：https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+
+⭐️ MIPS裝置（Fenix 7、Enduro、Forerunner 255等） ⭐️
+此錶盤完全針對MIPS最佳化，但顏色可能看起來與大多數圖片不同，因為這些圖片是在Amoled裝置上拍攝的。您可以在此找到所有內建主題：https://watchface.io/green_analog/themes
+
+⭐️ 資源 ⭐️
+* 常見問題：https://watchface.io/faq
+* 手冊：https://watchface.io/green_analog/manual
+* 主題列表：https://watchface.io/green_analog/themes
+* 顏色指南：https://watchface.io/docs/color-list
+* 可用資料欄位：https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：有兩個不同的設定位置：
+* Garmin IQ應用程式（在您的手機上前往您的裝置、錶盤、設定）：設定資料欄位、顏色和一般設定。
+* 手錶設定：透過長按選單按鈕、選擇錶盤並按自訂，可直接在手錶上存取更詳細的選項，如時間格式、目標和單位。
+
+⭐️ 資料欄位 ⭐️
+Garmin目前為第三方開發者提供的所有資料欄位都可用，還有額外的功能，如血糖監測器（CGM）支援、Open Weather Map（OWM）和其他第三方應用程式支援。
+所有可用資料欄位在此列出：https://watchface.io/docs/datafields。某些資料欄位（如訓練準備度或HRV）目前不對第三方開發者開放，請參見：https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** 如果您遇到錯誤或問題，請點選「聯繫開發者」與我聯繫，而不是使用評論系統。我可以快速回覆電子郵件，但可能數天不會看到評論。 ***
+
+* 更新日誌：https://watchface.io/green_analog/changelog

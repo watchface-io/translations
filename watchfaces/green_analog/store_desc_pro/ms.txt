@@ -1,0 +1,29 @@
+Muka jam klasik, minimal dan sangat boleh disesuaikan. Dengan lebih 100 titik data, banyak pilihan AOD dan penggunaan bateri rendah, muka jam yang sempurna untuk dipakai dengan gaya.
+
+
+⭐️ Cuba sebelum membeli! ⭐️
+Sebelum membeli muka jam ini, sila semak versi percuma terlebih dahulu untuk memastikan bahawa ia adalah apa yang anda mahukan dan anda suka bagaimana ia kelihatan pada jam tangan anda: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+
+⭐️ Peranti MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Muka jam ini dioptimumkan sepenuhnya untuk MIPS, tetapi warna mungkin kelihatan berbeza seperti dalam kebanyakan gambar, kerana gambar-gambar ini diambil pada peranti Amoled. Anda boleh menemui semua tema terbina di sini: https://watchface.io/green_analog/themes
+
+⭐️ Sumber ⭐️
+* FAQ: https://watchface.io/faq
+* Senarai Tema: https://watchface.io/green_analog/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Aplikasi Garmin IQ (pada telefon anda pergi ke peranti anda, muka jam, tetapan): Konfigurasikan medan data, warna, dan tetapan umum.
+* Tetapan Pada Jam: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit terus pada jam dengan menahan butang menu, memilih muka jam, dan mengetik sesuaikan.
+
+⭐️ Medan Data ⭐️
+Semua medan data yang Garmin sediakan kepada pembangun pihak ketiga tersedia, ditambah tambahan seperti sokongan Monitor Glukosa (CGM), Open Weather Map (OWM) dan sokongan untuk aplikasi pihak ketiga lain.
+Semua medan data yang tersedia disenaraikan di sini: https://watchface.io/docs/datafields. Sesetengah medan data (seperti kesediaan latihan atau HRV) pada masa ini tidak tersedia untuk pembangun pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Contact Developer" bukannya menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan selama beberapa hari. ***
+
+* Changelog: https://watchface.io/green_analog/changelog

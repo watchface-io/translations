@@ -1,0 +1,30 @@
+Klasický, minimální a vysoce přizpůsobitelný ciferník. S více než 100 datovými body, mnoha možnostmi AOD a nízkou spotřebou baterie je to perfektní ciferník pro stylové nošení.
+
+
+⭐️ Vyzkoušejte před nákupem! ⭐️
+Před nákupem tohoto ciferníku si nejprve zkontrolujte bezplatnou verzi, abyste se ujistili, že je to, co chcete, a že se vám líbí, jak vypadá na vašich hodinkách: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+
+⭐️ MIPS zařízení (Fenix 7, Enduro, Forerunner 255, atd.) ⭐️
+Tento ciferník je plně optimalizován pro MIPS, ale barvy mohou vypadat jinak než na většině obrázků, protože tyto jsou pořízeny na Amoled zařízení. Všechna vestavěná témata najdete zde: https://watchface.io/green_analog/themes
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Manuál: https://watchface.io/green_analog/manual
+* Seznam témat: https://watchface.io/green_analog/themes
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dvě různá místa s nastavením:
+* Garmin IQ aplikace (na telefonu jděte na vaše zařízení, ciferníky, nastavení): Konfigurujte datová pole, barvy a obecná nastavení.
+* Nastavení na hodinkách: Přístup k podrobnějším možnostem jako formát času, cíle a jednotky přímo na hodinkách držením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobit.
+
+⭐️ Datová pole ⭐️
+Všechna datová pole, která Garmin v současnosti poskytuje vývojářům třetích stran, jsou k dispozici, plus extra jako podpora Glukózního monitoru (CGM), Open Weather Map (OWM) a podpora pro další aplikace třetích stran.
+Všechna dostupná datová pole jsou uvedena zde: https://watchface.io/docs/datafields. Některá datová pole (jako připravenost na trénink nebo HRV) nejsou v současnosti dostupná vývojářům třetích stran, viz zde: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Pokud narazíte na jakékoli chyby nebo problémy, kontaktujte mě prosím stisknutím "Contact Developer" místo použití systému recenzí. Mohu rychle odpovědět na e-maily, zatímco recenze nemusím vidět několik dní. ***
+
+* Changelog: https://watchface.io/green_analog/changelog

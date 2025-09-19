@@ -1,0 +1,29 @@
+Klassisk, minimalistisk och mycket anpassningsbar urtavla. Med över 100 datapunkter, många AOD-alternativ och låg batteriförbrukning, den perfekta urtavlan att bära med stil.
+
+
+⭐️ Prova innan du köper! ⭐️
+Innan du köper denna urtavla, kolla först den gratis versionen för att försäkra dig om att det är vad du vill ha och att du gillar hur den ser ut på din klocka: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+
+⭐️ MIPS-enheter (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Denna urtavla är helt optimerad för MIPS, men färger kan se annorlunda ut som i de flesta bilder, eftersom dessa är tagna på en Amoled-enhet. Du kan hitta alla inbyggda teman här: https://watchface.io/green_analog/themes
+
+⭐️ Resurser ⭐️
+* FAQ: https://watchface.io/faq
+* Temalista: https://watchface.io/green_analog/themes
+* Färgguide: https://watchface.io/docs/color-list
+* Tillgängliga datafält: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Observera: Det finns två olika platser med inställningar:
+* Garmin IQ-app (på din telefon gå till din enhet, urtavlor, inställningar): Konfigurera datafält, färger och allmänna inställningar.
+* Inställningar på klockan: Åtkomst till mer detaljerade alternativ som tidsformat, mål och enheter direkt på klockan genom att hålla menyknappen, välja urtavla och trycka anpassa.
+
+⭐️ Datafält ⭐️
+Alla datafält som Garmin för närvarande levererar till tredjepartsutvecklare är tillgängliga, plus extra som Glukosmonitor (CGM) stöd, Open Weather Map (OWM) och stöd för andra tredjepartsappar.
+Alla tillgängliga datafält listas här: https://watchface.io/docs/datafields. Vissa datafält (som träningsberedskap eller HRV) är för närvarande inte tillgängliga för tredjepartsutvecklare, se här: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Om du stöter på buggar eller problem, vänligen kontakta mig genom att trycka "Contact Developer" istället för att använda recensionssystemet. Jag kan svara på e-post snabbt, medan jag kanske inte ser recensioner på flera dagar. ***
+
+* Ändringslogg: https://watchface.io/green_analog/changelog

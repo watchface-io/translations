@@ -1,0 +1,30 @@
+Klasična, minimalna in zelo prilagodljiva številčnica. Z več kot 100 podatkovnimi točkami, mnogimi AOD možnostmi in nizko porabo baterije je to popolna številčnica za stilsko nošenje.
+
+
+⭐️ Preizkusite pred nakupom! ⭐️
+Pred nakupom te številčnice najprej preverite brezplačno različico, da se prepričate, da je to tisto, kar želite, in da vam je všeč, kako izgleda na vaši uri: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+
+⭐️ MIPS naprave (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ta številčnica je v celoti optimizirana za MIPS, vendar lahko barve izgledajo drugače kot na večini slik, ker so te posnete na Amoled napravi. Vse vgrajene teme lahko najdete tukaj: https://watchface.io/green_analog/themes
+
+⭐️ Viri ⭐️
+* FAQ: https://watchface.io/faq
+* Priročnik: https://watchface.io/green_analog/manual
+* Seznam tem: https://watchface.io/green_analog/themes
+* Vodnik po barvah: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Garmin IQ aplikacija (na telefonu pojdite na vašo napravo, številčnice, nastavitve): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostop do podrobnejših možnosti kot format časa, cilji in enote neposredno na uri z držanjem menijskega gumba, izbiro številčnice in dotikom prilagodi.
+
+⭐️ Podatkovna polja ⭐️
+Vsa podatkovna polja, ki jih Garmin trenutno zagotavlja razvijalcem tretjih strank, so na voljo, plus dodatki kot podpora Glukoznega monitorja (CGM), Open Weather Map (OWM) in podpora za druge aplikacije tretjih strank.
+Vsa razpoložljiva podatkovna polja so navedena tukaj: https://watchface.io/docs/datafields. Nekatera podatkovna polja (kot pripravljenost za trening ali HRV) trenutno niso na voljo razvijalcem tretjih strank, glejte tukaj: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Če naletite na napake ali težave, me prosimo kontaktirajte s pritiskom na "Contact Developer" namesto uporabe sistema ocen. Hitro lahko odgovorim na e-pošto, medtem ko ocen morda ne vidim več dni. ***
+
+* Dnevnik sprememb: https://watchface.io/green_analog/changelog

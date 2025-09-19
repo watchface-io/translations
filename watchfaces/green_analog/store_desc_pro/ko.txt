@@ -1,0 +1,30 @@
+클래식하고 미니멀하며 매우 사용자 정의 가능한 워치페이스입니다. 100개 이상의 데이터 포인트, 다양한 AOD 옵션, 낮은 배터리 소모로 스타일리시하게 착용할 수 있는 완벽한 워치페이스입니다.
+
+
+⭐️ 구매 전에 체험해 보세요! ⭐️
+이 워치페이스를 구매하기 전에 먼저 무료 버전을 확인하여 원하는 것인지, 시계에서 어떻게 보이는지 마음에 드는지 확인하세요: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+
+⭐️ MIPS 기기 (Fenix 7, Enduro, Forerunner 255 등) ⭐️
+이 워치페이스는 MIPS에 완전히 최적화되어 있지만, 대부분의 이미지에서처럼 색상이 다르게 보일 수 있습니다. 이는 Amoled 기기에서 촬영되었기 때문입니다. 모든 내장 테마는 여기서 찾을 수 있습니다: https://watchface.io/green_analog/themes
+
+⭐️ 리소스 ⭐️
+* FAQ: https://watchface.io/faq
+* 매뉴얼: https://watchface.io/green_analog/manual
+* 테마 목록: https://watchface.io/green_analog/themes
+* 색상 가이드: https://watchface.io/docs/color-list
+* 사용 가능한 데이터 필드: https://watchface.io/docs/datafields
+
+⭐️ 구성 ⭐️
+참고: 설정이 있는 두 개의 다른 위치가 있습니다:
+* Garmin IQ 앱 (휴대폰에서 기기, 워치페이스, 설정으로 이동): 데이터 필드, 색상 및 일반 설정을 구성합니다.
+* 워치 설정: 메뉴 버튼을 길게 누르고 워치페이스를 선택한 다음 사용자 정의를 누르면 시간 형식, 목표 및 단위와 같은 더 자세한 옵션에 워치에서 직접 액세스할 수 있습니다.
+
+⭐️ 데이터 필드 ⭐️
+Garmin이 현재 타사 개발자에게 제공하는 모든 데이터 필드가 사용 가능하며, 혈당 모니터(CGM) 지원, Open Weather Map(OWM) 및 기타 타사 앱 지원과 같은 추가 기능도 있습니다.
+사용 가능한 모든 데이터 필드는 여기에 나열되어 있습니다: https://watchface.io/docs/datafields. 일부 데이터 필드(훈련 준비도 또는 HRV 등)는 현재 타사 개발자에게 제공되지 않습니다. 여기를 참조하세요: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** 버그나 문제가 발생하면 리뷰 시스템을 사용하는 대신 "개발자에게 연락"을 눌러 저에게 연락해 주세요. 이메일로 빠르게 답변할 수 있지만 리뷰는 며칠 동안 보지 못할 수 있습니다. ***
+
+* 변경 로그: https://watchface.io/green_analog/changelog

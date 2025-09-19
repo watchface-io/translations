@@ -1,0 +1,27 @@
+Klassisches, minimales und hochgradig anpassbares Zifferblatt. Mit über 100 Datenpunkten, vielen AOD-Optionen und geringem Batterieverbrauch ist es das perfekte Zifferblatt für stilvolles Tragen.
+
+⭐️ Vor dem Kauf testen! ⭐️
+Bevor Sie dieses Zifferblatt kaufen, schauen Sie sich zuerst die kostenlose Version an, um sicherzustellen, dass es das ist, was Sie wollen und dass Ihnen gefällt, wie es auf Ihrer Uhr aussieht: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+⭐️ MIPS-Geräte (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Dieses Zifferblatt ist vollständig für MIPS optimiert, aber Farben können anders aussehen als in den meisten Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden. Alle eingebauten Themes finden Sie hier: https://watchface.io/green_analog/themes
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Theme-Liste: https://watchface.io/green_analog/themes
+* Farbleitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon gehen Sie zu Ihrem Gerät, Zifferblätter, Einstellungen): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen.
+* Einstellungen auf der Uhr: Zugriff auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr durch Halten der Menü-Taste, Auswahl des Zifferblatts und Tippen auf Anpassen.
+
+⭐️ Datenfelder ⭐️
+Alle Datenfelder, die Garmin derzeit Drittanbieter-Entwicklern zur Verfügung stellt, sind verfügbar, plus Extras wie Glukose-Monitor (CGM) Unterstützung, Open Weather Map (OWM) und Unterstützung für andere Drittanbieter-Apps.
+Alle verfügbaren Datenfelder sind hier aufgelistet: https://watchface.io/docs/datafields. Einige Datenfelder (wie Trainingsbereitschaft oder HRV) sind derzeit nicht für Drittanbieter-Entwickler verfügbar, siehe hier: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Wenn Sie auf Fehler oder Probleme stoßen, kontaktieren Sie mich bitte durch Drücken von "Contact Developer" anstatt das Bewertungssystem zu verwenden. Ich kann E-Mails prompt beantworten, während ich Bewertungen möglicherweise mehrere Tage nicht sehe. ***
+
+* Changelog: https://watchface.io/green_analog/changelog

@@ -1,0 +1,27 @@
+Esfera clásica, minimalista y altamente personalizable. Con más de 100 puntos de datos, muchas opciones AOD y bajo consumo de batería, la esfera perfecta para llevar con estilo.
+
+⭐️ ¡Prueba antes de comprar! ⭐️
+Antes de comprar esta esfera, revisa primero la versión gratuita para asegurarte de que es lo que quieres y que te gusta cómo se ve en tu reloj: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Esta esfera está completamente optimizada para MIPS, pero los colores pueden verse diferentes como en la mayoría de las imágenes, ya que estas están tomadas en un dispositivo Amoled. Puedes encontrar todos los temas integrados aquí: https://watchface.io/green_analog/themes
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Lista de Temas: https://watchface.io/green_analog/themes
+* Guía de Colores: https://watchface.io/docs/color-list
+* Campos de Datos Disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuraciones:
+* App Garmin IQ (en tu teléfono ve a tu dispositivo, esferas, configuración): Configura campos de datos, colores y configuraciones generales.
+* Configuración en el Reloj: Accede a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón menú, seleccionando esfera y tocando personalizar.
+
+⭐️ Campos de Datos ⭐️
+Todos los campos de datos que Garmin actualmente suministra a desarrolladores terceros están disponibles, más extras como soporte de Monitor de Glucosa (CGM), Open Weather Map (OWM) y soporte para otras apps de terceros.
+Todos los campos de datos disponibles están listados aquí: https://watchface.io/docs/datafields. Algunos campos de datos (como preparación para entrenamiento o HRV) actualmente no están disponibles para desarrolladores terceros, ver aquí: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Si encuentras algún error o problema, por favor contáctame presionando "Contact Developer" en lugar de usar el sistema de reseñas. Puedo responder correos rápidamente, mientras que puede que no vea las reseñas por varios días. ***
+
+* Changelog: https://watchface.io/green_analog/changelog

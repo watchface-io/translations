@@ -1,0 +1,27 @@
+Cadran classique, minimal et hautement personnalisable. Avec plus de 100 points de données, de nombreuses options AOD et une faible consommation de batterie, le cadran parfait à porter avec style.
+
+⭐️ Essayez avant d'acheter ! ⭐️
+Avant d'acheter ce cadran, consultez d'abord la version gratuite pour vous assurer que c'est ce que vous voulez et que vous aimez son apparence sur votre montre : https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+⭐️ Appareils MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Ce cadran est entièrement optimisé pour MIPS, mais les couleurs peuvent paraître différentes comme dans la plupart des images, car celles-ci sont prises sur un appareil Amoled. Vous pouvez trouver tous les thèmes intégrés ici : https://watchface.io/green_analog/themes
+
+⭐️ Ressources ⭐️
+* FAQ : https://watchface.io/faq
+* Liste des Thèmes : https://watchface.io/green_analog/themes
+* Guide des Couleurs : https://watchface.io/docs/color-list
+* Champs de Données Disponibles : https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note : Il y a deux endroits différents avec des paramètres :
+* App Garmin IQ (sur votre téléphone allez à votre appareil, cadrans, paramètres) : Configurez les champs de données, les couleurs et les paramètres généraux.
+* Paramètres sur la Montre : Accédez à des options plus détaillées comme le format de l'heure, les objectifs et les unités directement sur la montre en maintenant le bouton menu, en sélectionnant le cadran et en appuyant sur personnaliser.
+
+⭐️ Champs de Données ⭐️
+Tous les champs de données que Garmin fournit actuellement aux développeurs tiers sont disponibles, plus des extras comme le support du Moniteur de Glucose (CGM), Open Weather Map (OWM) et le support pour d'autres apps tierces.
+Tous les champs de données disponibles sont listés ici : https://watchface.io/docs/datafields. Certains champs de données (comme la préparation à l'entraînement ou HRV) ne sont actuellement pas disponibles pour les développeurs tiers, voir ici : https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Si vous rencontrez des bugs ou des problèmes, veuillez me contacter en appuyant sur "Contact Developer" au lieu d'utiliser le système d'avis. Je peux répondre aux emails rapidement, alors que je pourrais ne pas voir les avis pendant plusieurs jours. ***
+
+* Changelog : https://watchface.io/green_analog/changelog

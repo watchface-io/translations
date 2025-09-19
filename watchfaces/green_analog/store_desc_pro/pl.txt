@@ -1,0 +1,30 @@
+Klasyczna, minimalistyczna i wysoce konfigurowalna tarcza zegarka. Z ponad 100 punktami danych, wieloma opcjami AOD i niskim zużyciem baterii, to idealna tarcza do noszenia ze stylem.
+
+
+⭐️ Wypróbuj przed zakupem! ⭐️
+Przed zakupem tej tarczy zegarka sprawdź najpierw darmową wersję, aby upewnić się, że to jest to, czego chcesz i że podoba ci się, jak wygląda na twoim zegarku: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+
+⭐️ Urządzenia MIPS (Fenix 7, Enduro, Forerunner 255, itp.) ⭐️
+Ta tarcza jest w pełni zoptymalizowana dla MIPS, ale kolory mogą wyglądać inaczej niż na większości zdjęć, ponieważ te zostały zrobione na urządzeniu Amoled. Możesz znaleźć wszystkie wbudowane motywy tutaj: https://watchface.io/green_analog/themes
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Instrukcja: https://watchface.io/green_analog/manual
+* Lista motywów: https://watchface.io/green_analog/themes
+* Przewodnik kolorów: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Są dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie idź do swojego urządzenia, tarcze, ustawienia): Skonfiguruj pola danych, kolory i ogólne ustawienia.
+* Ustawienia na zegarku: Uzyskaj dostęp do bardziej szczegółowych opcji jak format czasu, cele i jednostki bezpośrednio na zegarku, przytrzymując przycisk menu, wybierając tarczę i dotykając dostosuj.
+
+⭐️ Pola danych ⭐️
+Wszystkie pola danych, które Garmin obecnie dostarcza programistom zewnętrznym, są dostępne, plus dodatki jak obsługa Monitora Glukozy (CGM), Open Weather Map (OWM) i obsługa innych aplikacji zewnętrznych.
+Wszystkie dostępne pola danych są wymienione tutaj: https://watchface.io/docs/datafields. Niektóre pola danych (jak gotowość treningowa lub HRV) obecnie nie są dostępne dla programistów zewnętrznych, zobacz tutaj: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jeśli napotkasz jakiekolwiek błędy lub problemy, skontaktuj się ze mną naciskając "Contact Developer" zamiast używania systemu recenzji. Mogę szybko odpowiadać na e-maile, podczas gdy recenzje mogę nie widzieć przez kilka dni. ***
+
+* Dziennik zmian: https://watchface.io/green_analog/changelog

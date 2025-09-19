@@ -1,0 +1,27 @@
+Klassiek, minimaal en zeer aanpasbaar wijzerplaatje. Met meer dan 100 datapunten, vele AOD-opties en laag batterijverbruik, het perfecte wijzerplaatje om stijlvol te dragen.
+
+⭐️ Probeer voor je koopt! ⭐️
+Voordat je dit wijzerplaatje koopt, bekijk eerst de gratis versie om er zeker van te zijn dat het is wat je wilt en dat je het mooi vindt hoe het eruitziet op je horloge: https://apps.garmin.com/apps/3ef6e4c3-8752-4563-980a-da183fc88a7c
+
+⭐️ MIPS-apparaten (Fenix 7, Enduro, Forerunner 255, enz.) ⭐️
+Dit wijzerplaatje is volledig geoptimaliseerd voor MIPS, maar kleuren kunnen er anders uitzien dan in de meeste afbeeldingen, omdat deze zijn genomen op een Amoled-apparaat. U kunt alle ingebouwde thema's hier vinden: https://watchface.io/green_analog/themes
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Thema-lijst: https://watchface.io/green_analog/themes
+* Kleurgids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Let op: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ-app (ga op uw telefoon naar uw apparaat, wijzerplaatjes, instellingen): Configureer datavelden, kleuren en algemene instellingen.
+* Instellingen op horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaatje te selecteren en aanpassen aan te tikken.
+
+⭐️ Datavelden ⭐️
+Alle datavelden die Garmin momenteel levert aan externe ontwikkelaars zijn beschikbaar, plus extra's zoals Glucose Monitor (CGM) ondersteuning, Open Weather Map (OWM) en ondersteuning voor andere externe apps.
+Alle beschikbare datavelden zijn hier vermeld: https://watchface.io/docs/datafields. Sommige datavelden (zoals trainingsgereedheid of HRV) zijn momenteel niet beschikbaar voor externe ontwikkelaars, zie hier: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Als u bugs of problemen tegenkomt, neem dan contact met mij op door op "Contact Developer" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan e-mails snel beantwoorden, terwijl ik recensies misschien pas na enkele dagen zie. ***
+
+* Changelog: https://watchface.io/green_analog/changelog
