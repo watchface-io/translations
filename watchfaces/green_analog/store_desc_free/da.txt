@@ -1,0 +1,30 @@
+Klassisk, minimal og meget tilpasselig urskive. Med over 100 datapunkter, mange AOD-muligheder og lavt batteriforbrug er det den perfekte urskive at bære med stil.
+
+
+⭐️ Gratis vs Pro ⭐️
+Denne urskive er tilgængelig gratis med alle grundlæggende funktioner. Premium-funktioner (markeret med [*]) kræver en Pro-nøgle for at låse op. Du kan købe en Pro-nøgle her: https://apps.garmin.com/apps/87860c9d-4214-4b7c-9770-f2e0cf4ee78c
+
+⭐️ MIPS-enheder (Fenix 7, Enduro, Forerunner 255, osv.) ⭐️
+Denne urskive er fuldt optimeret til MIPS, men farver kan se anderledes ud end på de fleste billeder, da disse er taget på en Amoled-enhed. Du kan finde alle de indbyggede temaer her: https://watchface.io/green_analog/themes
+
+⭐️ Ressourcer ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/green_analog/manual
+* Få en PRO-nøgle: https://ko-fi.com/s/0a2e8d1d8b eller https://watchface.io/green_analog
+* Tema-liste: https://watchface.io/green_analog/themes
+* Farveguide: https://watchface.io/docs/color-list
+* Tilgængelige datafelter: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Bemærk: Der er to forskellige steder med indstillinger:
+* Garmin IQ-app (på din telefon gå til din enhed, urskiver, indstillinger): Konfigurer datafelter, farver og generelle indstillinger.
+* Indstillinger på uret: Få adgang til mere detaljerede muligheder som tidsformat, mål og enheder direkte på uret ved at holde menuknappen nede, vælge urskive og trykke på tilpas.
+
+⭐️ Datafelter ⭐️
+Alle datafelter, som Garmin i øjeblikket leverer til tredjepartsudviklere, er tilgængelige, plus ekstra som Glukose Monitor (CGM) support, Open Weather Map (OWM) og support til andre tredjepartsapps.
+Alle tilgængelige datafelter er listet her: https://watchface.io/docs/datafields. Nogle datafelter (som træningsparathed eller HRV) er i øjeblikket ikke tilgængelige for tredjepartsudviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Hvis du støder på fejl eller problemer, bedes du kontakte mig ved at trykke på "Contact Developer" i stedet for at bruge anmeldelsessystemet. Jeg kan svare på e-mails hurtigt, mens jeg måske ikke ser anmeldelser i flere dage. ***
+
+* Changelog: https://watchface.io/green_analog/changelog

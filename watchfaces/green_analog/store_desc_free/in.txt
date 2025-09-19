@@ -1,0 +1,30 @@
+Wajah jam klasik, minimal, dan sangat dapat disesuaikan. Dengan lebih dari 100 titik data, banyak opsi AOD, dan penggunaan baterai rendah, wajah jam yang sempurna untuk dikenakan dengan gaya.
+
+
+⭐️ Gratis vs Pro ⭐️
+Wajah jam ini tersedia gratis dengan semua fungsi dasar. Fitur premium (ditandai dengan [*]) memerlukan Kunci Pro untuk membuka. Anda dapat membeli Kunci Pro di sini: https://apps.garmin.com/apps/87860c9d-4214-4b7c-9770-f2e0cf4ee78c
+
+⭐️ Perangkat MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Wajah jam ini sepenuhnya dioptimalkan untuk MIPS, tetapi warna dapat terlihat berbeda seperti di sebagian besar gambar, karena gambar-gambar ini diambil pada perangkat Amoled. Anda dapat menemukan semua tema yang tersedia di sini: https://watchface.io/green_analog/themes
+
+⭐️ Sumber Daya ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/green_analog/manual
+* Dapatkan kunci PRO: https://ko-fi.com/s/0a2e8d1d8b atau https://watchface.io/green_analog
+* Daftar Tema: https://watchface.io/green_analog/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Field Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Catatan: Ada dua tempat berbeda dengan pengaturan:
+* Aplikasi Garmin IQ (di ponsel Anda, pergi ke perangkat Anda, wajah jam, pengaturan): Konfigurasikan field data, warna, dan pengaturan umum.
+* Pengaturan Di Jam: Akses opsi yang lebih detail seperti format waktu, tujuan, dan satuan langsung di jam dengan menahan tombol menu, memilih wajah jam, dan mengetuk sesuaikan.
+
+⭐️ Field Data ⭐️
+Semua field data yang saat ini disediakan Garmin untuk pengembang pihak ketiga tersedia, ditambah ekstra seperti dukungan Monitor Glukosa (CGM), Open Weather Map (OWM) dan dukungan untuk aplikasi pihak ketiga lainnya.
+Semua field data yang tersedia tercantum di sini: https://watchface.io/docs/datafields. Beberapa field data (seperti kesiapan latihan atau HRV) saat ini tidak tersedia untuk pengembang pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jika Anda mengalami bug atau masalah, silakan hubungi saya dengan menekan "Contact Developer" alih-alih menggunakan sistem ulasan. Saya dapat merespons email dengan cepat, sedangkan saya mungkin tidak melihat ulasan selama beberapa hari. ***
+
+* Changelog: https://watchface.io/green_analog/changelog

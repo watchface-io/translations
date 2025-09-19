@@ -1,0 +1,30 @@
+Classic, minimal and highly customizable watchface. With over 100 data points, many AOD options and low battery usage, the perfect watch face to wear in style.
+
+
+⭐️ Free vs Pro ⭐️
+This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here:  https://apps.garmin.com/apps/87860c9d-4214-4b7c-9770-f2e0cf4ee78c
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+This watchface is fully optimized for MIPS, but colors can look different as in most pictures, as these are taken on an Amoled device. You can find all the build in themes here: https://watchface.io/green_analog/themes
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/green_analog/manual
+* Get a PRO key: https://ko-fi.com/s/0a2e8d1d8b or https://watchface.io/green_analog
+* Theme List: https://watchface.io/green_analog/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone go to your device, watchfaces, settings): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields. Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***
+
+* Changelog: https://watchface.io/green_analog/changelog

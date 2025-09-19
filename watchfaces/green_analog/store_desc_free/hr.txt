@@ -1,0 +1,30 @@
+Klasičan, minimalan i vrlo prilagodljiv sat. S više od 100 podatkovnih točaka, mnoge AOD opcije i mala potrošnja baterije, savršen sat za nošenje sa stilom.
+
+
+⭐️ Besplatno vs Pro ⭐️
+Ovaj sat je dostupan besplatno sa svim osnovnim funkcijama. Premium značajke (označene sa [*]) zahtijevaju Pro ključ za otključavanje. Možete kupiti Pro ključ ovdje: https://apps.garmin.com/apps/87860c9d-4214-4b7c-9770-f2e0cf4ee78c
+
+⭐️ MIPS uređaji (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ovaj sat je potpuno optimiziran za MIPS, ali boje mogu izgledati drugačije kao u većini slika, jer su ove snimljene na Amoled uređaju. Možete pronaći sve ugrađene teme ovdje: https://watchface.io/green_analog/themes
+
+⭐️ Resursi ⭐️
+* FAQ: https://watchface.io/faq
+* Priručnik: https://watchface.io/green_analog/manual
+* Nabaviti PRO ključ: https://ko-fi.com/s/0a2e8d1d8b ili https://watchface.io/green_analog
+* Lista tema: https://watchface.io/green_analog/themes
+* Vodič za boje: https://watchface.io/docs/color-list
+* Dostupna polja podataka: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Napomena: Postoje dva različita mjesta s postavkama:
+* Garmin IQ aplikacija (na vašem telefonu idite na vaš uređaj, satovi, postavke): Konfigurirajte polja podataka, boje i opće postavke.
+* Postavke na satu: Pristupite detaljnijim opcijama kao što su format vremena, ciljevi i jedinice direktno na satu držanjem gumba izbornika, odabirom sata i dodirom na prilagodi.
+
+⭐️ Polja podataka ⭐️
+Sva polja podataka koja Garmin trenutno isporučuje vanjskim programerima su dostupna, plus dodaci kao što je podrška za Monitor glukoze (CGM), Open Weather Map (OWM) i podrška za druge vanjske aplikacije.
+Sva dostupna polja podataka navedena su ovdje: https://watchface.io/docs/datafields. Neka polja podataka (kao što je spremnost za trening ili HRV) trenutno nisu dostupna vanjskim programerima, pogledajte ovdje: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Ako naiđete na greške ili probleme, molimo kontaktirajte me pritiskom na "Contact Developer" umjesto korištenja sustava recenzija. Mogu brzo odgovoriti na emailove, dok možda neću vidjeti recenzije nekoliko dana. ***
+
+* Changelog: https://watchface.io/green_analog/changelog

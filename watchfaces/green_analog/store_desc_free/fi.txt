@@ -1,0 +1,30 @@
+Klassinen, minimalistinen ja erittäin muokattava kellotaulu. Yli 100 datapisteellä, monilla AOD-vaihtoehdoilla ja alhaisella akun kulutuksella, täydellinen kellotaulu käytettäväksi tyylikkäästi.
+
+
+⭐️ Ilmainen vs Pro ⭐️
+Tämä kellotaulu on saatavilla ilmaiseksi kaikilla perustoiminnoilla. Premium-ominaisuudet (merkitty [*]) vaativat Pro-avaimen avaamista varten. Voit ostaa Pro-avaimen täältä: https://apps.garmin.com/apps/87860c9d-4214-4b7c-9770-f2e0cf4ee78c
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Forerunner 255, jne.) ⭐️
+Tämä kellotaulu on täysin optimoitu MIPS:ille, mutta värit voivat näyttää erilaisilta kuin useimmissa kuvissa, koska nämä on otettu Amoled-laitteella. Löydät kaikki sisäänrakennetut teemat täältä: https://watchface.io/green_analog/themes
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Käsikirja: https://watchface.io/green_analog/manual
+* Hanki PRO-avain: https://ko-fi.com/s/0a2e8d1d8b tai https://watchface.io/green_analog
+* Teemalista: https://watchface.io/green_analog/themes
+* Väriopas: https://watchface.io/docs/color-list
+* Saatavilla olevat datakentät: https://watchface.io/docs/datafields
+
+⭐️ Konfigurointi ⭐️
+Huomautus: On kaksi eri paikkaa asetuksille:
+* Garmin IQ -sovellus (puhelimessasi mene laitteesi, kellotaulut, asetukset): Konfiguroi datakentät, värit ja yleiset asetukset.
+* Kellon asetukset: Pääsy yksityiskohtaisempiin vaihtoehtoihin kuten aikamuoto, tavoitteet ja yksiköt suoraan kellossa pitämällä valikko-painiketta, valitsemalla kellotaulun ja napauttamalla mukauta.
+
+⭐️ Datakentät ⭐️
+Kaikki datakentät, joita Garmin tällä hetkellä toimittaa kolmannen osapuolen kehittäjille, ovat saatavilla, sekä lisäksi kuten Glukoosianturin (CGM) tuki, Open Weather Map (OWM) ja tuki muille kolmannen osapuolen sovelluksille.
+Kaikki saatavilla olevat datakentät on listattu täällä: https://watchface.io/docs/datafields. Jotkut datakentät (kuten harjoitteluvalmius tai HRV) eivät ole tällä hetkellä saatavilla kolmannen osapuolen kehittäjille, katso täältä: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jos kohtaat virheitä tai ongelmia, ota yhteyttä minuun painamalla "Contact Developer" arvostelujärjestelmän käyttämisen sijaan. Voin vastata sähköposteihin nopeasti, kun taas en ehkä näe arvosteluja useisiin päiviin. ***
+
+* Muutosloki: https://watchface.io/green_analog/changelog

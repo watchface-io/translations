@@ -1,0 +1,30 @@
+经典、简约且高度可定制的表盘。拥有超过100个数据点、多种AOD选项和低电池消耗，是时尚佩戴的完美表盘。
+
+
+⭐️ 免费 vs Pro ⭐️
+此表盘免费提供所有基本功能。高级功能（标有[*]）需要Pro密钥解锁。您可以在此购买Pro密钥：https://apps.garmin.com/apps/87860c9d-4214-4b7c-9770-f2e0cf4ee78c
+
+⭐️ MIPS设备（Fenix 7、Enduro、Forerunner 255等） ⭐️
+此表盘完全针对MIPS优化，但颜色可能看起来与大多数图片不同，因为这些图片是在Amoled设备上拍摄的。您可以在此找到所有内置主题：https://watchface.io/green_analog/themes
+
+⭐️ 资源 ⭐️
+* 常见问题：https://watchface.io/faq
+* 手册：https://watchface.io/green_analog/manual
+* 获取PRO密钥：https://ko-fi.com/s/0a2e8d1d8b 或 https://watchface.io/green_analog
+* 主题列表：https://watchface.io/green_analog/themes
+* 颜色指南：https://watchface.io/docs/color-list
+* 可用数据字段：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有两个不同的设置位置：
+* Garmin IQ应用（在您的手机上转到您的设备、表盘、设置）：配置数据字段、颜色和常规设置。
+* 手表设置：通过长按菜单按钮、选择表盘并按自定义，可直接在手表上访问更详细的选项，如时间格式、目标和单位。
+
+⭐️ 数据字段 ⭐️
+Garmin目前为第三方开发者提供的所有数据字段都可用，还有额外的功能，如血糖监测器（CGM）支持、Open Weather Map（OWM）和其他第三方应用支持。
+所有可用数据字段在此列出：https://watchface.io/docs/datafields。某些数据字段（如训练准备度或HRV）目前不对第三方开发者开放，请参见：https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** 如果您遇到错误或问题，请点击"联系开发者"与我联系，而不是使用评论系统。我可以快速回复电子邮件，但可能数天不会看到评论。 ***
+
+* 更新日志：https://watchface.io/green_analog/changelog
