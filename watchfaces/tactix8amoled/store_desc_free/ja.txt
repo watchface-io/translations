@@ -1,0 +1,18 @@
+Tactix 8 Amoled ウォッチにインスパイアされたウォッチフェイス
+
+⭐️ 無料 vs Pro ⭐️
+このウォッチフェイスは、すべての基本機能付きで無料でご利用いただけます。プレミアム機能（[*]でマーク）のロック解除にはProキーが必要です。Proキーはこちらで購入できます：https://ko-fi.com/s/b509db80a0 またはPROバージョンをこちらで購入：https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ リソース ⭐️
+* FAQ: https://watchface.io/faq
+* PROキーを取得: https://ko-fi.com/s/b509db80a0
+* テーマリスト: https://watchface.io/tactix8amoled/themes
+* カラーガイド: https://watchface.io/docs/color-list
+* 利用可能なデータフィールド: https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：設定には2つの異なる場所があります：
+* Garmin IQアプリ（お使いの携帯電話で）：データフィールド、色、一般設定を構成します。
+* 時計上の設定：メニューボタンを長押しし、ウォッチフェイスを選択してカスタマイズをタップすることで、時刻形式、目標、単位などのより詳細なオプションに時計上で直接アクセスできます。
+
+*** バグや問題が発生した場合は、レビューシステムを使用する代わりに「Contact Developer」を押してご連絡ください。メールには迅速に対応できますが、レビューは数日間見られない場合があります。***

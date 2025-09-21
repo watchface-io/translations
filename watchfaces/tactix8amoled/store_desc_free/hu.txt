@@ -1,0 +1,18 @@
+Óralap, amelyet a Tactix 8 Amoled óra inspirált
+
+⭐️ Ingyenes vs Pro ⭐️
+Ez az számlap alapfunkciók mellett ingyenesen elérhető. A prémium funkciók (a [*] jelzéssel) Pro kulcsot igényelnek a feloldáshoz. Pro kulcs vásárolható itt: https://ko-fi.com/s/b509db80a0 Vagy vásárolja meg a PRO verziót itt: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ Erőforrások ⭐️
+* GYIK: https://watchface.io/faq
+* Szerezze be a PRO kulcsot: https://ko-fi.com/s/b509db80a0
+* Témalista: https://watchface.io/tactix8amoled/themes
+* Színkalauz: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+Megjegyzés: Két különböző helyen találhatók beállítások:
+* Garmin IQ alkalmazás (a telefonján): Konfigurálja az adatmezőket, színeket és az általános beállításokat.
+* Óra beállításai: Részletesebb opciók elérése, például időformátum, célok és mértékegységek közvetlenül az órán a menü gomb nyomva tartásával, a számlap kiválasztásával és a testreszabás megérintésével.
+
+*** Ha bugot vagy problémát észlel, kérjük lépjen kapcsolatba velem a "Contact Developer" gomb megnyomásával ahelyett, hogy a visszajelző rendszert használná. Gyorsan válaszolok az e-mailekre, míg a visszajelzéseket esetleg napokig nem látom.***

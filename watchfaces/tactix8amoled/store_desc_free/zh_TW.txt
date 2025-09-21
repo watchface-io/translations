@@ -1,0 +1,18 @@
+資料豐富的錶面，為您的所有資料提供12個位置，以簡單的方式顯示。完全可自訂，包含圖表、進度條、3種字體等。
+
+⭐️ 免費 vs Pro ⭐️
+此錶面免費提供所有基本功能。進階功能（用[*]標記）需要Pro金鑰解鎖。您可以在這裡購買Pro金鑰：https://ko-fi.com/s/b509db80a0 或在這裡購買PRO版本：https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ 資源 ⭐️
+* 常見問題：https://watchface.io/faq
+* 獲取PRO金鑰：https://ko-fi.com/s/b509db80a0
+* 主題清單：https://watchface.io/tactix8amoled/themes
+* 顏色指南：https://watchface.io/docs/color-list
+* 可用資料欄位：https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：有兩個不同的設定位置：
+* Garmin IQ應用程式（在您的手機上）：設定資料欄位、顏色和一般設定。
+* 手錶設定：透過長按選單按鈕、選擇錶面並點擊自訂，直接在手錶上存取更詳細的選項，如時間格式、目標和單位。
+
+*** 如果您遇到任何錯誤或問題，請透過按「Contact Developer」聯絡我，而不是使用評論系統。我可以迅速回覆郵件，而我可能幾天都看不到評論。***

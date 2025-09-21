@@ -1,0 +1,18 @@
+Kellotaulu, jonka inspiraationa on Tactix 8 Amoled -kello
+
+⭐️ Ilmainen vs Pro ⭐️
+Tämä kellotaulu on saatavilla ilmaiseksi kaikilla perustoiminnoilla. Premium-ominaisuudet (merkitty [*]) vaativat Pro-avaimen lukitusten avaamiseen. Voit ostaa Pro-avaimen täältä: https://ko-fi.com/s/b509db80a0 Tai ostaa PRO-version täältä: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ Resurssit ⭐️
+* FAQ: https://watchface.io/faq
+* Hanki PRO-avain: https://ko-fi.com/s/b509db80a0
+* Teemalista: https://watchface.io/tactix8amoled/themes
+* Väriohje: https://watchface.io/docs/color-list
+* Saatavilla olevat data-alueet: https://watchface.io/docs/datafields
+
+⭐️ Asetukset ⭐️
+Huom: Asetuksia on kahdessa eri paikassa:
+* Garmin IQ -sovellus (puhelimessasi): Määritä data-alueet, värit ja yleiset asetukset.
+* Kellon asetukset: Pääset tarkempiin asetuksiin kuten aikamuoto, tavoitteet ja yksiköt suoraan kellosta pitämällä valikkopainiketta painettuna, valitsemalla kellotaulun ja napauttamalla mukauta.
+
+*** Jos kohtaat virheitä tai ongelmia, ota yhteyttä painamalla "Contact Developer" sen sijaan, että käyttäisit arvostelujärjestelmää. Voin vastata sähköposteihin nopeasti, kun taas arvostelut saatan nähdä vasta useiden päivien jälkeen.***

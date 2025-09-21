@@ -1,0 +1,18 @@
+Wajah jam yang diilhamkan oleh jam Tactix 8 Amoled
+
+⭐️ Percuma vs Pro ⭐️
+Muka jam ini tersedia tanpa kos dengan semua fungsi asas. Ciri premium (ditandakan dengan [*]) memerlukan Kunci Pro untuk membuka kunci. Anda boleh membeli Kunci Pro di sini: https://ko-fi.com/s/b509db80a0 Atau beli versi PRO di sini: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ Sumber ⭐️
+* FAQ: https://watchface.io/faq
+* Dapatkan kunci PRO: https://ko-fi.com/s/b509db80a0
+* Senarai Tema: https://watchface.io/tactix8amoled/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Aplikasi Garmin IQ (di telefon anda): Konfigurasikan medan data, warna, dan tetapan am.
+* Tetapan Dalam Jam: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit terus di jam dengan menahan butang menu, memilih muka jam, dan ketik sesuaikan.
+
+*** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Contact Developer" daripada menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan selama beberapa hari.***

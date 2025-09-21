@@ -1,0 +1,18 @@
+Esfera inspirada en el reloj Tactix 8 Amoled
+
+⭐️ Gratis vs Pro ⭐️
+Esta esfera está disponible sin costo con todas las funciones básicas. Las características premium (marcadas con [*]) requieren una Clave Pro para desbloquear. Puedes comprar una Clave Pro aquí: https://ko-fi.com/s/b509db80a0 O comprar la versión PRO aquí: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Obtener clave PRO: https://ko-fi.com/s/b509db80a0
+* Lista de temas: https://watchface.io/tactix8amoled/themes
+* Guía de colores: https://watchface.io/docs/color-list
+* Campos de datos disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuraciones:
+* App Garmin IQ (en tu teléfono): Configura campos de datos, colores y configuraciones generales.
+* Configuraciones en el reloj: Accede a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón menú, seleccionando esfera y tocando personalizar.
+
+*** Si encuentras errores o problemas, por favor contáctame presionando "Contact Developer" en lugar de usar el sistema de reseñas. Puedo responder emails rápidamente, por lo que podría no ver las reseñas por varios días. ***

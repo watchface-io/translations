@@ -1,0 +1,18 @@
+Watchface terinspirasi oleh jam Tactix 8 Amoled
+
+⭐️ Gratis vs Pro ⭐️
+Watchface ini tersedia tanpa biaya dengan semua fungsi dasar. Fitur premium (ditandai dengan [*]) memerlukan Pro Key untuk membuka kunci. Anda dapat membeli Pro Key di sini: https://ko-fi.com/s/b509db80a0 Atau membeli versi PRO di sini: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ Sumber Daya ⭐️
+* FAQ: https://watchface.io/faq
+* Dapatkan kunci PRO: https://ko-fi.com/s/b509db80a0
+* Daftar Tema: https://watchface.io/tactix8amoled/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Datafield yang Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Catatan: Ada dua tempat berbeda dengan pengaturan:
+* Aplikasi Garmin IQ (di ponsel Anda): Konfigurasi datafield, warna, dan pengaturan umum.
+* Pengaturan di Jam: Akses opsi yang lebih detail seperti format waktu, tujuan, dan unit langsung di jam dengan menahan tombol menu, memilih watchface, dan ketuk sesuaikan.
+
+*** Jika Anda mengalami bug atau masalah, silakan hubungi saya dengan menekan "Contact Developer" alih-alih menggunakan sistem ulasan. Saya dapat merespons email dengan cepat, sedangkan saya mungkin tidak melihat ulasan selama beberapa hari.***
