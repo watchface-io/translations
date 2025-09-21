@@ -18,3 +18,5 @@ Note: There are two different places with settings:
 
 
 *** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***
+
+* Changelog: https://watchface.io/tactix8amoled/changelog
