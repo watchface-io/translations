@@ -1,17 +1,21 @@
-```plaintext
-Watchface inspired by the Tactix 8 Amoled watch
+Mostrador inspirado no relógio Tactix 8 Amoled
 
-⭐️ Free vs Pro ⭐️
-This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/b509db80a0 Or buy the PRO version through Garmin: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+⭐️ Gratuito vs Pro ⭐️
+Este mostrador está disponível sem custo com todas as funções básicas. Recursos premium (marcados com [*]) requerem uma Chave Pro para desbloquear. Você pode comprar uma Chave Pro aqui: https://ko-fi.com/s/b509db80a0 Ou comprar a versão PRO através da Garmin: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
 
-⭐️ Resources ⭐️
-* FAQ: https://watchface.io.faq
-* All Pre-installed themes :https://watchface.io/tactix8amoled/themes
-* Color Guide: https://watchface.io/docs/color-list
-* Available Datafields: https://watchface.io/docs/datafields
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Obter chave PRO: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
+* Lista de temas: https://watchface.io/tactix8amoled/themes
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
 
-⭐️ Configuration ⭐️
-Note: There are two different places with settings:
-* Garmin IQ App (on your phone): Configure datafields, colors, and general settings
-* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize
-```
+
+⭐️ Configuração ⭐️
+Nota: Há dois lugares diferentes com configurações:
+* App Garmin IQ (no seu telemóvel): Configure campos de dados, cores e configurações gerais.
+* Configurações no relógio: Acesse opções mais detalhadas como formato de hora, metas e unidades diretamente no relógio segurando o botão menu, selecionando mostrador e tocando personalizar.
+
+*** Se encontrar bugs ou problemas, por favor entre em contacto comigo pressionando "Contact Developer" em vez de usar o sistema de avaliações. Posso responder e-mails mais rapidamente, enquanto posso não ver avaliações por vários dias. ***
+* Registro de alterações: https://watchface.io/tactix8amoled/changelog
+

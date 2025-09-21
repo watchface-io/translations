@@ -1,0 +1,24 @@
+Tactix 8 Amoled kellosta inspiroitunut kellotaulu
+
+⭐️ Kokeile ennen ostamista! ⭐️
+Ennen tämän kellotaulun ostamista kokeile ensin ilmaista versiota varmistaaksesi, että se on mitä haluat ja että pidät siitä, miltä se näyttää kellossasi: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ Resurssit ⭐️
+* FAQ: https://watchface.io.faq
+* Kaikki esiasennetut teemat: https://watchface.io/tactix8amoled/themes
+* Ilmainen versio: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* Väriohje: https://watchface.io/docs/color-list
+* Saatavilla olevat tietokentät: https://watchface.io/docs/datafields
+
+⭐️ Konfigurointi ⭐️
+Huomaa: Asetuksia on kahdessa eri paikassa:
+* Garmin IQ sovellus (puhelimessasi mene laitteeseen, kellotaulut, asetukset): Konfiguroi tietokentät, värit ja yleiset asetukset.
+* Kellon asetukset: Käytä yksityiskohtaisempia vaihtoehtoja kuten aikamuoto, tavoitteet ja yksiköt suoraan kellossa pitämällä valikkopainiketta painettuna, valitsemalla kellotaulu ja napauttamalla mukauta.
+
+⭐️ Tietokentät ⭐️
+Kaikki tietokentät, jotka Garmin tällä hetkellä tarjoaa kolmannen osapuolen kehittäjille, ovat saatavilla, sekä lisäominaisuuksia kuten Glucose Monitor (CGM) tuki, Open Weather Map (OWM) ja tuki muille kolmannen osapuolen sovelluksille.
+Kaikki saatavilla olevat tietokentät on lueteltu täällä: https://watchface.io/docs/datafields. Jotkin tietokentät (kuten harjoitteluvalmius tai HRV) eivät ole tällä hetkellä saatavilla kolmannen osapuolen kehittäjille, katso täältä: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Jos kohtaat virheitä tai ongelmia, ota minuun yhteyttä painamalla "Ota yhteyttä kehittäjään" arvostelusysteemin käyttämisen sijaan. Voin vastata sähköposteihin nopeasti, kun taas en ehkä näe arvosteluja useisiin päiviin. ***
+
+* Changelog: https://watchface.io/tactix8amoled/changelog

@@ -5,7 +5,7 @@ Muka jam ini tersedia tanpa kos dengan semua fungsi asas. Ciri premium (ditandak
 
 ⭐️ Sumber ⭐️
 * FAQ: https://watchface.io/faq
-* Dapatkan kunci PRO: https://ko-fi.com/s/b509db80a0
+* Dapatkan kunci PRO: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Senarai Tema: https://watchface.io/tactix8amoled/themes
 * Panduan Warna: https://watchface.io/docs/color-list
 * Medan Data Tersedia: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Nota: Terdapat dua tempat berbeza dengan tetapan:
 * Tetapan Dalam Jam: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit terus di jam dengan menahan butang menu, memilih muka jam, dan ketik sesuaikan.
 
 *** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Contact Developer" daripada menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan selama beberapa hari.***
+* Catatan perubahan: https://watchface.io/tactix8amoled/changelog

@@ -1,0 +1,24 @@
+Watchface inspiriran satom Tactix 8 Amoled
+
+⭐️ Probajte prije kupovine! ⭐️
+Prije kupovine ovog watchface-a, prvo probajte besplatnu verziju da budete sigurni da je to što želite i da vam se sviđa kako izgleda na vašem satu: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ Resursi ⭐️
+* FAQ: https://watchface.io.faq
+* Sve predinstalirane teme: https://watchface.io/tactix8amoled/themes
+* Besplatna verzija: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* Vodič za boje: https://watchface.io/docs/color-list
+* Dostupna polja podataka: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Napomena: Postoje dva različita mjesta s postavkama:
+* Garmin IQ aplikacija (na telefonu idite na vaš uređaj, watchfaces, postavke): Konfigurirajte polja podataka, boje i opće postavke.
+* Postavke na satu: Pristupite detaljnijim opcijama poput formata vremena, ciljeva i jedinica izravno na satu držanjem gumba izbornik, odabirom watchface-a i dodirom na prilagodi.
+
+⭐️ Polja podataka ⭐️
+Sva polja podataka koja Garmin trenutno pruža razvijateljima treće strane su dostupna, plus dodatci poput podrške za Glucose Monitor (CGM), Open Weather Map (OWM) i podrška za druge aplikacije treće strane.
+Sva dostupna polja podataka su navedena ovdje: https://watchface.io/docs/datafields. Neka polja podataka (poput pripremljenosti za trening ili HRV) trenutno nisu dostupna razvijateljima treće strane, pogledajte ovdje: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Ako naiđete na greške ili probleme, molimo kontaktirajte me pritiskom na "Kontaktiraj razvijatelja" umjesto korištenja sustava recenzija. Mogu odgovoriti na emailove brzo, dok možda neću vidjeti recenzije nekoliko dana. ***
+
+* Changelog: https://watchface.io/tactix8amoled/changelog

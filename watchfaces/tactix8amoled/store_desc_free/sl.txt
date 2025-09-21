@@ -5,7 +5,7 @@ Ta številčnica je na voljo brezplačno z vsemi osnovnimi funkcijami. Premium f
 
 ⭐️ Viri ⭐️
 * FAQ: https://watchface.io/faq
-* Pridobiti PRO ključ: https://ko-fi.com/s/b509db80a0
+* Pridobiti PRO ključ: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Seznam tem: https://watchface.io/tactix8amoled/themes
 * Vodnik za barve: https://watchface.io/docs/color-list
 * Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Opomba: Obstajata dve različni mesti z nastavitvami:
 * Nastavitve na uri: Dostopajte do podrobnejših možnosti kot je format časa, cilji in enote neposredno na uri z držanjem gumba menija, izbiro številčnice in dotikom prilagodi.
 
 *** Če naletite na hrošče ali težave, me prosim kontaktirajte s pritiskom na "Contact Developer" namesto uporabe sistema ocen. Hitro lahko odgovorim na e-pošto, medtem ko ocen morda ne vidim več dni.***
+* Zapis sprememb: https://watchface.io/tactix8amoled/changelog

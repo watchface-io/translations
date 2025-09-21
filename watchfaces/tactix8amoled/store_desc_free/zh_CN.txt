@@ -8,7 +8,7 @@
 
 ⭐️资源中心⭐️
 * 常见问题：https://watchface.io/faq
-* 获取专业版密钥：https://ko-fi.com/s/b509db80a0
+* 获取专业版密钥：https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * 模式颜色：https://watchface.io/tactix8amoled/themes
 * 配色指南：https://watchface.io/docs/color-list
 * 栏位数据：https://watchface.io/docs/datafields

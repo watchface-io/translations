@@ -1,0 +1,24 @@
+Številčnica navdahnjena z uro Tactix 8 Amoled
+
+⭐️ Preizkusite pred nakupom! ⭐️
+Preden kupite to številčnico, najprej preizkusite brezplačno različico, da se prepričate, da je to tisto, kar želite, in da vam je všeč, kako izgleda na vaši uri: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ Viri ⭐️
+* Pogosta vprašanja: https://watchface.io.faq
+* Vse prednamestene teme: https://watchface.io/tactix8amoled/themes
+* Brezplačna različica: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* Vodič po barvah: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Aplikacija Garmin IQ (na telefonu pojdite na vašo napravo, številčnice, nastavitve): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostopajte do podrobnejših možnosti, kot so format časa, cilji in enote neposredno na uri z držanjem gumba menija, izbiro številčnice in dotikanjem prilagodi.
+
+⭐️ Podatkovna polja ⭐️
+Vsa podatkovna polja, ki jih Garmin trenutno zagotavlja razvijalcem tretjih strank, so na voljo, plus dodatki, kot so podpora za Glucose Monitor (CGM), Open Weather Map (OWM) in podpora za druge aplikacije tretjih strank.
+Vsa razpoložljiva podatkovna polja so navedena tukaj: https://watchface.io/docs/datafields. Nekatera podatkovna polja (kot je pripravljenost na trening ali HRV) trenutno niso na voljo razvijalcem tretjih strank, glej tukaj: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Če naletite na napake ali težave, me prosim kontaktirajte s pritiskom na "Kontaktiraj razvijalca" namesto da uporabljate sistem ocen. Lahko hitro odgovorim na e-pošto, medtem ko morda ne vidim ocen več dni. ***
+
+* Changelog: https://watchface.io/tactix8amoled/changelog

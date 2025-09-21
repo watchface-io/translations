@@ -1,0 +1,24 @@
+受Tactix 8 Amoled手表启发的表盘
+
+⭐️ 购买前试用！ ⭐️
+在购买此表盘之前，请先试用免费版本，以确保这是您想要的，并且您喜欢它在手表上的外观：https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ 资源 ⭐️
+* 常见问题：https://watchface.io.faq
+* 所有预安装主题：https://watchface.io/tactix8amoled/themes
+* 免费版本：https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* 颜色指南：https://watchface.io/docs/color-list
+* 可用数据字段：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有两个不同的设置位置：
+* Garmin IQ应用（在您的手机上转到您的设备、表盘、设置）：配置数据字段、颜色和常规设置。
+* 手表上的设置：通过长按菜单按钮、选择表盘并点击自定义，直接在手表上访问更详细的选项，如时间格式、目标和单位。
+
+⭐️ 数据字段 ⭐️
+Garmin目前为第三方开发者提供的所有数据字段都可用，还有额外功能如血糖监测仪（CGM）支持、Open Weather Map（OWM）以及对其他第三方应用的支持。
+所有可用的数据字段都列在这里：https://watchface.io/docs/datafields。一些数据字段（如训练准备度或HRV）目前不提供给第三方开发者，请参见这里：https://watchface.io/faq/can-you-add-training-readiness
+
+*** 如果您遇到任何错误或问题，请通过按"联系开发者"与我联系，而不要使用评论系统。我可以快速回复电子邮件，而我可能几天都看不到评论。***
+
+* 更新日志：https://watchface.io/tactix8amoled/changelog

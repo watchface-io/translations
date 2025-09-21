@@ -5,7 +5,7 @@ This watchface is available at no cost with all basic functions. Premium feature
 
 ⭐️ Resources ⭐️
 * FAQ: https://watchface.io/faq
-* Get a PRO key: https://ko-fi.com/s/b509db80a0
+* Get a PRO key: https://ko-fi.com/s/b509db80a0 or https://watchface.io/tactix8amoled
 * Theme List: https://watchface.io/tactix8amoled/themes
 * Color Guide: https://watchface.io/docs/color-list
 * Available Datafields: https://watchface.io/docs/datafields
@@ -15,6 +15,7 @@ This watchface is available at no cost with all basic functions. Premium feature
 Note: There are two different places with settings:
 * Garmin IQ App (on your phone): Configure datafields, colors, and general settings.
 * On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
 
 
 *** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***

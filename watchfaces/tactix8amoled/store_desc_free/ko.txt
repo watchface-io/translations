@@ -5,7 +5,7 @@ Tactix 8 Amoled 시계에서 영감을 받은 워치페이스
 
 ⭐️ 리소스 ⭐️
 * FAQ: https://watchface.io/faq
-* PRO 키 받기: https://ko-fi.com/s/b509db80a0
+* PRO 키 받기: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * 테마 목록: https://watchface.io/tactix8amoled/themes
 * 색상 가이드: https://watchface.io/docs/color-list
 * 사용 가능한 데이터 필드: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Tactix 8 Amoled 시계에서 영감을 받은 워치페이스
 * 시계 내 설정: 메뉴 버튼을 길게 눌러 시계 페이스를 선택하고 사용자 정의를 탭하여 시간 형식, 목표 및 단위와 같은 더 자세한 옵션에 시계에서 직접 액세스합니다.
 
 *** 버그나 문제가 발생하면 리뷰 시스템을 사용하는 대신 "Contact Developer"를 눌러 저에게 연락해 주세요. 이메일에는 신속하게 응답할 수 있지만, 리뷰는 며칠 동안 보지 못할 수도 있습니다.***
+* 변경 로그: https://watchface.io/tactix8amoled/changelog

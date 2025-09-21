@@ -5,7 +5,7 @@ Denne urskiven er tilgjengelig uten kostnad med alle grunnleggende funksjoner. P
 
 ⭐️ Ressurser ⭐️
 * FAQ: https://watchface.io/faq
-* Få en PRO nøkkel: https://ko-fi.com/s/b509db80a0
+* Få en PRO nøkkel: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Temaliste: https://watchface.io/tactix8amoled/themes
 * Fargeguide: https://watchface.io/docs/color-list
 * Tilgjengelige datafelt: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Merk: Det er to forskjellige steder med innstillinger:
 * Innstillinger på klokka: Få tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde menyknappen, velge urskive og trykke tilpass.
 
 *** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke "Contact Developer" i stedet for å bruke anmeldelsessystemet. Jeg kan svare på e-poster raskt, mens jeg kanskje ikke ser anmeldelser på flere dager.***
+* Endringslogg: https://watchface.io/tactix8amoled/changelog

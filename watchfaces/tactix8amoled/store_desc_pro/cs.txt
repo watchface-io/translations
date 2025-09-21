@@ -1,0 +1,24 @@
+Ciferník inspirovaný hodinkami Tactix 8 Amoled
+
+⭐️ Vyzkoušejte před nákupem! ⭐️
+Před koupí tohoto ciferníku si nejprve vyzkoušejte bezplatnou verzi, abyste se ujistili, že je to přesně to, co chcete, a že se vám líbí, jak vypadá na vašich hodinkách: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io.faq
+* Všechna předinstalovaná témata: https://watchface.io/tactix8amoled/themes
+* Bezplatná verze: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dva různá místa s nastavením:
+* Aplikace Garmin IQ (na telefonu přejděte na vaše zařízení, ciferníky, nastavení): Konfigurujte datová pole, barvy a obecná nastavení.
+* Nastavení na hodinkách: Přistupte k podrobnějším možnostem, jako je formát času, cíle a jednotky přímo na hodinkách, podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobení.
+
+⭐️ Datová pole ⭐️
+Všechna datová pole, která Garmin v současnosti poskytuje vývojářům třetích stran, jsou k dispozici, plus extra jako podpora Glucose Monitor (CGM), Open Weather Map (OWM) a podpora pro další aplikace třetích stran.
+Všechna dostupná datová pole jsou uvedena zde: https://watchface.io/docs/datafields. Některá datová pole (jako připravenost k tréninku nebo HRV) nejsou v současnosti k dispozici vývojářům třetích stran, viz zde: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Pokud narazíte na nějaké chyby nebo problémy, kontaktujte mě prosím stisknutím "Kontaktovat vývojáře" namísto použití systému recenzí. Mohu rychle odpovídat na e-maily, zatímco recenze možná neuvidím několik dní. ***
+
+* Changelog: https://watchface.io/tactix8amoled/changelog

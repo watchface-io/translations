@@ -1,0 +1,24 @@
+Urskive inspirert av Tactix 8 Amoled klokka
+
+⭐️ Prøv før du kjøper! ⭐️
+Før du kjøper denne urskiva, prøv først den gratis versjonen for å være sikker på at det er det du vil ha og at du liker hvordan det ser ut på klokka di: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ Ressurser ⭐️
+* FAQ: https://watchface.io.faq
+* Alle forhåndsinstallerte temaer: https://watchface.io/tactix8amoled/themes
+* Gratis versjon: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* Fargeguide: https://watchface.io/docs/color-list
+* Tilgjengelige datafelt: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ App (på telefonen din gå til enheten din, urskiver, innstillinger): Konfigurer datafelt, farger og generelle innstillinger.
+* Innstillinger på klokka: Få tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde menyknappen, velge urskive og trykke på tilpass.
+
+⭐️ Datafelt ⭐️
+Alle datafelt som Garmin for tiden leverer til tredjepartsutviklere er tilgjengelige, pluss ekstra som Glucose Monitor (CGM) støtte, Open Weather Map (OWM) og støtte for andre tredjepartsapper.
+Alle tilgjengelige datafelt er listet her: https://watchface.io/docs/datafields. Noen datafelt (som treningsberedskap eller HRV) er for tiden ikke tilgjengelige for tredjepartsutviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke "Kontakt utvikler" i stedet for å bruke anmeldelsessystemet. Jeg kan svare på e-poster raskt, mens jeg kanskje ikke ser anmeldelser på flere dager. ***
+
+* Changelog: https://watchface.io/tactix8amoled/changelog

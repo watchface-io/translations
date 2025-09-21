@@ -5,7 +5,7 @@ Ovaj brojčanik je dostupan besplatno sa svim osnovnim funkcijama. Premium znač
 
 ⭐️ Resursi ⭐️
 * FAQ: https://watchface.io/faq
-* Nabaviti PRO ključ: https://ko-fi.com/s/b509db80a0
+* Nabaviti PRO ključ: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Lista tema: https://watchface.io/tactix8amoled/themes
 * Vodič za boje: https://watchface.io/docs/color-list
 * Dostupna polja podataka: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Napomena: Postoje dva različita mjesta s postavkama:
 * Postavke na satu: Pristupite detaljnijim opcijama poput formata vremena, ciljeva i jedinica direktno na satu držanjem gumba izbornika, odabirom brojčanika i dodirom na prilagodi.
 
 *** Ako naiđete na bugove ili probleme, molimo kontaktirajte me pritiskom na "Contact Developer" umjesto korištenja sustava recenzija. Mogu odgovoriti na emailove brzo, dok možda neću vidjeti recenzije nekoliko dana.***
+* Dnevnik promjena: https://watchface.io/tactix8amoled/changelog

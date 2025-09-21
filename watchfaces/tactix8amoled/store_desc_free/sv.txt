@@ -5,7 +5,7 @@ Denna urtavla är tillgänglig utan kostnad med alla grundfunktioner. Premium-fu
 
 ⭐️ Resurser ⭐️
 * FAQ: https://watchface.io/faq
-* Få en PRO-nyckel: https://ko-fi.com/s/b509db80a0
+* Få en PRO-nyckel: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Temalista: https://watchface.io/tactix8amoled/themes
 * Färgguide: https://watchface.io/docs/color-list
 * Tillgängliga datafält: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Obs: Det finns två olika platser med inställningar:
 * Inställningar på klockan: Få tillgång till mer detaljerade alternativ som tidsformat, mål och enheter direkt på klockan genom att hålla menyknappen, välja urtavla och trycka anpassa.
 
 *** Om du stöter på buggar eller problem, vänligen kontakta mig genom att trycka "Contact Developer" istället för att använda recensionssystemet. Jag kan svara på e-post snabbt, medan jag kanske inte ser recensioner på flera dagar.***
+* Ändringslogg: https://watchface.io/tactix8amoled/changelog

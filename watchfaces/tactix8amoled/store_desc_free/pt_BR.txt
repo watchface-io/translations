@@ -5,7 +5,7 @@ Este mostrador está disponível sem custo com todas as funções básicas. Recu
 
 ⭐️ Recursos ⭐️
 * FAQ: https://watchface.io/faq
-* Obter chave PRO: https://ko-fi.com/s/b509db80a0
+* Obter chave PRO: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Lista de temas: https://watchface.io/tactix8amoled/themes
 * Guia de cores: https://watchface.io/docs/color-list
 * Campos de dados disponíveis: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Nota: Há dois lugares diferentes com configurações:
 * Configurações no relógio: Acesse opções mais detalhadas como formato de hora, metas e unidades diretamente no relógio segurando o botão menu, selecionando mostrador e tocando personalizar.
 
 *** Se você encontrar bugs ou problemas, por favor entre em contato comigo pressionando "Contact Developer" em vez de usar o sistema de avaliações. Posso responder e-mails rapidamente, enquanto posso não ver avaliações por vários dias. ***
+* Registro de alterações: https://watchface.io/tactix8amoled/changelog

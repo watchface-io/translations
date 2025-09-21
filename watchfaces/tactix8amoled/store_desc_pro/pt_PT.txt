@@ -1,0 +1,24 @@
+Mostrador inspirado no relógio Tactix 8 Amoled
+
+⭐️ Experimente antes de comprar! ⭐️
+Antes de comprar este mostrador, experimente primeiro a versão gratuita para ter a certeza de que é o que quer e que gosta de como fica no seu relógio: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io.faq
+* Todos os temas pré-instalados: https://watchface.io/tactix8amoled/themes
+* Versão gratuita: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Existem dois locais diferentes com definições:
+* Aplicação Garmin IQ (no seu telefone vá ao seu dispositivo, mostradores, definições): Configure campos de dados, cores e definições gerais.
+* Definições no relógio: Aceda a opções mais detalhadas como formato de hora, objectivos e unidades directamente no relógio mantendo premido o botão menu, seleccionando mostrador e tocando em personalizar.
+
+⭐️ Campos de dados ⭐️
+Todos os campos de dados que a Garmin actualmente fornece a programadores terceiros estão disponíveis, além de extras como suporte ao Monitor de Glucose (CGM), Open Weather Map (OWM) e suporte para outras aplicações de terceiros.
+Todos os campos de dados disponíveis estão listados aqui: https://watchface.io/docs/datafields. Alguns campos de dados (como prontidão para treino ou HRV) actualmente não estão disponíveis para programadores terceiros, veja aqui: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Se encontrar erros ou problemas, entre em contacto comigo premindo "Contactar programador" em vez de usar o sistema de avaliação. Posso responder a emails rapidamente, enquanto posso não ver avaliações durante vários dias. ***
+
+* Changelog: https://watchface.io/tactix8amoled/changelog

@@ -5,7 +5,7 @@
 
 ⭐️ Ресурсы ⭐️
 * FAQ: https://watchface.io/faq
-* Получить PRO ключ: https://ko-fi.com/s/b509db80a0
+* Получить PRO ключ: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Список тем: https://watchface.io/tactix8amoled/themes
 * Руководство по цветам: https://watchface.io/docs/color-list
 * Доступные поля данных: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@
 * Настройки на часах: Доступ к более подробным опциям как формат времени, цели и единицы прямо на часах удерживанием кнопки меню, выбором циферблата и нажатием настроить.
 
 *** Если вы столкнулись с ошибками или проблемами, пожалуйста свяжитесь со мной нажатием "Contact Developer" вместо использования системы отзывов. Я могу быстро отвечать на электронные письма, в то время как отзывы могу не видеть несколько дней.***
+* Журнал изменений: https://watchface.io/tactix8amoled/changelog

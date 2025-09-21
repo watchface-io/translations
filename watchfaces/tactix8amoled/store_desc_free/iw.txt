@@ -5,7 +5,7 @@
 
 ⭐️ משאבים ⭐️
 * שאלות נפוצות: https://watchface.io/faq
-* קבל מפתח PRO: https://ko-fi.com/s/b509db80a0
+* קבל מפתח PRO: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * רשימת ערכות נושא: https://watchface.io/tactix8amoled/themes
 * מדריך צבעים: https://watchface.io/docs/color-list
 * שדות נתונים זמינים: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@
 * הגדרות בשעון: גישה לאפשרויות מפורטות יותר כמו פורמט זמן, יעדים ויחידות ישירות בשעון על ידי החזקת כפתור התפריט, בחירת חוגה ולחיצה על התאמה אישית.
 
 *** אם אתה נתקל בבאגים או בעיות, אנא צור איתי קשר על ידי לחיצה על "Contact Developer" במקום להשתמש במערכת הביקורות. אני יכול להגיב למיילים במהירות, בעוד שאני עלול לא לראות ביקורות במשך מספר ימים.***
+* יומן שינויים: https://watchface.io/tactix8amoled/changelog

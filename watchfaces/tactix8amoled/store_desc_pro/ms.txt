@@ -1,0 +1,24 @@
+Watchface yang diilhamkan oleh jam tangan Tactix 8 Amoled
+
+⭐️ Cuba sebelum membeli! ⭐️
+Sebelum membeli watchface ini, cuba dulu versi percuma untuk memastikan ini adalah yang anda inginkan dan bahawa anda suka dengan rupa di jam tangan anda: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ Sumber ⭐️
+* Soalan Lazim: https://watchface.io.faq
+* Semua Tema Pra-dipasang: https://watchface.io/tactix8amoled/themes
+* Versi Percuma: https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* Panduan Warna: https://watchface.io/docs/color-list
+* Datafields Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Aplikasi Garmin IQ (pada telefon anda pergi ke peranti, watchfaces, tetapan): Konfigurasikan datafields, warna, dan tetapan am.
+* Tetapan Pada Jam: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit terus pada jam tangan dengan menahan butang menu, memilih watchface, dan mengetik kustomisasi.
+
+⭐️ Datafields ⭐️
+Semua datafields yang Garmin sediakan kepada pemaju pihak ketiga tersedia, ditambah tambahan seperti sokongan Glucose Monitor (CGM), Open Weather Map (OWM) dan sokongan untuk aplikasi pihak ketiga yang lain.
+Semua datafields tersedia disenaraikan di sini: https://watchface.io/docs/datafields. Beberapa datafields (seperti kesediaan latihan atau HRV) pada masa ini tidak tersedia kepada pemaju pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Hubungi Pemaju" dan bukannya menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan selama beberapa hari. ***
+
+* Changelog: https://watchface.io/tactix8amoled/changelog

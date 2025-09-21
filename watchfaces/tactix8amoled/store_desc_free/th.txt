@@ -5,7 +5,7 @@
 
 ⭐️ ทรัพยากร ⭐️
 * คำถามที่พบบ่อย: https://watchface.io/faq
-* รับ PRO key: https://ko-fi.com/s/b509db80a0
+* รับ PRO key: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * รายการธีม: https://watchface.io/tactix8amoled/themes
 * คู่มือสี: https://watchface.io/docs/color-list
 * ฟิลด์ข้อมูลที่พร้อมใช้งาน: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@
 * การตั้งค่าบนนาฬิกา: เข้าถึงตัวเลือกที่ละเอียดมากขึ้น เช่น รูปแบบเวลา เป้าหมาย และหน่วย โดยตรงบนนาฬิกาโดยกดปุ่มเมนูค้างไว้ เลือกหน้าปัดนาฬิกา และแตะปรับแต่ง
 
 *** หากคุณพบข้อผิดพลาดหรือปัญหาใดๆ โปรดติดต่อฉันโดยกด "Contact Developer" แทนที่จะใช้ระบบรีวิว ฉันสามารถตอบอีเมลได้อย่างรวดเร็ว ในขณะที่ฉันอาจไม่เห็นรีวิวเป็นเวลาหลายวัน***
+* บันทึกการเปลี่ยนแปลง: https://watchface.io/tactix8amoled/changelog

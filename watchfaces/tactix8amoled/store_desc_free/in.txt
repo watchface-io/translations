@@ -5,7 +5,7 @@ Watchface ini tersedia tanpa biaya dengan semua fungsi dasar. Fitur premium (dit
 
 ⭐️ Sumber Daya ⭐️
 * FAQ: https://watchface.io/faq
-* Dapatkan kunci PRO: https://ko-fi.com/s/b509db80a0
+* Dapatkan kunci PRO: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Daftar Tema: https://watchface.io/tactix8amoled/themes
 * Panduan Warna: https://watchface.io/docs/color-list
 * Datafield yang Tersedia: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Catatan: Ada dua tempat berbeda dengan pengaturan:
 * Pengaturan di Jam: Akses opsi yang lebih detail seperti format waktu, tujuan, dan unit langsung di jam dengan menahan tombol menu, memilih watchface, dan ketuk sesuaikan.
 
 *** Jika Anda mengalami bug atau masalah, silakan hubungi saya dengan menekan "Contact Developer" alih-alih menggunakan sistem ulasan. Saya dapat merespons email dengan cepat, sedangkan saya mungkin tidak melihat ulasan selama beberapa hari.***
+* Catatan perubahan: https://watchface.io/tactix8amoled/changelog

@@ -5,7 +5,7 @@ Tento ciferník je dostupný zdarma se všemi základními funkcemi. Prémiové 
 
 ⭐️ Zdroje ⭐️
 * FAQ: https://watchface.io/faq
-* Získejte PRO klíč: https://ko-fi.com/s/b509db80a0
+* Získejte PRO klíč: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Seznam motivů: https://watchface.io/tactix8amoled/themes
 * Průvodce barvami: https://watchface.io/docs/color-list
 * Dostupná datová pole: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Poznámka: Existují dvě různá místa s nastaveními:
 * Nastavení na hodinkách: Přístup k podrobnějším možnostem jako formát času, cíle a jednotky přímo na hodinkách podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobit.
 
 *** Pokud narazíte na chyby nebo problémy, kontaktujte mě prosím stisknutím "Contact Developer" namísto používání systému recenzí. Mohu rychle odpovědět na e-maily, zatímco recenze nemusím vidět několik dní.***
+* Záznam změn: https://watchface.io/tactix8amoled/changelog

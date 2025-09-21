@@ -5,7 +5,7 @@ Dieses Zifferblatt ist kostenlos mit allen Grundfunktionen verfügbar. Premium-F
 
 ⭐️ Ressourcen ⭐️
 * FAQ: https://watchface.io/faq
-* PRO-Schlüssel erhalten: https://ko-fi.com/s/b509db80a0
+* PRO-Schlüssel erhalten: https://ko-fi.com/s/b509db80a0 | https://watchface.io/tactix8amoled
 * Themenliste: https://watchface.io/tactix8amoled/themes
 * Farbführer: https://watchface.io/docs/color-list
 * Verfügbare Datenfelder: https://watchface.io/docs/datafields
@@ -16,3 +16,4 @@ Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
 * Einstellungen auf der Uhr: Zugriff auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr durch Halten der Menütaste, Auswahl des Zifferblatts und Tippen auf Anpassen.
 
 *** Wenn Sie Fehler oder Probleme feststellen, kontaktieren Sie mich bitte über "Contact Developer" anstatt das Bewertungssystem zu verwenden. Ich kann E-Mails schnell beantworten, während ich Bewertungen möglicherweise tagelang nicht sehe. ***
+* Änderungsprotokoll: https://watchface.io/tactix8amoled/changelog

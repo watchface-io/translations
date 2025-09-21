@@ -1,0 +1,24 @@
+Tactix 8 Amoledウォッチからインスピレーションを受けたウォッチフェイス
+
+⭐️ 購入前にお試しください！ ⭐️
+このウォッチフェイスを購入する前に、まず無料版をお試しいただき、これが欲しいものであり、お使いのウォッチでの見た目を気に入っていただけるかご確認ください：https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+
+⭐️ リソース ⭐️
+* FAQ：https://watchface.io.faq
+* すべてのプリインストールテーマ：https://watchface.io/tactix8amoled/themes
+* 無料版：https://apps.garmin.com/apps/91124c39-f503-4fab-b10b-679fd029693c
+* カラーガイド：https://watchface.io/docs/color-list
+* 利用可能なデータフィールド：https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：設定には2つの異なる場所があります：
+* Garmin IQアプリ（携帯電話でデバイス、ウォッチフェイス、設定に移動）：データフィールド、色、一般設定を設定します。
+* ウォッチでの設定：メニューボタンを長押しし、ウォッチフェイスを選択してカスタマイズをタップすることで、時刻形式、目標、単位などのより詳細なオプションにウォッチから直接アクセスできます。
+
+⭐️ データフィールド ⭐️
+Garminが現在サードパーティ開発者に提供するすべてのデータフィールドが利用可能で、さらにグルコースモニター（CGM）サポート、Open Weather Map（OWM）、その他のサードパーティアプリのサポートなどの追加機能もあります。
+利用可能なすべてのデータフィールドはこちらに一覧表示されています：https://watchface.io/docs/datafields。一部のデータフィールド（トレーニング準備度やHRVなど）は現在サードパーティ開発者には提供されていません。詳細はこちら：https://watchface.io/faq/can-you-add-training-readiness
+
+*** バグや問題が発生した場合は、レビューシステムを使用するのではなく、「開発者に連絡」を押してお気軽にお問い合わせください。メールには迅速にお答えできますが、レビューは数日間見落とす可能性があります。***
+
+* Changelog：https://watchface.io/tactix8amoled/changelog
