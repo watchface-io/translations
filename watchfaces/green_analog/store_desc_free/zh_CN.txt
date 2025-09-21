@@ -1,30 +1,30 @@
-经典、简约且高度可定制的表盘。拥有超过100个数据点、多种AOD选项和低电池消耗，是时尚佩戴的完美表盘。
+经典、简约且高度可定制的模拟指针表盘。提供100多种数据和丰富的息屏显示选项，耗电量低，是兼具时尚与功能的完美选择。
 
+⭐️免费版vs专业版⭐️
+此表盘免费提供所有基础功能，专业版功能（标注[*]）需要专业版密匙来解锁。您可以在此购买Pro密钥：https://apps.garmin.com/apps/87860c9d-4214-4b7c-9770-f2e0cf4ee78c
 
-⭐️ 免费 vs Pro ⭐️
-此表盘免费提供所有基本功能。高级功能（标有[*]）需要Pro密钥解锁。您可以在此购买Pro密钥：https://apps.garmin.com/apps/87860c9d-4214-4b7c-9770-f2e0cf4ee78c
-
-⭐️ MIPS设备（Fenix 7、Enduro、Forerunner 255等） ⭐️
-此表盘完全针对MIPS优化，但颜色可能看起来与大多数图片不同，因为这些图片是在Amoled设备上拍摄的。您可以在此找到所有内置主题：https://watchface.io/green_analog/themes
+⭐️MIP屏幕兼容性（Fenix 7、Enduro、Forerunner 255等）⭐️
+本表盘已针对MIP屏幕深度优化。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。所有内置模式颜色可在此查看: https://watchface.io/green_analog/themes
 
 ⭐️ 资源 ⭐️
 * 常见问题：https://watchface.io/faq
-* 手册：https://watchface.io/green_analog/manual
-* 获取PRO密钥：https://ko-fi.com/s/0a2e8d1d8b 或 https://watchface.io/green_analog
-* 主题列表：https://watchface.io/green_analog/themes
-* 颜色指南：https://watchface.io/docs/color-list
-* 可用数据字段：https://watchface.io/docs/datafields
+* 使用手册：https://watchface.io/green_analog/manual
+* 获取专业版密钥：https://ko-fi.com/s/0a2e8d1d8b 或 https://watchface.io/green_analog
+* 模式颜色：https://watchface.io/green_analog/themes
+* 配色指南：https://watchface.io/docs/color-list
+* 栏位数据：https://watchface.io/docs/datafields
 
-⭐️ 配置 ⭐️
-注意：有两个不同的设置位置：
-* Garmin IQ应用（在您的手机上转到您的设备、表盘、设置）：配置数据字段、颜色和常规设置。
-* 手表设置：通过长按菜单按钮、选择表盘并按自定义，可直接在手表上访问更详细的选项，如时间格式、目标和单位。
+⭐️设置说明⭐️
+请注意设置入口有两个：
+*佳明Connect IQ手机应用: 配置栏位数据/颜色/常规设置。
+*手表端设置: 长按菜单键 → 选择表盘 → 点击"自定义"：可调整时间格式/运动目标/单位等高级选项。
 
-⭐️ 数据字段 ⭐️
-Garmin目前为第三方开发者提供的所有数据字段都可用，还有额外的功能，如血糖监测器（CGM）支持、Open Weather Map（OWM）和其他第三方应用支持。
-所有可用数据字段在此列出：https://watchface.io/docs/datafields。某些数据字段（如训练准备度或HRV）目前不对第三方开发者开放，请参见：https://watchface.io/faq/can-you-add-training-readiness
+⭐️栏位数据⭐️
+完全覆盖Garmin开放数据，支持官方开放给第三方开发者的所有栏位数据，并支持Open Weather Map(OWM)天气服务和第三方快捷应用(比如血糖监测CGM数据等)。
+可用栏位数据 https://watchface.io/docs/datafields
+已知限制：佳明尚未开放部分高阶数据(如训练准备程度、HRV等)给第三方表盘
+https://watchface.io/faq/can-you-add-training-readiness
 
-
-*** 如果您遇到错误或问题，请点击"联系开发者"与我联系，而不是使用评论系统。我可以快速回复电子邮件，但可能数天不会看到评论。 ***
+***如遇任何问题或者需要应用程序支持，请选择联系开发者来获得快速邮件回复(不要点击“报告问题")。在评论区撰写评论可能很多天后才能看到，造成回复延迟。 ***
 
 * 更新日志：https://watchface.io/green_analog/changelog
