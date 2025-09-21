@@ -67,7 +67,15 @@
             "_hfy": "Time Spacing top (50 = center)",
             "_hfo": "Time left (50 = center)",
             "_aod": "AOD Options (Always on Display)",
-            "_aodT": "AOD Dimming Level. If screen turns off during AOD, make this number higher. Lower number = more battery usage)",
+            
+            "_aodT": "AOD Time Dimming Level",
+            "_aodD": "AOD Data Dimming Level. If screen turns off during AOD, make this number higher. Lower number = more battery usage)",
+            "_aodct": "AOD Time Tint Color",
+            "_aodc": "AOD Data Tint Color",
+            "_kas": "Keep as is",
+            "_f20": "AOD Field",
+            "_l20": "AOD Field Label",
+
             "_aodS": "AOD shift (number of pixels the screen randomly shifts per minute to avoid burn-in)",
             "_gradientq": "Gradient Quality (higher quality = more battery usage)",
             "_t_guf": "📖 GOALS/UNITS/FORMATS"

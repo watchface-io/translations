@@ -1,0 +1,18 @@
+Tarcza inspirowana zegarkiem Tactix 8 Amoled
+
+⭐️ Darmowa vs Pro ⭐️
+Ta tarcza jest dostępna bezpłatnie ze wszystkimi podstawowymi funkcjami. Funkcje premium (oznaczone [*]) wymagają klucza Pro do odblokowania. Możesz kupić klucz Pro tutaj: https://ko-fi.com/s/b509db80a0 Lub kup wersję PRO tutaj: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Uzyskaj klucz PRO: https://ko-fi.com/s/b509db80a0
+* Lista motywów: https://watchface.io/tactix8amoled/themes
+* Przewodnik kolorów: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Istnieją dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie): Konfiguruj pola danych, kolory i ustawienia ogólne.
+* Ustawienia na zegarku: Dostęp do bardziej szczegółowych opcji jak format czasu, cele i jednostki bezpośrednio na zegarku poprzez przytrzymanie przycisku menu, wybór tarczy i dotknięcie dostosuj.
+
+*** Jeśli napotkasz błędy lub problemy, skontaktuj się ze mną naciskając "Contact Developer" zamiast używać systemu recenzji. Mogę szybko odpowiadać na e-maile, podczas gdy recenzji mogę nie widzieć przez kilka dni.***

@@ -1,0 +1,18 @@
+Datovo bohaté ciferník s 12 místy pro všechna vaše data, zobrazený jednoduchým způsobem. Plně přizpůsobitelný s grafy, ukazateli průběhu, 3 fonty atd.
+
+⭐️ Zdarma vs Pro ⭐️
+Tento ciferník je dostupný zdarma se všemi základními funkcemi. Prémiové funkce (označené [*]) vyžadují Pro klíč pro odemknutí. Pro klíč si můžete koupit zde: https://ko-fi.com/s/b509db80a0 Nebo koupit PRO verzi zde: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Získejte PRO klíč: https://ko-fi.com/s/b509db80a0
+* Seznam motivů: https://watchface.io/tactix8amoled/themes
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dvě různá místa s nastaveními:
+* Aplikace Garmin IQ (na vašem telefonu): Nakonfigurujte datová pole, barvy a obecná nastavení.
+* Nastavení na hodinkách: Přístup k podrobnějším možnostem jako formát času, cíle a jednotky přímo na hodinkách podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobit.
+
+*** Pokud narazíte na chyby nebo problémy, kontaktujte mě prosím stisknutím "Contact Developer" namísto používání systému recenzí. Mohu rychle odpovědět na e-maily, zatímco recenze nemusím vidět několik dní.***

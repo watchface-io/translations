@@ -1,0 +1,18 @@
+Watchface inspirert av Tactix 8 Amoled-klokken
+
+⭐️ Gratis vs Pro ⭐️
+Denne urskiven er tilgjengelig uten kostnad med alle grunnleggende funksjoner. Premium funksjoner (merket med [*]) krever en Pro nøkkel for å låse opp. Du kan kjøpe en Pro nøkkel her: https://ko-fi.com/s/b509db80a0 Eller kjøp PRO versjonen her: https://apps.garmin.com/apps/e74a01b9-31e3-4798-871d-34eeeddc050d
+
+⭐️ Ressurser ⭐️
+* FAQ: https://watchface.io/faq
+* Få en PRO nøkkel: https://ko-fi.com/s/b509db80a0
+* Temaliste: https://watchface.io/tactix8amoled/themes
+* Fargeguide: https://watchface.io/docs/color-list
+* Tilgjengelige datafelt: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ app (på telefonen din): Konfigurer datafelt, farger og generelle innstillinger.
+* Innstillinger på klokka: Få tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde menyknappen, velge urskive og trykke tilpass.
+
+*** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke "Contact Developer" i stedet for å bruke anmeldelsessystemet. Jeg kan svare på e-poster raskt, mens jeg kanskje ikke ser anmeldelser på flere dager.***
