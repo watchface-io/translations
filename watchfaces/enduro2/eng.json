@@ -1,7 +1,7 @@
 {
     "settings" : {
          "_aas": "Always on seconds",
-        "_amc": "Center Right Bottom Color / Center Right label Color (bottom)",
+        "_amc": "Center Right Label Color (bottom)",
         "_aod": "AOD Options (Always on Display)",
         "_aodS": "AOD shift (number of pixels the screen randomly shifts per minute to avoid burn-in)",
         "_aodT": "AOD Dimming Level. If screen turns off during AOD, make this number lower. (Higher number = more battery usage)",
@@ -43,7 +43,7 @@
         "_l7": "8. Bottom 1 Label",
         "_l8": "8. Bottom 2 Label",
         "_l9": "9. Center Right Label (bottom)",
-        "_lc": "Label Color",
+        "_lc": "Icon Color",
         "_lc3": "Progress Bars Icon Color",
         "_m0": "Marker 1 Data",
         "_m1": "Marker 2 Data",
@@ -62,13 +62,13 @@
         "_pbh": "Hide Progress Bar icons",
         "_preset": "Presets (Save/Load your settings)",
         "_rsp": "Center Right Offset (50 = default)",
-        "_scc": "Seconds Color",
+        "_scc": "Center Right Data Color (top, seconds by default)",
 
         "_t_guf": " 📖 GOALS/UNITS/FORMATS ",
 
-        "_tc": "Data Color",
-        "_tf": "Text Font",
-        "_tfs": "Text Font size",
+        "_tc": "Data and Text Label Color",
+        "_tf": "Data and Text Label Font",
+        "_tfs": "Data and Text Label Font size",
         "_theme": "Theme",
         "_timeF": "Time Format (time)",
         "_tlfs": "Center Right Font Size (Seconds by default)",
@@ -76,6 +76,6 @@
         "_touch": "[*] Enable Touch (PRO, touch = hold 3 seconds)",
         "_touch1": "[*] Hour Touch Shortcut",
         "_touch2": "[*] Minute Touch Shortcut",
-        "_ttfs": "Top/Bottom Text Font"
+        "_ttfs": "Top/Bottom Text Font Size"
     }
 }
