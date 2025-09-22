@@ -62,7 +62,7 @@
         "_pbh": "Hide Progress Bar icons",
         "_preset": "Presets (Save/Load your settings)",
         "_rsp": "Center Right Offset (50 = default)",
-        "_scc": "Center Right Data Color (default is seconds)",
+        "_scc": "Center Right Data Color (top, seconds by default)",
 
         "_t_guf": " 📖 GOALS/UNITS/FORMATS ",
 
