@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Išankstiniai nustatymai (Išsaugoti/Krauti jūsų nustatymus)",
         "_p1": "Viršutinė progreso juosta",
@@ -85,6 +84,32 @@
         "_fz5": "Mažo rato duomenų dydis",
         "_fz7l": "Apatinio rato etiketės šrifto dydis",
         "_fz7": "Apatinio rato duomenų dydis",
-        "_wfs": "Savaitės dienų šrifto dydis"
+        "_wfs": "Savaitės dienų šrifto dydis",
+        "_ow": "Savaitės dienų teksto poslinkis (20 = centras)",
+        "_touch": "[*] Įgalinti prisilietimą (tik PRO, palietimas = laikykite 3 sekundes)",
+        "_touch0": "Prisilietimo spartusis centras",
+        "_touch1": "12 val. prisilietimo spartusis",
+        "_touch2": "3 val. prisilietimo spartusis",
+        "_touch3": "6 val. prisilietimo spartusis",
+        "_touch4": "9 val. prisilietimo spartusis",
+        "_aod": "AOD parinktys (Always on Display)",
+        "_aodH": "AOD rodyklių patamsinimo lygis",
+        "_aodT": "AOD duomenų patamsinimo lygis. Jei ekranas išsijungia AOD režimu, padidinkite šį skaičių. Mažesnis = didesnis baterijos sunaudojimas)",
+        "_aodS": "AOD poslinkis (pikselių skaičius, kiek ekranas atsitiktinai pasislenka per minutę, kad išvengtų įdegimo)",
+        "_a0": "Išjungti ekraną",
+        "_a1": "Pilnas AOD",
+        "_a2": "Tik laikas",
+        "_a3": "Laikas + viršutinė centrinė eilutė (būsenos piktogramos)",
+        "_a4": "Laikas + dideli skaičiai + būsena",
+        "_a5": "Laikas + dideli/maži skaičiai + būsena",
+        "_h0": "Pašalinti",
+        "_h1": "Nustatyti 12",
+        "_h2": "Visada įjungta",
+        "_h4": "Palikti kaip yra (duomenys atnaujinami kas minutę AOD režime)",
+        "_h5": "Plokščias progresas",
+        "_h6": "Mėnulio fazė",
+        "_h7": "Paprastas ratas",
+        "_h8": "60 segmentų progresas",
+        "_h9": "Be rodyklių"
     }
 }

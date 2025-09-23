@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Teema",
         "_preset": "Esiasetukset (Tallenna/Lataa asetuksesi)",
         "_p1": "Ylin etenemispalkki",
@@ -85,6 +84,32 @@
         "_fz5": "Pienen ympyrän tietojen koko",
         "_fz7l": "Alaosan ympyrän tunnisteen fonttikoko",
         "_fz7": "Alaosan ympyrän tietojen koko",
-        "_wfs": "Viikonpäivien fonttikoko"
+        "_wfs": "Viikonpäivien fonttikoko",
+        "_ow": "Viikkopäivän tekstin siirto (20 = keski)",
+        "_touch": "[*] Ota kosketus käyttöön (Vain PRO, kosketa = pidä 3 s)",
+        "_touch0": "Kosketa-pikanäppäin keskelle",
+        "_touch1": "Kosketa-pikanäppäin 12h",
+        "_touch2": "Kosketa-pikanäppäin 3h",
+        "_touch3": "Kosketa-pikanäppäin 6h",
+        "_touch4": "Kosketa-pikanäppäin 9h",
+        "_aod": "AOD-valinnat (Always on Display)",
+        "_aodH": "AOD viisareiden himmennystaso",
+        "_aodT": "AOD datan himmennystaso. Jos näyttö sammuu AOD:n aikana, nosta tätä arvoa. Pienempi arvo = enemmän virrankulutusta)",
+        "_aodS": "AOD siirtymä (pikselien määrä, jolla näyttö siirtyy satunnaisesti minuutissa polttuman välttämiseksi)",
+        "_a0": "Sammuta näyttö",
+        "_a1": "Täysi AOD",
+        "_a2": "Vain aika",
+        "_a3": "Aika + ylin keskimmäinen rivi (tilakuvakkeet)",
+        "_a4": "Aika + isot numerot + tila",
+        "_a5": "Aika + isot/pienet numerot + tila",
+        "_h0": "Poista",
+        "_h1": "Aseta 12",
+        "_h2": "Aina päällä",
+        "_h4": "Pidä kuten on (data päivittyy kerran minuutissa AOD-tilassa)",
+        "_h5": "Tasainen eteneminen",
+        "_h6": "Kuun vaihe",
+        "_h7": "Yksinkertainen ympyrä",
+        "_h8": "60-segmenttinen eteneminen",
+        "_h9": "Ei viittoja"
     }
 }

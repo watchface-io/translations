@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Preset (Salva/Carica le tue impostazioni)",
         "_p1": "Barra di progresso superiore",
@@ -85,6 +84,32 @@
         "_fz5": "Dimensione dati cerchio piccolo",
         "_fz7l": "Dimensione carattere etichetta cerchio inferiore",
         "_fz7": "Dimensione dati cerchio inferiore",
-        "_wfs": "Dimensione carattere giorni della settimana"
+        "_wfs": "Dimensione carattere giorni della settimana",
+        "_ow": "Offset testo giorni (20 = centro)",
+        "_touch": "[*] Abilita tocco (solo PRO, tocca = tieni premuto 3 secondi)",
+        "_touch0": "Scorciatoia tocco centro",
+        "_touch1": "Scorciatoia tocco 12h",
+        "_touch2": "Scorciatoia tocco 3h",
+        "_touch3": "Scorciatoia tocco 6h",
+        "_touch4": "Scorciatoia tocco 9h",
+        "_aod": "Opzioni AOD (Always on Display)",
+        "_aodH": "Livello oscuramento lancette in AOD",
+        "_aodT": "Livello oscuramento dati in AOD. Se lo schermo si spegne durante AOD, aumenta questo numero. Numero più basso = più consumo della batteria)",
+        "_aodS": "Spostamento AOD (numero di pixel con cui lo schermo si sposta casualmente al minuto per evitare burn-in)",
+        "_a0": "Spegni schermo",
+        "_a1": "AOD completa",
+        "_a2": "Solo ora",
+        "_a3": "Ora + riga superiore centrale (icone stato)",
+        "_a4": "Ora + numeri grandi + stato",
+        "_a5": "Ora + numeri grandi/piccoli + stato",
+        "_h0": "Rimuovi",
+        "_h1": "Imposta alle 12",
+        "_h2": "Sempre acceso",
+        "_h4": "Mantieni così (i dati si aggiornano una volta al minuto in AOD)",
+        "_h5": "Progresso piatto",
+        "_h6": "Fase lunare",
+        "_h7": "Cerchio semplice",
+        "_h8": "Progresso 60 segmenti",
+        "_h9": "Nessuna lancetta"
     }
 }

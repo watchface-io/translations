@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tēma",
         "_preset": "Iestatījumi (Saglabāt/Ielādēt jūsu iestatījumus)",
         "_p1": "Augšējā progresa josla",
@@ -85,6 +84,32 @@
         "_fz5": "Mazā apļa datu fonta izmērs",
         "_fz7l": "Apakšējā apļa etiķetes fonta izmērs",
         "_fz7": "Apakšējā apļa datu fonta izmērs",
-        "_wfs": "Nedēļas dienu fonta izmērs"
+        "_wfs": "Nedēļas dienu fonta izmērs",
+        "_ow": "Nedēļas dienu teksta nobīde (20 = centrs)",
+        "_touch": "[*] Iespējot pieskārienu (tikai PRO, pieskāriens = turēt 3 sekundes)",
+        "_touch0": "Pieskāriena īsinājumtaustiņš centrs",
+        "_touch1": "Pieskāriena īsinājumtaustiņš 12h",
+        "_touch2": "Pieskāriena īsinājumtaustiņš 3h",
+        "_touch3": "Pieskāriena īsinājumtaustiņš 6h",
+        "_touch4": "Pieskāriena īsinājumtaustiņš 9h",
+        "_aod": "AOD opcijas (Always on Display)",
+        "_aodH": "AOD rādītāju aptumšošanas līmenis",
+        "_aodT": "AOD datu aptumšošanas līmenis. Ja ekrāns izslēdzas AOD laikā, palieliniet šo skaitli. Mazāks skaitlis = lielāks akumulatora patēriņš)",
+        "_aodS": "AOD nobīde (pikseļu skaits, cik ekrāns nejauši pārvietojas minūtē, lai izvairītos no izdegšanas)",
+        "_a0": "Izslēgt ekrānu",
+        "_a1": "Pilns AOD",
+        "_a2": "Tikai laiks",
+        "_a3": "Laiks + augšējā centrālā rinda (stāvokļa ikonas)",
+        "_a4": "Laiks + lieli cipari + stāvoklis",
+        "_a5": "Laiks + lieli/mazi cipari + stāvoklis",
+        "_h0": "Noņemt",
+        "_h1": "Iestatīt uz 12",
+        "_h2": "Vienmēr ieslēgts",
+        "_h4": "Atstāt kā ir (dati tiek atjaunināti reizi minūtē AOD režīmā)",
+        "_h5": "Plakana progresija",
+        "_h6": "Mēness fāze",
+        "_h7": "Vienkāršs aplis",
+        "_h8": "60 segmentu progress",
+        "_h9": "Bez rādītājiem"
     }
 }

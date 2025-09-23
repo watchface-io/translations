@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Forudindstillinger (Gem/Indlæs dine indstillinger)",
         "_p1": "Top fremskridtslinje",
@@ -85,6 +84,32 @@
         "_fz5": "Lille cirkel data størrelse",
         "_fz7l": "Bund cirkel mærkat skrifttype størrelse",
         "_fz7": "Bund cirkel data størrelse",
-        "_wfs": "Ugedage skrifttype størrelse"
+        "_wfs": "Ugedage skrifttype størrelse",
+        "_ow": "Ugedagstekst forskydning (20 = center)",
+        "_touch": "[*] Aktiver berøring (kun PRO, berør = hold i 3 sekunder)",
+        "_touch0": "Berøringsgenvej centrum",
+        "_touch1": "Berøringsgenvej 12t",
+        "_touch2": "Berøringsgenvej 3t",
+        "_touch3": "Berøringsgenvej 6t",
+        "_touch4": "Berøringsgenvej 9t",
+        "_aod": "AOD-indstillinger (Always on Display)",
+        "_aodH": "AOD visere dæmpningsniveau",
+        "_aodT": "AOD data dæmpningsniveau. Hvis skærmen slukker under AOD, gør dette nummer større. Lavere = mere batteriforbrug)",
+        "_aodS": "AOD forskydning (antal pixels skærmen tilfældigt flytter pr. minut for at undgå indbrænding)",
+        "_a0": "Sluk skærm",
+        "_a1": "Fuld AOD",
+        "_a2": "Kun tid",
+        "_a3": "Tid + øverste center række (statusikoner)",
+        "_a4": "Tid + store tal + status",
+        "_a5": "Tid + store/små tal + status",
+        "_h0": "Fjern",
+        "_h1": "Sæt kl. 12",
+        "_h2": "Altid tændt",
+        "_h4": "Behold som er (data opdateres en gang i minuttet i AOD)",
+        "_h5": "Flad fremgang",
+        "_h6": "Månefase",
+        "_h7": "Simpel cirkel",
+        "_h8": "60-segment fremgang",
+        "_h9": "Ingen viser"
     }
 }

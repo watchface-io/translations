@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Temă",
         "_preset": "Presetări (Salvează/Încarcă setările)",
         "_p1": "Bară de progres superioară",
@@ -85,6 +84,32 @@
         "_fz5": "Dimensiune date cerc mic",
         "_fz7l": "Dimensiune font etichetă cerc inferior",
         "_fz7": "Dimensiune date cerc inferior",
-        "_wfs": "Dimensiune font zile săptămână"
+        "_wfs": "Dimensiune font zile săptămână",
+        "_ow": "Decalaj text zile săptămână (20 = centru)",
+        "_touch": "[*] Activează atingerea (doar PRO, atingere = menține 3 secunde)",
+        "_touch0": "Scurtătură atingere centru",
+        "_touch1": "Scurtătură atingere 12h",
+        "_touch2": "Scurtătură atingere 3h",
+        "_touch3": "Scurtătură atingere 6h",
+        "_touch4": "Scurtătură atingere 9h",
+        "_aod": "Opțiuni AOD (Always on Display)",
+        "_aodH": "Nivel de estompare a acelor în AOD",
+        "_aodT": "Nivel de estompare a datelor în AOD. Dacă ecranul se stinge în timpul AOD, mărește acest număr. Număr mai mic = consum baterie mai mare)",
+        "_aodS": "Deplasare AOD (număr de pixeli cu care ecranul se mută aleator pe minut pentru a evita burn-in)",
+        "_a0": "Oprește ecranul",
+        "_a1": "AOD complet",
+        "_a2": "Doar timp",
+        "_a3": "Timp + rând sus centru (icoane stare)",
+        "_a4": "Timp + cifre mari + stare",
+        "_a5": "Timp + cifre mari/mici + stare",
+        "_h0": "Elimină",
+        "_h1": "Setează la 12",
+        "_h2": "Întotdeauna activ",
+        "_h4": "Păstrează ca este (datele se actualizează o dată pe minut în AOD)",
+        "_h5": "Progres plat",
+        "_h6": "Faza lunii",
+        "_h7": "Cerc simplu",
+        "_h8": "Progres 60 segmente",
+        "_h9": "Fără ace"
     }
 }

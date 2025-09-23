@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Téma",
         "_preset": "Předvolby (Uložit/Nahrát vaše nastavení)",
         "_p1": "Horní ukazatel průběhu",
@@ -85,6 +84,32 @@
         "_fz5": "Velikost dat malé kruhovой ikony",
         "_fz7l": "Velikost písma popisku spodního kruhu",
         "_fz7": "Velikost dat spodního kruhu",
-        "_wfs": "Velikost písma dnů v týdnu"
+        "_wfs": "Velikost písma dnů v týdnu",
+        "_ow": "Posun textu dní (20 = střed)",
+        "_touch": "[*] Povolit dotyk (pouze PRO, dotyk = držet 3 sekundy)",
+        "_touch0": "Dotyková zkratka střed",
+        "_touch1": "Dotyková zkratka 12h",
+        "_touch2": "Dotyková zkratka 3h",
+        "_touch3": "Dotyková zkratka 6h",
+        "_touch4": "Dotyková zkratka 9h",
+        "_aod": "Možnosti AOD (Always on Display)",
+        "_aodH": "Úroveň stmívání ručiček v AOD",
+        "_aodT": "Úroveň stmívání dat v AOD. Pokud se obrazovka během AOD vypne, zvyšte toto číslo. Nižší = větší spotřeba baterie)",
+        "_aodS": "Posun AOD (počet pixelů, o které se obrazovka náhodně posouvá za minutu, aby se zabránilo vypálení)",
+        "_a0": "Vypnout obrazovku",
+        "_a1": "Plné AOD",
+        "_a2": "Pouze čas",
+        "_a3": "Čas + horní střední řádek (ikonky stavu)",
+        "_a4": "Čas + velká čísla + stav",
+        "_a5": "Čas + velká/malá čísla + stav",
+        "_h0": "Odstranit",
+        "_h1": "Nastavit na 12",
+        "_h2": "Stále zapnuto",
+        "_h4": "Nechat jak je (data se v AOD aktualizují jednou za minutu)",
+        "_h5": "Plochý průběh",
+        "_h6": "Fáze měsíce",
+        "_h7": "Jednoduchý kruh",
+        "_h8": "60 segmentů průběhu",
+        "_h9": "Bez ručiček"
     }
 }

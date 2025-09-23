@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Thema",
         "_preset": "Preset's (Sla/Laad je instellingen)",
         "_p1": "Bovenste voortgangsbalk",
@@ -85,6 +84,32 @@
         "_fz5": "Kleine cirkel gegevens grootte",
         "_fz7l": "Onderste cirkel label lettergrootte",
         "_fz7": "Onderste cirkel gegevens grootte",
-        "_wfs": "Weekdagen lettergrootte"
+        "_wfs": "Weekdagen lettergrootte",
+        "_ow": "Weekdag tekstverschuiving (20 = midden)",
+        "_touch": "[*] Scherm aanraking inschakelen (alleen PRO, aanraken = 3 seconden vasthouden)",
+        "_touch0": "Aanraak-snelkoppeling midden",
+        "_touch1": "Aanraak-snelkoppeling 12u",
+        "_touch2": "Aanraak-snelkoppeling 3u",
+        "_touch3": "Aanraak-snelkoppeling 6u",
+        "_touch4": "Aanraak-snelkoppeling 9u",
+        "_aod": "AOD-opties (Always on Display)",
+        "_aodH": "AOD wijzer dimniveau",
+        "_aodT": "AOD data dimniveau. Als het scherm uitgaat tijdens AOD, verhoog dit nummer. Lager = meer batterijverbruik)",
+        "_aodS": "AOD verschuiving (aantal pixels dat het scherm willekeurig per minuut verschuift om inbranding te voorkomen)",
+        "_a0": "Scherm uitschakelen",
+        "_a1": "Volledige AOD",
+        "_a2": "Alleen tijd",
+        "_a3": "Tijd + bovenste middelste rij (statuspictogrammen)",
+        "_a4": "Tijd + grote cijfers + status",
+        "_a5": "Tijd + grote/kleine cijfers + status",
+        "_h0": "Verwijderen",
+        "_h1": "Op 12 zetten",
+        "_h2": "Altijd aan",
+        "_h4": "Laten zoals het is (gegevens worden eenmaal per minuut bijgewerkt in AOD)",
+        "_h5": "Vlakke voortgang",
+        "_h6": "Maanstand",
+        "_h7": "Eenvoudige cirkel",
+        "_h8": "60-segment voortgang",
+        "_h9": "Geen wijzers"
     }
 }

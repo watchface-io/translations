@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Predlošci (Spremi/Učitaj postavke)",
         "_p1": "Gornja traka napretka",
@@ -85,6 +84,32 @@
         "_fz5": "Veličina podataka malog kruga",
         "_fz7l": "Veličina fonta oznake donjeg kruga",
         "_fz7": "Veličina podataka donjeg kruga",
-        "_wfs": "Veličina fonta dana u tjednu"
+        "_wfs": "Veličina fonta dana u tjednu",
+        "_ow": "Pomak teksta dana u tjednu (20 = centar)",
+        "_touch": "[*] Omogući dodir (samo PRO, dodir = drži 3 sekunde)",
+        "_touch0": "Prečac dodira centar",
+        "_touch1": "Prečac dodira 12h",
+        "_touch2": "Prečac dodira 3h",
+        "_touch3": "Prečac dodira 6h",
+        "_touch4": "Prečac dodira 9h",
+        "_aod": "AOD opcije (Always on Display)",
+        "_aodH": "Razina zatamnjenja kazaljki u AOD",
+        "_aodT": "Razina zatamnjenja podataka u AOD. Ako se zaslon isključi tijekom AOD, povećajte ovaj broj. Manji broj = veća potrošnja baterije)",
+        "_aodS": "AOD pomak (broj piksela koje se zaslon slučajno pomiče po minuti kako bi se izbjeglo izgaranje)",
+        "_a0": "Isključi zaslon",
+        "_a1": "Puni AOD",
+        "_a2": "Samo vrijeme",
+        "_a3": "Vrijeme + gornji središnji red (ikone stanja)",
+        "_a4": "Vrijeme + veliki brojevi + stanje",
+        "_a5": "Vrijeme + veliki/mali brojevi + stanje",
+        "_h0": "Ukloni",
+        "_h1": "Postavi na 12",
+        "_h2": "Uvijek uključen",
+        "_h4": "Ostavi kako jest (podaci se ažuriraju jednom u minuti u AOD)",
+        "_h5": "Ravni napredak",
+        "_h6": "Mjesec faza",
+        "_h7": "Obični krug",
+        "_h8": "60-segmentni napredak",
+        "_h9": "Bez kazaljki"
     }
 }

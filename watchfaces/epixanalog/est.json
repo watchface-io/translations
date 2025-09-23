@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Teema",
         "_preset": "Eelseaded (Salvesta/Laadi oma seaded)",
         "_p1": "Ülemine edenemisriba",
@@ -85,6 +84,32 @@
         "_fz5": "Väikese ringi andmete suurus",
         "_fz7l": "Alumise ringi sildi fondi suurus",
         "_fz7": "Alumise ringi andmete suurus",
-        "_wfs": "Nädalapäevade fondi suurus"
+        "_wfs": "Nädalapäevade fondi suurus",
+        "_ow": "Nädalapäevade teksti nihke (20 = keskel)",
+        "_touch": "[*] Luba puute (ainult PRO, puudutus = hoia 3 sekundit)",
+        "_touch0": "Puute otsetee keskele",
+        "_touch1": "Puute otsetee 12h",
+        "_touch2": "Puute otsetee 3h",
+        "_touch3": "Puute otsetee 6h",
+        "_touch4": "Puute otsetee 9h",
+        "_aod": "AOD valikud (Always on Display)",
+        "_aodH": "AOD osutite tuhmumise tase",
+        "_aodT": "AOD andmete tuhmumise tase. Kui ekraan läheb AOD ajal kinni, suurenda seda numbrit. Madalam = suurem aku kulu)",
+        "_aodS": "AOD nihutus (pikslite arv, mille võrra ekraan liigub juhuslikult minutis, et vältida sissepõlemist)",
+        "_a0": "Lülita ekraan välja",
+        "_a1": "Täielik AOD",
+        "_a2": "Ainult kellaaeg",
+        "_a3": "Kellaaeg + ülemine keskmine rida (olekusümbolid)",
+        "_a4": "Kellaaeg + suured numbrid + olek",
+        "_a5": "Kellaaeg + suured/väikesed numbrid + olek",
+        "_h0": "Eemalda",
+        "_h1": "Sea 12-le",
+        "_h2": "Alati sees",
+        "_h4": "Hoia nagu on (andmed uuenevad AOD-is kord minutis)",
+        "_h5": "Lame progress",
+        "_h6": "Kuu faas",
+        "_h7": "Lihtne ring",
+        "_h8": "60-segmendiline progress",
+        "_h9": "Ilma nooleta"
     }
 }

@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Önayarlar (Ayarlarınızı Kaydet/Yükle)",
         "_p1": "Üst İlerleme Çubuğu",
@@ -85,6 +84,32 @@
         "_fz5": "Küçük Daire Veri Boyutu",
         "_fz7l": "Alt Daire Etiket Yazı Tipi Boyutu",
         "_fz7": "Alt Daire Veri Boyutu",
-        "_wfs": "Haftanın Günleri Yazı Tipi Boyutu"
+        "_wfs": "Haftanın Günleri Yazı Tipi Boyutu",
+        "_ow": "Haftanın günleri metin ofseti (20 = merkez)",
+        "_touch": "[*] Dokunmayı Etkinleştir (yalnızca PRO, dokun = 3 saniye basılı tut)",
+        "_touch0": "Merkez Dokunma Kısayolu",
+        "_touch1": "12h Dokunma Kısayolu",
+        "_touch2": "3h Dokunma Kısayolu",
+        "_touch3": "6h Dokunma Kısayolu",
+        "_touch4": "9h Dokunma Kısayolu",
+        "_aod": "AOD Seçenekleri (Always on Display)",
+        "_aodH": "AOD Saat ibresi karartma seviyesi",
+        "_aodT": "AOD Veri karartma seviyesi. Ekran AOD sırasında kapanıyorsa bu sayıyı artırın. Daha düşük sayı = daha fazla pil kullanımı)",
+        "_aodS": "AOD kaydırma (yakma önlemek için ekranın dakika başına rastgele kaydırdığı piksel sayısı)",
+        "_a0": "Ekranı Kapat",
+        "_a1": "Tam AOD",
+        "_a2": "Sadece Saat",
+        "_a3": "Saat + Üst Orta Satır (durum ikonları)",
+        "_a4": "Saat + Büyük numaralar + durum",
+        "_a5": "Saat + Büyük/Küçük numaralar + durum",
+        "_h0": "Kaldır",
+        "_h1": "12 ye ayarla",
+        "_h2": "Her zaman açık",
+        "_h4": "Aynen bırak (veriler AOD modunda dakikada bir güncellenir)",
+        "_h5": "Düz İlerleme",
+        "_h6": "Ay Fazı",
+        "_h7": "Düz Daire",
+        "_h8": "60 Segment İlerleme",
+        "_h9": "İbre Yok"
     }
 }
