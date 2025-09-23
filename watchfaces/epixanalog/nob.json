@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Forhåndsinnstillinger (Lagre/Last inn innstillingene dine)",
         "_p1": "Topp fremdriftslinje",
@@ -85,6 +84,32 @@
         "_fz5": "Liten sirkel data størrelse",
         "_fz7l": "Nederste sirkel etikett fontstørrelse",
         "_fz7": "Nederste sirkel data størrelse",
-        "_wfs": "Ukedager fontstørrelse"
+        "_wfs": "Ukedager fontstørrelse",
+        "_ow": "Ukestekst forskyvning (20 = senter)",
+        "_touch": "[*] Aktiver berøring (kun PRO, berør = hold i 3 sekunder)",
+        "_touch0": "Berøringssnarvei midt",
+        "_touch1": "Berøringssnarvei 12t",
+        "_touch2": "Berøringssnarvei 3t",
+        "_touch3": "Berøringssnarvei 6t",
+        "_touch4": "Berøringssnarvei 9t",
+        "_aod": "AOD-alternativer (Always on Display)",
+        "_aodH": "AOD visere dimmenivå",
+        "_aodT": "AOD data dimmenivå. Hvis skjermen slår seg av under AOD, øk dette tallet. Lavere = mer batteribruk)",
+        "_aodS": "AOD forskyvning (antall piksler skjermen flytter tilfeldig per minutt for å unngå innbrenning)",
+        "_a0": "Slå av skjermen",
+        "_a1": "Full AOD",
+        "_a2": "Kun tid",
+        "_a3": "Tid + øvre midtre rad (statusikoner)",
+        "_a4": "Tid + store tall + status",
+        "_a5": "Tid + store/små tall + status",
+        "_h0": "Fjern",
+        "_h1": "Sett på 12",
+        "_h2": "Alltid på",
+        "_h4": "La være (data oppdateres en gang i minuttet i AOD)",
+        "_h5": "Flat fremgang",
+        "_h6": "Månefase",
+        "_h7": "Enkel sirkel",
+        "_h8": "60-segment fremgang",
+        "_h9": "Ingen visere"
     }
 }

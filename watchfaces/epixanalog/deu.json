@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Thema",
         "_preset": "Voreinstellungen (Speichere/Lade deine Einstellungen)",
         "_p1": "Oberer Fortschrittsbalken",
@@ -85,6 +84,32 @@
         "_fz5": "Kleine Kreis Daten Größe",
         "_fz7l": "Untere Kreis Beschriftungsgröße",
         "_fz7": "Untere Kreis Daten Größe",
-        "_wfs": "Wochentage Schriftgröße"
+        "_wfs": "Wochentage Schriftgröße",
+        "_ow": "Wochentags-Text-Versatz (20 = Mitte)",
+        "_touch": "[*] Touch aktivieren (nur PRO, berühren = 3 Sekunden halten)",
+        "_touch0": "Touch-Kurzbefehl Mitte",
+        "_touch1": "Touch-Kurzbefehl 12h",
+        "_touch2": "Touch-Kurzbefehl 3h",
+        "_touch3": "Touch-Kurzbefehl 6h",
+        "_touch4": "Touch-Kurzbefehl 9h",
+        "_aod": "AOD Optionen (Always on Display)",
+        "_aodH": "AOD Zeiger-Dimm-Level",
+        "_aodT": "AOD Daten-Dimm-Level. Wenn der Bildschirm während AOD ausgeht, erhöht diese Zahl. Kleinere Zahl = mehr Batterieverbrauch)",
+        "_aodS": "AOD-Verschiebung (Anzahl Pixel, die der Bildschirm zufällig pro Minute verschiebt, um Burn-in zu vermeiden)",
+        "_a0": "Bildschirm ausschalten",
+        "_a1": "Vollständiges AOD",
+        "_a2": "Nur Zeit",
+        "_a3": "Zeit + obere mittlere Reihe (Statussymbole)",
+        "_a4": "Zeit + große Zahlen + Status",
+        "_a5": "Zeit + große/kleine Zahlen + Status",
+        "_h0": "Entfernen",
+        "_h1": "Auf 12 setzen",
+        "_h2": "Immer an",
+        "_h4": "So belassen (Daten werden im AOD-Modus einmal pro Minute aktualisiert)",
+        "_h5": "Flacher Fortschritt",
+        "_h6": "Mondphase",
+        "_h7": "Einfacher Kreis",
+        "_h8": "60-Segment-Fortschritt",
+        "_h9": "Keine Zeiger"
     }
 }

@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Motyw",
         "_preset": "Presety (Zapisz/Wczytaj ustawienia)",
         "_p1": "Górny pasek postępu",
@@ -85,6 +84,32 @@
         "_fz5": "Rozmiar danych małego koła",
         "_fz7l": "Rozmiar czcionki etykiety dolnego koła",
         "_fz7": "Rozmiar danych dolnego koła",
-        "_wfs": "Rozmiar czcionki dni tygodnia"
+        "_wfs": "Rozmiar czcionki dni tygodnia",
+        "_ow": "Przesunięcie tekstu dni tygodnia (20 = środek)",
+        "_touch": "[*] Włącz dotyk (tylko PRO, dotyk = przytrzymaj 3 sekundy)",
+        "_touch0": "Skrót dotykowy środek",
+        "_touch1": "Skrót dotykowy 12h",
+        "_touch2": "Skrót dotykowy 3h",
+        "_touch3": "Skrót dotykowy 6h",
+        "_touch4": "Skrót dotykowy 9h",
+        "_aod": "Opcje AOD (Always on Display)",
+        "_aodH": "Poziom przyciemnienia wskazówek w AOD",
+        "_aodT": "Poziom przyciemnienia danych w AOD. Jeśli ekran gaśnie w AOD, zwiększ tę wartość. Niższa = większe zużycie baterii)",
+        "_aodS": "Przesunięcie AOD (liczba pikseli, o które ekran losowo przesuwa się co minutę, by uniknąć wypalenia)",
+        "_a0": "Wyłącz ekran",
+        "_a1": "Pełne AOD",
+        "_a2": "Tylko czas",
+        "_a3": "Czas + górny środkowy wiersz (ikony stanu)",
+        "_a4": "Czas + duże cyfry + status",
+        "_a5": "Czas + duże/małe cyfry + status",
+        "_h0": "Usuń",
+        "_h1": "Ustaw na 12",
+        "_h2": "Zawsze włączone",
+        "_h4": "Pozostaw bez zmian (dane aktualizowane co minutę w AOD)",
+        "_h5": "Płaski postęp",
+        "_h6": "Faza księżyca",
+        "_h7": "Prosty okrąg",
+        "_h8": "Postęp 60 segmentów",
+        "_h9": "Brak wskazówek"
     }
 }

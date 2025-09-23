@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Chủ đề",
         "_preset": "Cài đặt trước (Lưu/Tải cài đặt của bạn)",
         "_p1": "Thanh tiến trình trên cùng",
@@ -85,6 +84,32 @@
         "_fz5": "Kích thước chữ dữ liệu vòng nhỏ",
         "_fz7l": "Kích thước chữ nhãn vòng dưới",
         "_fz7": "Kích thước chữ dữ liệu vòng dưới",
-        "_wfs": "Kích thước chữ ngày trong tuần"
+        "_wfs": "Kích thước chữ ngày trong tuần",
+        "_ow": "Dịch chuyển văn bản ngày trong tuần (20 = trung tâm)",
+        "_touch": "[*] Bật chạm (chỉ PRO, chạm = giữ 3 giây)",
+        "_touch0": "Phím tắt chạm giữa",
+        "_touch1": "Phím tắt chạm 12h",
+        "_touch2": "Phím tắt chạm 3h",
+        "_touch3": "Phím tắt chạm 6h",
+        "_touch4": "Phím tắt chạm 9h",
+        "_aod": "Tùy chọn AOD (Always on Display)",
+        "_aodH": "Mức làm mờ kim trong AOD",
+        "_aodT": "Mức làm mờ dữ liệu trong AOD. Nếu màn hình tắt trong AOD, tăng số này. Số thấp hơn = tiêu thụ pin nhiều hơn)",
+        "_aodS": "Dịch AOD (số pixel màn hình dịch ngẫu nhiên mỗi phút để tránh burn-in)",
+        "_a0": "Tắt màn hình",
+        "_a1": "AOD đầy",
+        "_a2": "Chỉ thời gian",
+        "_a3": "Thời gian + hàng trên giữa (biểu tượng trạng thái)",
+        "_a4": "Thời gian + số lớn + trạng thái",
+        "_a5": "Thời gian + số lớn/nhỏ + trạng thái",
+        "_h0": "Loại bỏ",
+        "_h1": "Đặt ở 12",
+        "_h2": "Luôn bật",
+        "_h4": "Giữ nguyên (dữ liệu cập nhật 1 phút/ lần ở AOD)",
+        "_h5": "Tiến trình phẳng",
+        "_h6": "Pha mặt trăng",
+        "_h7": "Vòng đơn giản",
+        "_h8": "Tiến trình 60 đoạn",
+        "_h9": "Không có kim"
     }
 }

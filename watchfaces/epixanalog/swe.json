@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Förinställningar (Spara/Ladda dina inställningar)",
         "_p1": "Övre progressfält",
@@ -85,6 +84,32 @@
         "_fz5": "Liten cirkel data storlek",
         "_fz7l": "Nedersta cirkel märke fontstorlek",
         "_fz7": "Nedersta cirkel data storlek",
-        "_wfs": "Veckodagar fontstorlek"
+        "_wfs": "Veckodagar fontstorlek",
+        "_ow": "Veckodagstextens förskjutning (20 = center)",
+        "_touch": "[*] Aktivera touch (endast PRO, tryck = håll i 3 sekunder)",
+        "_touch0": "Touch-genväg mitt",
+        "_touch1": "Touch-genväg 12h",
+        "_touch2": "Touch-genväg 3h",
+        "_touch3": "Touch-genväg 6h",
+        "_touch4": "Touch-genväg 9h",
+        "_aod": "AOD-alternativ (Always on Display)",
+        "_aodH": "AOD visare dimningsnivå",
+        "_aodT": "AOD data dimningsnivå. Om skärmen stängs av under AOD, öka detta nummer. Lägre = mer batterianvändning)",
+        "_aodS": "AOD-förskjutning (antal pixlar skärmen slumpmässigt flyttar per minut för att undvika inbränning)",
+        "_a0": "Stäng av skärmen",
+        "_a1": "Full AOD",
+        "_a2": "Endast tid",
+        "_a3": "Tid + övre mittenrad (statusikoner)",
+        "_a4": "Tid + stora siffror + status",
+        "_a5": "Tid + stora/små siffror + status",
+        "_h0": "Ta bort",
+        "_h1": "Ställ in på 12",
+        "_h2": "Alltid på",
+        "_h4": "Behåll som det är (data uppdateras en gång per minut i AOD)",
+        "_h5": "Platt framsteg",
+        "_h6": "Månfas",
+        "_h7": "Enkel cirkel",
+        "_h8": "60-segments framsteg",
+        "_h9": "Inga visare"
     }
 }

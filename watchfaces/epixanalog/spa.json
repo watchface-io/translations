@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Preajustes (Guardar/Cargar tus ajustes)",
         "_p1": "Barra de progreso superior",
@@ -85,6 +84,32 @@
         "_fz5": "Tamaño datos círculo pequeño",
         "_fz7l": "Tamaño fuente etiqueta círculo inferior",
         "_fz7": "Tamaño datos círculo inferior",
-        "_wfs": "Tamaño fuente días de la semana"
+        "_wfs": "Tamaño fuente días de la semana",
+        "_ow": "Desplazamiento del texto de los días (20 = centro)",
+        "_touch": "[*] Activar táctil (solo PRO, toque = mantener 3 segundos)",
+        "_touch0": "Atajo táctil centro",
+        "_touch1": "Atajo táctil 12h",
+        "_touch2": "Atajo táctil 3h",
+        "_touch3": "Atajo táctil 6h",
+        "_touch4": "Atajo táctil 9h",
+        "_aod": "Opciones AOD (Always on Display)",
+        "_aodH": "Nivel de atenuación de agujas en AOD",
+        "_aodT": "Nivel de atenuación de datos en AOD. Si la pantalla se apaga durante AOD, aumente este número. Número menor = más consumo de batería)",
+        "_aodS": "Desplazamiento AOD (número de píxeles que la pantalla desplaza aleatoriamente por minuto para evitar quemado)",
+        "_a0": "Apagar pantalla",
+        "_a1": "AOD completo",
+        "_a2": "Solo hora",
+        "_a3": "Hora + fila superior central (iconos de estado)",
+        "_a4": "Hora + números grandes + estado",
+        "_a5": "Hora + números grandes/pequeños + estado",
+        "_h0": "Eliminar",
+        "_h1": "Fijar a las 12",
+        "_h2": "Siempre encendido",
+        "_h4": "Mantener como está (los datos se actualizan una vez por minuto en AOD)",
+        "_h5": "Progreso plano",
+        "_h6": "Fase lunar",
+        "_h7": "Círculo simple",
+        "_h8": "Progreso de 60 segmentos",
+        "_h9": "Sin agujas"
     }
 }

@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Téma",
         "_preset": "Előbeállítások (Mentés/Betöltés a beállításokat)",
         "_p1": "Felső előrehaladási sáv",
@@ -85,6 +84,32 @@
         "_fz5": "Kis kör adat mérete",
         "_fz7l": "Alsó kör címke betűmérete",
         "_fz7": "Alsó kör adat mérete",
-        "_wfs": "Hét napjai betűmérete"
+        "_wfs": "Hét napjai betűmérete",
+        "_ow": "Hétnapok szöveg eltolása (20 = közép)",
+        "_touch": "[*] Érintés engedélyezése (csak PRO, érintés = tartsd 3 mp-ig)",
+        "_touch0": "Középső érintés gyorsgomb",
+        "_touch1": "12h érintés gyorsgomb",
+        "_touch2": "3h érintés gyorsgomb",
+        "_touch3": "6h érintés gyorsgomb",
+        "_touch4": "9h érintés gyorsgomb",
+        "_aod": "AOD beállítások (Always on Display)",
+        "_aodH": "AOD mutatók elsötétítésének szintje",
+        "_aodT": "AOD adatok elsötétítésének szintje. Ha a képernyő kikapcsol AOD alatt, növeld ezt a számot. Alacsonyabb = nagyobb akkuhasználat)",
+        "_aodS": "AOD eltolás (pixel-ek száma, amennyit a képernyő véletlenszerűen elmozdul percenként, hogy elkerülje a beszédégetést)",
+        "_a0": "Képernyő kikapcsolása",
+        "_a1": "Teljes AOD",
+        "_a2": "Csak idő",
+        "_a3": "Idő + felső középső sor (állapot ikonok)",
+        "_a4": "Idő + nagy számok + állapot",
+        "_a5": "Idő + nagy/kis számok + állapot",
+        "_h0": "Eltávolítás",
+        "_h1": "Beállítás 12-re",
+        "_h2": "Mindig bekapcsolva",
+        "_h4": "Hagyd így (az adatok AOD módban percenként frissülnek)",
+        "_h5": "Lapos előrehaladás",
+        "_h6": "Holdfázis",
+        "_h7": "Egyszerű kör",
+        "_h8": "60 szegmenses előrehaladás",
+        "_h9": "Nincs mutató"
     }
 }

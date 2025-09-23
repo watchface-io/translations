@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Predefinições (Salvar/Carregar suas configurações)",
         "_p1": "Barra de progresso superior",
@@ -85,6 +84,32 @@
         "_fz5": "Tamanho dos dados do pequeno círculo",
         "_fz7l": "Tamanho da fonte do rótulo do círculo inferior",
         "_fz7": "Tamanho dos dados do círculo inferior",
-        "_wfs": "Tamanho da fonte dos dias da semana"
+        "_wfs": "Tamanho da fonte dos dias da semana",
+        "_ow": "Deslocamento do texto dos dias (20 = centro)",
+        "_touch": "[*] Ativar toque (apenas PRO, toque = manter 3 segundos)",
+        "_touch0": "Atalho de toque central",
+        "_touch1": "Atalho de toque 12h",
+        "_touch2": "Atalho de toque 3h",
+        "_touch3": "Atalho de toque 6h",
+        "_touch4": "Atalho de toque 9h",
+        "_aod": "Opções AOD (Always on Display)",
+        "_aodH": "Nível de escurecimento dos ponteiros em AOD",
+        "_aodT": "Nível de escurecimento dos dados em AOD. Se a tela desligar durante o AOD, aumente este número. Número menor = maior consumo de bateria)",
+        "_aodS": "Deslocamento AOD (número de pixels que a tela desloca aleatoriamente por minuto para evitar burn-in)",
+        "_a0": "Desligar tela",
+        "_a1": "AOD completo",
+        "_a2": "Apenas hora",
+        "_a3": "Hora + linha superior central (ícones de estado)",
+        "_a4": "Hora + números grandes + status",
+        "_a5": "Hora + números grandes/pequenos + status",
+        "_h0": "Remover",
+        "_h1": "Definir às 12",
+        "_h2": "Sempre ligado",
+        "_h4": "Manter como está (dados atualizam uma vez por minuto em AOD)",
+        "_h5": "Progresso plano",
+        "_h6": "Fase da lua",
+        "_h7": "Círculo simples",
+        "_h8": "Progresso de 60 segmentos",
+        "_h9": "Sem ponteiros"
     }
 }

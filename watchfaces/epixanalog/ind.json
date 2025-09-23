@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Preset (Simpan/Muat pengaturan Anda)",
         "_p1": "Bilah Progres Atas",
@@ -85,6 +84,32 @@
         "_fz5": "Ukuran Data Lingkar Kecil",
         "_fz7l": "Ukuran Font Label Lingkar Bawah",
         "_fz7": "Ukuran Data Lingkar Bawah",
-        "_wfs": "Ukuran Font Hari dalam Minggu"
+        "_wfs": "Ukuran Font Hari dalam Minggu",
+        "_ow": "Perpindahan teks hari (20 = tengah)",
+        "_touch": "[*] Aktifkan sentuh (PRO saja, sentuh = tahan 3 detik)",
+        "_touch0": "Jalan pintas sentuh tengah",
+        "_touch1": "Jalan pintas sentuh 12h",
+        "_touch2": "Jalan pintas sentuh 3h",
+        "_touch3": "Jalan pintas sentuh 6h",
+        "_touch4": "Jalan pintas sentuh 9h",
+        "_aod": "Pilihan AOD (Always on Display)",
+        "_aodH": "Tingkat reduksi jarum di AOD",
+        "_aodT": "Tingkat reduksi data di AOD. Jika layar mati selama AOD, naikkan angka ini. Angka lebih rendah = penggunaan baterai lebih besar)",
+        "_aodS": "Perpindahan AOD (jumlah piksel layar bergeser setiap menit secara acak untuk menghindari burn-in)",
+        "_a0": "Matikan Layar",
+        "_a1": "AOD Penuh",
+        "_a2": "Hanya Waktu",
+        "_a3": "Waktu + Baris Atas Tengah (ikon status)",
+        "_a4": "Waktu + Angka Besar + status",
+        "_a5": "Waktu + Angka Besar/Kecil + status",
+        "_h0": "Hapus",
+        "_h1": "Atur ke 12",
+        "_h2": "Selalu aktif",
+        "_h4": "Biarkan seperti ini (data diperbarui sekali per menit di AOD)",
+        "_h5": "Kemajuan datar",
+        "_h6": "Fase Bulan",
+        "_h7": "Lingkaran sederhana",
+        "_h8": "Kemajuan 60 segmen",
+        "_h9": "Tanpa jarum"
     }
 }

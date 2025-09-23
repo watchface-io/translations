@@ -1,6 +1,5 @@
 {
-    "settings":
-    {
+    "settings": {
         "_theme": "Tema",
         "_preset": "Pratetapan (Simpan/Muat tetapan anda)",
         "_p1": "Bar Kemajuan Atas",
@@ -85,6 +84,32 @@
         "_fz5": "Saiz Fon Data Bulatan Kecil",
         "_fz7l": "Saiz Fon Label Bulatan Bawah",
         "_fz7": "Saiz Fon Data Bulatan Bawah",
-        "_wfs": "Saiz Fon Hari Minggu"
+        "_wfs": "Saiz Fon Hari Minggu",
+        "_ow": "Shek teksti hari minggu (20 = tengah)",
+        "_touch": "[*] Aktifkan Sentuh (PRO sahaja, sentuh = tahan 3 saat)",
+        "_touch0": "Pintasan Sentuh Tengah",
+        "_touch1": "Pintasan Sentuh 12h",
+        "_touch2": "Pintasan Sentuh 3h",
+        "_touch3": "Pintasan Sentuh 6h",
+        "_touch4": "Pintasan Sentuh 9h",
+        "_aod": "Pilihan AOD (Always on Display)",
+        "_aodH": "Tahap kegelapan jarum di AOD",
+        "_aodT": "Tahap kegelapan data di AOD. Jika skrin tutup semasa AOD, tingkatkan nombor ini. Nombor lebih rendah = penggunaan bateri lebih tinggi)",
+        "_aodS": "Perpindahan AOD (bilangan piksel skrin bergerak secara rawak setiap minit untuk elak burn-in)",
+        "_a0": "Matikan Skrin",
+        "_a1": "AOD Penuh",
+        "_a2": "Hanya Masa",
+        "_a3": "Masa + Baris Atas Tengah (ikon status)",
+        "_a4": "Masa + Nombor Besar + status",
+        "_a5": "Masa + Nombor Besar/Kecil + status",
+        "_h0": "Alih Keluar",
+        "_h1": "Tetapkan ke 12",
+        "_h2": "Sentiasa Hidup",
+        "_h4": "Biarkan seperti sedia ada (data dikemas kini setiap minit dalam AOD)",
+        "_h5": "Kemajuan rata",
+        "_h6": "Fasa Bulan",
+        "_h7": "Bulatan ringkas",
+        "_h8": "Kemajuan 60 segmen",
+        "_h9": "Tiada Jarum"
     }
 }
