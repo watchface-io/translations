@@ -155,6 +155,7 @@
         "_cna": "AOD - Màu số mặt đồng hồ",
         "_cdta": "AOD - Màu dấu mặt đồng hồ",
         "c100": "Giữ nguyên",
-        "tglh": "Chuyển đổi kim"
+            "tglh": "Chuyển kim",
+            "_hus": "Điều chỉnh vị trí kim mỗi giây (xem FAQ)"
     }
 }

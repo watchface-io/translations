@@ -155,6 +155,7 @@
         "_cna": "AOD - Boja Brojeva na Brojčaniku",
         "_cdta": "AOD - Boja Oznaka na Brojčaniku",
         "c100": "Zadrži isto",
-        "tglh": "Prebaci kazaljke"
+        "tglh": "Prebaci kazaljke",
+        "_hus": "Podesi položaj kazaljki svake sekunde (pogledajte FAQ)"
     }
 }

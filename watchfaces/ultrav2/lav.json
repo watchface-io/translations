@@ -155,6 +155,7 @@
         "_cna": "AOD - Ciparnīcas Ciparu Krāsa",
         "_cdta": "AOD - Ciparnīcas Marķieru Krāsa",
         "c100": "Atstāt tādu pašu",
-        "tglh": "Pārslēgt rādītājus"
+        "tglh": "Pārslēgt rādītājus",
+        "_hus": "Pielāgot rādītāju pozīciju katru sekundi (skat. BUJ)"
     }
 }

@@ -147,7 +147,7 @@
         "_th4": "Skrót dotykowy godzina 9",
         "_aod": "Opcje AOD",
         "_aodS": "Przesunięcie AOD",
-        "_aodT": "Poziom jasności AOD (Ustaw jasność ekranu. Zobacz FAQ)",
+    "_aodT": "Poziom jasności wskazówek AOD (Ustaw jasność wskazówek. Zobacz FAQ)",
         "_aodD": "Poziom jasności danych AOD (Ustaw jasność danych AOD)",
         "_aodC": "Kolor podświetlenia AOD (Koloruje wszystkie dane tym kolorem)",
         "_hcha": "AOD - Kolor wskazówki godzinowej",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Kolor cyfr tarczy",
         "_cdta": "AOD - Kolor znaczników tarczy",
         "c100": "Pozostaw bez zmian",
-        "tglh": "Przełącz wskazówki"
+        "tglh": "Przełącz wskazówki",
+        "_hus": "Dostosuj pozycję wskazówek co sekundę (patrz FAQ)"
     }
 }

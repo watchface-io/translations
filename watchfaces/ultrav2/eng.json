@@ -149,7 +149,7 @@
         "_th4": "9h Touch Shortcut",
         "_aod": "AOD Options",
         "_aodS": "AOD shift(range=1-10)",
-        "_aodT": "AOD Brightness Level (Set Screen brightness. See FAQ)",
+    "_aodT": "AOD Hands Brightness Level (Set Hands brightness. See FAQ)",
         "_aodD": "AOD Data Brightness Level (Set the AOD Data brightness)",
         "_aodC": "AOD Lume Tint Color (Tints all data to this color)",
         "_hcha": "AOD - Hour Hand Color",
@@ -157,6 +157,7 @@
         "_cna": "AOD - Dial Numbers Color",
         "_cdta": "AOD - Dial Markers Color",
         "c100": "Keep the same",
-        "tglh": "Toggle hands"
+        "tglh": "Toggle hands",
+        "_hus": "Adjust hand position every second (see FAQ)"
     }
 }

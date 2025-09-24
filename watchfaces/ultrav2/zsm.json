@@ -147,7 +147,7 @@
         "_th4": "9点触控快捷键",
         "_aod": "AOD选项",
         "_aodS": "AOD偏移",
-        "_aodT": "AOD亮度等级（设置屏幕亮度。参见FAQ）",
+    "_aodT": "AOD 指针亮度等级（设置指针亮度。参见FAQ）",
         "_aodD": "AOD数据亮度等级（设置AOD数据亮度）",
         "_aodC": "AOD夜光色调（将所有数据染成此颜色）",
         "_hcha": "AOD - 时针颜色",
@@ -155,6 +155,7 @@
         "_cna": "AOD - 表盘数字颜色",
         "_cdta": "AOD - 表盘标记颜色",
         "c100": "保持不变",
-        "tglh": "切换指针"
+        "tglh": "切换指针",
+        "_hus": "Laraskan kedudukan jarum setiap saat (lihat FAQ)"
     }
 }

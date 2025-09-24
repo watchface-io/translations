@@ -147,7 +147,7 @@
         "_th4": "9u Touch Snelkoppeling",
         "_aod": "AOD Opties",
         "_aodS": "AOD verschuiving",
-        "_aodT": "AOD Helderheidsniveau (Stel schermhelderheid in. Zie FAQ)",
+    "_aodT": "AOD Wijzerhelderheid (Stel helderheid van de wijzers in. Zie FAQ)",
         "_aodD": "AOD Gegevens Helderheidsniveau (Stel de AOD Gegevens helderheid in)",
         "_aodC": "AOD Lume Tint Kleur (Kleurt alle gegevens in deze kleur)",
         "_hcha": "AOD - Uurwijzer Kleur",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Wijzerplaat Cijfers Kleur",
         "_cdta": "AOD - Wijzerplaat Markeringen Kleur",
         "c100": "Hetzelfde houden",
-        "tglh": "Wijzers omschakelen"
+        "tglh": "Wijzers omschakelen",
+        "_hus": "Stel de wijzerpositie elke seconde bij (zie FAQ)"
     }
 }

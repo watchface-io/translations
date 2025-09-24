@@ -147,7 +147,7 @@
         "_th4": "Touch-Verknüpfung 9 Uhr",
         "_aod": "AOD-Optionen",
         "_aodS": "AOD-Verschiebung",
-        "_aodT": "AOD-Helligkeitsstufe (Bildschirmhelligkeit einstellen. Siehe FAQ)",
+    "_aodT": "AOD-Zeigerhelligkeit (Helligkeit der Zeiger einstellen. Siehe FAQ)",
         "_aodD": "AOD-Daten-Helligkeitsstufe (Helligkeit der AOD-Daten einstellen)",
         "_aodC": "AOD-Leuchtfarbe (Färbt alle Daten in dieser Farbe)",
         "_hcha": "AOD - Stundenzeiger Farbe",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Zifferblatt Ziffern Farbe",
         "_cdta": "AOD - Zifferblatt Markierungen Farbe",
         "c100": "Beibehalten",
-        "tglh": "Zeiger umschalten"
+        "tglh": "Zeiger umschalten",
+        "_hus": "Zeigerposition jede Sekunde anpassen (siehe FAQ)"
     }
 }

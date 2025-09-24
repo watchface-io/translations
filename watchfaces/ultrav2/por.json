@@ -147,7 +147,7 @@
         "_th4": "Atalho de Toque às 9h",
         "_aod": "Opções AOD",
         "_aodS": "Deslocamento AOD",
-        "_aodT": "Nível de Brilho AOD (Definir brilho da tela. Ver FAQ)",
+        "_aodT": "Nível de brilho das ponteiras AOD (Ajusta o brilho das ponteiras. Ver FAQ)",
         "_aodD": "Nível de Brilho dos Dados AOD (Definir o brilho dos dados AOD)",
         "_aodC": "Cor de Tonalidade Luminosa AOD (Colore todos os dados com esta cor)",
         "_hcha": "AOD - Cor do Ponteiro de Horas",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Cor dos Números do Mostrador",
         "_cdta": "AOD - Cor das Marcações do Mostrador",
         "c100": "Manter como está",
-        "tglh": "Alternar ponteiros"
+        "tglh": "Alternar ponteiros",
+        "_hus": "Ajustar a posição dos ponteiros a cada segundo (ver FAQ)"
     }
 }

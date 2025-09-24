@@ -155,6 +155,7 @@
         "_cna": "AOD - Urskive Tal Farve",
         "_cdta": "AOD - Urskive Markeringer Farve",
         "c100": "Behold det samme",
-        "tglh": "Skift visere"
+        "tglh": "Skift visere",
+        "_hus": "Juster visernes position hver sekund (se FAQ)"
     }
 }

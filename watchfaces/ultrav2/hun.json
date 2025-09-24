@@ -147,7 +147,7 @@
         "_th4": "9 óra Érintés Gyorsparancs",
         "_aod": "AOD Opciók",
         "_aodS": "AOD eltolás",
-        "_aodT": "AOD Fényerő Szint (Képernyő fényerejének beállítása. Lásd GYIK)",
+    "_aodT": "AOD mutatók fényereje (Állítsa be a mutatók fényerejét. Lásd GYIK)",
         "_aodD": "AOD Adat Fényerő Szint (Az AOD adatok fényerejének beállítása)",
         "_aodC": "AOD Fényerő Színárnyalat (Minden adatot erre a színre színez)",
         "_hcha": "AOD - Óramutató Színe",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Számlap Számok Színe",
         "_cdta": "AOD - Számlap Jelölések Színe",
         "c100": "Változatlanul hagyás",
-        "tglh": "Mutatók váltása"
+        "tglh": "Mutatók váltása",
+        "_hus": "Állítsa be a mutatók helyzetét másodpercenként (lásd GYIK)"
     }
 }

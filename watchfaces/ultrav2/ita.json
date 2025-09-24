@@ -147,7 +147,7 @@
         "_th4": "Scorciatoia touch ore 9",
         "_aod": "Opzioni AOD",
         "_aodS": "Spostamento AOD",
-        "_aodT": "Livello luminosità AOD (Imposta luminosità schermo. Vedi FAQ)",
+        "_aodT": "Livello di luminosità delle lancette AOD (Regola la luminosità delle lancette. Vedi FAQ)",
         "_aodD": "Livello luminosità dati AOD (Imposta luminosità dati AOD)",
         "_aodC": "Colore tinta luminosa AOD (Colora tutti i dati con questo colore)",
         "_hcha": "AOD - Colore lancetta delle ore",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Colore numeri quadrante",
         "_cdta": "AOD - Colore tacche quadrante",
         "c100": "Mantieni uguale",
-        "tglh": "Attiva/disattiva lancette"
+        "tglh": "Attiva/disattiva lancette",
+        "_hus": "Regola la posizione delle lancette ogni secondo (vedi FAQ)"
     }
 }

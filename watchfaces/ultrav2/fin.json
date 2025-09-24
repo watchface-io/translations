@@ -147,7 +147,7 @@
         "_th4": "Kello 9 Kosketuspikakuvake",
         "_aod": "AOD Valinnat",
         "_aodS": "AOD siirtymä",
-        "_aodT": "AOD Kirkkaustaso (Aseta näytön kirkkaus. Katso UKK)",
+    "_aodT": "AOD Kirkkaustaso (Aseta viisareiden kirkkaus. Katso UKK)",
         "_aodD": "AOD Tietojen Kirkkaustaso (Aseta AOD-tietojen kirkkaus)",
         "_aodC": "AOD Hohtosävy Väri (Sävyttää kaikki tiedot tähän väriin)",
         "_hcha": "AOD - Tuntiosoittimen Väri",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Kellotaulun Numeroiden Väri",
         "_cdta": "AOD - Kellotaulun Merkkien Väri",
         "c100": "Pidä samana",
-        "tglh": "Vaihda viisareita"
+        "tglh": "Vaihda viisareita",
+        "_hus": "Säädä viisareiden sijaintia joka sekunti (katso UKK)"
     }
 }

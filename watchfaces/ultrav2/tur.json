@@ -155,6 +155,7 @@
         "_cna": "AOD - Kadran Rakamları Rengi",
         "_cdta": "AOD - Kadran İşaretleri Rengi",
         "c100": "Aynı tut",
-        "tglh": "İbreleri değiştir"
+         "tglh": "İbreleri değiştir",
+        "_hus": "İbre konumunu her saniye ayarlayın (SSS'ye bakın)"
     }
 }

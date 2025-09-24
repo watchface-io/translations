@@ -147,7 +147,7 @@
         "_th4": "Scurtătură Tactilă ora 9",
         "_aod": "Opțiuni AOD",
         "_aodS": "Decalaj AOD",
-        "_aodT": "Nivel Luminozitate AOD (Setează luminozitatea Ecranului. Vezi FAQ)",
+    "_aodT": "Nivel Luminozitate AOD (Setează luminozitatea indicatoarelor. Vezi FAQ)",
         "_aodD": "Nivel Luminozitate Date AOD (Setează luminozitatea Datelor AOD)",
         "_aodC": "Culoare Nuanță Luminoasă AOD (Colorează toate datele cu această culoare)",
         "_hcha": "AOD - Culoare Ac Ore",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Culoare Numere Cadran",
         "_cdta": "AOD - Culoare Marcaje Cadran",
         "c100": "Păstrează la fel",
-        "tglh": "Comută acele"
+        "tglh": "Comută acele",
+        "_hus": "Ajustează poziția acelor în fiecare secundă (vezi FAQ)"
     }
 }

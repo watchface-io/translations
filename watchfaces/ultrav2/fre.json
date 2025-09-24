@@ -147,7 +147,7 @@
         "_th4": "Raccourci tactile à 9h",
         "_aod": "Options AOD",
         "_aodS": "Décalage AOD",
-        "_aodT": "Niveau de luminosité AOD (Régler la luminosité de l'écran. Voir FAQ)",
+    "_aodT": "Niveau de luminosité des aiguilles AOD (Régler la luminosité des aiguilles. Voir FAQ)",
         "_aodD": "Niveau de luminosité des données AOD (Régler la luminosité des données AOD)",
         "_aodC": "Couleur de teinte lumineuse AOD (Teinte toutes les données dans cette couleur)",
         "_hcha": "AOD - Couleur de l'aiguille des heures",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Couleur des chiffres du cadran",
         "_cdta": "AOD - Couleur des marqueurs du cadran",
         "c100": "Garder identique",
-        "tglh": "Basculer les aiguilles"
+        "tglh": "Basculer les aiguilles",
+        "_hus": "Ajuster la position des aiguilles chaque seconde (voir FAQ)"
     }
 }

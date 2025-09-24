@@ -155,6 +155,7 @@
         "_cna": "AOD - Warna Angka Dial",
         "_cdta": "AOD - Warna Penanda Dial",
         "c100": "Tetap sama",
-        "tglh": "Alihkan jarum"
+        "tglh": "Alihkan jarum",
+        "_hus": "Sesuaikan posisi jarum setiap detik (lihat FAQ)"
     }
 }

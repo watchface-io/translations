@@ -155,6 +155,7 @@
         "_cna": "AOD - Urtavlans sifferfärg",
         "_cdta": "AOD - Urtavlans markörfärg",
         "c100": "Behåll som det är",
-        "tglh": "Växla visare"
+        "tglh": "Växla visare",
+        "_hus": "Justera visarnas position varje sekund (se FAQ)"
     }
 }

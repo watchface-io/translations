@@ -147,7 +147,7 @@
         "_th4": "Kell 9 Puutetee",
         "_aod": "AOD Valikud",
         "_aodS": "AOD Nihe",
-        "_aodT": "AOD Heleduse Tase (Seadista ekraani heledus. Vaata KKK)",
+    "_aodT": "AOD Heleduse Tase (Seadista osutite heledus. Vaata KKK)",
         "_aodD": "AOD Andmete Heleduse Tase (Seadista AOD andmete heledus)",
         "_aodC": "AOD Lume Värvi Varjund (Värvib kõik andmed selle värviga)",
         "_hcha": "AOD - Tundiosuti Värv",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Numbrilaua Numbrite Värv",
         "_cdta": "AOD - Numbrilaua Märgistuste Värv",
         "c100": "Jäta samaks",
-        "tglh": "Lülita osutid"
+        "tglh": "Lülita osutid",
+        "_hus": "Kohanda osutite asendit iga sekundi järel (vt KKK)"
     }
 }

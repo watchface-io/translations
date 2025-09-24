@@ -147,7 +147,7 @@
         "_th4": "9-posisjon Berøringssnarvei",
         "_aod": "AOD-alternativer",
         "_aodS": "AOD-forskyvning",
-        "_aodT": "AOD Lysstyrkenivå (Angi skjermens lysstyrke. Se FAQ)",
+    "_aodT": "AOD Lysstyrkenivå (Angi visernes lysstyrke. Se FAQ)",
         "_aodD": "AOD Data Lysstyrkenivå (Angi AOD-datalysstyrke)",
         "_aodC": "AOD Selvlysende Fargenyanse (Farger alle data med denne fargen)",
         "_hcha": "AOD - Timeviserfarge",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Urskivetall Farge",
         "_cdta": "AOD - Urskivemarkør Farge",
         "c100": "Behold som det er",
-        "tglh": "Bytt visere"
+        "tglh": "Bytt visning av visere",
+        "_hus": "Juster visernes posisjon hvert sekund (se FAQ)"
     }
 }

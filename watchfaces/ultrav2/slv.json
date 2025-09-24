@@ -147,7 +147,7 @@
         "_th4": "Dotik Bližnjica na 9h",
         "_aod": "AOD Možnosti",
         "_aodS": "AOD zamik",
-        "_aodT": "AOD Raven Svetlosti (Nastavi svetlost Zaslona. Glej FAQ)",
+    "_aodT": "AOD Raven Svetlosti Kazalk (Nastavi svetlost kazalk. Glej FAQ)",
         "_aodD": "AOD Raven Svetlosti Podatkov (Nastavi svetlost AOD Podatkov)",
         "_aodC": "AOD Barva Odtenka Osvetlitve (Obarva vse podatke s to barvo)",
         "_hcha": "AOD - Barva Urnega Kazalca",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Barva Številk Številčnice",
         "_cdta": "AOD - Barva Oznak Številčnice",
         "c100": "Ohrani enako",
-        "tglh": "Preklopi kazalce"
+        "tglh": "Preklopi kazalce",
+        "_hus": "Prilagodi položaj kazalcev vsako sekundo (glej FAQ)"
     }
 }

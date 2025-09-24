@@ -148,7 +148,7 @@
         "_th4": "Dotykový zástupce 9h",
         "_aod": "AOD možnosti",
         "_aodS": "AOD posun",
-        "_aodT": "Úroveň jasu AOD (Nastavit jas obrazovky. Viz FAQ)",
+    "_aodT": "Úroveň jasu ručiček AOD (Nastavit jas ručiček. Viz FAQ)",
         "_aodD": "Úroveň jasu dat AOD (Nastavit jas dat AOD)",
         "_aodC": "Barva zabarvení AOD Lume (Zabarví všechna data touto barvou)",
         "_hcha": "AOD - Barva hodinové ručičky",
@@ -156,6 +156,7 @@
         "_cna": "AOD - Barva čísel ciferníku",
         "_cdta": "AOD - Barva značek ciferníku",
         "c100": "Ponechat stejné",
-        "tglh": "Přepnout ručičky"
+        "tglh": "Přepnout ručičky",
+        "_hus": "Upravovat polohu ručiček každou sekundu (viz FAQ)"
     }
 }

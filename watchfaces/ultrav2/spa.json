@@ -147,7 +147,7 @@
         "_th4": "Acceso táctil a las 9",
         "_aod": "Opciones de AOD",
         "_aodS": "Desplazamiento de AOD",
-        "_aodT": "Nivel de brillo de AOD (Ajustar brillo de pantalla. Ver FAQ)",
+    "_aodT": "Nivel de brillo de manecillas AOD (Ajustar brillo de las manecillas. Ver FAQ)",
         "_aodD": "Nivel de brillo de datos en AOD (Ajustar brillo de datos en AOD)",
         "_aodC": "Color de tinte luminoso en AOD (Tiñe todos los datos con este color)",
         "_hcha": "AOD - Color de la manecilla horaria",
@@ -155,6 +155,7 @@
         "_cna": "AOD - Color de los números de la esfera",
         "_cdta": "AOD - Color de las marcas de la esfera",
         "c100": "Mantener igual",
-        "tglh": "Alternar manecillas"
+        "tglh": "Alternar manecillas",
+        "_hus": "Ajusta la posición de las manecillas cada segundo (ver FAQ)"
     }
 }
