@@ -33,7 +33,7 @@
             "_ash": "Seconds Hand AOD (Always on display)",
             "_hct": "Hand Transparancy (vector only)",
             "_shade": "Hand Shade",
-            "_hcm": "Minute Hand Color (white = default)",
+            "_hcm": "Minute Hand Color",
             "_hcm2": "Minute Hand Outline Color",
             "_hch": "Hour Hand Color",
             "_hch2": "Hour Hand Outline Color",
