@@ -1,6 +1,9 @@
 {
-    "settings":
-    {
-        
+    "settings": {
+        "_ash": "Seconds Hand AOD (Always on display)",
+        "_aodD": "AOD - Data Brightness Level - (Set the AOD Data brightness, set lower when screen turns off. See FAQ)",
+        "_aodT": "AOD - Hands Brightness Level - (Set Hands brightness)",
+                    "_hcha": "AOD - Hour Hand Color",
+            "_hcma": "AOD - Minute Hand Color"
     }
 }
