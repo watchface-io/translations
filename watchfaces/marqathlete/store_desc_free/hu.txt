@@ -1,0 +1,29 @@
+Tiszta és elegáns számlapdesign, a Marq Athlete számlapjától inspirálva.
+Több mint 110 adatmező, számos AOD lehetőség, korlátlan testreszabás, gradiens haladássávok és előbeállítások
+
+⭐️ Ingyenes vs Pro ⭐️
+Ez a számlap ingyenesen elérhető minden alapvető funkcióval. A prémium funkciók ([*]-gal jelölve) Pro kulcsot igényelnek a feloldáshoz. Pro kulcsot itt vásárolhat: https://watchface.io/marqathlete vagy szerezze be a teljesen feloldott PRO verziót itt: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS eszközök (Fenix 7, Enduro, Forerunner 255, stb.) ⭐️
+Ez a számlap teljesen optimalizált MIPS-re, de a színek másképp nézhetnek ki, mint a legtöbb képen, mivel azok Amoled eszközön készültek. Az összes beépített témát, beleértve a MIPS témákat is, itt találja: https://watchface.io/marqathlete/themes
+
+⭐️ Források ⭐️
+* GYIK: https://watchface.io/faq
+* Kézikönyv: https://watchface.io/marqathlete/manual
+* PRO kulcs megszerzése: https://ko-fi.com/s/705676e404 vagy https://watchface.io/marqathlete
+* Témalista: https://watchface.io/marqathlete/themes
+* Színútmutató: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+Megjegyzés: Két különböző hely van beállításokkal:
+* Garmin IQ alkalmazás (telefonján menjen az eszközéhez, számlapok, beállítások): Konfigurálja az adatmezőket, színeket és általános beállításokat.
+* Órán lévő beállítások: Részletesebb opciókhoz való hozzáférés, mint időformátum, célok és mértékegységek közvetlenül az órán a menü gomb nyomva tartásával, számlap kiválasztásával és testreszabás megérintésével.
+
+⭐️ Adatmezők ⭐️
+Minden adatmező, amelyet a Garmin jelenleg harmadik fél fejlesztőknek biztosít, elérhető, plusz extrák, mint Glucose Monitor (CGM) támogatás, Open Weather Map (OWM) és más harmadik fél alkalmazások támogatása.
+Minden elérhető adatmező itt van felsorolva: https://watchface.io/docs/datafields. Néhány adatmező (mint edzésre való felkészültség vagy HRV) jelenleg nem érhető el harmadik fél fejlesztők számára, lásd itt: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Ha hibákba vagy problémákba ütközik, kérjük, vegye fel velem a kapcsolatot a "Contact Developer" megnyomásával a véleményezési rendszer használata helyett. Gyorsan tudok válaszolni emailekre, míg lehet, hogy napokig nem látom a véleményeket. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

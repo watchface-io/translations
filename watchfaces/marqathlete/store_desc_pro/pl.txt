@@ -1,0 +1,29 @@
+Czysta i elegancka tarcza zegarka, inspirowana tarczą Marq Athlete.
+Ponad 110 pól danych, wiele opcji AOD, nieograniczone dostosowania, gradientowe paski postępu i ustawienia wstępne
+
+⭐️ Wypróbuj przed zakupem! ⭐️
+Przed zakupem tej tarczy, najpierw wypróbuj darmową wersję, aby upewnić się, że to jest to, czego chcesz i że podoba ci się jak wygląda na twoim zegarku: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ Urządzenia MIPS (Fenix 7, Enduro, Forerunner 255, itp.) ⭐️
+Ta tarcza jest w pełni zoptymalizowana dla MIPS, ale kolory mogą wyglądać inaczej jak na większości zdjęć, ponieważ te zostały zrobione na urządzeniu Amoled. Możesz znaleźć wszystkie wbudowane motywy tutaj: https://watchface.io/marqathlete/themes
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Lista motywów: https://watchface.io/marqathlete/themes
+* Instrukcja: https://watchface.io/marqathlete/manual
+* Przewodnik kolorów: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Są dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie przejdź do urządzenia, tarcze zegarków, ustawienia): Skonfiguruj pola danych, kolory i ustawienia ogólne.
+* Ustawienia na zegarku: Uzyskaj dostęp do bardziej szczegółowych opcji takich jak format czasu, cele i jednostki bezpośrednio na zegarku, przytrzymując przycisk menu, wybierając tarczę zegarka i dotykając dostosuj.
+
+⭐️ Pola danych ⭐️
+Wszystkie pola danych, które Garmin obecnie dostarcza deweloperom firm trzecich, są dostępne, plus dodatki takie jak wsparcie dla Glucose Monitor (CGM), Open Weather Map (OWM) i wsparcie dla innych aplikacji firm trzecich.
+Wszystkie dostępne pola danych są wymienione tutaj: https://watchface.io/docs/datafields. Niektóre pola danych (jak gotowość do treningu czy HRV) obecnie nie są dostępne dla deweloperów firm trzecich, zobacz tutaj: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jeśli napotkasz błędy lub problemy, skontaktuj się ze mną naciskając "Skontaktuj się z deweloperem" zamiast używać systemu recenzji. Mogę szybko odpowiadać na e-maile, podczas gdy mogę nie widzieć recenzji przez kilka dni. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

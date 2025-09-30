@@ -1,0 +1,29 @@
+Čistý a elegantní ciferník inspirovaný ciferníkem Marq Athlete.
+Více než 110 datových polí, mnoho možností AOD, neomezené přizpůsobení, gradientové pruhy pokroku a předvolby
+
+⭐️ Zdarma vs Pro ⭐️
+Tento ciferník je k dispozici zdarma se všemi základními funkcemi. Premium funkce (označené [*]) vyžadují Pro klíč k odemknutí. Pro klíč můžete zakoupit zde: https://watchface.io/marqathlete nebo získat plně odemknutou PRO verzi zde: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS zařízení (Fenix 7, Enduro, Forerunner 255, atd.) ⭐️
+Tento ciferník je plně optimalizován pro MIPS, ale barvy mohou vypadat jinak než na většině obrázků, protože jsou pořízeny na Amoled zařízení. Všechna vestavěná témata, včetně MIPS témat, najdete zde: https://watchface.io/marqathlete/themes
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Manuál: https://watchface.io/marqathlete/manual
+* Získat PRO klíč: https://ko-fi.com/s/705676e404 nebo https://watchface.io/marqathlete
+* Seznam témat: https://watchface.io/marqathlete/themes
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dvě různá místa s nastavením:
+* Garmin IQ aplikace (na telefonu jděte do zařízení, ciferníky, nastavení): Konfigurujte datová pole, barvy a obecná nastavení.
+* Nastavení na hodinkách: Přístup k podrobnějším možnostem jako formát času, cíle a jednotky přímo na hodinkách podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobit.
+
+⭐️ Datová pole ⭐️
+Všechna datová pole, která Garmin v současnosti poskytuje vývojářům třetích stran, jsou k dispozici, plus extra jako podpora Glucose Monitor (CGM), Open Weather Map (OWM) a podpora pro další aplikace třetích stran.
+Všechna dostupná datová pole jsou uvedena zde: https://watchface.io/docs/datafields. Některá datová pole (jako připravenost k tréninku nebo HRV) nejsou v současnosti dostupná vývojářům třetích stran, viz zde: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Pokud narazíte na nějaké chyby nebo problémy, obraťte se na mě stisknutím "Contact Developer" místo používání systému recenzí. Na e-maily mohu reagovat rychle, zatímco recenze nemusím vidět několik dní. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

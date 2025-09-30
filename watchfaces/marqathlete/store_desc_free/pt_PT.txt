@@ -1,0 +1,29 @@
+Mostrador limpo e elegante, inspirado no mostrador Marq Athlete.
+Mais de 110 campos de dados, muitas opções AOD, personalizações ilimitadas, barras de progresso com gradiente e predefinições
+
+⭐️ Grátis vs Pro ⭐️
+Este mostrador está disponível sem custo com todas as funções básicas. Funcionalidades premium (marcadas com [*]) requerem uma Chave Pro para desbloquear. Pode comprar uma Chave Pro aqui: https://watchface.io/marqathlete ou obter a versão PRO totalmente desbloqueada aqui: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Este mostrador está totalmente optimizado para MIPS, mas as cores podem parecer diferentes como na maioria das imagens, pois estas são tiradas num dispositivo Amoled. Pode encontrar todos os temas integrados, incluindo temas MIPS aqui: https://watchface.io/marqathlete/themes
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/marqathlete/manual
+* Obter uma chave PRO: https://ko-fi.com/s/705676e404 ou https://watchface.io/marqathlete
+* Lista de Temas: https://watchface.io/marqathlete/themes
+* Guia de Cores: https://watchface.io/docs/color-list
+* Campos de Dados Disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Existem dois locais diferentes com configurações:
+* App Garmin IQ (no seu telefone vá ao seu dispositivo, mostradores, configurações): Configure campos de dados, cores e configurações gerais.
+* Configurações no Relógio: Aceda a opções mais detalhadas como formato de hora, objectivos e unidades directamente no relógio mantendo o botão menu, seleccionando mostrador e tocando personalizar.
+
+⭐️ Campos de Dados ⭐️
+Todos os campos de dados que a Garmin actualmente fornece a programadores terceiros estão disponíveis, mais extras como suporte ao Monitor de Glucose (CGM), Open Weather Map (OWM) e suporte para outras apps terceiras.
+Todos os campos de dados disponíveis estão listados aqui: https://watchface.io/docs/datafields. Alguns campos de dados (como prontidão para treino ou HRV) actualmente não estão disponíveis para programadores terceiros, veja aqui: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Se encontrar bugs ou problemas, por favor contacte-me premindo "Contact Developer" em vez de usar o sistema de avaliações. Posso responder a emails prontamente, enquanto posso não ver avaliações durante vários dias. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

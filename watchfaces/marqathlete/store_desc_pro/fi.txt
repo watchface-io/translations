@@ -1,0 +1,29 @@
+Puhdas ja elegantti kellotaulu, saanut inspiraationsa Marq Athlete kellotaulusta.
+Yli 110 tietokenttää, monia AOD-vaihtoehtoja, rajattomat mukautukset, gradientti edistymispalkit ja esiasetukset
+
+⭐️ Kokeile ennen ostamista! ⭐️
+Ennen tämän kellotaulun ostamista kokeile ensin ilmaista versiota varmistaaksesi, että se on mitä haluat ja että pidät siitä, miltä se näyttää kellossasi: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Forerunner 255, jne.) ⭐️
+Tämä kellotaulu on täysin optimoitu MIPS:lle, mutta värit voivat näyttää erilaisilta kuin useimmissa kuvissa, koska ne on otettu Amoled-laitteella. Voit löytää kaikki sisäänrakennetut teemat täältä: https://watchface.io/marqathlete/themes
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Teemalista: https://watchface.io/marqathlete/themes
+* Ohjekirja: https://watchface.io/marqathlete/manual
+* Väriohje: https://watchface.io/docs/color-list
+* Saatavilla olevat tietokentät: https://watchface.io/docs/datafields
+
+⭐️ Konfiguraatio ⭐️
+Huomaa: Asetuksia on kahdessa eri paikassa:
+* Garmin IQ sovellus (puhelimessasi mene laitteeseen, kellotaulut, asetukset): Konfiguroi tietokentät, värit ja yleiset asetukset.
+* Kellon asetukset: Käytä yksityiskohtaisempia vaihtoehtoja kuten aikamuoto, tavoitteet ja yksiköt suoraan kellossa pitämällä valikkopainiketta painettuna, valitsemalla kellotaulu ja napauttamalla mukauta.
+
+⭐️ Tietokentät ⭐️
+Kaikki tietokentät, jotka Garmin tällä hetkellä tarjoaa kolmannen osapuolen kehittäjille, ovat saatavilla, sekä lisäominaisuuksia kuten Sokerimittari (CGM) tuki, Open Weather Map (OWM) ja tuki muille kolmannen osapuolen sovelluksille.
+Kaikki saatavilla olevat tietokentät on lueteltu täällä: https://watchface.io/docs/datafields. Jotkin tietokentät (kuten harjoitteluvalmius tai HRV) eivät ole tällä hetkellä saatavilla kolmannen osapuolen kehittäjille, katso täältä: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jos kohtaat virheitä tai ongelmia, ota minuun yhteyttä painamalla "Ota yhteyttä kehittäjään" arvostelusysteemin käyttämisen sijaan. Voin vastata sähköposteihin nopeasti, kun taas en ehkä näe arvosteluja useisiin päiviin. ***
+
+* Muutosloki: https://watchface.io/marqathlete/changelog

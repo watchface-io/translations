@@ -1,0 +1,29 @@
+Clean and elegant watchface, inspired by the Marq Athlete watchface.
+Over 110 data fields, many AOD options, unlimited customisations, gradient Progress bars and presets
+
+⭐️ Try before you buy! ⭐️
+Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+This watchface is fully optimized for MIPS, but colors can look different as in most pictures, as these are taken on an Amoled device. You can find all the build in themes here: https://watchface.io/marqathlete/themes
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Theme List: https://watchface.io/marqathlete/themes
+* Manual: https://watchface.io/marqathlete/manual
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone go to your device, watchfaces, settings): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields. Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

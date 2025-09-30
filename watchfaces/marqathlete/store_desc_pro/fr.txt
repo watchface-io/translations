@@ -1,0 +1,29 @@
+Cadran de montre propre et élégant, inspiré du cadran Marq Athlete.
+Plus de 110 champs de données, de nombreuses options AOD, personnalisations illimitées, barres de progression en dégradé et préréglages
+
+⭐️ Essayez avant d'acheter ! ⭐️
+Avant d'acheter ce cadran, essayez d'abord la version gratuite pour vous assurer que c'est ce que vous voulez et que vous aimez son apparence sur votre montre : https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ Appareils MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Ce cadran est entièrement optimisé pour MIPS, mais les couleurs peuvent paraître différentes comme dans la plupart des images, car celles-ci sont prises sur un appareil Amoled. Vous pouvez trouver tous les thèmes intégrés ici : https://watchface.io/marqathlete/themes
+
+⭐️ Ressources ⭐️
+* FAQ : https://watchface.io/faq
+* Liste des thèmes : https://watchface.io/marqathlete/themes
+* Manuel : https://watchface.io/marqathlete/manual
+* Guide des couleurs : https://watchface.io/docs/color-list
+* Champs de données disponibles : https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note : Il y a deux endroits différents avec des paramètres :
+* App Garmin IQ (sur votre téléphone, allez à votre appareil, cadrans, paramètres) : Configurez les champs de données, les couleurs et les paramètres généraux.
+* Paramètres sur la montre : Accédez à des options plus détaillées comme le format de l'heure, les objectifs et les unités directement sur la montre en maintenant le bouton menu, en sélectionnant le cadran et en appuyant sur personnaliser.
+
+⭐️ Champs de données ⭐️
+Tous les champs de données que Garmin fournit actuellement aux développeurs tiers sont disponibles, plus des extras comme le support Glucose Monitor (CGM), Open Weather Map (OWM) et le support pour d'autres applications tierces.
+Tous les champs de données disponibles sont listés ici : https://watchface.io/docs/datafields. Certains champs de données (comme la préparation d'entraînement ou HRV) ne sont actuellement pas disponibles pour les développeurs tiers, voir ici : https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Si vous rencontrez des bugs ou des problèmes, veuillez me contacter en appuyant sur "Contacter le développeur" au lieu d'utiliser le système d'avis. Je peux répondre aux emails rapidement, alors que je pourrais ne pas voir les avis pendant plusieurs jours. ***
+
+* Changelog : https://watchface.io/marqathlete/changelog

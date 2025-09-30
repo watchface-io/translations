@@ -1,0 +1,29 @@
+简洁优雅的表盘，灵感来自Marq Athlete表盘。
+超过110个数据字段，多种AOD选项，无限制自定义，渐变进度条和预设
+
+⭐️ 免费 vs Pro ⭐️
+此表盘免费提供所有基本功能。高级功能（标记为[*]）需要Pro密钥解锁。您可以在此购买Pro密钥：https://watchface.io/marqathlete 或在此获取完全解锁的PRO版本：https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS设备（Fenix 7、Enduro、Forerunner 255等）⭐️
+此表盘已针对MIPS完全优化，但颜色可能看起来与大多数图片不同，因为这些图片是在Amoled设备上拍摄的。您可以在此找到所有内置主题，包括MIPS主题：https://watchface.io/marqathlete/themes
+
+⭐️ 资源 ⭐️
+* 常见问题：https://watchface.io/faq
+* 手册：https://watchface.io/marqathlete/manual
+* 获取PRO密钥：https://ko-fi.com/s/705676e404 或 https://watchface.io/marqathlete
+* 主题列表：https://watchface.io/marqathlete/themes
+* 颜色指南：https://watchface.io/docs/color-list
+* 可用数据字段：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有两个不同的设置位置：
+* Garmin IQ应用（在您的手机上转到您的设备、表盘、设置）：配置数据字段、颜色和常规设置。
+* 手表上的设置：通过长按菜单按钮、选择表盘并点击自定义，直接在手表上访问更详细的选项，如时间格式、目标和单位。
+
+⭐️ 数据字段 ⭐️
+Garmin目前向第三方开发者提供的所有数据字段都可用，还有额外功能如血糖监测器（CGM）支持、Open Weather Map（OWM）和其他第三方应用程序支持。
+所有可用的数据字段都列在这里：https://watchface.io/docs/datafields。一些数据字段（如训练准备度或HRV）目前不向第三方开发者提供，请参见：https://watchface.io/faq/can-you-add-training-readiness
+
+*** 如果您遇到任何错误或问题，请通过按"Contact Developer"联系我，而不是使用评论系统。我可以及时回复邮件，但可能几天都看不到评论。***
+
+* 更新日志：https://watchface.io/marqathlete/changelog

@@ -1,0 +1,29 @@
+Siisti ja tyylikäs kellotaulu, joka on saanut inspiraationsa Marq Athlete -kellotaulusta.
+Yli 110 tietokenttää, monia AOD-vaihtoehtoja, rajattomat mukautukset, liukuväritetyt edistymispalkit ja esiasetukset
+
+⭐️ Ilmainen vs Pro ⭐️
+Tämä kellotaulu on saatavilla ilmaiseksi kaikilla perustoiminnoilla. Premium-ominaisuudet (merkitty [*]) vaativat Pro-avaimen lukituksen avaamiseen. Voit ostaa Pro-avaimen täältä: https://watchface.io/marqathlete tai hankkia täysin avatun PRO-version täältä: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Forerunner 255, jne.) ⭐️
+Tämä kellotaulu on täysin optimoitu MIPS:lle, mutta värit voivat näyttää erilaisilta kuin useimmissa kuvissa, koska ne on otettu Amoled-laitteella. Voit löytää kaikki sisäänrakennetut teemat, mukaan lukien MIPS-teemat täältä: https://watchface.io/marqathlete/themes
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Käsikirja: https://watchface.io/marqathlete/manual
+* Hanki PRO-avain: https://ko-fi.com/s/705676e404 tai https://watchface.io/marqathlete
+* Teemaluettelo: https://watchface.io/marqathlete/themes
+* Väriopas: https://watchface.io/docs/color-list
+* Saatavilla olevat tietokentät: https://watchface.io/docs/datafields
+
+⭐️ Konfigurointi ⭐️
+Huomautus: Asetuksia on kahdessa eri paikassa:
+* Garmin IQ -sovellus (puhelimessasi mene laitteesi, kellotaulut, asetukset): Määritä tietokentät, värit ja yleiset asetukset.
+* Kellon asetukset: Pääsy yksityiskohtaisempiin vaihtoehtoihin kuten aikamuoto, tavoitteet ja yksiköt suoraan kellossa pitämällä valikkonappia, valitsemalla kellotaulu ja napauttamalla mukauta.
+
+⭐️ Tietokentät ⭐️
+Kaikki tietokentät, joita Garmin tällä hetkellä tarjoaa kolmannen osapuolen kehittäjille, ovat saatavilla, plus lisäominaisuuksia kuten Glucose Monitor (CGM) -tuki, Open Weather Map (OWM) ja tuki muille kolmannen osapuolen sovelluksille.
+Kaikki saatavilla olevat tietokentät on lueteltu täällä: https://watchface.io/docs/datafields. Jotkut tietokentät (kuten harjoitusvalmius tai HRV) eivät ole tällä hetkellä saatavilla kolmannen osapuolen kehittäjille, katso täältä: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Jos kohtaat virheitä tai ongelmia, ota minuun yhteyttä painamalla "Contact Developer" arviointijärjestelmän käyttämisen sijaan. Voin vastata sähköposteihin nopeasti, kun taas en ehkä näe arvioita useisiin päiviin. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

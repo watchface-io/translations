@@ -1,0 +1,29 @@
+簡潔優雅的錶盤，靈感來自Marq Athlete錶盤。
+超過110個數據欄位，多種AOD選項，無限制自訂，漸層進度條和預設
+
+⭐️ 免費 vs Pro ⭐️
+此錶盤免費提供所有基本功能。進階功能（標記為[*]）需要Pro金鑰解鎖。您可以在此購買Pro金鑰：https://watchface.io/marqathlete 或在此獲取完全解鎖的PRO版本：https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS裝置（Fenix 7、Enduro、Forerunner 255等）⭐️
+此錶盤已針對MIPS完全優化，但顏色可能看起來與大多數圖片不同，因為這些圖片是在Amoled裝置上拍攝的。您可以在此找到所有內建主題，包括MIPS主題：https://watchface.io/marqathlete/themes
+
+⭐️ 資源 ⭐️
+* 常見問題：https://watchface.io/faq
+* 手冊：https://watchface.io/marqathlete/manual
+* 獲取PRO金鑰：https://ko-fi.com/s/705676e404 或 https://watchface.io/marqathlete
+* 主題列表：https://watchface.io/marqathlete/themes
+* 顏色指南：https://watchface.io/docs/color-list
+* 可用數據欄位：https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意：有兩個不同的設定位置：
+* Garmin IQ應用程式（在您的手機上轉到您的裝置、錶盤、設定）：配置數據欄位、顏色和一般設定。
+* 手錶上的設定：透過長按選單按鈕、選擇錶盤並點擊自訂，直接在手錶上存取更詳細的選項，如時間格式、目標和單位。
+
+⭐️ 數據欄位 ⭐️
+Garmin目前向第三方開發者提供的所有數據欄位都可用，還有額外功能如血糖監測器（CGM）支援、Open Weather Map（OWM）和其他第三方應用程式支援。
+所有可用的數據欄位都列在這裡：https://watchface.io/docs/datafields。一些數據欄位（如訓練準備度或HRV）目前不向第三方開發者提供，請參見：https://watchface.io/faq/can-you-add-training-readiness
+
+*** 如果您遇到任何錯誤或問題，請透過按「Contact Developer」聯繫我，而不是使用評論系統。我可以及時回覆郵件，但可能幾天都看不到評論。***
+
+* 更新日誌：https://watchface.io/marqathlete/changelog

@@ -1,0 +1,29 @@
+Čistý a elegantní ciferník inspirovaný ciferníkem Marq Athlete.
+Přes 110 datových polí, mnoho možností AOD, neomezené přizpůsobení, gradientní ukazatele pokroku a předvolby
+
+⭐️ Vyzkoušejte před nákupem! ⭐️
+Před koupí tohoto ciferníku si nejprve vyzkoušejte bezplatnou verzi, abyste se ujistili, že je to přesně to, co chcete, a že se vám líbí, jak vypadá na vašich hodinách: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ MIPS zařízení (Fenix 7, Enduro, Forerunner 255, atd.) ⭐️
+Tento ciferník je plně optimalizován pro MIPS, ale barvy mohou vypadat jinak než na většině obrázků, protože ty jsou pořízeny na Amoled zařízení. Všechna vestavěná témata najdete zde: https://watchface.io/marqathlete/themes
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Seznam témat: https://watchface.io/marqathlete/themes
+* Manuál: https://watchface.io/marqathlete/manual
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dva různá místa s nastavením:
+* Aplikace Garmin IQ (na telefonu přejděte na zařízení, ciferníky, nastavení): Konfigurujte datová pole, barvy a obecná nastavení.
+* Nastavení na hodinkách: Přistupte k podrobnějším možnostem, jako je formát času, cíle a jednotky přímo na hodinkách podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobení.
+
+⭐️ Datová pole ⭐️
+Všechna datová pole, která Garmin v současnosti poskytuje vývojářům třetích stran, jsou k dispozici, plus extra jako podpora Glucose Monitor (CGM), Open Weather Map (OWM) a podpora pro další aplikace třetích stran.
+Všechna dostupná datová pole jsou uvedena zde: https://watchface.io/docs/datafields. Některá datová pole (jako připravenost k tréninku nebo HRV) nejsou v současnosti k dispozici vývojářům třetích stran, viz zde: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Pokud narazíte na nějaké chyby nebo problémy, kontaktujte mě prosím stisknutím "Kontaktovat vývojáře" namísto použití systému recenzí. Mohu rychle odpovídat na e-maily, zatímco recenze možná neuvidím několik dní. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

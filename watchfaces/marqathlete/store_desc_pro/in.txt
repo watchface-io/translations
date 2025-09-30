@@ -1,0 +1,29 @@
+Watchface yang bersih dan elegan, terinspirasi dari watchface Marq Athlete.
+Lebih dari 110 bidang data, banyak pilihan AOD, kustomisasi tak terbatas, bar kemajuan gradien dan preset
+
+⭐️ Coba sebelum membeli! ⭐️
+Sebelum membeli watchface ini, coba dulu versi gratisnya untuk memastikan ini adalah yang Anda inginkan dan bahwa Anda menyukai tampilannya di jam tangan Anda: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ Perangkat MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Watchface ini dioptimalkan sepenuhnya untuk MIPS, tetapi warna bisa terlihat berbeda seperti di sebagian besar gambar, karena gambar-gambar ini diambil pada perangkat Amoled. Anda dapat menemukan semua tema bawaan di sini: https://watchface.io/marqathlete/themes
+
+⭐️ Sumber Daya ⭐️
+* FAQ: https://watchface.io/faq
+* Daftar Tema: https://watchface.io/marqathlete/themes
+* Manual: https://watchface.io/marqathlete/manual
+* Panduan Warna: https://watchface.io/docs/color-list
+* Bidang Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Catatan: Ada dua tempat berbeda dengan pengaturan:
+* Aplikasi Garmin IQ (di ponsel Anda, pergilah ke perangkat, watchfaces, pengaturan): Konfigurasi bidang data, warna, dan pengaturan umum.
+* Pengaturan Pada Jam: Akses opsi yang lebih detail seperti format waktu, target, dan satuan langsung di jam tangan dengan menahan tombol menu, memilih watchface, dan mengetuk kustomisasi.
+
+⭐️ Bidang Data ⭐️
+Semua bidang data yang saat ini disediakan Garmin kepada pengembang pihak ketiga tersedia, ditambah ekstra seperti dukungan Glucose Monitor (CGM), Open Weather Map (OWM) dan dukungan untuk aplikasi pihak ketiga lainnya.
+Semua bidang data tersedia terdaftar di sini: https://watchface.io/docs/datafields. Beberapa bidang data (seperti kesiapan pelatihan atau HRV) saat ini tidak tersedia untuk pengembang pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jika Anda mengalami bug atau masalah, silakan hubungi saya dengan menekan "Hubungi Pengembang" alih-alih menggunakan sistem ulasan. Saya dapat merespons email dengan cepat, sedangkan saya mungkin tidak melihat ulasan selama beberapa hari. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

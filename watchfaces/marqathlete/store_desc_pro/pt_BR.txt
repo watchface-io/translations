@@ -1,0 +1,29 @@
+Mostrador limpo e elegante, inspirado no mostrador Marq Athlete.
+Mais de 110 campos de dados, muitas opções AOD, personalizações ilimitadas, barras de progresso gradiente e presets
+
+⭐️ Experimente antes de comprar! ⭐️
+Antes de comprar este mostrador, experimente primeiro a versão gratuita para ter certeza de que é o que você quer e que gosta de como fica no seu relógio: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Este mostrador é totalmente otimizado para MIPS, mas as cores podem parecer diferentes como na maioria das imagens, pois estas foram tiradas em um dispositivo Amoled. Você pode encontrar todos os temas integrados aqui: https://watchface.io/marqathlete/themes
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Lista de temas: https://watchface.io/marqathlete/themes
+* Manual: https://watchface.io/marqathlete/manual
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Existem dois lugares diferentes com configurações:
+* App Garmin IQ (no seu telefone vá para o seu dispositivo, mostradores, configurações): Configure campos de dados, cores e configurações gerais.
+* Configurações no relógio: Acesse opções mais detalhadas como formato de hora, metas e unidades diretamente no relógio segurando o botão menu, selecionando mostrador e tocando em personalizar.
+
+⭐️ Campos de dados ⭐️
+Todos os campos de dados que a Garmin atualmente fornece para desenvolvedores terceirizados estão disponíveis, além de extras como suporte ao Monitor de Glicose (CGM), Open Weather Map (OWM) e suporte para outros aplicativos de terceiros.
+Todos os campos de dados disponíveis estão listados aqui: https://watchface.io/docs/datafields. Alguns campos de dados (como prontidão para treinamento ou HRV) atualmente não estão disponíveis para desenvolvedores terceirizados, veja aqui: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Se você encontrar bugs ou problemas, entre em contato comigo pressionando "Entrar em contato com o desenvolvedor" em vez de usar o sistema de avaliação. Posso responder e-mails rapidamente, enquanto posso não ver avaliações por vários dias. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

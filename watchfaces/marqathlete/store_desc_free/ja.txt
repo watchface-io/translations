@@ -1,0 +1,29 @@
+Marq Athleteウォッチフェイスにインスパイアされた、クリーンでエレガントなウォッチフェイス。
+110以上のデータフィールド、多くのAODオプション、無制限のカスタマイズ、グラデーション進行バー、プリセット
+
+⭐️ 無料 vs Pro ⭐️
+このウォッチフェイスは、すべての基本機能で無料でご利用いただけます。プレミアム機能（[*]でマーク）はロック解除にProキーが必要です。Proキーはこちらで購入できます：https://watchface.io/marqathlete または完全にロック解除されたPROバージョンをこちらで入手：https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPSデバイス（Fenix 7、Enduro、Forerunner 255など）⭐️
+このウォッチフェイスはMIPS用に完全に最適化されていますが、ほとんどの画像のように色が異なって見える場合があります。これらはAmoledデバイスで撮影されているためです。MIPSテーマを含むすべての組み込みテーマはこちらで見つけることができます：https://watchface.io/marqathlete/themes
+
+⭐️ リソース ⭐️
+* FAQ：https://watchface.io/faq
+* マニュアル：https://watchface.io/marqathlete/manual
+* PROキーを入手：https://ko-fi.com/s/705676e404 または https://watchface.io/marqathlete
+* テーマリスト：https://watchface.io/marqathlete/themes
+* カラーガイド：https://watchface.io/docs/color-list
+* 利用可能なデータフィールド：https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：設定には2つの異なる場所があります：
+* Garmin IQアプリ（お使いの電話でデバイス、ウォッチフェイス、設定に移動）：データフィールド、色、一般設定を構成します。
+* ウォッチ上の設定：メニューボタンを長押し、ウォッチフェイスを選択し、カスタマイズをタップして、時間形式、目標、単位などのより詳細なオプションにウォッチで直接アクセスします。
+
+⭐️ データフィールド ⭐️
+Garminが現在サードパーティ開発者に提供しているすべてのデータフィールドが利用可能で、さらにGlucose Monitor（CGM）サポート、Open Weather Map（OWM）、その他のサードパーティアプリのサポートなどの追加機能もあります。
+利用可能なすべてのデータフィールドはこちらにリストされています：https://watchface.io/docs/datafields。一部のデータフィールド（トレーニング準備やHRVなど）は現在サードパーティ開発者には利用できません。こちらを参照してください：https://watchface.io/faq/can-you-add-training-readiness
+
+*** バグや問題が発生した場合は、レビューシステムを使用する代わりに「Contact Developer」を押して私に連絡してください。メールには迅速に返信できますが、レビューは数日間見られない場合があります。***
+
+* 変更ログ：https://watchface.io/marqathlete/changelog

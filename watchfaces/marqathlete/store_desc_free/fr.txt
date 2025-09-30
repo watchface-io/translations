@@ -1,0 +1,29 @@
+Cadran de montre propre et élégant, inspiré du cadran Marq Athlete.
+Plus de 110 champs de données, de nombreuses options AOD, personnalisations illimitées, barres de progression dégradées et préréglages
+
+⭐️ Gratuit vs Pro ⭐️
+Ce cadran de montre est disponible gratuitement avec toutes les fonctions de base. Les fonctionnalités premium (marquées avec [*]) nécessitent une Clé Pro pour déverrouiller. Vous pouvez acheter une Clé Pro ici : https://watchface.io/marqathlete ou obtenir la version PRO entièrement déverrouillée ici : https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ Appareils MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Ce cadran de montre est entièrement optimisé pour MIPS, mais les couleurs peuvent paraître différentes comme dans la plupart des images, car celles-ci sont prises sur un appareil Amoled. Vous pouvez trouver tous les thèmes intégrés, y compris les thèmes MIPS ici : https://watchface.io/marqathlete/themes
+
+⭐️ Ressources ⭐️
+* FAQ : https://watchface.io/faq
+* Manuel : https://watchface.io/marqathlete/manual
+* Obtenir une clé PRO : https://ko-fi.com/s/705676e404 ou https://watchface.io/marqathlete
+* Liste des Thèmes : https://watchface.io/marqathlete/themes
+* Guide des Couleurs : https://watchface.io/docs/color-list
+* Champs de Données Disponibles : https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note : Il y a deux endroits différents avec des paramètres :
+* App Garmin IQ (sur votre téléphone allez à votre appareil, cadrans de montre, paramètres) : Configurez les champs de données, les couleurs et les paramètres généraux.
+* Paramètres sur la Montre : Accédez à des options plus détaillées comme le format de l'heure, les objectifs et les unités directement sur la montre en maintenant le bouton menu, en sélectionnant le cadran de montre et en appuyant sur personnaliser.
+
+⭐️ Champs de Données ⭐️
+Tous les champs de données que Garmin fournit actuellement aux développeurs tiers sont disponibles, plus des extras comme le support Glucose Monitor (CGM), Open Weather Map (OWM) et le support pour d'autres applications tierces.
+Tous les champs de données disponibles sont listés ici : https://watchface.io/docs/datafields. Certains champs de données (comme la préparation à l'entraînement ou HRV) ne sont actuellement pas disponibles pour les développeurs tiers, voir ici : https://watchface.io/faq/can-you-add-training-readiness
+
+*** Si vous rencontrez des bugs ou des problèmes, veuillez me contacter en appuyant sur "Contact Developer" au lieu d'utiliser le système d'avis. Je peux répondre aux emails rapidement, alors que je pourrais ne pas voir les avis pendant plusieurs jours. ***
+
+* Changelog : https://watchface.io/marqathlete/changelog

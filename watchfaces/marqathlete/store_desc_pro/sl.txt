@@ -1,0 +1,29 @@
+Čista in elegantna številčnica, navdahnjena s številčnico Marq Athlete.
+Več kot 110 podatkovnih polj, mnoge AOD možnosti, neomejene prilagoditve, gradientne vrstice napredka in prednastavitve
+
+⭐️ Preizkusite pred nakupom! ⭐️
+Preden kupite to številčnico, najprej preizkusite brezplačno različico, da se prepričate, da je to tisto, kar želite, in da vam je všeč, kako izgleda na vaši uri: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ MIPS naprave (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ta številčnica je popolnoma optimizirana za MIPS, vendar se lahko barve zdijo drugačne kot na večini slik, saj so te posnete na Amoled napravi. Vse vgrajene teme lahko najdete tukaj: https://watchface.io/marqathlete/themes
+
+⭐️ Viri ⭐️
+* Pogosta vprašanja: https://watchface.io/faq
+* Seznam tem: https://watchface.io/marqathlete/themes
+* Priročnik: https://watchface.io/marqathlete/manual
+* Vodič po barvah: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Aplikacija Garmin IQ (na telefonu pojdite na vašo napravo, številčnice, nastavitve): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostopajte do podrobnejših možnosti, kot so format časa, cilji in enote neposredno na uri z držanjem gumba menija, izbiro številčnice in dotikanjem prilagodi.
+
+⭐️ Podatkovna polja ⭐️
+Vsa podatkovna polja, ki jih Garmin trenutno zagotavlja razvijalcem tretjih strank, so na voljo, plus dodatki, kot so podpora za Glucose Monitor (CGM), Open Weather Map (OWM) in podpora za druge aplikacije tretjih strank.
+Vsa razpoložljiva podatkovna polja so navedena tukaj: https://watchface.io/docs/datafields. Nekatera podatkovna polja (kot je pripravljenost na trening ali HRV) trenutno niso na voljo razvijalcem tretjih strank, glej tukaj: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Če naletite na napake ali težave, me prosim kontaktirajte s pritiskom na "Kontaktiraj razvijalca" namesto da uporabljate sistem ocen. Lahko hitro odgovorim na e-pošto, medtem ko morda ne vidim ocen več dni. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

@@ -1,0 +1,29 @@
+Esfera de reloj limpia y elegante, inspirada en la esfera Marq Athlete.
+Más de 110 campos de datos, muchas opciones AOD, personalizaciones ilimitadas, barras de progreso degradadas y preajustes
+
+⭐️ Gratis vs Pro ⭐️
+Esta esfera de reloj está disponible sin costo con todas las funciones básicas. Las características premium (marcadas con [*]) requieren una Clave Pro para desbloquear. Puedes comprar una Clave Pro aquí: https://watchface.io/marqathlete o obtener la versión PRO completamente desbloqueada aquí: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Esta esfera de reloj está completamente optimizada para MIPS, pero los colores pueden verse diferentes como in la mayoría de las imágenes, ya que estas se toman en un dispositivo Amoled. Puedes encontrar todos los temas incorporados, incluidos los temas MIPS aquí: https://watchface.io/marqathlete/themes
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/marqathlete/manual
+* Obtener una clave PRO: https://ko-fi.com/s/705676e404 o https://watchface.io/marqathlete
+* Lista de Temas: https://watchface.io/marqathlete/themes
+* Guía de Colores: https://watchface.io/docs/color-list
+* Campos de Datos Disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuraciones:
+* App Garmin IQ (en tu teléfono ve a tu dispositivo, esferas de reloj, configuraciones): Configura campos de datos, colores y configuraciones generales.
+* Configuraciones en el Reloj: Accede a opciones más detalladas como formato de tiempo, objetivos y unidades directamente en el reloj manteniendo presionado el botón de menú, seleccionando esfera de reloj y tocando personalizar.
+
+⭐️ Campos de Datos ⭐️
+Todos los campos de datos que Garmin actualmente suministra a desarrolladores de terceros están disponibles, más extras como soporte para Monitor de Glucosa (CGM), Open Weather Map (OWM) y soporte para otras aplicaciones de terceros.
+Todos los campos de datos disponibles están listados aquí: https://watchface.io/docs/datafields. Algunos campos de datos (como preparación para entrenamiento o HRV) actualmente no están disponibles para desarrolladores de terceros, ver aquí: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Si encuentras algún error o problema, por favor contáctame presionando "Contact Developer" en lugar de usar el sistema de reseñas. Puedo responder a emails prontamente, mientras que podría no ver reseñas durante varios días. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

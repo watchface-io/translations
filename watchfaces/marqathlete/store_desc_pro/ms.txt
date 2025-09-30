@@ -1,0 +1,29 @@
+Watchface yang bersih dan elegan, diilhamkan oleh watchface Marq Athlete.
+Lebih 110 medan data, banyak pilihan AOD, kustomisasi tanpa had, bar kemajuan gradien dan pratetap
+
+⭐️ Cuba sebelum membeli! ⭐️
+Sebelum membeli watchface ini, cuba dulu versi percuma untuk memastikan ini adalah yang anda inginkan dan bahawa anda suka dengan rupa di jam tangan anda: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ Peranti MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Watchface ini dioptimumkan sepenuhnya untuk MIPS, tetapi warna boleh kelihatan berbeza seperti dalam kebanyakan gambar, kerana gambar-gambar ini diambil pada peranti Amoled. Anda boleh dapati semua tema terbina dalam di sini: https://watchface.io/marqathlete/themes
+
+⭐️ Sumber ⭐️
+* Soalan Lazim: https://watchface.io/faq
+* Senarai Tema: https://watchface.io/marqathlete/themes
+* Manual: https://watchface.io/marqathlete/manual
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Aplikasi Garmin IQ (pada telefon anda pergi ke peranti anda, watchfaces, tetapan): Konfigurasikan medan data, warna, dan tetapan am.
+* Tetapan Di Jam: Akses pilihan yang lebih terperinci seperti format masa, matlamat, dan unit terus pada jam tangan dengan menahan butang menu, memilih watchface, dan mengetik kustomisasi.
+
+⭐️ Medan Data ⭐️
+Semua medan data yang Garmin sediakan kepada pemaju pihak ketiga pada masa ini tersedia, ditambah tambahan seperti sokongan Glucose Monitor (CGM), Open Weather Map (OWM) dan sokongan untuk aplikasi pihak ketiga yang lain.
+Semua medan data yang tersedia disenaraikan di sini: https://watchface.io/docs/datafields. Sesetengah medan data (seperti kesediaan latihan atau HRV) pada masa ini tidak tersedia kepada pemaju pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Hubungi Pemaju" dan bukannya menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan selama beberapa hari. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

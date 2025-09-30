@@ -1,0 +1,29 @@
+Muka jam yang bersih dan elegan, diilhamkan oleh muka jam Marq Athlete.
+Lebih 110 medan data, banyak pilihan AOD, penyesuaian tanpa had, bar kemajuan kecerunan dan pratetap
+
+⭐️ Percuma vs Pro ⭐️
+Muka jam ini tersedia tanpa kos dengan semua fungsi asas. Ciri premium (ditandakan dengan [*]) memerlukan Kunci Pro untuk membuka kunci. Anda boleh membeli Kunci Pro di sini: https://watchface.io/marqathlete atau dapatkan versi PRO yang dibuka sepenuhnya di sini: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ Peranti MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Muka jam ini dioptimumkan sepenuhnya untuk MIPS, tetapi warna boleh kelihatan berbeza seperti dalam kebanyakan gambar, kerana ini diambil pada peranti Amoled. Anda boleh menemui semua tema terbina dalam, termasuk tema MIPS di sini: https://watchface.io/marqathlete/themes
+
+⭐️ Sumber ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/marqathlete/manual
+* Dapatkan kunci PRO: https://ko-fi.com/s/705676e404 atau https://watchface.io/marqathlete
+* Senarai Tema: https://watchface.io/marqathlete/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Apl Garmin IQ (pada telefon anda pergi ke peranti anda, muka jam, tetapan): Konfigurasikan medan data, warna, dan tetapan umum.
+* Tetapan Pada Jam: Akses pilihan lebih terperinci seperti format masa, matlamat, dan unit terus pada jam dengan menahan butang menu, memilih muka jam, dan ketuk sesuaikan.
+
+⭐️ Medan Data ⭐️
+Semua medan data yang Garmin pada masa ini membekalkan kepada pembangun pihak ketiga tersedia, ditambah dengan tambahan seperti sokongan Monitor Glukosa (CGM), Open Weather Map (OWM) dan sokongan untuk aplikasi pihak ketiga lain.
+Semua medan data yang tersedia disenaraikan di sini: https://watchface.io/docs/datafields. Sesetengah medan data (seperti kesediaan latihan atau HRV) pada masa ini tidak tersedia kepada pembangun pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Contact Developer" dan bukannya menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, manakala saya mungkin tidak melihat ulasan untuk beberapa hari. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

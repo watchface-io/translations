@@ -1,0 +1,29 @@
+Schone en elegante wijzerplaat, geïnspireerd door de Marq Athlete wijzerplaat.
+Meer dan 110 datavelden, vele AOD opties, onbeperkte aanpassingen, gradiënt voortgangsbalken en voorinstellingen
+
+⭐️ Gratis vs Pro ⭐️
+Deze wijzerplaat is kosteloos beschikbaar met alle basisfuncties. Premium functies (gemarkeerd met [*]) vereisen een Pro sleutel om te ontgrendelen. U kunt een Pro sleutel hier kopen: https://watchface.io/marqathlete of de volledig ontgrendelde PRO versie hier krijgen: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS apparaten (Fenix 7, Enduro, Forerunner 255, enz.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar kleuren kunnen er anders uitzien dan in de meeste afbeeldingen, omdat deze genomen zijn op een Amoled apparaat. U kunt alle ingebouwde thema's vinden, inclusief MIPS thema's hier: https://watchface.io/marqathlete/themes
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Handleiding: https://watchface.io/marqathlete/manual
+* PRO sleutel krijgen: https://ko-fi.com/s/705676e404 of https://watchface.io/marqathlete
+* Themalijst: https://watchface.io/marqathlete/themes
+* Kleurgids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Opmerking: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ app (op uw telefoon ga naar uw apparaat, wijzerplaten, instellingen): Configureer datavelden, kleuren en algemene instellingen.
+* Instellingen op horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en aanpassen aan te raken.
+
+⭐️ Datavelden ⭐️
+Alle datavelden die Garmin momenteel levert aan derde partij ontwikkelaars zijn beschikbaar, plus extra's zoals Glucose Monitor (CGM) ondersteuning, Open Weather Map (OWM) en ondersteuning voor andere derde partij apps.
+Alle beschikbare datavelden staan hier vermeld: https://watchface.io/docs/datafields. Sommige datavelden (zoals trainingsgereedheid of HRV) zijn momenteel niet beschikbaar voor derde partij ontwikkelaars, zie hier: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Als u bugs of problemen tegenkomt, neem dan contact met mij op door op "Contact Developer" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan snel reageren op e-mails, terwijl ik beoordelingen misschien dagen niet zie. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

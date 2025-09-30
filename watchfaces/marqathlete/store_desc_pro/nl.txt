@@ -1,0 +1,29 @@
+Schone en elegante wijzerplaat, geïnspireerd door de Marq Athlete wijzerplaat.
+Meer dan 110 datavelden, vele AOD-opties, onbeperkte aanpassingen, gradiënt voortgangsbalken en presets
+
+⭐️ Probeer voor je koopt! ⭐️
+Voordat je deze wijzerplaat koopt, probeer eerst de gratis versie om er zeker van te zijn dat het is wat je wilt en dat je het mooi vindt op je horloge: https://apps.garmin.com/apps/a80fe152-af95-4606-ac9c-1860359e41d4
+
+⭐️ MIPS-apparaten (Fenix 7, Enduro, Forerunner 255, enz.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar kleuren kunnen er anders uitzien dan in de meeste afbeeldingen, omdat deze zijn gemaakt op een Amoled-apparaat. Je kunt alle ingebouwde thema's hier vinden: https://watchface.io/marqathlete/themes
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Themalijst: https://watchface.io/marqathlete/themes
+* Handleiding: https://watchface.io/marqathlete/manual
+* Kleurengids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Let op: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ App (ga op je telefoon naar je apparaat, wijzerplaten, instellingen): Configureer datavelden, kleuren en algemene instellingen.
+* Instellingen op horloge: Krijg toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en aanpassen aan te tikken.
+
+⭐️ Datavelden ⭐️
+Alle datavelden die Garmin momenteel aan third-party ontwikkelaars levert zijn beschikbaar, plus extra's zoals Glucose Monitor (CGM) ondersteuning, Open Weather Map (OWM) en ondersteuning voor andere third-party apps.
+Alle beschikbare datavelden staan hier: https://watchface.io/docs/datafields. Sommige datavelden (zoals trainingsbereidheid of HRV) zijn momenteel niet beschikbaar voor third-party ontwikkelaars, zie hier: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Als je bugs of problemen tegenkomt, neem dan contact met me op door "Contact ontwikkelaar" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan snel op e-mails reageren, terwijl ik beoordelingen misschien dagen niet zie. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

@@ -1,0 +1,29 @@
+Čist i elegantan brojčanik inspiriran Marq Athlete brojčanikom.
+Preko 110 polja podataka, mnoge AOD opcije, neograničene prilagodbe, gradijentne trake napretka i predloške
+
+⭐️ Besplatno vs Pro ⭐️
+Ovaj brojčanik je dostupan besplatno sa svim osnovnim funkcijama. Premium značajke (označene sa [*]) zahtijevaju Pro ključ za otključavanje. Možete kupiti Pro ključ ovdje: https://watchface.io/marqathlete ili dobiti potpuno otključanu PRO verziju ovdje: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS uređaji (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ovaj brojčanik je potpuno optimiziran za MIPS, ali boje mogu izgledati drugačije kao na većini slika, jer su snimljene na Amoled uređaju. Možete pronaći sve ugrađene teme, uključujući MIPS teme ovdje: https://watchface.io/marqathlete/themes
+
+⭐️ Resursi ⭐️
+* FAQ: https://watchface.io/faq
+* Priručnik: https://watchface.io/marqathlete/manual
+* Nabaviti PRO ključ: https://ko-fi.com/s/705676e404 ili https://watchface.io/marqathlete
+* Lista tema: https://watchface.io/marqathlete/themes
+* Vodič za boje: https://watchface.io/docs/color-list
+* Dostupna polja podataka: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Napomena: Postoje dva različita mjesta s postavkama:
+* Garmin IQ aplikacija (na telefonu idite na svoj uređaj, brojčanike, postavke): Konfigurirajte polja podataka, boje i opće postavke.
+* Postavke na satu: Pristupite detaljnijim opcijama poput formata vremena, ciljeva i jedinica direktno na satu držanjem gumba izbornika, odabirom brojčanika i dodirom na prilagodi.
+
+⭐️ Polja podataka ⭐️
+Sva polja podataka koja Garmin trenutno pruža programerima treće strane dostupna su, plus dodatci poput podrške za Glucose Monitor (CGM), Open Weather Map (OWM) i podrška za druge aplikacije treće strane.
+Sva dostupna polja podataka navedena su ovdje: https://watchface.io/docs/datafields. Neka polja podataka (poput pripremljenosti za trening ili HRV) trenutno nisu dostupna programerima treće strane, pogledajte ovdje: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Ako naiđete na greške ili probleme, molimo kontaktirajte me pritiskom na "Contact Developer" umjesto korištenja sustava recenzija. Mogu brzo odgovoriti na e-mailove, dok možda neću vidjeti recenzije nekoliko dana. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

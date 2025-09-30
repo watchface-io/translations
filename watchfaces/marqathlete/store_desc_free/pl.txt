@@ -1,0 +1,29 @@
+Czysta i elegancka tarcza zegarka inspirowana tarczą Marq Athlete.
+Ponad 110 pól danych, wiele opcji AOD, nieograniczone dostosowania, paski postępu z gradientem i predefiniowane ustawienia
+
+⭐️ Darmowa vs Pro ⭐️
+Ta tarcza zegarka jest dostępna bezpłatnie ze wszystkimi podstawowymi funkcjami. Funkcje premium (oznaczone [*]) wymagają klucza Pro do odblokowania. Możesz kupić klucz Pro tutaj: https://watchface.io/marqathlete lub uzyskać w pełni odblokowaną wersję PRO tutaj: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ Urządzenia MIPS (Fenix 7, Enduro, Forerunner 255, itp.) ⭐️
+Ta tarcza zegarka jest w pełni zoptymalizowana dla MIPS, ale kolory mogą wyglądać inaczej niż na większości zdjęć, ponieważ są wykonywane na urządzeniu Amoled. Wszystkie wbudowane motywy, w tym motywy MIPS, znajdziesz tutaj: https://watchface.io/marqathlete/themes
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Instrukcja: https://watchface.io/marqathlete/manual
+* Uzyskaj klucz PRO: https://ko-fi.com/s/705676e404 lub https://watchface.io/marqathlete
+* Lista motywów: https://watchface.io/marqathlete/themes
+* Przewodnik kolorów: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Istnieją dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie przejdź do urządzenia, tarcze zegarków, ustawienia): Skonfiguruj pola danych, kolory i ustawienia ogólne.
+* Ustawienia na zegarku: Dostęp do bardziej szczegółowych opcji, takich jak format czasu, cele i jednostki bezpośrednio na zegarku, przytrzymując przycisk menu, wybierając tarczę zegarka i dotykając dostosuj.
+
+⭐️ Pola danych ⭐️
+Wszystkie pola danych, które Garmin obecnie dostarcza deweloperom zewnętrznym, są dostępne, plus dodatki jak obsługa monitora glukozy (CGM), Open Weather Map (OWM) i obsługa innych aplikacji zewnętrznych.
+Wszystkie dostępne pola danych są wymienione tutaj: https://watchface.io/docs/datafields. Niektóre pola danych (jak gotowość treningowa lub HRV) nie są obecnie dostępne dla deweloperów zewnętrznych, zobacz tutaj: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Jeśli napotkasz błędy lub problemy, skontaktuj się ze mną, naciskając "Contact Developer" zamiast używać systemu recenzji. Mogę szybko odpowiadać na e-maile, podczas gdy mogę nie widzieć recenzji przez kilka dni. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

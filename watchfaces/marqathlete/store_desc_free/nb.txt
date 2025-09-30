@@ -1,0 +1,29 @@
+Ren og elegant urskive inspirert av Marq Athlete urskiven.
+Over 110 datafelt, mange AOD alternativer, ubegrensede tilpasninger, gradient fremgangsstolper og forhåndsinnstillinger
+
+⭐️ Gratis vs Pro ⭐️
+Denne urskiven er tilgjengelig uten kostnad med alle grunnleggende funksjoner. Premium funksjoner (merket med [*]) krever en Pro nøkkel for å låse opp. Du kan kjøpe en Pro nøkkel her: https://watchface.io/marqathlete eller få den fullt opplåste PRO versjonen her: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS enheter (Fenix 7, Enduro, Forerunner 255, osv.) ⭐️
+Denne urskiven er fullt optimalisert for MIPS, men farger kan se annerledes ut som i de fleste bildene, siden disse er tatt på en Amoled enhet. Du kan finne alle de innebygde temaene, inkludert MIPS temaer her: https://watchface.io/marqathlete/themes
+
+⭐️ Ressurser ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/marqathlete/manual
+* Få en PRO nøkkel: https://ko-fi.com/s/705676e404 eller https://watchface.io/marqathlete
+* Temaliste: https://watchface.io/marqathlete/themes
+* Fargeguide: https://watchface.io/docs/color-list
+* Tilgjengelige datafelt: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ app (på telefonen din gå til enheten din, urskiver, innstillinger): Konfigurer datafelt, farger og generelle innstillinger.
+* Innstillinger på klokka: Tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde menyknappen, velge urskive og trykke tilpass.
+
+⭐️ Datafelt ⭐️
+Alle datafelt som Garmin for øyeblikket leverer til tredjepartsutviklere er tilgjengelige, pluss ekstra som Glucose Monitor (CGM) støtte, Open Weather Map (OWM) og støtte for andre tredjeparts apper.
+Alle tilgjengelige datafelt er listet her: https://watchface.io/docs/datafields. Noen datafelt (som treningsberedskap eller HRV) er for øyeblikket ikke tilgjengelige for tredjepartsutviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+*** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke "Contact Developer" i stedet for å bruke anmeldelsessystemet. Jeg kan svare på e-post raskt, mens jeg kanskje ikke ser anmeldelser på flere dager. ***
+
+* Changelog: https://watchface.io/marqathlete/changelog

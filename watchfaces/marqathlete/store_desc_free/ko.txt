@@ -1,0 +1,29 @@
+Marq Athlete 워치페이스에서 영감을 받은 깔끔하고 우아한 워치페이스입니다.
+110개 이상의 데이터 필드, 다양한 AOD 옵션, 무제한 사용자 정의, 그라디언트 진행률 표시줄 및 사전 설정
+
+⭐️ 무료 vs Pro ⭐️
+이 워치페이스는 모든 기본 기능과 함께 무료로 사용할 수 있습니다. 프리미엄 기능([*]로 표시)은 잠금 해제를 위해 Pro 키가 필요합니다. Pro 키는 여기에서 구입할 수 있습니다: https://watchface.io/marqathlete 또는 완전히 잠금 해제된 PRO 버전을 여기에서 구입하세요: https://apps.garmin.com/apps/fb6d03ff-d520-4488-8c68-4c771006557d
+
+⭐️ MIPS 장치 (Fenix 7, Enduro, Forerunner 255 등) ⭐️
+이 워치페이스는 MIPS에 완전히 최적화되어 있지만, Amoled 장치에서 촬영되었기 때문에 대부분의 사진과 색상이 다르게 보일 수 있습니다. MIPS 테마를 포함한 모든 내장 테마를 여기에서 찾을 수 있습니다: https://watchface.io/marqathlete/themes
+
+⭐️ 리소스 ⭐️
+* FAQ: https://watchface.io/faq
+* 매뉴얼: https://watchface.io/marqathlete/manual
+* PRO 키 얻기: https://ko-fi.com/s/705676e404 또는 https://watchface.io/marqathlete
+* 테마 목록: https://watchface.io/marqathlete/themes
+* 색상 가이드: https://watchface.io/docs/color-list
+* 사용 가능한 데이터 필드: https://watchface.io/docs/datafields
+
+⭐️ 구성 ⭐️
+참고: 설정이 있는 두 가지 다른 위치가 있습니다:
+* Garmin IQ 앱 (휴대폰에서 장치, 워치페이스, 설정으로 이동): 데이터 필드, 색상 및 일반 설정을 구성합니다.
+* 워치 설정: 메뉴 버튼을 길게 누르고 워치페이스를 선택한 후 사용자 정의를 눌러 워치에서 직접 시간 형식, 목표 및 단위와 같은 더 자세한 옵션에 액세스합니다.
+
+⭐️ 데이터 필드 ⭐️
+Garmin이 현재 서드파티 개발자에게 제공하는 모든 데이터 필드와 포도당 모니터(CGM) 지원, Open Weather Map(OWM) 및 기타 서드파티 앱 지원과 같은 추가 기능이 제공됩니다.
+사용 가능한 모든 데이터 필드는 여기에 나열되어 있습니다: https://watchface.io/docs/datafields. 일부 데이터 필드(훈련 준비도 또는 HRV와 같은)는 현재 서드파티 개발자가 사용할 수 없습니다. 여기를 참조하세요: https://watchface.io/faq/can-you-add-training-readiness
+
+*** 버그나 문제가 발생하면 리뷰 시스템을 사용하는 대신 "Contact Developer"를 눌러 저에게 연락해 주세요. 이메일에는 즉시 응답할 수 있지만 리뷰는 며칠 동안 보지 못할 수 있습니다. ***
+
+* 변경로그: https://watchface.io/marqathlete/changelog
