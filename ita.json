@@ -1,6 +1,6 @@
 {
     "settings" : {
-        "c0" : "Vuoto",
+        "c0" : "Niente",
         "c1" : "Minuti Attivi (8 giorni)",
         "c2" : "Calorie (8 giorni)",
         "c3" : "Distanza (8 giorni)",
@@ -36,6 +36,7 @@
         "b_101" : "Icona Allarme",
         "b_102" : "Icona Non Disturbare",
         "b_103" : "Icona Notifica",
+        "b_118" : "Notifiche, nascondi quando 0",
         "b_104" : "Icona Bluetooth",
         "b_120" : "Icone di Stato Impilate (piccole)",
         "b_105" : "Icone di Stato",
