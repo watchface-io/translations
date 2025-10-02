@@ -279,7 +279,8 @@
         "f683" : "CGM数据(其他来源)",
         "f682" : "应用Hydration PRO (vaw.be)",
         "f684" : "应用Hydrate+ (MD)",
-
+        "f685" : "QuoteGlance (加密货币/股票) 1",
+        "f686" : "NightscoutGlance (CGM/XDrip)",
 
         "m950": "周数百分比",
         "m951": "月份(1-12)",
