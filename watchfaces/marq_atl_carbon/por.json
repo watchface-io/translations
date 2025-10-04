@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Método desenho ponteiros",
+          "_b0": "Usar recomendado",
+          "_b1": "Melhor bateria (bufferizado)",
+          "_b2": "Melhor qualidade (desenho direto)",
+          "_hcsa": "AOD - Cor do ponteiro dos segundos",
+          
           "_theme": "Tema",
             "_preset": "Predefinições (Salvar/Carregar suas configurações)",
             "_s1": "1. Estilo Superior",

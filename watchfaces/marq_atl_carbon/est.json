@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Osutite joonistamise meetod",
+          "_b0": "Kasuta soovitatud",
+          "_b1": "Parem aku (puhverdatud)",
+          "_b2": "Parem kvaliteet (otsene joonistamine)",
+          "_hcsa": "AOD - Sekundiosauti värv",
+          
           "_theme": "Teema",
             "_preset": "Eelseaded (Salvesta/Laadi oma seaded)",
             "_s1": "1. Ülemise stiil",

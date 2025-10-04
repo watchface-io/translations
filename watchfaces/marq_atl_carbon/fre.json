@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Méthode de dessin des aiguilles",
+          "_b0": "Utiliser recommandé",
+          "_b1": "Meilleure batterie (tamponné)",
+          "_b2": "Meilleure qualité (dessin direct)",
+          "_hcsa": "AOD - Couleur de l'aiguille des secondes",
+          
           "_theme": "Thème",
             "_preset": "Préréglages (Sauvegarder/Charger vos paramètres)",
             "_s1": "1. Style du haut",

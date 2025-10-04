@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Režim kreslenia ručičiek",
+          "_b0": "Odporúčané použitie",
+          "_b1": "Lepšia batéria (vyrovnávacia pamäť)",
+          "_b2": "Lepšia kvalita (priame kreslenie)",
+          "_hcsa": "AOD - Farba sekundovej ručičky",
+          
           "_theme": "Téma",
             "_preset": "Predvoľby (Ukladanie/Načítavanie nastavení)",
             "_s1": "1. Štýl hora",

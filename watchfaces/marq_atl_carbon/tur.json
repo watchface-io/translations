@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "İbre çizim modu",
+          "_b0": "Önerilen kullanım",
+          "_b1": "Daha iyi pil (tamponlanmış)",
+          "_b2": "Daha iyi kalite (doğrudan çizim)",
+          "_hcsa": "AOD - Saniye ibresi rengi",
+          
           "_theme": "Tema",
             "_preset": "Ön Ayarlar (Ayarları Kaydet/Yükle)",
             "_s1": "1. Üst Stil",

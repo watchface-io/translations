@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Hands drawing method",
+          "_b0": "Use recommended",
+          "_b1": "Better Battery (Buffered)",
+          "_b2": "Better Quality (Direct Draw)",
+          "_hcsa": "AOD - Second Hand Color",
+          
           "_theme": "Theme",
             "_preset": "Presets (Save/Load your settings)",
             "_s1": "1. Top Style",

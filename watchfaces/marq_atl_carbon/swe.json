@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Visarritningsläge",
+          "_b0": "Rekommenderad användning",
+          "_b1": "Bättre batteri (buffrat)",
+          "_b2": "Bättre kvalitet (direkt ritning)",
+          "_hcsa": "AOD - Sekundvisarens färg",
+          
           "_theme": "Tema",
             "_preset": "Förinställningar (Spara/Ladda inställningar)",
             "_s1": "1. Stil topp",

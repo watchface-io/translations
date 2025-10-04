@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Metoda kreslení ručiček",
+          "_b0": "Použít doporučený",
+          "_b1": "Lepší baterie (vyrovnávací)",
+          "_b2": "Lepší kvalita (přímé kreslení)",
+          "_hcsa": "AOD - Barva sekundové ručičky",
+          
           "_theme": "Motiv",
             "_preset": "Předvolby (Uložit/Načíst vaše nastavení)",
             "_s1": "1. Styl vrchní části",

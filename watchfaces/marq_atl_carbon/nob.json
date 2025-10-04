@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Visere tegnemetode",
+          "_b0": "Bruk anbefalt",
+          "_b1": "Bedre batteri (bufret)",
+          "_b2": "Bedre kvalitet (direkte tegning)",
+          "_hcsa": "AOD - Sekundviser farge",
+          
           "_theme": "Tema",
             "_preset": "Forhåndsinnstillinger (Lagre/Last inn innstillingene dine)",
             "_s1": "1. Toppstil",

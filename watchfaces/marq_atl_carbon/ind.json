@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Mode menggambar jarum",
+          "_b0": "Penggunaan yang disarankan",
+          "_b1": "Baterai lebih baik (buffered)",
+          "_b2": "Kualitas lebih baik (gambar langsung)",
+          "_hcsa": "AOD - Warna Jarum Detik",
+          
           "_theme": "Tema",
             "_preset": "Preset (Simpan/Muat pengaturan Anda)",
             "_s1": "1. Gaya Atas",

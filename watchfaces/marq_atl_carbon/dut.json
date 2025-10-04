@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Wijzers tekenmethode",
+          "_b0": "Aanbevolen gebruiken",
+          "_b1": "Betere batterij (gebufferd)",
+          "_b2": "Betere kwaliteit (directe tekening)",
+          "_hcsa": "AOD - Secondewijzer kleur",
+          
           "_theme": "Thema",
             "_preset": "Presets (Sla je instellingen op/laad ze)",
             "_s1": "1. Bovenstijl",

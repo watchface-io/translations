@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Método dibujo manecillas",
+          "_b0": "Usar recomendado",
+          "_b1": "Mejor batería (con buffer)",
+          "_b2": "Mejor calidad (dibujo directo)",
+          "_hcsa": "AOD - Color de manecilla de segundo",
+          
           "_theme": "Tema",
             "_preset": "Ajustes preestablecidos (Guardar/Cargar configuración)",
             "_s1": "1. Estilo superior",
