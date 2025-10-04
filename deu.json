@@ -158,6 +158,7 @@
         "f618" : "Herzfrequenz",
         "f290" : "Herzfrequenz Min/Max (24h)",
         "f291" : "Herzfrequenz Min/Max (7 Tage)",
+        "f282" : "Herzfrequenz/Ruhe (24h)",
         "f12" : "Stress Wert",
         "f635" : "Pulse Ox",
         "f11" : "Atemfrequenz",
