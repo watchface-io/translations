@@ -157,9 +157,10 @@
         "f290" : "Frequenza Cardiaca Min/Max (24h)",
         "f291" : "Frequenza Cardiaca Min/Max (7 giorni)",
         "f12" : "Punteggio Stress",
-        "f635" : "Pulse Ox",
-        "f11" : "Frequenza Respiratoria",
-        "f623" : "Body Battery",
+    "f635" : "Pulse Ox",
+    "f11" : "Frequenza Respiratoria",
+    "f623" : "Body Battery",
+    "f282" : "Frequenza Cardiaca/Riposo (24h)",
         "f8" : "Barra Movimento",
         "f15" : "Barra di movimento invertita",
 
