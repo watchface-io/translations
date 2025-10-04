@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Tryb rysowania wskazówek",
+          "_b0": "Użyj zalecanego",
+          "_b1": "Lepsza bateria (buforowany)",
+          "_b2": "Lepsza jakość (bezpośrednie rysowanie)",
+          "_hcsa": "AOD - Kolor wskazówki sekund",
+          
           "_theme": "Motyw",
             "_preset": "Ustawienia wstępne (Zapisz/Wczytaj ustawienia)",
             "_s1": "1. Styl górny",

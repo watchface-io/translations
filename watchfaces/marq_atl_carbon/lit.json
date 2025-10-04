@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Rodyklių piešimo režimas",
+          "_b0": "Rekomenduojamas naudojimas",
+          "_b1": "Geresnė baterija (buferizuota)",
+          "_b2": "Geresnė kokybė (tiesioginis piešimas)",
+          "_hcsa": "AOD - Sekundžių rodyklės spalva",
+          
           "_theme": "Tema",
             "_preset": "Nustatymai (Išsaugoti/Įkelti jūsų nustatymus)",
             "_s1": "1. Viršutinis stilius",

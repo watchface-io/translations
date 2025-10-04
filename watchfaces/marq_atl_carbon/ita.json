@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Metodo disegno lancette",
+          "_b0": "Usa consigliato",
+          "_b1": "Batteria migliore (bufferizzato)",
+          "_b2": "Qualità migliore (disegno diretto)",
+          "_hcsa": "AOD - Colore lancetta secondi",
+          
           "_theme": "Tema",
             "_preset": "Preset (Salva/Carica le tue impostazioni)",
             "_s1": "1. Stile Superiore",

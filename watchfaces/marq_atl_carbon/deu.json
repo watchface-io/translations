@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Zeiger Zeichenmethode",
+          "_b0": "Empfohlene verwenden",
+          "_b1": "Bessere Batterie (gepuffert)",
+          "_b2": "Bessere Qualität (direktes Zeichnen)",
+          "_hcsa": "AOD - Sekundenzeiger Farbe",
+          
           "_theme": "Design",
             "_preset": "Voreinstellungen (Speichern/Laden Ihrer Einstellungen)",
             "_s1": "1. Oberer Stil",

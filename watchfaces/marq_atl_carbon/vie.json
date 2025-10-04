@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Chế độ vẽ kim",
+          "_b0": "Sử dụng được khuyên dùng",
+          "_b1": "Pin tốt hơn (có bộ đệm)",
+          "_b2": "Chất lượng tốt hơn (vẽ trực tiếp)",
+          "_hcsa": "AOD - Màu kim giây",
+          
           "_theme": "Chủ đề",
             "_preset": "Cài đặt sẵn (Lưu/Tải cài đặt)",
             "_s1": "1. Kiểu trên",

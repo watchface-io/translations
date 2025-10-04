@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Viisarien piirtotapa",
+          "_b0": "Käytä suositeltua",
+          "_b1": "Parempi akku (puskuroitu)",
+          "_b2": "Parempi laatu (suora piirto)",
+          "_hcsa": "AOD - Sekuntiviisarin väri",
+          
           "_theme": "Teema",
             "_preset": "Esiasetukset (Tallenna/Lataa asetuksesi)",
             "_s1": "1. Ylätyyli",

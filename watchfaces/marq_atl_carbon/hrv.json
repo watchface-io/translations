@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Metoda crtanja kazaljki",
+          "_b0": "Koristi preporučeno",
+          "_b1": "Bolja baterija (pohranjena)",
+          "_b2": "Bolja kvaliteta (izravno crtanje)",
+          "_hcsa": "AOD - Boja sekundne kazaljke",
+          
           "_theme": "Tema",
             "_preset": "Predloške (Spremi/Učitaj svoje postavke)",
             "_s1": "1. Gornji stil",

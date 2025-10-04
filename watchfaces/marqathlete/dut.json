@@ -139,9 +139,11 @@
         "_ae": "Volledige AOD (standaard)",
         "_af": "Alleen wijzers",
         "_ag": "Wijzers + Cirkels",
-        "_ah": "Wijzers + Centrale data",
+        "_ah": "Wijzers + Centrale gegevens",
         "_ai": "Wijzers + 2 velden (selecteer hieronder)",
-        "kai": "Behouden zoals is",
+        "_aj": "Wijzers + wijzerplaat",
+        "_ak": "Wijzers + wijzerplaat + twee velden",
+        "kai": "Houden zoals het is",
           
         "_ls": "Selecteer om instellingen te laden/opslaan",
         "_ll": "=== INSTELLINGEN LADEN: ===",

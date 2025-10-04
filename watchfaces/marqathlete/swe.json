@@ -139,9 +139,11 @@
         "_ae": "Full AOD (standard)",
         "_af": "Endast visare",
         "_ag": "Visare + Cirklar",
-        "_ah": "Visare + Mittdata",
+        "_ah": "Visare + Centerdata",
         "_ai": "Visare + 2 fält (välj nedan)",
-        "kai": "Lämna oförändrad",
+        "_aj": "Visare + urtavla",
+        "_ak": "Visare + urtavla + två fält",
+        "kai": "Behåll som den är",
           
         "_ls": "Välj för att ladda/spara inställningar",
         "_ll": "=== LADDA INSTÄLLNINGAR: ===",

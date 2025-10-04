@@ -141,6 +141,8 @@
         "_ag": "Hands + Circles",
         "_ah": "Hands + Center Data",
         "_ai": "Hands + 2 Fields (select below)",
+        "_aj": "Hands + dial",
+        "_ak": "Hands + dial + two fields",
         "kai": "Keep as is",
           
         "_ls": "Select to Load/Save Settings",

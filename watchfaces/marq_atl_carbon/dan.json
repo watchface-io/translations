@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Visere tegningsmetode",
+          "_b0": "Brug anbefalet",
+          "_b1": "Bedre batteri (bufferet)",
+          "_b2": "Bedre kvalitet (direkte tegning)",
+          "_hcsa": "AOD - Sekundvisers farve",
+          
           "_theme": "Tema",
             "_preset": "Forudindstillinger (Gem/Indlæs dine indstillinger)",
             "_s1": "1. Top stil",

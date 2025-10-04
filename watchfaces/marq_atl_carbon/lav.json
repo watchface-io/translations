@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Rādītāju zīmēšanas režīms",
+          "_b0": "Ieteicampās lietošana",
+          "_b1": "Labāka baterija (buferizēta)",
+          "_b2": "Labāka kvalitāte (tiešā zīmēšana)",
+          "_hcsa": "AOD - Sekunžu rādītāja krāsa",
+          
           "_theme": "Tēma",
             "_preset": "Priekšiestatījumi (Saglabāt/Ielādēt iestatījumus)",
             "_s1": "1. Augšējais stils",

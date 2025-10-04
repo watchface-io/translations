@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Način risanja kazalcev",
+          "_b0": "Priporočena uporaba",
+          "_b1": "Boljša baterija (medpomnjena)",
+          "_b2": "Boljša kakovost (neposredno risanje)",
+          "_hcsa": "AOD - Barva sekundnega kazalca",
+          
           "_theme": "Tema",
             "_preset": "Prednastavitve (Shranjevanje/Nalaganje nastavitev)",
             "_s1": "1. Slog zgoraj",

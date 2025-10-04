@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Mod desenare ace",
+          "_b0": "Utilizare recomandată",
+          "_b1": "Baterie mai bună (cu buffer)",
+          "_b2": "Calitate mai bună (desenare directă)",
+          "_hcsa": "AOD - Culoare ac secunde",
+          
           "_theme": "Temă",
             "_preset": "Presetări (Salvare/Încărcare setări)",
             "_s1": "1. Stil sus",

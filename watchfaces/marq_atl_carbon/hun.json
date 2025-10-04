@@ -1,5 +1,11 @@
 {
     "settings": {
+          "_hub": "Mutatók rajzolási módja",
+          "_b0": "Ajánlott használata",
+          "_b1": "Jobb akkumulátor (pufferelt)",
+          "_b2": "Jobb minőség (közvetlen rajzolás)",
+          "_hcsa": "AOD - Másodpercmutató színe",
+          
           "_theme": "Téma",
             "_preset": "Előbeállítások (Beállítások mentése/betöltése)",
             "_s1": "1. Felső stílus",
