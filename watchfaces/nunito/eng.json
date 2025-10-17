@@ -1,7 +1,7 @@
 {
     "settings": {
         "_theme": "Theme",
-    "_preset": "Presets (Save/Load your settings",
+    "_preset": "Presets (Save/Load your settings)",
     "_timeF": "Time Format (time)",
     "_touch": "[*] Enable Touch (PRO, touch = hold 3 seconds)",
     "_touch1": "[*] Hour Touch Shortcut",
@@ -38,7 +38,7 @@
     "_l8": "8. Bottom 3 Label",
     "_f9": "9. Bottom 4 Data",
     "_l9": "9. Bottom 4 Label",
-    "_aas": "Always on seconds (when placed in main bar",
+    "_aas": "Always on seconds (when placed in center bar)",
     "_pbar": "Progress Bars Style",
     "_gradientq": "Gradient Quality (higher quality = more battery usage)",
     "_tf": "Top Text Font",
