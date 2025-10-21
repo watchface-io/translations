@@ -74,7 +74,7 @@
     "_pbt": "Center Progress Bars Thickness",
     "_aod_1": "AOD Options (Always on Display)",
     "_aodbg": "AOD Background (Full AOD only)",
-    "_aodT": "AOD Dimming Level. If screen turns off during AOD, make this number higher. Lower number = more battery usage)",
+    "_aodT": "AOD Dimming Level (If screen turns off during AOD, make this number higher. Lower number = more battery usage)",
     "_aodS": "AOD shift (number of pixels the screen randomly shifts per minute to avoid burn-in)",
     "_t_guf": " 📖 GOALS/UNITS/FORMATS ",
     "preset_0": "Select to Load/Save presets",
