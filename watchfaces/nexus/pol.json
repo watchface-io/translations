@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Dane znacznika 1",
+        "_md2": "Dane znacznika 2",
+
+        "_f1": "Dane górnego pola",
+        "_l1": "Etykieta górnego pola",
+
+        "_f2": "Dane lewego pola",
+        "_l2": "Etykieta lewego pola",
+
+        "_f3": "Dane prawego pola",
+        "_l3": "Etykieta prawego pola",
+
+        "_f4": "Dane dolnego pola",
+        "_l4": "Etykieta dolnego pola",
+
+        "_f5": "Dane górnego postępu",
+        "_p5": "Styl górnego postępu",
+
+        "_f6": "Dane dolnego postępu",
+        "_p6": "Styl dolnego postępu",
+
+        "_f20": "Dane pola AOD",
+        "_l20": "Etykieta pola AOD",
+
+        "_hc1": "Kolor godziny",
+        "_hc2": "Kolor godziny 2",
+        "_hc3": "Kolor godziny 3 (wewnętrzny)",
+        "_hc4": "Kolor godziny 4 (wewnętrzny)",
+
+        "_mc1": "Kolor minuty 1 (kontur)",
+        "_mc2": "Kolor minuty 2 (kontur)",
+
+        "_mc3": "Kolor minuty 3 (wewnętrzny)",
+        "_mc4": "Kolor minuty 4 (wewnętrzny)",
+
+        "_sbg" : "Taki sam jak kolor tła",
+
+        "_m1": "Kolor znacznika 1",
+        "_m2": "Kolor znacznika 2",
+        
+        "_cp1": "Kolor górnego postępu",
+        "_c21": "Kolor górnego postępu 2",
+        "_cu1": "Kolor niewypełnionego górnego postępu",
+
+        "_cp2": "Kolor dolnego postępu",
+        "_c22": "Kolor dolnego postępu 2",
+        "_cu2": "Kolor niewypełnionego dolnego postępu",
+
+        "_bgc": "Kolor tła",
+        "_bgl": "Kolor linii tła",
+        "_cs": "70% ciemniej",
+        "_cpbs" : "Taki sam jak lewy górny pasek postępu",
+
+        "_stc" : "Taki sam jak kolor tekstu",
+        "_slc" : "Taki sam jak kolor etykiety",
+
+
+        "_c1": "Kolor danych górnego pola",
+        "_c1l": "Kolor etykiety górnego pola",
+
+        "_c2": "Kolor danych lewego pola",
+        "_c2l": "Kolor etykiety lewego pola",
+
+        "_c3": "Kolor danych prawego pola",
+        "_c3l": "Kolor etykiety prawego pola",
+
+        "_c4": "Kolor danych dolnego pola",
+        "_c4l": "Kolor etykiety dolnego pola",
+
+        "_c5": "Kolor danych górnego postępu",
+        "_c5l": "Kolor etykiety górnego postępu",
+
+        "_c6": "Kolor danych dolnego postępu",
+        "_c6l": "Kolor etykiety dolnego postępu",
+        "_x4": "Wczytaj poprzedni preset",
+        "_x3": "Wczytaj poprzedni motyw kolorów",
+
+        "_rst": "Resetuj wszystkie ustawienia",
+        "_tr": "👉 SKRÓTY DOTYKOWE",
+        "_tc": "🎨 KOLORY / TŁO",
+        "_tt": "🔤 CZCIONKI",
+        "_ta": "🖼️ USTAWIENIA AOD (Zawsze włączony wyświetlacz)",
+        "_to": "💡 INNE",
+        "_tx": "➡️ PRZESUNIĘCIA",
+
+        "_o1": "Przesunięcia czasu (X, Y, odstęp X, odstęp Y, Y minuty) Domyślnie: 20",
+        "_o2": "Przesunięcia X pola (Górne, Lewe, Prawe, Dolne, Postęp 1, Postęp 2) Domyślnie: 20",
+        "_o3": "Przesunięcia Y pola (Górne, Tekst lewy, Tekst prawy, Dolne, Postęp 1, Postęp 2, Etykieta lewa, Etykieta prawa) Domyślnie: 20",
+        "_bdb": "Rysuj tło liczb (ostrzejsze minuty, godziny niewidoczne z tyłu)",
+
+        "_t1": "Czcionka godziny",
+        "_t1a": "Czcionka godziny AOD",
+        "_t1s": "Rozmiar czcionki godziny",
+        "_t2": "Czcionka minuty",
+        "_t2a": "Czcionka minuty AOD",
+        "_t2s": "Rozmiar czcionki minuty",
+
+        "_t3": "Czcionka tekstu",
+        "_s1": "Rozmiar czcionki górnego tekstu",
+        "_s2": "Rozmiar czcionki tekstu postępu",
+        "_s3": "Rozmiar czcionki tekstu lewego/prawego",
+        "_s4": "Rozmiar czcionki dolnego tekstu",
+    
+        "_fo": "Obrysowana (jeśli dostępne)",
+        "_fk": "Zachowaj tę samą",
+        "_fks": "Zachowaj tę samą, włącznie z wewnętrzną",
+
+
+        "_pc": "Kolor tekstu",
+        "_ic": "Kolor etykiety",      
+
+        "_gq": "Jakość gradientu",
+        "_ng": "Bez gradientu",
+
+        "_0f" : "Pokaż postęp pola",
+        "_1f" : "Pełny",
+        "_2f" : "Pusty",
+        "_3f" : "Ukryj",
+
+        "_x2": "Wczytaj następny motyw kolorów",
+        
+        "_a1": "Skrót dotykowy Godzina w lewo",
+        "_a2": "Skrót dotykowy Godzina w prawo",
+        "_a3": "Skrót dotykowy Minuta w lewo",
+        "_a4": "Skrót dotykowy Minuta w prawo",
+
+        "_aas": "Zawsze włączone sekundy",
+        "_aod": "Tryb AOD (Zawsze włączony wyświetlacz)",
+        "_aodct": "Kolor odcienia czasu AOD",
+        "_aodc": "Kolor odcienia danych AOD",
+        "_aodT": "Jasność czasu AOD",
+        "_aodD": "Jasność danych AOD. Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Mniejsza liczba = mniejsze zużycie baterii, ale mniejsza jasność. Zobacz FAQ)",
+        "_aodS": "Przesunięcie AOD - liczba pikseli, o którą ekran losowo przesuwa się co minutę, aby zapobiec wypaleniu)",
+        "ad0": "Wyłącz ekran",
+        "ad100": "Pełny AOD (Domyślnie)",
+        
+        "ad1": "Tylko czas",
+        "ad3": "Tylko czas - Ruchomy",
+        "ad4": "Czas + pole danych (Wybierz poniżej)",
+        "ad6": "Ruchomy czas + pole danych"
+    }
+}

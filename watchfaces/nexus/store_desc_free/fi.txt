@@ -1,0 +1,32 @@
+Datarikas kellotaulu rajoittamattomilla mukautuksilla, yli 100 datakenttää ja täysin optimoitu minimaaliseen akunkäyttöön
+
+⭐️ Ilmainen vs Pro ⭐️
+Tämä kellonauhaa on saatavilla ilmaiseksi kaikilla perustoiminnoilla. Premium-ominaisuudet (merkitty [*]) vaativat Pro-avaimen avaamiseen. Voit ostaa Pro-avaimen täältä: https://ko-fi.com/s/3633613c58 tai https://watchface.io/nexus, tai ostaa PRO-version täältä: https://apps.garmin.com/apps/e3cb3f3d-5587-441e-90c2-43d14118bf3e.
+
+⭐️ MIPS-laitteet (Fenix 7, Enduro, Forerunner 255, jne.) ⭐️
+Tämä kellonauhaa on täysin optimoitu MIPS:lle, mutta värit voivat näyttää erilaisilta kuin useimmissa kuvissa, koska nämä on otettu Amoled-laitteella. Tässä kellonauhassa on monia MIPS:lle optimoituja teemoja ja se tukee MIPS-liukuvärejä. Löydät kaikki sisäänrakennetut teemat täältä: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Resurssit ⭐️
+* UKK: https://watchface.io/faq
+* Ohje: https://watchface.io/nexus/manual
+* Hanki PRO-avain: https://ko-fi.com/s/3633613c58 tai https://watchface.io/nexus
+* Teemalista: https://watchface.io/nexus/themes
+* Väriohje: https://watchface.io/docs/color-list
+* Saatavilla olevat datakentät: https://watchface.io/docs/datafields
+
+⭐️ Konfigurointi ⭐️
+Huomaa: On kaksi eri paikkaa asetuksilla:
+* Garmin IQ -sovellus (puhelimessasi mene laitteeseen, kellonauhaat, asetukset): Konfiguroi datakentät, värit ja yleiset asetukset.
+* Kellon asetukset: Pääse yksityiskohtaisempiin vaihtoehtoihin kuten aikamuoto, tavoitteet ja yksiköt suoraan kellossa pitämällä valikkonäppäintä pohjassa, valitsemalla kellonauhaa ja koskettamalla mukauta.
+
+⭐️ Datakentät ⭐️
+Kaikki datakentät, jotka Garmin tällä hetkellä tarjoaa kolmannen osapuolen kehittäjille, ovat saatavilla, plus lisäksi kuten Glukosemonitori (CGM) tuki, Open Weather Map (OWM) ja tuki muille kolmannen osapuolen sovelluksille.
+Kaikki saatavilla olevat datakentät on lueteltu täällä: https://watchface.io/docs/datafields. Jotkut datakentät (kuten harjoitteluvalmius tai HRV) eivät tällä hetkellä ole saatavilla kolmannen osapuolen kehittäjille, katso täältä: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Voinko muuttaa Fenix/Enduro, jne. tekstiä? ⭐️
+Kyllä, voit! Katso täältä: https://watchface.io/faq/how-to-change-the-fenix-text
+Itse asiassa kaikki tässä kellonauhassa voidaan säätää mieltymystesi mukaan.
+
+*** Jos kohtaat bugeja tai ongelmia, ota yhteyttä minuun painamalla "Contact Developer" arviointijärjestelmän käytön sijaan. Voin vastata sähköposteihin nopeasti, kun taas en ehkä näe arvioita useisiin päiviin. ***
+
+* Muutosloki: https://watchface.io/nexus/changelog

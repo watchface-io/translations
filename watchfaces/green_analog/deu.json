@@ -116,6 +116,7 @@
     "_aodT": "AOD - Helligkeitsstufe - (Bildschirm-Helligkeit einstellen, niedriger einstellen wenn Bildschirm ausgeht. Siehe FAQ)",
     "_aodC": "AOD - Lume-Tönungsfarbe (Tönt alle Daten mit dieser Farbe)",
     "_aodS": "AOD - Pixel-Verschiebung (Pixel um die der Bildschirm zufällig verschoben wird um Einbrennen zu verhindern)",
-    "_t_guf": " 📖 ZIELE/EINHEITEN/FORMATE "
+  "_t_guf": " 📖 ZIELE/EINHEITEN/FORMATE ",
+  "_hus": "Zeigerposition jede Sekunde anpassen (siehe FAQ)"
   }
 }

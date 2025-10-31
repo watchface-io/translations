@@ -116,6 +116,7 @@
     "_aodT": "AOD - Nível de brilho - (Definir brilho do ecrã, definir mais baixo quando o ecrã se desliga. Ver FAQ)",
     "_aodC": "AOD - Cor matiz Lume (Matiza todos os dados com esta cor)",
     "_aodS": "AOD - Deslocamento píxeis (píxeis que o ecrã desloca aleatoriamente para prevenir queima)",
-    "_t_guf": " 📖 OBJETIVOS/UNIDADES/FORMATOS "
+    "_t_guf": " 📖 OBJETIVOS/UNIDADES/FORMATOS ",
+    "_hus": "Ajustar a posição dos ponteiros a cada segundo (ver FAQ)"
   }
 }

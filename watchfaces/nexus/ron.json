@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Date Marker 1",
+        "_md2": "Date Marker 2",
+
+        "_f1": "Date Câmp Superior",
+        "_l1": "Etichetă Câmp Superior",
+
+        "_f2": "Date Câmp Stânga",
+        "_l2": "Etichetă Câmp Stânga",
+
+        "_f3": "Date Câmp Dreapta",
+        "_l3": "Etichetă Câmp Dreapta",
+
+        "_f4": "Date Câmp Inferior",
+        "_l4": "Etichetă Câmp Inferior",
+
+        "_f5": "Date Progres Superior",
+        "_p5": "Stil Progres Superior",
+
+        "_f6": "Date Progres Inferior",
+        "_p6": "Stil Progres Inferior",
+
+        "_f20": "Date Câmp AOD",
+        "_l20": "Etichetă Câmp AOD",
+
+        "_hc1": "Culoare Oră",
+        "_hc2": "Culoare Oră 2",
+        "_hc3": "Culoare Oră 3 (Interior)",
+        "_hc4": "Culoare Oră 4 (Interior)",
+
+        "_mc1": "Culoare Minut 1 (Contur)",
+        "_mc2": "Culoare Minut 2 (Contur)",
+
+        "_mc3": "Culoare Minut 3 (Interior)",
+        "_mc4": "Culoare Minut 4 (Interior)",
+
+        "_sbg" : "La fel cu Culoarea Fundalului",
+
+        "_m1": "Culoare Marker 1",
+        "_m2": "Culoare Marker 2",
+        
+        "_cp1": "Culoare Progres Superior",
+        "_c21": "Culoare Progres Superior 2",
+        "_cu1": "Culoare Progres Superior Necompletat",
+
+        "_cp2": "Culoare Progres Inferior",
+        "_c22": "Culoare Progres Inferior 2",
+        "_cu2": "Culoare Progres Inferior Necompletat",
+
+        "_bgc": "Culoare Fundal",
+        "_bgl": "Culoare Linii Fundal",
+        "_cs": "70% Mai Închis",
+        "_cpbs" : "La fel cu Bara de Progres Stânga Sus",
+
+        "_stc" : "La fel cu Culoarea Textului",
+        "_slc" : "La fel cu Culoarea Etichetei",
+
+
+        "_c1": "Culoare Date Câmp Superior",
+        "_c1l": "Culoare Etichetă Câmp Superior",
+
+        "_c2": "Culoare Date Câmp Stânga",
+        "_c2l": "Culoare Etichetă Câmp Stânga",
+
+        "_c3": "Culoare Date Câmp Dreapta",
+        "_c3l": "Culoare Etichetă Câmp Dreapta",
+
+        "_c4": "Culoare Date Câmp Inferior",
+        "_c4l": "Culoare Etichetă Câmp Inferior",
+
+        "_c5": "Culoare Date Progres Superior",
+        "_c5l": "Culoare Etichetă Progres Superior",
+
+        "_c6": "Culoare Date Progres Inferior",
+        "_c6l": "Culoare Etichetă Progres Inferior",
+        "_x4": "Încarcă Presetarea Anterioară",
+        "_x3": "Încarcă Tema de Culori Anterioară",
+
+        "_rst": "Resetează toate setările",
+        "_tr": "👉 SCURTĂTURI TACTILE",
+        "_tc": "🎨 CULORI / FUNDAL",
+        "_tt": "🔤 FONTURI",
+        "_ta": "🖼️ SETĂRI AOD (Afișaj Mereu Activ)",
+        "_to": "💡 ALTELE",
+        "_tx": "➡️ DECALAJE",
+
+        "_o1": "Decalaje Oră (X, Y, Spațiere X, Spațiere Y, Y Minute) Implicit: 20",
+        "_o2": "Decalaje X Câmp (Sus, Stânga, Dreapta, Jos, Progres 1, Progres 2) Implicit: 20",
+        "_o3": "Decalaje Y Câmp (Sus, Text Stânga, Text Dreapta, Jos, Progres 1, Progres 2, Etichetă Stânga, Etichetă Dreapta) Implicit: 20",
+        "_bdb": "Desenează fundal numere (minute mai clare, orele nu sunt vizibile în spate)",
+
+        "_t1": "Font Oră",
+        "_t1a": "Font Oră AOD",
+        "_t1s": "Dimensiune Font Oră",
+        "_t2": "Font Minut",
+        "_t2a": "Font Minut AOD",
+        "_t2s": "Dimensiune Font Minut",
+
+        "_t3": "Font Text",
+        "_s1": "Dimensiune Font Text Superior",
+        "_s2": "Dimensiune Font Text Progres",
+        "_s3": "Dimensiune Font Text Stânga/Dreapta",
+        "_s4": "Dimensiune Font Text Inferior",
+    
+        "_fo": "Contur (Dacă disponibil)",
+        "_fk": "Păstrează la fel",
+        "_fks": "Păstrează la fel, inclusiv Interior",
+
+
+        "_pc": "Culoare text",
+        "_ic": "Culoare etichetă",      
+
+        "_gq": "Calitate Gradient",
+        "_ng": "Fără Gradient",
+
+        "_0f" : "Afișează Progres Câmp",
+        "_1f" : "Complet",
+        "_2f" : "Gol",
+        "_3f" : "Ascunde",
+
+        "_x2": "Încarcă Tema de Culori Următoare",
+        
+        "_a1": "Scurtătură tactilă Oră Stânga",
+        "_a2": "Scurtătură tactilă Oră Dreapta",
+        "_a3": "Scurtătură tactilă Minut Stânga",
+        "_a4": "Scurtătură tactilă Minut Dreapta",
+
+        "_aas": "Secunde mereu active",
+        "_aod": "Mod AOD (Afișaj Mereu Activ)",
+        "_aodct": "Culoare Nuanță Oră AOD",
+        "_aodc": "Culoare Nuanță Date AOD",
+        "_aodT": "Luminozitate Oră AOD",
+        "_aodD": "Luminozitate Date AOD. Dacă ecranul se stinge în timpul AOD, reduceți acest număr. Număr mai mic = mai puțin consum baterie dar mai puțină luminozitate. Vezi FAQ)",
+        "_aodS": "Deplasare AOD - număr de pixeli cu care ecranul se deplasează aleatoriu pe minut pentru a preveni burn-in)",
+        "ad0": "Stinge Ecranul",
+        "ad100": "AOD Complet (Implicit)",
+        
+        "ad1": "Doar Oră",
+        "ad3": "Doar Oră - Mișcare",
+        "ad4": "Oră + câmp de date (Selectează Mai Jos)",
+        "ad6": "Oră Mișcare + câmp de date"
+    }
+}

@@ -116,6 +116,7 @@
     "_aodC": "AOD - Färg för ljustonad (Färgar all data med denna färg)",
     "_aodS": "AOD - Pixelförskjutning (pixlar som skärmen slumpmässigt flyttas för att förhindra inbränning)",
     "_t_guf": " 📖 MÅL/ENHETER/FORMAT ",
+    "_hus": "Justera visarnas position varje sekund (se FAQ)",
     "_cp5b": "5. Färg för framstegsindikator höger nedre 2"
   }
 }

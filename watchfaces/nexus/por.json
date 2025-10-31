@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Dados do Marcador 1",
+        "_md2": "Dados do Marcador 2",
+
+        "_f1": "Dados do Campo Superior",
+        "_l1": "Etiqueta do Campo Superior",
+
+        "_f2": "Dados do Campo Esquerdo",
+        "_l2": "Etiqueta do Campo Esquerdo",
+
+        "_f3": "Dados do Campo Direito",
+        "_l3": "Etiqueta do Campo Direito",
+
+        "_f4": "Dados do Campo Inferior",
+        "_l4": "Etiqueta do Campo Inferior",
+
+        "_f5": "Dados do Progresso Superior",
+        "_p5": "Estilo do Progresso Superior",
+
+        "_f6": "Dados do Progresso Inferior",
+        "_p6": "Estilo do Progresso Inferior",
+
+        "_f20": "Dados do Campo AOD",
+        "_l20": "Etiqueta do Campo AOD",
+
+        "_hc1": "Cor da Hora",
+        "_hc2": "Cor da Hora 2",
+        "_hc3": "Cor da Hora 3 (Interna)",
+        "_hc4": "Cor da Hora 4 (Interna)",
+
+        "_mc1": "Cor dos Minutos 1 (Contorno)",
+        "_mc2": "Cor dos Minutos 2 (Contorno)",
+
+        "_mc3": "Cor dos Minutos 3 (Interna)",
+        "_mc4": "Cor dos Minutos 4 (Interna)",
+
+        "_sbg" : "Igual à Cor de Fundo",
+
+        "_m1": "Cor do Marcador 1",
+        "_m2": "Cor do Marcador 2",
+        
+        "_cp1": "Cor do Progresso Superior",
+        "_c21": "Cor do Progresso Superior 2",
+        "_cu1": "Cor do Progresso Superior Não Preenchido",
+
+        "_cp2": "Cor do Progresso Inferior",
+        "_c22": "Cor do Progresso Inferior 2",
+        "_cu2": "Cor do Progresso Inferior Não Preenchido",
+
+        "_bgc": "Cor de Fundo",
+        "_bgl": "Cor das Linhas de Fundo",
+        "_cs": "70% Mais Escuro",
+        "_cpbs" : "Igual à Barra de Progresso Superior Esquerda",
+
+        "_stc" : "Igual à Cor do Texto",
+        "_slc" : "Igual à Cor da Etiqueta",
+
+
+        "_c1": "Cor dos Dados do Campo Superior",
+        "_c1l": "Cor da Etiqueta do Campo Superior",
+
+        "_c2": "Cor dos Dados do Campo Esquerdo",
+        "_c2l": "Cor da Etiqueta do Campo Esquerdo",
+
+        "_c3": "Cor dos Dados do Campo Direito",
+        "_c3l": "Cor da Etiqueta do Campo Direito",
+
+        "_c4": "Cor dos Dados do Campo Inferior",
+        "_c4l": "Cor da Etiqueta do Campo Inferior",
+
+        "_c5": "Cor dos Dados do Progresso Superior",
+        "_c5l": "Cor da Etiqueta do Progresso Superior",
+
+        "_c6": "Cor dos Dados do Progresso Inferior",
+        "_c6l": "Cor da Etiqueta do Progresso Inferior",
+        "_x4": "Carregar Predefinição Anterior",
+        "_x3": "Carregar Tema de Cores Anterior",
+
+        "_rst": "Redefinir todas as configurações",
+        "_tr": "👉 ATALHOS DE TOQUE",
+        "_tc": "🎨 CORES / FUNDO",
+        "_tt": "🔤 FONTES",
+        "_ta": "🖼️ CONFIGURAÇÕES AOD (Sempre Ligado)",
+        "_to": "💡 OUTROS",
+        "_tx": "➡️ DESLOCAMENTOS",
+
+        "_o1": "Deslocamentos de Hora (X, Y, Espaçamento X, Espaçamento Y, Y Minutos) Padrão: 20",
+        "_o2": "Deslocamentos X do Campo (Superior, Esquerdo, Direito, Inferior, Progresso 1, Progresso 2) Padrão: 20",
+        "_o3": "Deslocamentos Y do Campo (Superior, Texto Esquerdo, Texto Direito, Inferior, Progresso 1, Progresso 2, Etiqueta Esquerda, Etiqueta Direita) Padrão: 20",
+        "_bdb": "Desenhar fundo de números (minutos mais nítidos, horas não visíveis atrás)",
+
+        "_t1": "Fonte da Hora",
+        "_t1a": "Fonte da Hora AOD",
+        "_t1s": "Tamanho da Fonte da Hora",
+        "_t2": "Fonte dos Minutos",
+        "_t2a": "Fonte dos Minutos AOD",
+        "_t2s": "Tamanho da Fonte dos Minutos",
+
+        "_t3": "Fonte do Texto",
+        "_s1": "Tamanho da Fonte do Texto Superior",
+        "_s2": "Tamanho da Fonte do Texto do Progresso",
+        "_s3": "Tamanho da Fonte do Texto Esquerdo/Direito",
+        "_s4": "Tamanho da Fonte do Texto Inferior",
+    
+        "_fo": "Contornado (Se disponível)",
+        "_fk": "Manter o mesmo",
+        "_fks": "Manter o mesmo, incluindo Interno",
+
+
+        "_pc": "Cor do texto",
+        "_ic": "Cor da etiqueta",      
+
+        "_gq": "Qualidade do Gradiente",
+        "_ng": "Sem Gradiente",
+
+        "_0f" : "Mostrar Progresso do Campo",
+        "_1f" : "Completo",
+        "_2f" : "Vazio",
+        "_3f" : "Ocultar",
+
+        "_x2": "Carregar Próximo Tema de Cores",
+        
+        "_a1": "Atalho de toque Hora Esquerda",
+        "_a2": "Atalho de toque Hora Direita",
+        "_a3": "Atalho de toque Minuto Esquerdo",
+        "_a4": "Atalho de toque Minuto Direito",
+
+        "_aas": "Segundos sempre ligados",
+        "_aod": "Modo AOD (Sempre Ligado)",
+        "_aodct": "Cor de Matiz da Hora AOD",
+        "_aodc": "Cor de Matiz dos Dados AOD",
+        "_aodT": "Brilho da Hora AOD",
+        "_aodD": "Brilho dos Dados AOD. Se o ecrã se desligar durante o AOD, reduza este número. Número menor = menos uso de bateria mas menos brilho. Veja FAQ)",
+        "_aodS": "Deslocamento AOD - número de pixels que o ecrã desloca aleatoriamente por minuto para evitar burn-in)",
+        "ad0": "Desligar Ecrã",
+        "ad100": "AOD Completo (Padrão)",
+        
+        "ad1": "Apenas Hora",
+        "ad3": "Apenas Hora - Em Movimento",
+        "ad4": "Hora + campo de dados (Selecione Abaixo)",
+        "ad6": "Hora em Movimento + campo de dados"
+    }
+}

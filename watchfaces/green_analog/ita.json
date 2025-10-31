@@ -116,6 +116,7 @@
     "_aodT": "AOD - Livello luminosità - (Imposta luminosità schermo, imposta più basso quando schermo si spegne. Vedi FAQ)",
     "_aodC": "AOD - Colore tinta Lume (Tinta tutti i dati con questo colore)",
     "_aodS": "AOD - Spostamento pixel (pixel che lo schermo sposta casualmente per prevenire burn-in)",
-    "_t_guf": " 📖 OBIETTIVI/UNITÀ/FORMATI "
+    "_t_guf": " 📖 OBIETTIVI/UNITÀ/FORMATI ",
+    "_hus": "Regola la posizione delle lancette ogni secondo (vedi FAQ)"
   }
 }

@@ -1,0 +1,32 @@
+Watchface kaya data dengan kustomisasi tanpa batas, lebih dari 100 bidang data dan sepenuhnya dioptimalkan untuk penggunaan baterai minimal
+
+⭐️ Gratis vs Pro ⭐️
+Watchface ini tersedia tanpa biaya dengan semua fungsi dasar. Fitur premium (ditandai dengan [*]) memerlukan Kunci Pro untuk membuka. Anda dapat membeli Kunci Pro di sini: https://ko-fi.com/s/3633613c58 atau https://watchface.io/nexus, atau membeli versi PRO di sini: https://apps.garmin.com/apps/e3cb3f3d-5587-441e-90c2-43d14118bf3e.
+
+⭐️ Perangkat MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Watchface ini sepenuhnya dioptimalkan untuk MIPS, tetapi warna dapat terlihat berbeda seperti dalam kebanyakan gambar, karena ini diambil pada perangkat Amoled. Watchface ini memiliki banyak tema yang dioptimalkan untuk MIPS dan mendukung gradien MIPS. Anda dapat menemukan semua tema yang tersedia di sini: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Sumber Daya ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/nexus/manual
+* Dapatkan kunci PRO: https://ko-fi.com/s/3633613c58 atau https://watchface.io/nexus
+* Daftar Tema: https://watchface.io/nexus/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Datafields Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Catatan: Ada dua tempat berbeda dengan pengaturan:
+* Aplikasi Garmin IQ (di ponsel Anda, buka perangkat, watchfaces, pengaturan): Konfigurasikan datafields, warna, dan pengaturan umum.
+* Pengaturan di Jam: Akses opsi yang lebih detail seperti format waktu, tujuan, dan unit langsung di jam dengan menahan tombol menu, memilih watchface, dan mengetuk kustomisasi.
+
+⭐️ Datafields ⭐️
+Semua datafields yang saat ini disediakan Garmin kepada pengembang pihak ketiga tersedia, plus tambahan seperti dukungan Monitor Glukosa (CGM), Open Weather Map (OWM) dan dukungan untuk aplikasi pihak ketiga lainnya.
+Semua datafields yang tersedia tercantum di sini: https://watchface.io/docs/datafields. Beberapa datafields (seperti kesiapan pelatihan atau HRV) saat ini tidak tersedia untuk pengembang pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Bisakah saya mengubah teks Fenix/Enduro, dll? ⭐️
+Ya, Anda bisa! Lihat di sini: https://watchface.io/faq/how-to-change-the-fenix-text
+Sebenarnya, semua yang ada di watchface ini dapat disesuaikan dengan keinginan Anda.
+
+*** Jika Anda mengalami bug atau masalah, silakan hubungi saya dengan menekan "Contact Developer" alih-alih menggunakan sistem review. Saya dapat merespons email dengan cepat, sedangkan saya mungkin tidak melihat review selama beberapa hari. ***
+
+* Changelog: https://watchface.io/nexus/changelog

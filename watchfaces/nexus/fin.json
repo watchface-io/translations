@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Merkki 1 tiedot",
+        "_md2": "Merkki 2 tiedot",
+
+        "_f1": "Yläkentän tiedot",
+        "_l1": "Yläkentän teksti",
+
+        "_f2": "Vasen kentän tiedot",
+        "_l2": "Vasen kentän teksti",
+
+        "_f3": "Oikea kentän tiedot",
+        "_l3": "Oikea kentän teksti",
+
+        "_f4": "Alakentän tiedot",
+        "_l4": "Alakentän teksti",
+
+        "_f5": "Ylä edistymisen tiedot",
+        "_p5": "Ylä edistymisen tyyli",
+
+        "_f6": "Ala edistymisen tiedot",
+        "_p6": "Ala edistymisen tyyli",
+
+        "_f20": "AOD kentän tiedot",
+        "_l20": "AOD kentän teksti",
+
+        "_hc1": "Tuntiosoittimen väri",
+        "_hc2": "Tuntiosoittimen väri 2",
+        "_hc3": "Tuntiosoittimen väri 3 (sisempi)",
+        "_hc4": "Tuntiosoittimen väri 4 (sisempi)",
+
+        "_mc1": "Minuuttiosoittimen väri 1 (ääriviiva)",
+        "_mc2": "Minuuttiosoittimen väri 2 (ääriviiva)",
+
+        "_mc3": "Minuuttiosoittimen väri 3 (sisempi)",
+        "_mc4": "Minuuttiosoittimen väri 4 (sisempi)",
+
+        "_sbg" : "Sama kuin taustaväri",
+
+        "_m1": "Merkki 1 väri",
+        "_m2": "Merkki 2 väri",
+        
+        "_cp1": "Ylä edistymispalkin väri",
+        "_c21": "Ylä edistymispalkin väri 2",
+        "_cu1": "Ylä edistymispalkin täyttämätön väri",
+
+        "_cp2": "Ala edistymispalkin väri",
+        "_c22": "Ala edistymispalkin väri 2",
+        "_cu2": "Ala edistymispalkin täyttämätön väri",
+
+        "_bgc": "Taustaväri",
+        "_bgl": "Taustaviivan väri",
+        "_cs": "70% tummempi",
+        "_cpbs" : "Sama kuin vasemman yläkulman edistymispalkki",
+
+        "_stc" : "Sama kuin tekstiväri",
+        "_slc" : "Sama kuin tekstin väri",
+
+
+        "_c1": "Yläkentän tietojen väri",
+        "_c1l": "Yläkentän tekstin väri",
+
+        "_c2": "Vasen kentän tietojen väri",
+        "_c2l": "Vasen kentän tekstin väri",
+
+        "_c3": "Oikea kentän tietojen väri",
+        "_c3l": "Oikea kentän tekstin väri",
+
+        "_c4": "Alakentän tietojen väri",
+        "_c4l": "Alakentän tekstin väri",
+
+        "_c5": "Ylä edistymisen tietojen väri",
+        "_c5l": "Ylä edistymisen tekstin väri",
+
+        "_c6": "Ala edistymisen tietojen väri",
+        "_c6l": "Ala edistymisen tekstin väri",
+        "_x4": "Lataa edellinen esiasetus",
+        "_x3": "Lataa edellinen väriteema",
+
+        "_rst": "Palauta kaikki asetukset",
+        "_tr": "👉 KOSKETUSPIKAKUVAKKEET",
+        "_tc": "🎨 VÄRIT / TAUSTA",
+        "_tt": "🔤 FONTIT",
+        "_ta": "🖼️ AOD ASETUKSET (Aina päällä -näyttö)",
+        "_to": "💡 MUUT",
+        "_tx": "➡️ SIIRTYMÄT",
+
+        "_o1": "Ajan siirtymät (X, Y, X väli, Y väli, Y minuutit) Oletus: 20",
+        "_o2": "Kentän X siirtymät (ylä, vasen, oikea, ala, edistyminen 1, edistyminen 2) Oletus: 20",
+        "_o3": "Kentän Y siirtymät (ylä, vasen teksti, oikea teksti, ala, edistyminen 1, edistyminen 2, vasen teksti, oikea teksti) Oletus: 20",
+        "_bdb": "Piirrä numeroiden tausta (terävämpi minuutit, tunnit eivät näy läpi)",
+
+        "_t1": "Tuntien fontti",
+        "_t1a": "Tuntien fontti AOD",
+        "_t1s": "Tuntien fonttikoko",
+        "_t2": "Minuuttien fontti",
+        "_t2a": "Minuuttien fontti AOD",
+        "_t2s": "Minuuttien fonttikoko",
+
+        "_t3": "Tekstin fontti",
+        "_s1": "Yläkentän tekstin fonttikoko",
+        "_s2": "Edistymisen tekstin fonttikoko",
+        "_s3": "Vasen/oikea tekstin fonttikoko",
+        "_s4": "Alakentän tekstin fonttikoko",
+    
+        "_fo": "Ääriviivallinen (jos saatavilla)",
+        "_fk": "Pidä samana",
+        "_fks": "Pidä samana, mukaan lukien sisempi",
+
+
+        "_pc": "Tekstiväri",
+        "_ic": "Tekstin väri",      
+
+        "_gq": "Liukuvärin laatu",
+        "_ng": "Ei liukuväriä",
+
+        "_0f" : "Näytä kentän edistyminen",
+        "_1f" : "Täysi",
+        "_2f" : "Tyhjä",
+        "_3f" : "Piilota",
+
+        "_x2": "Lataa seuraava väriteema",
+        
+        "_a1": "Kosketuspikakuvake tunti vasen",
+        "_a2": "Kosketuspikakuvake tunti oikea",
+        "_a3": "Kosketuspikakuvake minuutti vasen",
+        "_a4": "Kosketuspikakuvake minuutti oikea",
+
+        "_aas": "Aina päällä sekunnit",
+        "_aod": "AOD-tila (Aina päällä -näyttö)",
+        "_aodct": "AOD-ajan sävyn väri",
+        "_aodc": "AOD-tietojen sävyn väri",
+        "_aodT": "AOD-ajan kirkkaus",
+        "_aodD": "AOD-tietojen kirkkaus. Jos näyttö sammuu AOD:n aikana, pienennä tätä numeroa. Pienempi numero = vähemmän akun käyttöä, mutta vähemmän kirkas. Katso UKK)",
+        "_aodS": "AOD-siirtymä - pikselien määrä, jonka näyttö satunnaisesti siirtyy minuutissa palamisen estämiseksi)",
+        "ad0": "Sammuta näyttö",
+        "ad100": "Täysi AOD (oletus)",
+        
+        "ad1": "Vain aika",
+        "ad3": "Vain aika - liikkuva",
+        "ad4": "Aika + tietokenttä (valitse alla)",
+        "ad6": "Liikkuva aika + tietokenttä"
+    }
+}

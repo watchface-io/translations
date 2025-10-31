@@ -1,0 +1,32 @@
+データが豊富なウォッチフェイスで、無制限のカスタマイズ、100以上のデータフィールド、最小限のバッテリー消費に完全最適化
+
+⭐️ 無料 vs Pro ⭐️
+この文字盤はすべての基本機能を含めて無料で利用できます。プレミアム機能（[*]でマークされた）はロック解除にProキーが必要です。Proキーはこちらで購入できます：https://ko-fi.com/s/3633613c58 または https://watchface.io/nexus、またはPROバージョンをこちらで購入：https://apps.garmin.com/apps/e3cb3f3d-5587-441e-90c2-43d14118bf3e。
+
+⭐️ MIPSデバイス（Fenix 7、Enduro、Forerunner 255など） ⭐️
+この文字盤はMIPS用に完全に最適化されていますが、ほとんどの画像のように色が異なって見える場合があります。これらはAmoledデバイスで撮影されているためです。この文字盤にはMIPS用に最適化された多くのテーマがあり、MIPSグラデーションをサポートしています。すべての内蔵テーマはこちらで見つけることができます：https://watchface.io/nexus/themes#MIPS
+
+⭐️ リソース ⭐️
+* FAQ：https://watchface.io/faq
+* マニュアル：https://watchface.io/nexus/manual
+* PROキーを取得：https://ko-fi.com/s/3633613c58 または https://watchface.io/nexus
+* テーマリスト：https://watchface.io/nexus/themes
+* カラーガイド：https://watchface.io/docs/color-list
+* 利用可能なデータフィールド：https://watchface.io/docs/datafields
+
+⭐️ 設定 ⭐️
+注意：設定には2つの異なる場所があります：
+* Garmin IQアプリ（携帯電話でデバイス、文字盤、設定に移動）：データフィールド、色、一般設定を構成します。
+* ウォッチ上の設定：メニューボタンを長押しし、文字盤を選択してカスタマイズをタップすることで、時刻フォーマット、目標、単位などのより詳細なオプションにウォッチから直接アクセスします。
+
+⭐️ データフィールド ⭐️
+Garminが現在サードパーティ開発者に提供しているすべてのデータフィールドが利用可能で、さらにグルコースモニター（CGM）サポート、Open Weather Map（OWM）、その他のサードパーティアプリのサポートなどの追加機能があります。
+利用可能なすべてのデータフィールドはこちらにリストされています：https://watchface.io/docs/datafields。一部のデータフィールド（トレーニング準備状況やHRVなど）は現在サードパーティ開発者には利用できません。こちらを参照してください：https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Fenix/Enduroなどのテキストを変更できますか？ ⭐️
+はい、できます！こちらを参照してください：https://watchface.io/faq/how-to-change-the-fenix-text
+実際、この文字盤のすべてをお好みに合わせて調整できます。
+
+*** バグや問題に遭遇した場合は、レビューシステムを使用する代わりに「Contact Developer」を押して私に連絡してください。メールには迅速に返信できますが、レビューは数日見ない場合があります。 ***
+
+* 変更ログ：https://watchface.io/nexus/changelog

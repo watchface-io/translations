@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Dati Marcatore 1",
+        "_md2": "Dati Marcatore 2",
+
+        "_f1": "Dati Campo Superiore",
+        "_l1": "Etichetta Campo Superiore",
+
+        "_f2": "Dati Campo Sinistro",
+        "_l2": "Etichetta Campo Sinistro",
+
+        "_f3": "Dati Campo Destro",
+        "_l3": "Etichetta Campo Destro",
+
+        "_f4": "Dati Campo Inferiore",
+        "_l4": "Etichetta Campo Inferiore",
+
+        "_f5": "Dati Progresso Superiore",
+        "_p5": "Stile Progresso Superiore",
+
+        "_f6": "Dati Progresso Inferiore",
+        "_p6": "Stile Progresso Inferiore",
+
+        "_f20": "Dati Campo AOD",
+        "_l20": "Etichetta Campo AOD",
+
+        "_hc1": "Colore Ora",
+        "_hc2": "Colore Ora 2",
+        "_hc3": "Colore Ora 3 (Interno)",
+        "_hc4": "Colore Ora 4 (Interno)",
+
+        "_mc1": "Colore Minuti 1 (Contorno)",
+        "_mc2": "Colore Minuti 2 (Contorno)",
+
+        "_mc3": "Colore Minuti 3 (Interno)",
+        "_mc4": "Colore Minuti 4 (Interno)",
+
+        "_sbg" : "Uguale al Colore Sfondo",
+
+        "_m1": "Colore Marcatore 1",
+        "_m2": "Colore Marcatore 2",
+        
+        "_cp1": "Colore Progresso Superiore",
+        "_c21": "Colore Progresso Superiore 2",
+        "_cu1": "Colore Progresso Superiore Non Riempito",
+
+        "_cp2": "Colore Progresso Inferiore",
+        "_c22": "Colore Progresso Inferiore 2",
+        "_cu2": "Colore Progresso Inferiore Non Riempito",
+
+        "_bgc": "Colore Sfondo",
+        "_bgl": "Colore Linee Sfondo",
+        "_cs": "70% Più Scuro",
+        "_cpbs" : "Uguale alla Barra Progresso Superiore Sinistra",
+
+        "_stc" : "Uguale al Colore Testo",
+        "_slc" : "Uguale al Colore Etichetta",
+
+
+        "_c1": "Colore Dati Campo Superiore",
+        "_c1l": "Colore Etichetta Campo Superiore",
+
+        "_c2": "Colore Dati Campo Sinistro",
+        "_c2l": "Colore Etichetta Campo Sinistro",
+
+        "_c3": "Colore Dati Campo Destro",
+        "_c3l": "Colore Etichetta Campo Destro",
+
+        "_c4": "Colore Dati Campo Inferiore",
+        "_c4l": "Colore Etichetta Campo Inferiore",
+
+        "_c5": "Colore Dati Progresso Superiore",
+        "_c5l": "Colore Etichetta Progresso Superiore",
+
+        "_c6": "Colore Dati Progresso Inferiore",
+        "_c6l": "Colore Etichetta Progresso Inferiore",
+        "_x4": "Carica Preset Precedente",
+        "_x3": "Carica Tema Colore Precedente",
+
+        "_rst": "Ripristina tutte le impostazioni",
+        "_tr": "👉 SCORCIATOIE TOCCO",
+        "_tc": "🎨 COLORI / SFONDO",
+        "_tt": "🔤 CARATTERI",
+        "_ta": "🖼️ IMPOSTAZIONI AOD (Always on Display)",
+        "_to": "💡 ALTRO",
+        "_tx": "➡️ OFFSET",
+
+        "_o1": "Offset Ora (X, Y, Spaziatura X, Spaziatura Y, Y Minuti) Predefinito: 20",
+        "_o2": "Offset X Campo (Superiore, Sinistro, Destro, Inferiore, Progresso 1, Progresso 2) Predefinito: 20",
+        "_o3": "Offset Y Campo (Superiore, Testo Sinistro, Testo Destro, Inferiore, Progresso 1, Progresso 2, Etichetta Sinistra, Etichetta Destra) Predefinito: 20",
+        "_bdb": "Disegna sfondo numeri (minuti più nitidi, ore non visibili dietro)",
+
+        "_t1": "Carattere Ora",
+        "_t1a": "Carattere Ora AOD",
+        "_t1s": "Dimensione Carattere Ora",
+        "_t2": "Carattere Minuti",
+        "_t2a": "Carattere Minuti AOD",
+        "_t2s": "Dimensione Carattere Minuti",
+
+        "_t3": "Carattere Testo",
+        "_s1": "Dimensione Carattere Testo Superiore",
+        "_s2": "Dimensione Carattere Testo Progresso",
+        "_s3": "Dimensione Carattere Testo Sinistro/Destro",
+        "_s4": "Dimensione Carattere Testo Inferiore",
+    
+        "_fo": "Contornato (Se disponibile)",
+        "_fk": "Mantieni lo stesso",
+        "_fks": "Mantieni lo stesso, incluso Interno",
+
+
+        "_pc": "Colore testo",
+        "_ic": "Colore etichetta",      
+
+        "_gq": "Qualità Gradiente",
+        "_ng": "Nessun Gradiente",
+
+        "_0f" : "Mostra Progresso Campo",
+        "_1f" : "Pieno",
+        "_2f" : "Vuoto",
+        "_3f" : "Nascondi",
+
+        "_x2": "Carica Tema Colore Successivo",
+        
+        "_a1": "Scorciatoia tocco Ora Sinistra",
+        "_a2": "Scorciatoia tocco Ora Destra",
+        "_a3": "Scorciatoia tocco Minuti Sinistra",
+        "_a4": "Scorciatoia tocco Minuti Destra",
+
+        "_aas": "Secondi sempre attivi",
+        "_aod": "Modalità AOD (Always on Display)",
+        "_aodct": "Colore Tinta Ora AOD",
+        "_aodc": "Colore Tinta Dati AOD",
+        "_aodT": "Luminosità Ora AOD",
+        "_aodD": "Luminosità Dati AOD. Se lo schermo si spegne durante AOD, abbassa questo numero. Numero inferiore = meno consumo batteria ma meno luminoso. Vedi FAQ)",
+        "_aodS": "Spostamento AOD - numero di pixel di cui lo schermo si sposta casualmente al minuto per prevenire burn-in)",
+        "ad0": "Spegni Schermo",
+        "ad100": "AOD Completo (Predefinito)",
+        
+        "ad1": "Solo Ora",
+        "ad3": "Solo Ora - In Movimento",
+        "ad4": "Ora + campo dati (Seleziona Sotto)",
+        "ad6": "Ora In Movimento + campo dati"
+    }
+}

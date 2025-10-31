@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Data značky 1",
+        "_md2": "Data značky 2",
+
+        "_f1": "Data horního pole",
+        "_l1": "Popisek horního pole",
+
+        "_f2": "Data levého pole",
+        "_l2": "Popisek levého pole",
+
+        "_f3": "Data pravého pole",
+        "_l3": "Popisek pravého pole",
+
+        "_f4": "Data dolního pole",
+        "_l4": "Popisek dolního pole",
+
+        "_f5": "Data horního průběhu",
+        "_p5": "Styl horního průběhu",
+
+        "_f6": "Data dolního průběhu",
+        "_p6": "Styl dolního průběhu",
+
+        "_f20": "Data pole AOD",
+        "_l20": "Popisek pole AOD",
+
+        "_hc1": "Barva hodiny",
+        "_hc2": "Barva hodiny 2",
+        "_hc3": "Barva hodiny 3 (vnitřní)",
+        "_hc4": "Barva hodiny 4 (vnitřní)",
+
+        "_mc1": "Barva minuty 1 (obrys)",
+        "_mc2": "Barva minuty 2 (obrys)",
+
+        "_mc3": "Barva minuty 3 (vnitřní)",
+        "_mc4": "Barva minuty 4 (vnitřní)",
+
+        "_sbg" : "Stejná jako barva pozadí",
+
+        "_m1": "Barva značky 1",
+        "_m2": "Barva značky 2",
+        
+        "_cp1": "Barva horního průběhu",
+        "_c21": "Barva horního průběhu 2",
+        "_cu1": "Barva horního průběhu nevyplněno",
+
+        "_cp2": "Barva dolního průběhu",
+        "_c22": "Barva dolního průběhu 2",
+        "_cu2": "Barva dolního průběhu nevyplněno",
+
+        "_bgc": "Barva pozadí",
+        "_bgl": "Barva linií pozadí",
+        "_cs": "70% tmavší",
+        "_cpbs" : "Stejná jako levý horní pruh průběhu",
+
+        "_stc" : "Stejná jako barva textu",
+        "_slc" : "Stejná jako barva popisku",
+
+
+        "_c1": "Barva dat horního pole",
+        "_c1l": "Barva popisku horního pole",
+
+        "_c2": "Barva dat levého pole",
+        "_c2l": "Barva popisku levého pole",
+
+        "_c3": "Barva dat pravého pole",
+        "_c3l": "Barva popisku pravého pole",
+
+        "_c4": "Barva dat dolního pole",
+        "_c4l": "Barva popisku dolního pole",
+
+        "_c5": "Barva dat horního průběhu",
+        "_c5l": "Barva popisku horního průběhu",
+
+        "_c6": "Barva dat dolního průběhu",
+        "_c6l": "Barva popisku dolního průběhu",
+        "_x4": "Načíst předchozí předvolbu",
+        "_x3": "Načíst předchozí barevný motiv",
+
+        "_rst": "Obnovit všechna nastavení",
+        "_tr": "👉 DOTYKOVÉ ZKRATKY",
+        "_tc": "🎨 BARVY / POZADÍ",
+        "_tt": "🔤 PÍSMA",
+        "_ta": "🖼️ NASTAVENÍ AOD (Stále zapnutý displej)",
+        "_to": "💡 OSTATNÍ",
+        "_tx": "➡️ POSUNY",
+
+        "_o1": "Posuny času (X, Y, X rozestup, Y rozestup, Y minuty) Výchozí: 20",
+        "_o2": "Posuny X pole (horní, levé, pravé, dolní, průběh 1, průběh 2) Výchozí: 20",
+        "_o3": "Posuny Y pole (horní, levý text, pravý text, dolní, průběh 1, průběh 2, levý popisek, pravý popisek) Výchozí: 20",
+        "_bdb": "Kreslit pozadí čísel (ostřejší minuty, hodiny nejsou vidět za nimi)",
+
+        "_t1": "Písmo hodiny",
+        "_t1a": "Písmo hodiny AOD",
+        "_t1s": "Velikost písma hodiny",
+        "_t2": "Písmo minuty",
+        "_t2a": "Písmo minuty AOD",
+        "_t2s": "Velikost písma minuty",
+
+        "_t3": "Písmo textu",
+        "_s1": "Velikost písma horního textu",
+        "_s2": "Velikost písma textu průběhu",
+        "_s3": "Velikost písma levého/pravého textu",
+        "_s4": "Velikost písma dolního textu",
+    
+        "_fo": "Obryslované (pokud je k dispozici)",
+        "_fk": "Zachovat stejné",
+        "_fks": "Zachovat stejné, včetně vnitřního",
+
+
+        "_pc": "Barva textu",
+        "_ic": "Barva popisku",      
+
+        "_gq": "Kvalita přechodu",
+        "_ng": "Bez přechodu",
+
+        "_0f" : "Zobrazit průběh pole",
+        "_1f" : "Plné",
+        "_2f" : "Prázdné",
+        "_3f" : "Skrýt",
+
+        "_x2": "Načíst další barevný motiv",
+        
+        "_a1": "Dotyková zkratka hodina vlevo",
+        "_a2": "Dotyková zkratka hodina vpravo",
+        "_a3": "Dotyková zkratka minuta vlevo",
+        "_a4": "Dotyková zkratka minuta vpravo",
+
+        "_aas": "Vždy zapnuté sekundy",
+        "_aod": "Režim AOD (Stále zapnutý displej)",
+        "_aodct": "Barva odstínu času AOD",
+        "_aodc": "Barva odstínu dat AOD",
+        "_aodT": "Jas času AOD",
+        "_aodD": "Jas dat AOD. Pokud se obrazovka vypne během AOD, snižte toto číslo. Nižší číslo = menší spotřeba baterie, ale menší jas. Viz FAQ)",
+        "_aodS": "Posun AOD - počet pixelů, o které se obrazovka náhodně posune za minutu, aby se zabránilo vypálení)",
+        "ad0": "Vypnout obrazovku",
+        "ad100": "Plný AOD (výchozí)",
+        
+        "ad1": "Pouze čas",
+        "ad3": "Pouze čas - pohybující se",
+        "ad4": "Čas + datové pole (vyberte níže)",
+        "ad6": "Pohybující se čas + datové pole"
+    }
+}

@@ -115,7 +115,8 @@
     "_aodT": "AOD - Helderheidsniveau - (Scherm helderheid instellen, lager instellen wanneer scherm uitgaat. Zie FAQ)",
     "_aodC": "AOD - Licht tint kleur (Kleurt alle gegevens in deze kleur)",
     "_aodS": "AOD - Pixel verschuiving (pixels dat het scherm willekeurig verschuift om inbranden te voorkomen)",
-    "_t_guf": " 📖 DOELEN/EENHEDEN/FORMATEN ",
-    "_cp5b": "5. Rechts onder voortgangsbalk kleur 2"
+  "_t_guf": " 📖 DOELEN/EENHEDEN/FORMATEN ",
+  "_hus": "Stel de wijzerpositie elke seconde bij (zie FAQ)",
+  "_cp5b": "5. Rechts onder voortgangsbalk kleur 2"
   }
 }

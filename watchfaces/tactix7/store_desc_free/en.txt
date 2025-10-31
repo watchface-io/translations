@@ -1,0 +1,30 @@
+Tactical watchfaces inspired by the Tactix7 watchface
+
+⭐️ Free vs Pro ⭐️
+This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/d120236b33 Or purchase the PRO version here: https://apps.garmin.com/apps/04ddb981-131d-41ac-913a-c0d984009deb
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+This watchface is fully optimized for MIPS, but colors will look different as in most pictures, as these are taken on an Amoled device. This watchface has many themes optimized for MIPS and supports MIPS gradients. You can find all the built-in themes here: https://watchface.io/tactix7/themes#MIPS
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Get a PRO key: https://ko-fi.com/s/d120236b33 or https://watchface.io/tactix7
+* Unlocked version: https://apps.garmin.com/apps/04ddb981-131d-41ac-913a-c0d984009deb
+* Theme List: https://watchface.io/tactix7/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+* Bugtracker: https://github.com/Watchface-io/Watchfaces/issues?q=is%3Aissue%20state%3Aopen%20label%3Atactix7
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone go to your device, watchfaces, settings): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields . Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***
+
+* Changelog: https://watchface.io/tactix7/changelog

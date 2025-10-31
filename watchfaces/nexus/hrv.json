@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Podaci oznake 1",
+        "_md2": "Podaci oznake 2",
+
+        "_f1": "Podaci gornjeg polja",
+        "_l1": "Oznaka gornjeg polja",
+
+        "_f2": "Podaci lijevog polja",
+        "_l2": "Oznaka lijevog polja",
+
+        "_f3": "Podaci desnog polja",
+        "_l3": "Oznaka desnog polja",
+
+        "_f4": "Podaci donjeg polja",
+        "_l4": "Oznaka donjeg polja",
+
+        "_f5": "Podaci gornjeg napretka",
+        "_p5": "Stil gornjeg napretka",
+
+        "_f6": "Podaci donjeg napretka",
+        "_p6": "Stil donjeg napretka",
+
+        "_f20": "Podaci AOD polja",
+        "_l20": "Oznaka AOD polja",
+
+        "_hc1": "Boja sata",
+        "_hc2": "Boja sata 2",
+        "_hc3": "Boja sata 3 (unutarnja)",
+        "_hc4": "Boja sata 4 (unutarnja)",
+
+        "_mc1": "Boja minute 1 (obrub)",
+        "_mc2": "Boja minute 2 (obrub)",
+
+        "_mc3": "Boja minute 3 (unutarnja)",
+        "_mc4": "Boja minute 4 (unutarnja)",
+
+        "_sbg" : "Kao boja pozadine",
+
+        "_m1": "Boja oznake 1",
+        "_m2": "Boja oznake 2",
+        
+        "_cp1": "Boja gornjeg napretka",
+        "_c21": "Boja gornjeg napretka 2",
+        "_cu1": "Boja ispraznog gornjeg napretka",
+
+        "_cp2": "Boja donjeg napretka",
+        "_c22": "Boja donjeg napretka 2",
+        "_cu2": "Boja ispraznog donjeg napretka",
+
+        "_bgc": "Boja pozadine",
+        "_bgl": "Boja linija pozadine",
+        "_cs": "70% tamnije",
+        "_cpbs" : "Kao lijeva gornja traka napretka",
+
+        "_stc" : "Kao boja teksta",
+        "_slc" : "Kao boja oznake",
+
+
+        "_c1": "Boja podataka gornjeg polja",
+        "_c1l": "Boja oznake gornjeg polja",
+
+        "_c2": "Boja podataka lijevog polja",
+        "_c2l": "Boja oznake lijevog polja",
+
+        "_c3": "Boja podataka desnog polja",
+        "_c3l": "Boja oznake desnog polja",
+
+        "_c4": "Boja podataka donjeg polja",
+        "_c4l": "Boja oznake donjeg polja",
+
+        "_c5": "Boja podataka gornjeg napretka",
+        "_c5l": "Boja oznake gornjeg napretka",
+
+        "_c6": "Boja podataka donjeg napretka",
+        "_c6l": "Boja oznake donjeg napretka",
+        "_x4": "Učitaj prethodnu predloške",
+        "_x3": "Učitaj prethodnu temu boja",
+
+        "_rst": "Resetuj sve postavke",
+        "_tr": "👉 PREČACI DODIROM",
+        "_tc": "🎨 BOJE / POZADINA",
+        "_tt": "🔤 FONTOVI",
+        "_ta": "🖼️ AOD POSTAVKE (Uvijek uključen ekran)",
+        "_to": "💡 OSTALO",
+        "_tx": "➡️ POMACI",
+
+        "_o1": "Pomaci vremena (X, Y, X razmak, Y razmak, Y minute) Zadano: 20",
+        "_o2": "Pomaci X polja (Gornje, Lijevo, Desno, Donje, Napredak 1, Napredak 2) Zadano: 20",
+        "_o3": "Pomaci Y polja (Gornje, Lijevi tekst, Desni tekst, Donje, Napredak 1, Napredak 2, Lijeva oznaka, Desna oznaka) Zadano: 20",
+        "_bdb": "Nacrtaj pozadinu brojeva (oštrije minute, sati nisu vidljivi iza)",
+
+        "_t1": "Font sata",
+        "_t1a": "Font sata AOD",
+        "_t1s": "Veličina fonta sata",
+        "_t2": "Font minute",
+        "_t2a": "Font minute AOD",
+        "_t2s": "Veličina fonta minute",
+
+        "_t3": "Font teksta",
+        "_s1": "Veličina fonta gornjeg teksta",
+        "_s2": "Veličina fonta teksta napretka",
+        "_s3": "Veličina fonta lijevog/desnog teksta",
+        "_s4": "Veličina fonta donjeg teksta",
+    
+        "_fo": "Obrubljeno (ako je dostupno)",
+        "_fk": "Zadrži isto",
+        "_fks": "Zadrži isto, uključujući unutarnje",
+
+
+        "_pc": "Boja teksta",
+        "_ic": "Boja oznake",      
+
+        "_gq": "Kvaliteta gradijenta",
+        "_ng": "Bez gradijenta",
+
+        "_0f" : "Prikaži napredak polja",
+        "_1f" : "Puno",
+        "_2f" : "Prazno",
+        "_3f" : "Sakrij",
+
+        "_x2": "Učitaj sljedeću temu boja",
+        
+        "_a1": "Prečac dodirom sat lijevo",
+        "_a2": "Prečac dodirom sat desno",
+        "_a3": "Prečac dodirom minuta lijevo",
+        "_a4": "Prečac dodirom minuta desno",
+
+        "_aas": "Uvijek uključene sekunde",
+        "_aod": "AOD način rada (Uvijek uključen ekran)",
+        "_aodct": "Boja nijanse AOD vremena",
+        "_aodc": "Boja nijanse AOD podataka",
+        "_aodT": "Svjetlina AOD vremena",
+        "_aodD": "Svjetlina AOD podataka. Ako se ekran isključi tijekom AOD-a, smanjite ovaj broj. Manji broj = manja potrošnja baterije ali manja svjetlina. Pogledajte FAQ)",
+        "_aodS": "Pomak AOD - broj piksela za koji se ekran nasumično pomiče svake minute radi sprječavanja sagorijevanja)",
+        "ad0": "Isključi ekran",
+        "ad100": "Puni AOD (Zadano)",
+        
+        "ad1": "Samo vrijeme",
+        "ad3": "Samo vrijeme - Pokretno",
+        "ad4": "Vrijeme + polje podataka (Odaberi ispod)",
+        "ad6": "Pokretno vrijeme + polje podataka"
+    }
+}

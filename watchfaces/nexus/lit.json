@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Žymeklio 1 duomenys",
+        "_md2": "Žymeklio 2 duomenys",
+
+        "_f1": "Viršutinio lauko duomenys",
+        "_l1": "Viršutinio lauko etiketė",
+
+        "_f2": "Kairės pusės lauko duomenys",
+        "_l2": "Kairės pusės lauko etiketė",
+
+        "_f3": "Dešinės pusės lauko duomenys",
+        "_l3": "Dešinės pusės lauko etiketė",
+
+        "_f4": "Apatinio lauko duomenys",
+        "_l4": "Apatinio lauko etiketė",
+
+        "_f5": "Viršutinės pažangos duomenys",
+        "_p5": "Viršutinės pažangos stilius",
+
+        "_f6": "Apatinės pažangos duomenys",
+        "_p6": "Apatinės pažangos stilius",
+
+        "_f20": "AOD lauko duomenys",
+        "_l20": "AOD lauko etiketė",
+
+        "_hc1": "Valandų spalva",
+        "_hc2": "Valandų spalva 2",
+        "_hc3": "Valandų spalva 3 (vidinė)",
+        "_hc4": "Valandų spalva 4 (vidinė)",
+
+        "_mc1": "Minučių spalva 1 (kontūras)",
+        "_mc2": "Minučių spalva 2 (kontūras)",
+
+        "_mc3": "Minučių spalva 3 (vidinė)",
+        "_mc4": "Minučių spalva 4 (vidinė)",
+
+        "_sbg" : "Tokia pati kaip fono spalva",
+
+        "_m1": "Žymeklio 1 spalva",
+        "_m2": "Žymeklio 2 spalva",
+        
+        "_cp1": "Viršutinės pažangos spalva",
+        "_c21": "Viršutinės pažangos spalva 2",
+        "_cu1": "Viršutinės pažangos neužpildyta spalva",
+
+        "_cp2": "Apatinės pažangos spalva",
+        "_c22": "Apatinės pažangos spalva 2",
+        "_cu2": "Apatinės pažangos neužpildyta spalva",
+
+        "_bgc": "Fono spalva",
+        "_bgl": "Fono linijų spalva",
+        "_cs": "70% tamsesnė",
+        "_cpbs" : "Tokia pati kaip kairė viršutinė pažangos juosta",
+
+        "_stc" : "Tokia pati kaip teksto spalva",
+        "_slc" : "Tokia pati kaip etiketės spalva",
+
+
+        "_c1": "Viršutinio lauko duomenų spalva",
+        "_c1l": "Viršutinio lauko etiketės spalva",
+
+        "_c2": "Kairės pusės lauko duomenų spalva",
+        "_c2l": "Kairės pusės lauko etiketės spalva",
+
+        "_c3": "Dešinės pusės lauko duomenų spalva",
+        "_c3l": "Dešinės pusės lauko etiketės spalva",
+
+        "_c4": "Apatinio lauko duomenų spalva",
+        "_c4l": "Apatinio lauko etiketės spalva",
+
+        "_c5": "Viršutinės pažangos duomenų spalva",
+        "_c5l": "Viršutinės pažangos etiketės spalva",
+
+        "_c6": "Apatinės pažangos duomenų spalva",
+        "_c6l": "Apatinės pažangos etiketės spalva",
+        "_x4": "Įkelti ankstesnį išankstinį nustatymą",
+        "_x3": "Įkelti ankstesnę spalvų temą",
+
+        "_rst": "Atkurti visus nustatymus",
+        "_tr": "👉 LIETIMO NUORODOS",
+        "_tc": "🎨 SPALVOS / FONAS",
+        "_tt": "🔤 ŠRIFTAI",
+        "_ta": "🖼️ AOD NUSTATYMAI (Visada įjungtas ekranas)",
+        "_to": "💡 KITA",
+        "_tx": "➡️ POSLINKIAI",
+
+        "_o1": "Laiko poslinkiai (X, Y, X tarpas, Y tarpas, Y minutės) Numatytasis: 20",
+        "_o2": "Lauko X poslinkiai (Viršutinis, Kairysis, Dešinysis, Apatinis, Pažanga 1, Pažanga 2) Numatytasis: 20",
+        "_o3": "Lauko Y poslinkiai (Viršutinis, Kairysis tekstas, Dešinysis tekstas, Apatinis, Pažanga 1, Pažanga 2, Kairė etiketė, Dešinė etiketė) Numatytasis: 20",
+        "_bdb": "Piešti skaičių foną (aštresnės minutės, valandos nematomos už jų)",
+
+        "_t1": "Valandų šriftas",
+        "_t1a": "Valandų šriftas AOD",
+        "_t1s": "Valandų šrifto dydis",
+        "_t2": "Minučių šriftas",
+        "_t2a": "Minučių šriftas AOD",
+        "_t2s": "Minučių šrifto dydis",
+
+        "_t3": "Teksto šriftas",
+        "_s1": "Viršutinio teksto šrifto dydis",
+        "_s2": "Pažangos teksto šrifto dydis",
+        "_s3": "Kairės/Dešinės teksto šrifto dydis",
+        "_s4": "Apatinio teksto šrifto dydis",
+    
+        "_fo": "Su kontūru (jei galima)",
+        "_fk": "Palikti tokį patį",
+        "_fks": "Palikti tokį patį, įskaitant vidinį",
+
+
+        "_pc": "Teksto spalva",
+        "_ic": "Etiketės spalva",      
+
+        "_gq": "Gradiento kokybė",
+        "_ng": "Be gradiento",
+
+        "_0f" : "Rodyti lauko pažangą",
+        "_1f" : "Pilnas",
+        "_2f" : "Tuščias",
+        "_3f" : "Slėpti",
+
+        "_x2": "Įkelti kitą spalvų temą",
+        
+        "_a1": "Lietimo nuoroda Valandos kairė",
+        "_a2": "Lietimo nuoroda Valandos dešinė",
+        "_a3": "Lietimo nuoroda Minutės kairė",
+        "_a4": "Lietimo nuoroda Minutės dešinė",
+
+        "_aas": "Visada įjungtos sekundės",
+        "_aod": "AOD režimas (Visada įjungtas ekranas)",
+        "_aodct": "AOD laiko atspalvio spalva",
+        "_aodc": "AOD duomenų atspalvio spalva",
+        "_aodT": "AOD laiko ryškumas",
+        "_aodD": "AOD duomenų ryškumas. Jei ekranas išsijungia AOD metu, sumažinkite šį skaičių. Mažesnis skaičius = mažesnis akumuliatoriaus naudojimas, bet mažesnis ryškumas. Žr. DUK)",
+        "_aodS": "AOD poslinkis - pikselių skaičius, kuriuo ekranas atsitiktinai pasislenka per minutę, kad būtų išvengta išdegimo)",
+        "ad0": "Išjungti ekraną",
+        "ad100": "Visas AOD (Numatytasis)",
+        
+        "ad1": "Tik laikas",
+        "ad3": "Tik laikas - Judantis",
+        "ad4": "Laikas + duomenų laukas (Pasirinkite žemiau)",
+        "ad6": "Judantis laikas + duomenų laukas"
+    }
+}

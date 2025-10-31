@@ -1,0 +1,32 @@
+Adatgazdag számlaap korlátlan testreszabással, több mint 100 adatmezővel és teljes mértékben optimalizálva a minimális akkumulátorhasználatra
+
+⭐️ Próbálja ki vásárlás előtt! ⭐️
+A számlap megvásárlása előtt először nézze meg az ingyenes verziót, hogy megbizonyosodjon arról, hogy ez az, amit szeretne, és tetszik, hogyan néz ki az órán: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+
+⭐️ MIPS eszközök (Fenix 7, Enduro, Forerunner 255, stb.) ⭐️
+Ez a számlap teljesen optimalizált MIPS-re, de a színek eltérően nézhetnek ki, mint a legtöbb képen, mivel ezek Amoled eszközön készültek. Ez a számlap sok MIPS-re optimalizált témával rendelkezik és támogatja a MIPS színátmeneteket. Az összes beépített témát itt találja: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Források ⭐️
+* GYIK: https://watchface.io/faq
+* Kézikönyv: https://watchface.io/nexus/manual
+* Ingyenes verzió: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+* Téma lista: https://watchface.io/nexus/themes
+* Szín útmutató: https://watchface.io/docs/color-list
+* Elérhető adatmezők: https://watchface.io/docs/datafields
+
+⭐️ Konfiguráció ⭐️
+Megjegyzés: Két különböző hely van beállításokkal:
+* Garmin IQ alkalmazás (telefonján menjen az eszközre, számlapok, beállítások): Adatmezők, színek és általános beállítások konfigurálása.
+* Órán belüli beállítások: Részletesebb opciók elérése, mint időformátum, célok és egységek közvetlenül az órán a menü gomb nyomva tartásával, számlap kiválasztásával és testreszabás megérintésével.
+
+⭐️ Adatmezők ⭐️
+Minden adatmező, amit a Garmin jelenleg harmadik féltől származó fejlesztőknek biztosít, elérhető, plusz extrák, mint a Glucose Monitor (CGM) támogatás, Open Weather Map (OWM) és más harmadik fél alkalmazások támogatása.
+Minden elérhető adatmező itt van felsorolva: https://watchface.io/docs/datafields. Néhány adatmező (mint edzés-felkészültség vagy HRV) jelenleg nem érhető el harmadik fél fejlesztők számára, lásd itt: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Megváltoztathatom a Fenix/Enduro, stb. szöveget? ⭐️
+Igen, megteheti! Lásd itt: https://watchface.io/faq/how-to-change-the-fenix-text
+Valójában minden ezen a számlapon az Ön ízlése szerint beállítható.
+
+*** Ha hibákba vagy problémákba ütközik, kérem vegye fel velem a kapcsolatot a "Contact Developer" megnyomásával a vélemény rendszer használata helyett. Gyorsan tudok válaszolni emailekre, míg a véleményeket napokig nem láthatom. ***
+
+* Változások naplója: https://watchface.io/nexus/changelog

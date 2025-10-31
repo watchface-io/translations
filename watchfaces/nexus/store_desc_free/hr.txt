@@ -1,0 +1,32 @@
+Brojčanik bogat podacima s neograničenim prilagodbama, preko 100 polja podataka i potpuno optimiziran za minimalnu potrošnju baterije
+
+⭐️ Besplatno vs Pro ⭐️
+Ovaj brojčanik je dostupan bez troška sa svim osnovnim funkcijama. Premium karakteristike (označene sa [*]) zahtevaju Pro ključ za otključavanje. Možete kupiti Pro ključ ovde: https://ko-fi.com/s/3633613c58 ili https://watchface.io/nexus, ili kupiti PRO verziju ovde: https://apps.garmin.com/apps/e3cb3f3d-5587-441e-90c2-43d14118bf3e.
+
+⭐️ MIPS uređaji (Fenix 7, Enduro, Forerunner 255, itd.) ⭐️
+Ovaj brojčanik je potpuno optimizovan za MIPS, ali boje mogu izgledati drugačije kao na većini slika, jer su ove snimljene na Amoled uređaju. Ovaj brojčanik ima mnoge teme optimizovane za MIPS i podržava MIPS gradijente. Možete pronaći sve ugrađene teme ovde: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Resursi ⭐️
+* FAQ: https://watchface.io/faq
+* Priručnik: https://watchface.io/nexus/manual
+* Nabaviti PRO ključ: https://ko-fi.com/s/3633613c58 ili https://watchface.io/nexus
+* Lista tema: https://watchface.io/nexus/themes
+* Vodič boja: https://watchface.io/docs/color-list
+* Dostupna polja podataka: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Napomena: Postoje dva različita mesta sa postavkama:
+* Garmin IQ aplikacija (na vašem telefonu idite na vaš uređaj, brojčanike, postavke): Konfiguriši polja podataka, boje i opšte postavke.
+* Postavke na satu: Pristupite detaljnijim opcijama kao što su format vremena, ciljevi i jedinice direktno na satu držanjem dugmeta menija, odabirom brojčanika i dodirom na prilagodi.
+
+⭐️ Polja podataka ⭐️
+Sva polja podataka koja Garmin trenutno obezbeđuje programerima treće strane su dostupna, plus dodatci kao što su podrška za Monitor glukoze (CGM), Open Weather Map (OWM) i podrška za druge aplikacije treće strane.
+Sva dostupna polja podataka su navedena ovde: https://watchface.io/docs/datafields. Neka polja podataka (kao što su spremnost za trening ili HRV) trenutno nisu dostupna programerima treće strane, pogledajte ovde: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Mogu li promeniti tekst Fenix/Enduro, itd.? ⭐️
+Da, možete! Pogledajte ovde: https://watchface.io/faq/how-to-change-the-fenix-text
+U stvari, sve na ovom brojčaniku može biti prilagođeno vašem ukusu.
+
+*** Ako naiđete na bilo kakve greške ili probleme, molimo vas kontaktirajte me pritiskom na "Contact Developer" umesto korišćenja sistema recenzija. Mogu da odgovorim na emailove brzo, dok možda neću videti recenzije nekoliko dana. ***
+
+* Dnevnik promena: https://watchface.io/nexus/changelog

@@ -128,6 +128,7 @@
       "_aodS": "AOD - Décalage pixel (pixels que l'écran décale aléatoirement pour éviter le marquage)",
 
       
-      "_t_guf": " 📖 OBJECTIFS/UNITÉS/FORMATS "
+      "_t_guf": " 📖 OBJECTIFS/UNITÉS/FORMATS ",
+      "_hus": "Ajuster la position des aiguilles chaque seconde (voir FAQ)"
     }
 }

@@ -115,7 +115,8 @@
     "_aodT": "AOD - Lysstyrkesniveau - (Indstil skærm lysstyrke, sæt lavere når skærm slukkes. Se FAQ)",
     "_aodC": "AOD - Lysende farvetone (Farver alle data i denne farve)",
     "_aodS": "AOD - Pixel forskydning (pixels som skærmen tilfældigt forskyder for at forhindre indbrænding)",
-    "_t_guf": " 📖 MÅL/ENHEDER/FORMATER ",
-    "_cp5b": "5. Højre nederst fremskridtsbjælke farve 2"
+  "_t_guf": " 📖 MÅL/ENHEDER/FORMATER ",
+  "_hus": "Juster visernes position hver sekund (se FAQ)",
+  "_cp5b": "5. Højre nederst fremskridtsbjælke farve 2"
   }
 }

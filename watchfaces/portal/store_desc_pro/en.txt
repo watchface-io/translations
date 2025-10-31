@@ -1,0 +1,38 @@
+All your data in one spot!
+
+Over 100 datafields, gradients, 3 custom fonts + many resizeable fonts and fully customizeable.
+- Progress bars
+- Progress Circles
+- Charts / Graphs
+- Generate random themes with AI
+- Support for CGM
+- Support for custom complications
+
+⭐️ Try before you buy! ⭐️
+Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/f0e52b2f-4782-4b75-b115-cd55bb9e1ced
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+This watchface is fully optimized for MIPS, but colors will look different as in most pictures, as these are taken on an Amoled device. This watchface has many themes optimized for MIPS and supports MIPS gradients. You can find all the built-in themes here: https://watchface.io/portal/themes#MIPS
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/portal/manual
+* Free version: https://apps.garmin.com/apps/f0e52b2f-4782-4b75-b115-cd55bb9e1ced
+* Theme List: https://watchface.io/portal/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+* Bugtracker: https://github.com/Watchface-io/Watchfaces/issues?q=is%3Aissue%20state%3Aopen%20label%3APortal
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone go to your device, watchfaces, settings): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields . Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***
+
+* Changelog: https://watchface.io/portal/changelog

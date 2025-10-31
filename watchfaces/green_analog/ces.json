@@ -115,7 +115,8 @@
     "_aodT": "AOD - Úroveň jasu - (Nastavte jas obrazovky, nastavte nižší při vypnutí obrazovky. Viz FAQ)",
     "_aodC": "AOD - Odstín světelné barvy (Obarvuje všechna data touto barvou)",
     "_aodS": "AOD - Posun pixelů (pixely, o které se obrazovka náhodně posunuje k zabránění vypálení)",
-    "_t_guf": " 📖 CÍLE/JEDNOTKY/FORMÁTY ",
-    "_cp5b": "5. Barva indikátoru pokroku vpravo dole 2"
+  "_t_guf": " 📖 CÍLE/JEDNOTKY/FORMÁTY ",
+  "_hus": "Upravovat polohu ručiček každou sekundu (viz FAQ)",
+  "_cp5b": "5. Barva indikátoru pokroku vpravo dole 2"
   }
 }

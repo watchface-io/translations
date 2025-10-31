@@ -116,6 +116,7 @@
     "_aodT": "AOD - Brightness Level - (Set Screen brightness, set lower when screen turns off. See FAQ)",
     "_aodC": "AOD - Lume Tint Color (Tints all data to this color)",
     "_aodS": "AOD - Pixel Shift (pixels the screen randomly shifts to prevent burn-in)",
-    "_t_guf": " 📖 EESMÄRGID/ÜHIKUD/VORMINGUD"
+  "_t_guf": " 📖 EESMÄRGID/ÜHIKUD/VORMINGUD",
+  "_hus": "Kohanda osutite asendit iga sekundi järel (vt KKK)"
   }
 }

@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+        "_f1": "Top Field Data",
+        "_l1": "Top Field Label",
+
+        "_f2": "Left Field Data",
+        "_l2": "Left Field Label",
+
+        "_f3": "Right Field Data",
+        "_l3": "Right Field Label",
+
+        "_f4": "Bottom Field Data",
+        "_l4": "Bottom Field Label",
+
+        "_f5": "Top Progress Data",
+        "_p5": "Top Progress Style",
+
+        "_f6": "Bottom Progress Data",
+        "_p6": "Bottom Progress Style",
+
+        "_f20": "AOD Field Data",
+        "_l20": "AOD Field Label",
+
+        "_hc1": "Hour Color",
+        "_hc2": "Hour Color 2",
+        "_hc3": "Hour Color 3 (Inner)",
+        "_hc4": "Hour Color 4 (Inner)",
+
+        "_mc1": "Minute Color 1 (Outline)",
+        "_mc2": "Minute Color 2 (Outline)",
+
+        "_mc3": "Minute Color 3 (Inner)",
+        "_mc4": "Minute Color 4 (Inner)",
+
+        "_sbg" : "Same as Background Color",
+
+        "_m1": "Marker 1 Color",
+        "_m2": "Marker 2 Color",
+        
+        "_cp1": "Top Progress Color",
+        "_c21": "Top Progress Color 2",
+        "_cu1": "Top Progress Color Unfilled",
+
+        "_cp2": "Bottom Progress Color",
+        "_c22": "Bottom Progress Color 2",
+        "_cu2": "Bottom Progress Color Unfilled",
+
+        "_bgc": "Background Color",
+        "_bgl": "Background Lines Color",
+        "_cs": "70% Darker",
+        "_cpbs" : "Same as Left Top Progress Bar",
+
+        "_stc" : "Same as Text Color",
+        "_slc" : "Same as Label Color",
+
+
+        "_c1": "Top Field Data Color",
+        "_c1l": "Top Field Label Color",
+
+        "_c2": "Left Field Data Color",
+        "_c2l": "Left Field Label Color",
+
+        "_c3": "Right Field Data Color",
+        "_c3l": "Right Field Label Color",
+
+        "_c4": "Bottom Field Data Color",
+        "_c4l": "Bottom Field Label Color",
+
+        "_c5": "Top Progress Data Color",
+        "_c5l": "Top Progress Label Color",
+
+        "_c6": "Bottom Progress Data Color",
+        "_c6l": "Bottom Progress Label Color",
+        "_x4": "Load Previous Preset",
+        "_x3": "Load Previous Color Theme",
+
+        "_rst": "Reset all settings",
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+
+        "_o1": "Time Offsets (X, Y, X Spacing, Y Spacing, Y Minutes) Default: 20",
+        "_o2": "Field X Offsets (Top, Left, Right, Bottom, Progress 1, Progress 2) Default: 20",
+        "_o3": "Field Y Offsets (Top, Left Text, Right Text, Bottom, Progress 1, Progress 2, Left Label, Right Label) Default: 20",
+        "_bdb": "Draw number background (sharper minutes, hours not visible behind)",
+
+        "_t1": "Hour Font",
+        "_t1a": "Hour Font AOD",
+        "_t1s": "Hour Font Size",
+        "_t2": "Minute Font",
+        "_t2a": "Minute Font AOD",
+        "_t2s": "Minute Font Size",
+
+        "_t3": "Text Font",
+        "_s1": "Top Text Font Size",
+        "_s2": "Progress Text Font Size",
+        "_s3": "Left/Right Text Font Size",
+        "_s4": "Bottom Text Font Size",
+    
+        "_fo": "Outlined (If available)",
+        "_fk": "Keep the same",
+        "_fks": "Keep the same, including Inner",
+
+
+        "_pc": "Text color",
+        "_ic": "Label color",      
+
+        "_gq": "Gradient Quality",
+        "_ng": "No Gradient",
+
+        "_0f" : "Show Field Progress",
+        "_1f" : "Full",
+        "_2f" : "Empty",
+        "_3f" : "Hide",
+
+        "_x2": "Load Next Color Theme",
+        
+        "_a1": "Touch shortcut Hour Left",
+        "_a2": "Touch shortcut Hour Right",
+        "_a3": "Touch shortcut Minute Left",
+        "_a4": "Touch shortcut Minute Right",
+
+        "_aas": "Always on seconds",
+        "_aod": "AOD Mode (Always on Display)",
+        "_aodct": "AOD Time Tint Color",
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        
+        "ad1": "Time Only",
+        "ad3": "Time Only - Moving",
+        "ad4": "Time + data field (Select Below)",
+        "ad6": "Time Moving + data field"
+    }
+}

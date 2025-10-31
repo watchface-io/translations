@@ -1,0 +1,32 @@
+Datenreiches Zifferblatt mit unbegrenzten Anpassungen, über 100 Datenfeldern und vollständig optimiert für minimalen Batterieverbrauch
+
+⭐️ Vor dem Kauf ausprobieren! ⭐️
+Bevor Sie dieses Ziffernblatt kaufen, probieren Sie zunächst die kostenlose Version aus, um sicherzustellen, dass es das ist, was Sie wollen und dass Ihnen gefällt, wie es auf Ihrer Uhr aussieht: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+
+⭐️ MIPS Geräte (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Dieses Ziffernblatt ist vollständig für MIPS optimiert, aber Farben können anders aussehen als in den meisten Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden. Dieses Ziffernblatt hat viele für MIPS optimierte Themes und unterstützt MIPS-Verläufe. Alle eingebauten Themes finden Sie hier: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Handbuch: https://watchface.io/nexus/manual
+* Kostenlose Version: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+* Theme-Liste: https://watchface.io/nexus/themes
+* Farbleitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon gehen Sie zu Ihrem Gerät, Ziffernblätter, Einstellungen): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen.
+* Uhr-Einstellungen: Zugriff auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten direkt auf der Uhr durch Halten der Menü-Taste, Auswählen des Ziffernblatts und Tippen auf Anpassen.
+
+⭐️ Datenfelder ⭐️
+Alle Datenfelder, die Garmin derzeit Drittanbieter-Entwicklern zur Verfügung stellt, sind verfügbar, plus Extras wie Glucose Monitor (CGM) Unterstützung, Open Weather Map (OWM) und Unterstützung für andere Drittanbieter-Apps.
+Alle verfügbaren Datenfelder sind hier aufgelistet: https://watchface.io/docs/datafields. Einige Datenfelder (wie Trainingsbereitschaft oder HRV) sind derzeit nicht für Drittanbieter-Entwickler verfügbar, siehe hier: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kann ich den Fenix/Enduro, etc. Text ändern? ⭐️
+Ja, das können Sie! Siehe hier: https://watchface.io/faq/how-to-change-the-fenix-text
+Tatsächlich kann alles an diesem Ziffernblatt nach Ihren Wünschen angepasst werden.
+
+*** Wenn Sie auf Bugs oder Probleme stoßen, kontaktieren Sie mich bitte über "Contact Developer" anstatt das Bewertungssystem zu verwenden. Ich kann E-Mails schnell beantworten, während ich Bewertungen möglicherweise mehrere Tage nicht sehe. ***
+
+* Änderungsprotokoll: https://watchface.io/nexus/changelog
