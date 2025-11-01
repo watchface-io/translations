@@ -170,6 +170,7 @@
         
         "_x4": "Charger le préréglage précédent",
         "_x3": "Charger le thème de couleur précédent",
-        "_x2": "Charger le thème de couleur suivant"
+        "_x2": "Charger le thème de couleur suivant",
+        "_hus": "Ajuster la position des aiguilles chaque seconde (voir FAQ)"
     }
 }

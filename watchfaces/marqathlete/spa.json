@@ -170,6 +170,7 @@
         
         "_x4": "Cargar preajuste anterior",
         "_x3": "Cargar tema color anterior",
-        "_x2": "Cargar siguiente tema color"
+        "_x2": "Cargar siguiente tema color",
+        "_hus": "Actualizar posición de aguja cada segundo (ver FAQ)"
     }
 }

@@ -170,6 +170,7 @@
         
         "_x4": "Lataa edellinen esiasetus",
         "_x3": "Lataa edellinen väriteema",
-        "_x2": "Lataa seuraava väriteema"
+        "_x2": "Lataa seuraava väriteema",
+        "_hus": "Säädä viisarin asentoa joka sekunti (katso UKK)"
     }
 }

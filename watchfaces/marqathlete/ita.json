@@ -170,6 +170,7 @@
         
         "_x4": "Carica preimpostazione precedente",
         "_x3": "Carica tema colore precedente",
-        "_x2": "Carica prossimo tema colore"
+        "_x2": "Carica prossimo tema colore",
+        "_hus": "Regola posizione lancetta ogni secondo (vedi FAQ)"
     }
 }

@@ -170,6 +170,7 @@
         
         "_x4": "Laadi eelmine eelseade",
         "_x3": "Laadi eelmine värviteema",
-        "_x2": "Laadi järgmine värviteema"
+        "_x2": "Laadi järgmine värviteema",
+        "_hus": "Kohanda osuti asukohta iga sekund (vaata KKK)"
     }
 }
