@@ -25,8 +25,8 @@
         "_f20": "AOD Field Data",
         "_l20": "AOD Field Label",
 
-        "_hc1": "Hour Color",
-        "_hc2": "Hour Color 2",
+        "_hc1": "Hour Color 1 (Outline)",
+        "_hc2": "Hour Color 2 (Outline)",
         "_hc3": "Hour Color 3 (Inner)",
         "_hc4": "Hour Color 4 (Inner)",
 
@@ -41,18 +41,18 @@
         "_m1": "Marker 1 Color",
         "_m2": "Marker 2 Color",
         
-        "_cp1": "Top Progress Color",
+        "_cp1": "Top Progress Color 1",
         "_c21": "Top Progress Color 2",
         "_cu1": "Top Progress Color Unfilled",
 
-        "_cp2": "Bottom Progress Color",
+        "_cp2": "Bottom Progress Color 1",
         "_c22": "Bottom Progress Color 2",
         "_cu2": "Bottom Progress Color Unfilled",
 
         "_bgc": "Background Color",
         "_bgl": "Background Lines Color",
         "_cs": "70% Darker",
-        "_cpbs" : "Same as Left Top Progress Bar",
+        "_cpbs" : "Same as Top Progress Bar",
 
         "_stc" : "Same as Text Color",
         "_slc" : "Same as Label Color",
@@ -87,8 +87,8 @@
         "_tx": "➡️ OFFSETS",
 
         "_o1": "Time Offsets (X, Y, X Spacing, Y Spacing, Y Minutes) Default: 20",
-        "_o2": "Field X Offsets (Top, Left, Right, Bottom, Progress 1, Progress 2) Default: 20",
-        "_o3": "Field Y Offsets (Top, Left Text, Right Text, Bottom, Progress 1, Progress 2, Left Label, Right Label) Default: 20",
+        "_o2": "Field X Offsets (Top, Left, Right, Bottom, Top Progress, Bottom Progress) Default: 20",
+        "_o3": "Field Y Offsets (Top, Left Text, Right Text, Bottom, Top Progress, Bottom Progress, Left Label, Right Label) Default: 20",
         "_bdb": "Draw number background (sharper minutes, hours not visible behind)",
 
         "_t1": "Hour Font",
@@ -132,8 +132,8 @@
         "_aodct": "AOD Time Tint Color",
         "_aodc": "AOD Data Tint Color",
         "_aodT": "AOD Time Brightness",
-        "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
-        "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "_aodD": "AOD Data Brightness (If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift (Number of pixels the screen randomly shifts per minute to prevent burn-in)",
         "ad0": "Turn Screen OFF",
         "ad100": "Full AOD (Default)",
         
