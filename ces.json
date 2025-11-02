@@ -10,7 +10,7 @@
         "c7" : "Vzdálenost s vozíkem (8 dní)",
         "c8" : "Tlačení vozíku (8 dní)",
         
-        "c20" : "Baterie těla",
+        "c20" : "Body Battery",
         "c21" : "Nadmořská výška",
         "c22" : "Srdeční tep",
         "c23" : "Srdeční tep s barvami zón",
@@ -162,7 +162,7 @@
         "f12" : "Skóre stresu",
         "f635" : "Pulse Ox",
         "f11" : "Frekvence dýchání",
-        "f623" : "Baterie těla",
+        "f623" : "Body Battery",
         "f8" : "Lišta pohybu",
         "f15": "Obrácený pohybový pruh",
         
@@ -390,7 +390,7 @@
         "t20" : "Týdenní vzdálenost kolo",
         "t21" : "Čas zotavení",
         "t22" : "Stres",
-        "t23" : "Baterie těla",
+        "t23" : "Body Battery",
         "t24" : "VO2MAX běh",
         "t25" : "VO2MAX kolo",
         "t26" : "Stav tréninku",

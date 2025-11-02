@@ -170,6 +170,7 @@
         
         "_x4": "Load Previous Preset",
         "_x3": "Load Previous Color Theme",
-        "_x2": "Load Next Color Theme"
+        "_x2": "Load Next Color Theme",
+        "_hus": "Adjust hand position every second (see FAQ)"
     }
 }
