@@ -1,5 +1,7 @@
 {
     "settings" : {
+        "f742" : "BMI",
+        "f741" : "Trainingseffekt",
         "c0" : "Nichts",
         "c1" : "Aktive Minuten (8 Tage)",
         "c2" : "Kalorien (8 Tage)",

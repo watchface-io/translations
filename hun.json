@@ -1,5 +1,7 @@
 {
     "settings" : {
+        "f742" : "BMI",
+        "f741" : "Edzéshatás",
         "c0" : "Semmi",
         "c1" : "Aktív percek (8 nap)",
         "c2" : "Kalóriák (8 nap)",

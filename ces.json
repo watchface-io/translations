@@ -1,5 +1,7 @@
 {
     "settings" : {
+        "f742" : "BMI (index tělesné hmotnosti)",
+        "f741" : "Tréninkový efekt",
         "c0" : "Nic",
         "c1" : "Aktivní minuty (8 dní)",
         "c2" : "Kalorie (8 dní)",

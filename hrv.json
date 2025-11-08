@@ -1,5 +1,7 @@
 {
     "settings" : {
+        "f742" : "Indeks tjelesne mase (BMI)",
+        "f741" : "Učinak treninga",
         "c0" : "Ništa",
         "c1" : "Aktivne minute (8 dana)",
         "c2" : "Kalorije (8 dana)",

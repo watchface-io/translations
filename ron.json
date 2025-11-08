@@ -1,5 +1,7 @@
 {
     "settings" : {
+        "f742" : "IMC (Indicele de masă corporală)",
+        "f741" : "Efectul antrenamentului",
         "c0" : "Nimic",
         "c1" : "Minute active (8 zile)",
         "c2" : "Calorii (8 zile)",

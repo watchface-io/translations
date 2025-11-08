@@ -1,5 +1,7 @@
 {
     "settings" : {
+        "f742" : "IMC (Indice de masse corporelle)",
+        "f741" : "Effet d'entraînement",
         "c0" : "Rien",
         "c1" : "Minutes actives (8 jours)",
         "c2" : "Calories (8 jours)",

@@ -1,5 +1,7 @@
 {
     "settings" : {
+        "f742" : "BMI",
+        "f741" : "Harjoitusefekti",
         "c0" : "Ei mitään",
         "c1" : "Aktiiviset minuutit (8 päivää)",
         "c2" : "Kalorit (8 päivää)",

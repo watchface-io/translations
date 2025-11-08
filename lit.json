@@ -1,5 +1,7 @@
 {
     "settings" : {
+        "f742" : "Kūno masės indeksas (KMI)",
+        "f741" : "Treniruotės efektas",
         "c0" : "Nieko",
         "c1" : "Aktyvūs minutės (8 dienos)",
         "c2" : "Kalorijos (8 dienos)",
