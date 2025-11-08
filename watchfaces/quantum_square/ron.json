@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (setați mai jos)",
+        "_o5": "Valoare timp personalizată (comandă rapidă tactilă 6767)",
+
+        "_md1": "Date Marker 1",
+        "_md2": "Date Marker 2",
+
+
+                "_bd1": "Dimensiune punct mare cadran",
+        "_bd2": "Dimensiune punct mic cadran",
+        "_dc1": "Culoare punct mare cadran",
+        "_dc2": "Culoare punct mic cadran",
+
+        "_ps0": "Cadran obișnuit",
+        "_ps1": "Progres complet",
+        "_ps2": "Marcaje secunde ca progres",
+
+        "_rainbow": "Culori curcubeu",
+        "_xmas": "Culori de Crăciun",
+
+        "_f9": "Progres cadran",
+        "_p9": "Stil progres cadran",
+
+        "_f1": "Date superioare",
+        "_l1": "Etichetă superioară",
+        "_p1": "Stil progres superior",
+
+        "_f2": "Rând 1 Date stânga",
+        "_l2": "Rând 1 Etichetă stânga",
+        "_p2": "Rând 1 Stil progres stânga",
+
+        "_f3": "Rând 1 Date centru",
+        "_l3": "Rând 1 Etichetă centru",
+        "_p3": "Rând 1 Stil progres centru",
+
+        "_f4": "Rând 1 Date dreapta",
+        "_l4": "Rând 1 Etichetă dreapta",
+        "_p4": "Rând 1 Stil progres dreapta",
+
+        "_f5": "Rând 2 Date stânga",
+        "_l5": "Rând 2 Etichetă stânga",
+        "_p5": "Rând 2 Stil progres stânga",
+
+        "_f6": "Rând 2 Date centru",
+        "_l6": "Rând 2 Etichetă centru",
+        "_p6": "Rând 2 Stil progres centru",
+
+        "_f7": "Rând 2 Date dreapta",
+        "_l7": "Rând 2 Etichetă dreapta",
+        "_p7": "Rând 2 Stil progres dreapta",
+
+        "_f8": "Date inferioare",
+        "_l8": "Etichetă inferioară",
+        "_p8": "Stil progres inferior",
+
+        "_f20": "Date câmp AOD",
+        "_l20": "Etichetă câmp AOD",
+
+        "_hc1": "Culoare oră 1",
+        "_hc2": "Culoare oră 2",
+
+
+        "_mc1": "Culoare minut 1",
+        "_mc2": "Culoare minut 2",
+
+
+        "_dv1": "Culoare separator",
+
+
+
+        "_sbg" : "Aceeași cu culoarea de fundal",
+
+        "_m1": "Culoare Marker 1",
+        "_m2": "Culoare Marker 2",
+        
+        "_cp1": "Culoare progres superior 1",
+        "_c21": "Culoare progres superior 2",
+        "_cu1": "Culoare progres superior neumplut",
+
+        "_cp2": "Culoare progres inferior 1",
+        "_c22": "Culoare progres inferior 2",
+        "_cu2": "Culoare progres inferior neumplut",
+
+        "_bgc": "Culoare de fundal",
+        "_bgl": "Culoare linii de fundal",
+        "_cs": "70% mai întunecat",
+        "_cpbs" : "Aceeași cu bara de progres superioară",
+
+        "_stc" : "Aceeași cu culoarea textului",
+        "_slc" : "Aceeași cu culoarea etichetei",
+
+
+        "_c1": "Culoare date superioare",
+        "_c1l": "Culoare etichetă superioară",
+
+        "_c2": "Culoare date rând 1",
+        "_c2l": "Culoare etichetă rând 1",
+
+        "_c3": "Culoare date rând 2",
+        "_c3l": "Culoare etichetă rând 2",
+
+        "_c4": "Culoare date inferioare",
+        "_c4l": "Culoare etichetă inferioară",
+
+        "_c5": "Culoare date progres superior",
+        "_c5l": "Culoare etichetă progres superior",
+
+        "_c6": "Culoare date progres inferior",
+        "_c6l": "Culoare etichetă progres inferior",
+        "_x4": "Încarcă presetarea anterioară",
+        "_x3": "Încarcă tema de culori anterioară",
+
+        "_pb1": "Culoare bară progres date umplută",
+        "_pb2": "Culoare bară progres date neumplută",
+
+        "_rst": "Resetează toate setările",
+        "_tr": "👉 COMENZI RAPIDE TACTILE",
+        "_tc": "🎨 CULORI / FUNDAL",
+        "_tt": "🔤 FONTURI",
+        "_ta": "🖼️ SETĂRI AOD (Ecran mereu pornit)",
+        "_to": "💡 ALTELE",
+        "_tx": "➡️ DECALAJE",
+
+        "_o1": "Decalaje timp (X Oră, Y Oră, X Minut, Y Minut) Implicit: 20",
+        "_o2": "Decalaje câmp X (Sus, R1 stânga, R1 centru, R1 dreapta, R2 stânga, R2 centru, R2 dreapta, Jos) Implicit: 20",
+        "_o3": "Decalaje câmp Y (Sus, R1 stânga, R1 centru, R1 dreapta, R2 stânga, R2 centru, R2 dreapta, Jos) Implicit: 20",
+        "_o4": "Decalaje etichetă Y (R1 stânga, R1 centru, R1 dreapta, R2 stânga, R2 centru, R2 dreapta) Implicit: 20",
+        "_bdb": "Desenează fundal număr (minute mai clare, orele nu sunt vizibile în spate)",
+
+        "_t1": "Font oră",
+        "_t1a": "Font oră AOD",
+        "_t1s": "Dimensiune font oră",
+
+
+        "_sah": "Aceeași cu ora",
+
+        "_t3": "Font text",
+        "_s1": "Dimensiune font text superior (Doar fonturi redimensionabile)",
+        "_s2": "Dimensiune font rând 1",
+        "_s3": "Dimensiune font rând 2",
+        "_s4": "Dimensiune font inferior",
+    
+        "_fo": "Contur (dacă este disponibil)",
+        "_fk": "Păstrează același",
+        "_fks": "Păstrează același, inclusiv Interior",
+
+
+        "_pc": "Culoare text",
+        "_ic": "Culoare etichetă",      
+
+        "_gq": "Calitate gradient",
+        "_ng": "Fără gradient",
+
+        "_0f" : "Afișează progres câmp",
+        "_1f" : "Plin",
+        "_2f" : "Gol",
+        "_3f" : "Ascunde",
+
+        "_x2": "Încarcă următoarea temă de culori",
+        
+        "_a1": "Comandă rapidă tactilă stânga",
+        "_a2": "Comandă rapidă tactilă centru",
+        "_a3": "Comandă rapidă tactilă dreapta",
+
+        "_aas": "Mereu secunde",
+        "_aod": "Mod AOD (Ecran mereu pornit)",
+        "_aodct": "Culoare nuanță timp AOD",
+        "_aodc": "Culoare nuanță date AOD",
+        "_aodT": "Luminozitate timp AOD",
+        "_aodD": "Luminozitate date AOD (Dacă ecranul se oprește în timpul AOD, micșorați acest număr. Număr mai mic = consum mai mic de baterie, dar mai puțin luminos. Consultați FAQ)",
+        "_aodS": "Deplasare AOD (Număr de pixeli cu care ecranul se deplasează aleatoriu pe minut pentru a preveni arsura)",
+        "ad0": "Oprește ecranul",
+        "ad100": "AOD complet (Implicit)",
+        
+        "ad1": "Doar ora",
+        "ad3": "Doar ora - În mișcare",
+        "ad4": "Ora + câmp de date (Selectați mai jos)",
+        "ad6": "Ora în mișcare + câmp de date"
+    }
+}

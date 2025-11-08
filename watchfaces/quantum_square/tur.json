@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (aşağıda ayarla)",
+        "_o5": "Özel Zaman değeri (6767 dokunmatik kısayol)",
+
+        "_md1": "İşaretleyici 1 Verisi",
+        "_md2": "İşaretleyici 2 Verisi",
+
+
+                "_bd1": "Kadran Büyük Nokta Boyutu",
+        "_bd2": "Kadran Küçük Nokta Boyutu",
+        "_dc1": "Kadran Büyük Nokta Rengi",
+        "_dc2": "Kadran Küçük Nokta Rengi",
+
+        "_ps0": "Normal Kadran",
+        "_ps1": "Tam İlerleme",
+        "_ps2": "İlerleme olarak Saniye İşaretleri",
+
+        "_rainbow": "Gökkuşağı Renkleri",
+        "_xmas": "Noel Renkleri",
+
+        "_f9": "Kadran İlerlemesi",
+        "_p9": "Kadran İlerleme Stili",
+
+        "_f1": "Üst Veri",
+        "_l1": "Üst Etiket",
+        "_p1": "Üst İlerleme Stili",
+
+        "_f2": "1. Satır Sol Veri",
+        "_l2": "1. Satır Sol Etiket",
+        "_p2": "1. Satır Sol İlerleme Stili",
+
+        "_f3": "1. Satır Orta Veri",
+        "_l3": "1. Satır Orta Etiket",
+        "_p3": "1. Satır Orta İlerleme Stili",
+
+        "_f4": "1. Satır Sağ Veri",
+        "_l4": "1. Satır Sağ Etiket",
+        "_p4": "1. Satır Sağ İlerleme Stili",
+
+        "_f5": "2. Satır Sol Veri",
+        "_l5": "2. Satır Sol Etiket",
+        "_p5": "2. Satır Sol İlerleme Stili",
+
+        "_f6": "2. Satır Orta Veri",
+        "_l6": "2. Satır Orta Etiket",
+        "_p6": "2. Satır Orta İlerleme Stili",
+
+        "_f7": "2. Satır Sağ Veri",
+        "_l7": "2. Satır Sağ Etiket",
+        "_p7": "2. Satır Sağ İlerleme Stili",
+
+        "_f8": "Alt Veri",
+        "_l8": "Alt Etiket",
+        "_p8": "Alt İlerleme Stili",
+
+        "_f20": "AOD Alan Verisi",
+        "_l20": "AOD Alan Etiketi",
+
+        "_hc1": "Saat Rengi 1",
+        "_hc2": "Saat Rengi 2",
+
+
+        "_mc1": "Dakika Rengi 1",
+        "_mc2": "Dakika Rengi 2",
+
+
+        "_dv1": "Ayırıcı Rengi",
+
+
+
+        "_sbg" : "Arka Plan Rengiyle Aynı",
+
+        "_m1": "İşaretleyici 1 Rengi",
+        "_m2": "İşaretleyici 2 Rengi",
+        
+        "_cp1": "Üst İlerleme Rengi 1",
+        "_c21": "Üst İlerleme Rengi 2",
+        "_cu1": "Üst İlerleme Doldurulmamış Rengi",
+
+        "_cp2": "Alt İlerleme Rengi 1",
+        "_c22": "Alt İlerleme Rengi 2",
+        "_cu2": "Alt İlerleme Doldurulmamış Rengi",
+
+        "_bgc": "Arka Plan Rengi",
+        "_bgl": "Arka Plan Çizgileri Rengi",
+        "_cs": "%70 Daha Koyu",
+        "_cpbs" : "Üst İlerleme Çubuğuyla Aynı",
+
+        "_stc" : "Metin Rengiyle Aynı",
+        "_slc" : "Etiket Rengiyle Aynı",
+
+
+        "_c1": "Üst Veri Rengi",
+        "_c1l": "Üst Etiket Rengi",
+
+        "_c2": "1. Satır Veri Rengi",
+        "_c2l": "1. Satır Etiket Rengi",
+
+        "_c3": "2. Satır Veri Rengi",
+        "_c3l": "2. Satır Etiket Rengi",
+
+        "_c4": "Alt Veri Rengi",
+        "_c4l": "Alt Etiket Rengi",
+
+        "_c5": "Üst İlerleme Veri Rengi",
+        "_c5l": "Üst İlerleme Etiket Rengi",
+
+        "_c6": "Alt İlerleme Veri Rengi",
+        "_c6l": "Alt İlerleme Etiket Rengi",
+        "_x4": "Önceki Ön Ayarı Yükle",
+        "_x3": "Önceki Renk Temasını Yükle",
+
+        "_pb1": "Veri ilerleme çubuğu doldurulmuş rengi",
+        "_pb2": "Veri ilerleme çubuğu doldurulmamış rengi",
+
+        "_rst": "Tüm ayarları sıfırla",
+        "_tr": "👉 DOKUNMA KISAYOLLARI",
+        "_tc": "🎨 RENKLER / ARKA PLAN",
+        "_tt": "🔤 YAZI TİPLERİ",
+        "_ta": "🖼️ AOD AYARLARI (Her Zaman Açık Ekran)",
+        "_to": "💡 DİĞER",
+        "_tx": "➡️ OFSETLER",
+
+        "_o1": "Saat Ofsetleri (X Saat, Y Saat, X Dakika, Y Dakika) Varsayılan: 20",
+        "_o2": "Alan X Ofsetleri (Üst, S1 Sol, S1 Orta, S1 Sağ, S2 Sol, S2 Orta, S2 Sağ, Alt) Varsayılan: 20",
+        "_o3": "Alan Y Ofsetleri (Üst, S1 Sol, S1 Orta, S1 Sağ, S2 Sol, S2 Orta, S2 Sağ, Alt) Varsayılan: 20",
+        "_o4": "Etiket Y Ofsetleri (S1 Sol, S1 Orta, S1 Sağ, S2 Sol, S2 Orta, S2 Sağ) Varsayılan: 20",
+        "_bdb": "Sayı arka planını çiz (daha keskin dakikalar, saatler arkada görünmez)",
+
+        "_t1": "Saat Yazı Tipi",
+        "_t1a": "Saat Yazı Tipi AOD",
+        "_t1s": "Saat Yazı Tipi Boyutu",
+
+
+        "_sah": "Saatle Aynı",
+
+        "_t3": "Metin Yazı Tipi",
+        "_s1": "Üst Metin Yazı Tipi Boyutu (Yalnızca yeniden boyutlandırılabilir yazı tipleri)",
+        "_s2": "1. Satır Yazı Tipi Boyutu",
+        "_s3": "2. Satır Yazı Tipi Boyutu",
+        "_s4": "Alt Yazı Tipi Boyutu",
+    
+        "_fo": "Çerçeveli (Varsa)",
+        "_fk": "Aynısını koru",
+        "_fks": "İç dahil aynısını koru",
+
+
+        "_pc": "Metin rengi",
+        "_ic": "Etiket rengi",      
+
+        "_gq": "Degrade Kalitesi",
+        "_ng": "Degrade Yok",
+
+        "_0f" : "Alan İlerlemesini Göster",
+        "_1f" : "Dolu",
+        "_2f" : "Boş",
+        "_3f" : "Gizle",
+
+        "_x2": "Sonraki Renk Temasını Yükle",
+        
+        "_a1": "Dokunma kısayolu Sol",
+        "_a2": "Dokunma kısayolu Orta",
+        "_a3": "Dokunma kısayolu Sağ",
+
+        "_aas": "Saniyeler her zaman açık",
+        "_aod": "AOD Modu (Her Zaman Açık Ekran)",
+        "_aodct": "AOD Saat Ton Rengi",
+        "_aodc": "AOD Veri Ton Rengi",
+        "_aodT": "AOD Saat Parlaklığı",
+        "_aodD": "AOD Veri Parlaklığı (AOD sırasında ekran kapanırsa bu sayıyı düşürün. Düşük sayı = daha az pil kullanımı ancak daha az parlak. SSS'ye bakın)",
+        "_aodS": "AOD Kayması (Yanma önlemek için ekranın dakikada rastgele kaydığı piksel sayısı)",
+        "ad0": "Ekranı KAPAT",
+        "ad100": "Tam AOD (Varsayılan)",
+        
+        "ad1": "Yalnızca Saat",
+        "ad3": "Yalnızca Saat - Hareketli",
+        "ad4": "Saat + veri alanı (Aşağıdan Seçin)",
+        "ad6": "Hareketli Saat + veri alanı"
+    }
+}

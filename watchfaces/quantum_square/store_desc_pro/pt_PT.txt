@@ -1,0 +1,32 @@
+Mostrador digital retrô pixel-perfeito. Apresenta até 8 métricas de dados desportivos em tempo real com marcadores nítidos, barras de progresso suaves, gradientes subtis e suporte para mais de 100 campos de dados Garmin. Ultra económico em bateria e totalmente otimizado para todos os dispositivos suportados (incluindo Venu X1 e outros ecrãs quadrados).
+
+⭐️ Experimente antes de comprar ⭐️ 
+Visualize a versão gratuita para garantir que atende às suas necessidades e fica ótimo no seu relógio: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+
+⭐️ Dispositivos MIP (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+As cores podem parecer diferentes das da maioria das imagens, pois são tiradas num dispositivo Amoled. Este mostrador tem muitos temas otimizados para MIP e suporta gradientes MIP. Pode encontrar todos os temas integrados aqui: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Recursos ⭐️
+* Perguntas frequentes: https://watchface.io/faq
+* Manual: https://watchface.io/quantum_square/manual
+* Versão gratuita: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+* Lista de temas: https://watchface.io/quantum_square/themes
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Existem dois lugares diferentes com definições:
+* Aplicação Garmin IQ (no seu telefone vá para o seu dispositivo, mostradores, definições): Configure campos de dados, cores e definições gerais.
+* Definições no relógio: Aceda a opções mais detalhadas como formato de hora, objetivos e unidades diretamente no relógio mantendo premido o botão de menu, selecionando mostrador e tocando em personalizar.
+
+⭐️ Campos de dados ⭐️
+Todos os campos de dados que a Garmin atualmente fornece para programadores terceiros estão disponíveis, além de extras como suporte a Monitor de Glicose (CGM), Open Weather Map (OWM) e suporte para outras aplicações terceiras.
+Todos os campos de dados disponíveis estão listados aqui: https://watchface.io/docs/datafields. Alguns campos de dados (como prontidão para treino ou HRV) não estão disponíveis atualmente para programadores terceiros, veja aqui: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Posso alterar o texto Fenix/Enduro, etc.? ⭐️
+Sim, pode! Veja aqui: https://watchface.io/faq/how-to-change-the-fenix-text
+Na verdade, tudo neste mostrador pode ser ajustado ao seu gosto.
+
+*** Se encontrar algum erro ou problema, entre em contacto comigo pressionando "Contactar Programador" em vez de usar o sistema de avaliação. Posso responder a e-mails rapidamente, enquanto posso não ver avaliações durante vários dias. ***
+
+* Registo de alterações: https://watchface.io/quantum_square/changelog

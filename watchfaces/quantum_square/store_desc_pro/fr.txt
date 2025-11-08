@@ -1,0 +1,32 @@
+Cadran numérique rétro au pixel parfait. Affiche jusqu'à 8 métriques de données sportives en temps réel avec des marqueurs nets, des barres de progression fluides, des dégradés subtils et une prise en charge de plus de 100 champs de données Garmin. Ultra économe en batterie et entièrement optimisé pour tous les appareils pris en charge (y compris Venu X1 et autres écrans carrés).
+
+⭐️ Essayez avant d'acheter ⭐️ 
+Prévisualisez la version gratuite pour vous assurer qu'elle correspond à vos besoins et qu'elle est superbe sur votre montre : https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+
+⭐️ Appareils MIP (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Les couleurs peuvent paraître différentes de celles de la plupart des images, car celles-ci sont prises sur un appareil Amoled. Ce cadran possède de nombreux thèmes optimisés pour MIP et prend en charge les dégradés MIP. Vous pouvez trouver tous les thèmes intégrés ici : https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Ressources ⭐️
+* FAQ : https://watchface.io/faq
+* Manuel : https://watchface.io/quantum_square/manual
+* Version gratuite : https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+* Liste des thèmes : https://watchface.io/quantum_square/themes
+* Guide des couleurs : https://watchface.io/docs/color-list
+* Champs de données disponibles : https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Remarque : Il existe deux endroits différents avec des paramètres :
+* Application Garmin IQ (sur votre téléphone, allez à votre appareil, cadrans, paramètres) : Configurez les champs de données, les couleurs et les paramètres généraux.
+* Paramètres sur la montre : Accédez à des options plus détaillées telles que le format de l'heure, les objectifs et les unités directement sur la montre en maintenant le bouton de menu enfoncé, en sélectionnant le cadran et en appuyant sur personnaliser.
+
+⭐️ Champs de données ⭐️
+Tous les champs de données que Garmin fournit actuellement aux développeurs tiers sont disponibles, ainsi que des extras comme la prise en charge du moniteur de glucose (CGM), Open Weather Map (OWM) et la prise en charge d'autres applications tierces.
+Tous les champs de données disponibles sont répertoriés ici : https://watchface.io/docs/datafields. Certains champs de données (comme la préparation à l'entraînement ou la VRC) ne sont actuellement pas disponibles pour les développeurs tiers, voir ici : https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Puis-je modifier le texte Fenix/Enduro, etc. ? ⭐️
+Oui, vous pouvez ! Voir ici : https://watchface.io/faq/how-to-change-the-fenix-text
+En fait, tout sur ce cadran peut être ajusté selon vos préférences.
+
+*** Si vous rencontrez des bugs ou des problèmes, veuillez me contacter en appuyant sur "Contacter le développeur" au lieu d'utiliser le système d'évaluation. Je peux répondre rapidement aux e-mails, alors que je pourrais ne pas voir les avis pendant plusieurs jours. ***
+
+* Journal des modifications : https://watchface.io/quantum_square/changelog

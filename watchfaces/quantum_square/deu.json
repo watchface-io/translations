@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (unten einstellen)",
+        "_o5": "Benutzerdefinierter Zeitwert (6767 Touch-Verknüpfung)",
+
+        "_md1": "Markierung 1 Daten",
+        "_md2": "Markierung 2 Daten",
+
+
+                "_bd1": "Zifferblatt Großer Punkt Größe",
+        "_bd2": "Zifferblatt Kleiner Punkt Größe",
+        "_dc1": "Zifferblatt Großer Punkt Farbe",
+        "_dc2": "Zifferblatt Kleiner Punkt Farbe",
+
+        "_ps0": "Normales Zifferblatt",
+        "_ps1": "Voller Fortschritt",
+        "_ps2": "Sekundenmarkierungen als Fortschritt",
+
+        "_rainbow": "Regenbogenfarben",
+        "_xmas": "Weihnachtsfarben",
+
+        "_f9": "Zifferblatt Fortschritt",
+        "_p9": "Zifferblatt Fortschrittsstil",
+
+        "_f1": "Obere Daten",
+        "_l1": "Oberes Label",
+        "_p1": "Oberer Fortschrittsstil",
+
+        "_f2": "Zeile 1 Links Daten",
+        "_l2": "Zeile 1 Links Label",
+        "_p2": "Zeile 1 Links Fortschrittsstil",
+
+        "_f3": "Zeile 1 Mitte Daten",
+        "_l3": "Zeile 1 Mitte Label",
+        "_p3": "Zeile 1 Mitte Fortschrittsstil",
+
+        "_f4": "Zeile 1 Rechts Daten",
+        "_l4": "Zeile 1 Rechts Label",
+        "_p4": "Zeile 1 Rechts Fortschrittsstil",
+
+        "_f5": "Zeile 2 Links Daten",
+        "_l5": "Zeile 2 Links Label",
+        "_p5": "Zeile 2 Links Fortschrittsstil",
+
+        "_f6": "Zeile 2 Mitte Daten",
+        "_l6": "Zeile 2 Mitte Label",
+        "_p6": "Zeile 2 Mitte Fortschrittsstil",
+
+        "_f7": "Zeile 2 Rechts Daten",
+        "_l7": "Zeile 2 Rechts Label",
+        "_p7": "Zeile 2 Rechts Fortschrittsstil",
+
+        "_f8": "Untere Daten",
+        "_l8": "Unteres Label",
+        "_p8": "Unterer Fortschrittsstil",
+
+        "_f20": "AOD Feld Daten",
+        "_l20": "AOD Feld Label",
+
+        "_hc1": "Stundenfarbe 1",
+        "_hc2": "Stundenfarbe 2",
+
+
+        "_mc1": "Minutenfarbe 1",
+        "_mc2": "Minutenfarbe 2",
+
+
+        "_dv1": "Trennlinienfarbe",
+
+
+
+        "_sbg" : "Gleich wie Hintergrundfarbe",
+
+        "_m1": "Markierung 1 Farbe",
+        "_m2": "Markierung 2 Farbe",
+        
+        "_cp1": "Obere Fortschrittsfarbe 1",
+        "_c21": "Obere Fortschrittsfarbe 2",
+        "_cu1": "Obere Fortschrittsfarbe ungefüllt",
+
+        "_cp2": "Untere Fortschrittsfarbe 1",
+        "_c22": "Untere Fortschrittsfarbe 2",
+        "_cu2": "Untere Fortschrittsfarbe ungefüllt",
+
+        "_bgc": "Hintergrundfarbe",
+        "_bgl": "Hintergrundlinienfarbe",
+        "_cs": "70% dunkler",
+        "_cpbs" : "Gleich wie oberer Fortschrittsbalken",
+
+        "_stc" : "Gleich wie Textfarbe",
+        "_slc" : "Gleich wie Labelfarbe",
+
+
+        "_c1": "Obere Datenfarbe",
+        "_c1l": "Obere Labelfarbe",
+
+        "_c2": "Zeile 1 Datenfarbe",
+        "_c2l": "Zeile 1 Labelfarbe",
+
+        "_c3": "Zeile 2 Datenfarbe",
+        "_c3l": "Zeile 2 Labelfarbe",
+
+        "_c4": "Untere Datenfarbe",
+        "_c4l": "Untere Labelfarbe",
+
+        "_c5": "Obere Fortschrittsdatenfarbe",
+        "_c5l": "Obere Fortschrittslabelfarbe",
+
+        "_c6": "Untere Fortschrittsdatenfarbe",
+        "_c6l": "Untere Fortschrittslabelfarbe",
+        "_x4": "Vorherige Voreinstellung laden",
+        "_x3": "Vorheriges Farbthema laden",
+
+        "_pb1": "Daten-Fortschrittsbalkenfarbe gefüllt",
+        "_pb2": "Daten-Fortschrittsbalkenfarbe ungefüllt",
+
+        "_rst": "Alle Einstellungen zurücksetzen",
+        "_tr": "👉 TOUCH-KURZBEFEHLE",
+        "_tc": "🎨 FARBEN / HINTERGRUND",
+        "_tt": "🔤 SCHRIFTEN",
+        "_ta": "🖼️ AOD EINSTELLUNGEN (Always-On-Display)",
+        "_to": "💡 SONSTIGES",
+        "_tx": "➡️ VERSÄTZE",
+
+        "_o1": "Zeitversätze (X Stunde, Y Stunde, X Minute, Y Minute) Standard: 20",
+        "_o2": "Feld X Versätze (Oben, Z1 links, Z1 Mitte, Z1 rechts, Z2 links, Z2 Mitte, Z2 rechts, Unten) Standard: 20",
+        "_o3": "Feld Y Versätze (Oben, Z1 links, Z1 Mitte, Z1 rechts, Z2 links, Z2 Mitte, Z2 rechts, Unten) Standard: 20",
+        "_o4": "Label Y Versätze (Z1 links, Z1 Mitte, Z1 rechts, Z2 links, Z2 Mitte, Z2 rechts) Standard: 20",
+        "_bdb": "Zahlenhintergrund zeichnen (schärfere Minuten, Stunden dahinter nicht sichtbar)",
+
+        "_t1": "Zeitschrift",
+        "_t1a": "Zeitschrift AOD",
+        "_t1s": "Zeitschriftgröße",
+
+
+        "_sah": "Gleich wie Stunde",
+
+        "_t3": "Textschrift",
+        "_s1": "Obere Textschriftgröße (Nur skalierbare Schriften)",
+        "_s2": "Zeile 1 Schriftgröße",
+        "_s3": "Zeile 2 Schriftgröße",
+        "_s4": "Untere Schriftgröße",
+    
+        "_fo": "Umrissen (falls verfügbar)",
+        "_fk": "Beibehalten",
+        "_fks": "Beibehalten, einschließlich Innen",
+
+
+        "_pc": "Textfarbe",
+        "_ic": "Labelfarbe",      
+
+        "_gq": "Verlaufsqualität",
+        "_ng": "Kein Verlauf",
+
+        "_0f" : "Feldfortschritt anzeigen",
+        "_1f" : "Voll",
+        "_2f" : "Leer",
+        "_3f" : "Verbergen",
+
+        "_x2": "Nächstes Farbthema laden",
+        
+        "_a1": "Touch-Kurzbefehl links",
+        "_a2": "Touch-Kurzbefehl Mitte",
+        "_a3": "Touch-Kurzbefehl rechts",
+
+        "_aas": "Immer Sekunden",
+        "_aod": "AOD-Modus (Always-On-Display)",
+        "_aodct": "AOD Zeit Tönung Farbe",
+        "_aodc": "AOD Daten Tönung Farbe",
+        "_aodT": "AOD Zeit Helligkeit",
+        "_aodD": "AOD Daten Helligkeit (Wenn sich der Bildschirm während AOD ausschaltet, verringern Sie diese Zahl. Kleinere Zahl = geringerer Batterieverbrauch, aber weniger hell. Siehe FAQ)",
+        "_aodS": "AOD Verschiebung (Anzahl der Pixel, um die sich der Bildschirm pro Minute zufällig verschiebt, um Einbrennen zu verhindern)",
+        "ad0": "Bildschirm ausschalten",
+        "ad100": "Vollständiges AOD (Standard)",
+        
+        "ad1": "Nur Zeit",
+        "ad3": "Nur Zeit - Beweglich",
+        "ad4": "Zeit + Datenfeld (Wählen Sie unten)",
+        "ad6": "Bewegliche Zeit + Datenfeld"
+    }
+}

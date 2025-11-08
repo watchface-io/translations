@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (definir abaixo)",
+        "_o5": "Valor de tempo personalizado (atalho de toque 6767)",
+
+        "_md1": "Dados do Marcador 1",
+        "_md2": "Dados do Marcador 2",
+
+
+                "_bd1": "Tamanho do Ponto Grande do Mostrador",
+        "_bd2": "Tamanho do Ponto Pequeno do Mostrador",
+        "_dc1": "Cor do Ponto Grande do Mostrador",
+        "_dc2": "Cor do Ponto Pequeno do Mostrador",
+
+        "_ps0": "Mostrador Regular",
+        "_ps1": "Progresso Completo",
+        "_ps2": "Marcas de Segundos como Progresso",
+
+        "_rainbow": "Cores Arco-Íris",
+        "_xmas": "Cores de Natal",
+
+        "_f9": "Progresso do Mostrador",
+        "_p9": "Estilo de Progresso do Mostrador",
+
+        "_f1": "Dados Superiores",
+        "_l1": "Etiqueta Superior",
+        "_p1": "Estilo de Progresso Superior",
+
+        "_f2": "Linha 1 Dados Esquerda",
+        "_l2": "Linha 1 Etiqueta Esquerda",
+        "_p2": "Linha 1 Estilo de Progresso Esquerda",
+
+        "_f3": "Linha 1 Dados Centro",
+        "_l3": "Linha 1 Etiqueta Centro",
+        "_p3": "Linha 1 Estilo de Progresso Centro",
+
+        "_f4": "Linha 1 Dados Direita",
+        "_l4": "Linha 1 Etiqueta Direita",
+        "_p4": "Linha 1 Estilo de Progresso Direita",
+
+        "_f5": "Linha 2 Dados Esquerda",
+        "_l5": "Linha 2 Etiqueta Esquerda",
+        "_p5": "Linha 2 Estilo de Progresso Esquerda",
+
+        "_f6": "Linha 2 Dados Centro",
+        "_l6": "Linha 2 Etiqueta Centro",
+        "_p6": "Linha 2 Estilo de Progresso Centro",
+
+        "_f7": "Linha 2 Dados Direita",
+        "_l7": "Linha 2 Etiqueta Direita",
+        "_p7": "Linha 2 Estilo de Progresso Direita",
+
+        "_f8": "Dados Inferiores",
+        "_l8": "Etiqueta Inferior",
+        "_p8": "Estilo de Progresso Inferior",
+
+        "_f20": "Dados do Campo AOD",
+        "_l20": "Etiqueta do Campo AOD",
+
+        "_hc1": "Cor da Hora 1",
+        "_hc2": "Cor da Hora 2",
+
+
+        "_mc1": "Cor dos Minutos 1",
+        "_mc2": "Cor dos Minutos 2",
+
+
+        "_dv1": "Cor do Divisor",
+
+
+
+        "_sbg" : "Igual à Cor de Fundo",
+
+        "_m1": "Cor do Marcador 1",
+        "_m2": "Cor do Marcador 2",
+        
+        "_cp1": "Cor de Progresso Superior 1",
+        "_c21": "Cor de Progresso Superior 2",
+        "_cu1": "Cor de Progresso Superior Não Preenchida",
+
+        "_cp2": "Cor de Progresso Inferior 1",
+        "_c22": "Cor de Progresso Inferior 2",
+        "_cu2": "Cor de Progresso Inferior Não Preenchida",
+
+        "_bgc": "Cor de Fundo",
+        "_bgl": "Cor das Linhas de Fundo",
+        "_cs": "70% Mais Escuro",
+        "_cpbs" : "Igual à Barra de Progresso Superior",
+
+        "_stc" : "Igual à Cor do Texto",
+        "_slc" : "Igual à Cor da Etiqueta",
+
+
+        "_c1": "Cor dos Dados Superiores",
+        "_c1l": "Cor da Etiqueta Superior",
+
+        "_c2": "Cor dos Dados da Linha 1",
+        "_c2l": "Cor da Etiqueta da Linha 1",
+
+        "_c3": "Cor dos Dados da Linha 2",
+        "_c3l": "Cor da Etiqueta da Linha 2",
+
+        "_c4": "Cor dos Dados Inferiores",
+        "_c4l": "Cor da Etiqueta Inferior",
+
+        "_c5": "Cor dos Dados de Progresso Superior",
+        "_c5l": "Cor da Etiqueta de Progresso Superior",
+
+        "_c6": "Cor dos Dados de Progresso Inferior",
+        "_c6l": "Cor da Etiqueta de Progresso Inferior",
+        "_x4": "Carregar Predefinição Anterior",
+        "_x3": "Carregar Tema de Cores Anterior",
+
+        "_pb1": "Cor da barra de progresso de dados preenchida",
+        "_pb2": "Cor da barra de progresso de dados não preenchida",
+
+        "_rst": "Redefinir todas as configurações",
+        "_tr": "👉 ATALHOS DE TOQUE",
+        "_tc": "🎨 CORES / FUNDO",
+        "_tt": "🔤 FONTES",
+        "_ta": "🖼️ CONFIGURAÇÕES AOD (Tela Sempre Ligada)",
+        "_to": "💡 OUTRO",
+        "_tx": "➡️ DESLOCAMENTOS",
+
+        "_o1": "Deslocamentos de Tempo (X Hora, Y Hora, X Minuto, Y Minuto) Padrão: 20",
+        "_o2": "Deslocamentos de Campo X (Superior, L1 Esquerda, L1 Centro, L1 Direita, L2 Esquerda, L2 Centro, L2 Direita, Inferior) Padrão: 20",
+        "_o3": "Deslocamentos de Campo Y (Superior, L1 Esquerda, L1 Centro, L1 Direita, L2 Esquerda, L2 Centro, L2 Direita, Inferior) Padrão: 20",
+        "_o4": "Deslocamentos de Etiqueta Y (L1 Esquerda, L1 Centro, L1 Direita, L2 Esquerda, L2 Centro, L2 Direita) Padrão: 20",
+        "_bdb": "Desenhar fundo do número (minutos mais nítidos, horas não visíveis atrás)",
+
+        "_t1": "Fonte da Hora",
+        "_t1a": "Fonte da Hora AOD",
+        "_t1s": "Tamanho da Fonte da Hora",
+
+
+        "_sah": "Igual à Hora",
+
+        "_t3": "Fonte do Texto",
+        "_s1": "Tamanho da Fonte do Texto Superior (Apenas fontes redimensionáveis)",
+        "_s2": "Tamanho da Fonte da Linha 1",
+        "_s3": "Tamanho da Fonte da Linha 2",
+        "_s4": "Tamanho da Fonte Inferior",
+    
+        "_fo": "Contornado (Se disponível)",
+        "_fk": "Manter o mesmo",
+        "_fks": "Manter o mesmo, incluindo Interno",
+
+
+        "_pc": "Cor do texto",
+        "_ic": "Cor da etiqueta",      
+
+        "_gq": "Qualidade do Gradiente",
+        "_ng": "Sem Gradiente",
+
+        "_0f" : "Mostrar Progresso do Campo",
+        "_1f" : "Cheio",
+        "_2f" : "Vazio",
+        "_3f" : "Ocultar",
+
+        "_x2": "Carregar Próximo Tema de Cores",
+        
+        "_a1": "Atalho de toque Esquerda",
+        "_a2": "Atalho de toque Centro",
+        "_a3": "Atalho de toque Direita",
+
+        "_aas": "Segundos sempre",
+        "_aod": "Modo AOD (Tela Sempre Ligada)",
+        "_aodct": "Cor de Tom da Hora AOD",
+        "_aodc": "Cor de Tom dos Dados AOD",
+        "_aodT": "Brilho da Hora AOD",
+        "_aodD": "Brilho dos Dados AOD (Se a tela desligar durante o AOD, diminua este número. Número menor = menos uso de bateria, mas menos brilho. Veja FAQ)",
+        "_aodS": "Deslocamento AOD (Número de pixels que a tela desloca aleatoriamente por minuto para prevenir burn-in)",
+        "ad0": "Desligar Tela",
+        "ad100": "AOD Completo (Padrão)",
+        
+        "ad1": "Apenas Hora",
+        "ad3": "Apenas Hora - Em Movimento",
+        "ad4": "Hora + campo de dados (Selecione abaixo)",
+        "ad6": "Hora em Movimento + campo de dados"
+    }
+}

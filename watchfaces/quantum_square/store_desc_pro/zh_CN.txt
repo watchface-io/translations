@@ -1,0 +1,32 @@
+像素完美的复古数字表盘。显示多达8个实时运动数据指标，配有清晰的标记、流畅的进度条、细微的渐变以及对100多个Garmin数据字段的支持。超级省电，并针对每个受支持的设备进行了完全优化(包括Venu X1和其他方形屏幕)。
+
+⭐️ 购买前试用 ⭐️ 
+预览免费版本，以确保它符合您的需求并在您的手表上看起来很棒: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+
+⭐️ MIP设备(Fenix 7、Enduro、Forerunner 255等) ⭐️
+颜色可能看起来与大多数图片不同，因为这些图片是在Amoled设备上拍摄的。此表盘有许多针对MIP优化的主题，并支持MIP渐变。您可以在这里找到所有内置主题:https://watchface.io/quantum_square/themes#MIP
+
+⭐️ 资源 ⭐️
+* 常见问题:https://watchface.io/faq
+* 手册:https://watchface.io/quantum_square/manual
+* 免费版本:https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+* 主题列表:https://watchface.io/quantum_square/themes
+* 颜色指南:https://watchface.io/docs/color-list
+* 可用数据字段:https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意:有两个不同的设置位置:
+* Garmin IQ应用程序(在您的手机上，转到您的设备、表盘、设置):配置数据字段、颜色和常规设置。
+* 手表上的设置:通过长按菜单按钮、选择表盘并点击自定义，直接在手表上访问更详细的选项，如时间格式、目标和单位。
+
+⭐️ 数据字段 ⭐️
+Garmin目前向第三方开发者提供的所有数据字段都可用，外加额外功能，如血糖监测器(CGM)支持、Open Weather Map(OWM)以及对其他第三方应用程序的支持。
+所有可用的数据字段都列在这里:https://watchface.io/docs/datafields。某些数据字段(如训练准备度或HRV)目前不向第三方开发者提供，请参见此处:https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ 我可以更改Fenix/Enduro文本等吗? ⭐️
+是的，您可以!请参见此处:https://watchface.io/faq/how-to-change-the-fenix-text
+事实上，此表盘上的所有内容都可以根据您的喜好进行调整。
+
+*** 如果您遇到任何错误或问题，请通过按"联系开发者"与我联系，而不是使用评论系统。我可以快速回复电子邮件，而我可能几天都看不到评论。 ***
+
+* 更新日志:https://watchface.io/quantum_square/changelog

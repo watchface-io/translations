@@ -1,0 +1,32 @@
+Pixel-perfekt retro digital urskive. Vis op til 8 realtids sportsdata-metrikker med skarpe markører, glatte fremskridtsbjælker, subtile gradienter og support til 100+ Garmin datafelter. Ultra batterivænlig og fuldt optimeret til alle understøttede enheder (inklusive Venu X1 og andre firkantede skærme).
+
+⭐️ Prøv før du køber ⭐️ 
+Forhåndsvis den gratis version for at sikre, at den passer til dine behov og ser fantastisk ud på dit ur: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+
+⭐️ MIP-enheder (Fenix 7, Enduro, Forerunner 255 osv.) ⭐️
+Farver kan se anderledes ud end på de fleste billeder, da disse er taget på en Amoled-enhed. Denne urskive har mange temaer optimeret til MIP og understøtter MIP-gradienter. Du kan finde alle de indbyggede temaer her: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Ressourcer ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/quantum_square/manual
+* Gratis version: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+* Tema-liste: https://watchface.io/quantum_square/themes
+* Farve guide: https://watchface.io/docs/color-list
+* Tilgængelige datafelter: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Bemærk: Der er to forskellige steder med indstillinger:
+* Garmin IQ App (på din telefon gå til din enhed, urskiver, indstillinger): Konfigurer datafelter, farver og generelle indstillinger.
+* Indstillinger på uret: Få adgang til mere detaljerede muligheder som tidsformat, mål og enheder direkte på uret ved at holde menu-knappen nede, vælge urskive og trykke på tilpas.
+
+⭐️ Datafelter ⭐️
+Alle datafelter, som Garmin i øjeblikket leverer til tredjepartsudviklere, er tilgængelige, plus ekstra som Glukose Monitor (CGM) support, Open Weather Map (OWM) og support til andre tredjepartsapps.
+Alle tilgængelige datafelter er angivet her: https://watchface.io/docs/datafields. Nogle datafelter (som træningsberedskab eller HRV) er i øjeblikket ikke tilgængelige for tredjepartsudviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kan jeg ændre Fenix/Enduro-teksten osv.? ⭐️
+Ja, det kan du! Se her: https://watchface.io/faq/how-to-change-the-fenix-text
+Faktisk kan alt på denne urskive justeres efter dine ønsker.
+
+*** Hvis du støder på fejl eller problemer, bedes du kontakte mig ved at trykke på "Kontakt udvikler" i stedet for at bruge anmeldelsessystemet. Jeg kan svare på e-mails hurtigt, hvorimod jeg måske ikke ser anmeldelser i flere dage. ***
+
+* Changelog: https://watchface.io/quantum_square/changelog

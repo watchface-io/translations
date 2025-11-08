@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (đặt bên dưới)",
+        "_o5": "Giá trị thời gian tùy chỉnh (phím tắt cảm ứng 6767)",
+
+        "_md1": "Dữ liệu Điểm đánh dấu 1",
+        "_md2": "Dữ liệu Điểm đánh dấu 2",
+
+
+                "_bd1": "Kích thước chấm lớn mặt số",
+        "_bd2": "Kích thước chấm nhỏ mặt số",
+        "_dc1": "Màu chấm lớn mặt số",
+        "_dc2": "Màu chấm nhỏ mặt số",
+
+        "_ps0": "Mặt số thường",
+        "_ps1": "Thanh tiến trình đầy",
+        "_ps2": "Vạch giây làm thanh tiến trình",
+
+        "_rainbow": "Màu cầu vồng",
+        "_xmas": "Màu Giáng sinh",
+
+        "_f9": "Tiến trình mặt số",
+        "_p9": "Kiểu tiến trình mặt số",
+
+        "_f1": "Dữ liệu trên cùng",
+        "_l1": "Nhãn trên cùng",
+        "_p1": "Kiểu tiến trình trên cùng",
+
+        "_f2": "Dữ liệu hàng 1 trái",
+        "_l2": "Nhãn hàng 1 trái",
+        "_p2": "Kiểu tiến trình hàng 1 trái",
+
+        "_f3": "Dữ liệu hàng 1 giữa",
+        "_l3": "Nhãn hàng 1 giữa",
+        "_p3": "Kiểu tiến trình hàng 1 giữa",
+
+        "_f4": "Dữ liệu hàng 1 phải",
+        "_l4": "Nhãn hàng 1 phải",
+        "_p4": "Kiểu tiến trình hàng 1 phải",
+
+        "_f5": "Dữ liệu hàng 2 trái",
+        "_l5": "Nhãn hàng 2 trái",
+        "_p5": "Kiểu tiến trình hàng 2 trái",
+
+        "_f6": "Dữ liệu hàng 2 giữa",
+        "_l6": "Nhãn hàng 2 giữa",
+        "_p6": "Kiểu tiến trình hàng 2 giữa",
+
+        "_f7": "Dữ liệu hàng 2 phải",
+        "_l7": "Nhãn hàng 2 phải",
+        "_p7": "Kiểu tiến trình hàng 2 phải",
+
+        "_f8": "Dữ liệu dưới cùng",
+        "_l8": "Nhãn dưới cùng",
+        "_p8": "Kiểu tiến trình dưới cùng",
+
+        "_f20": "Dữ liệu trường AOD",
+        "_l20": "Nhãn trường AOD",
+
+        "_hc1": "Màu giờ 1",
+        "_hc2": "Màu giờ 2",
+
+
+        "_mc1": "Màu phút 1",
+        "_mc2": "Màu phút 2",
+
+
+        "_dv1": "Màu dấu phân cách",
+
+
+
+        "_sbg" : "Giống màu nền",
+
+        "_m1": "Màu điểm đánh dấu 1",
+        "_m2": "Màu điểm đánh dấu 2",
+        
+        "_cp1": "Màu tiến trình trên 1",
+        "_c21": "Màu tiến trình trên 2",
+        "_cu1": "Màu tiến trình trên chưa đầy",
+
+        "_cp2": "Màu tiến trình dưới 1",
+        "_c22": "Màu tiến trình dưới 2",
+        "_cu2": "Màu tiến trình dưới chưa đầy",
+
+        "_bgc": "Màu nền",
+        "_bgl": "Màu đường nền",
+        "_cs": "Tối hơn 70%",
+        "_cpbs" : "Giống thanh tiến trình trên",
+
+        "_stc" : "Giống màu văn bản",
+        "_slc" : "Giống màu nhãn",
+
+
+        "_c1": "Màu dữ liệu trên cùng",
+        "_c1l": "Màu nhãn trên cùng",
+
+        "_c2": "Màu dữ liệu hàng 1",
+        "_c2l": "Màu nhãn hàng 1",
+
+        "_c3": "Màu dữ liệu hàng 2",
+        "_c3l": "Màu nhãn hàng 2",
+
+        "_c4": "Màu dữ liệu dưới cùng",
+        "_c4l": "Màu nhãn dưới cùng",
+
+        "_c5": "Màu dữ liệu tiến trình trên",
+        "_c5l": "Màu nhãn tiến trình trên",
+
+        "_c6": "Màu dữ liệu tiến trình dưới",
+        "_c6l": "Màu nhãn tiến trình dưới",
+        "_x4": "Tải cài đặt trước đó",
+        "_x3": "Tải chủ đề màu trước đó",
+
+        "_pb1": "Màu thanh tiến trình dữ liệu đã đầy",
+        "_pb2": "Màu thanh tiến trình dữ liệu chưa đầy",
+
+        "_rst": "Đặt lại tất cả cài đặt",
+        "_tr": "👉 PHÍM TẮT CHẠM",
+        "_tc": "🎨 MÀU SẮC / NỀN",
+        "_tt": "🔤 PHÔNG CHỮ",
+        "_ta": "🖼️ CÀI ĐẶT AOD (Màn hình luôn bật)",
+        "_to": "💡 KHÁC",
+        "_tx": "➡️ DỊCH CHUYỂN",
+
+        "_o1": "Dịch chuyển thời gian (X Giờ, Y Giờ, X Phút, Y Phút) Mặc định: 20",
+        "_o2": "Dịch chuyển trường X (Trên, H1 Trái, H1 Giữa, H1 Phải, H2 Trái, H2 Giữa, H2 Phải, Dưới) Mặc định: 20",
+        "_o3": "Dịch chuyển trường Y (Trên, H1 Trái, H1 Giữa, H1 Phải, H2 Trái, H2 Giữa, H2 Phải, Dưới) Mặc định: 20",
+        "_o4": "Dịch chuyển nhãn Y (H1 Trái, H1 Giữa, H1 Phải, H2 Trái, H2 Giữa, H2 Phải) Mặc định: 20",
+        "_bdb": "Vẽ nền số (phút sắc nét hơn, giờ không hiển thị phía sau)",
+
+        "_t1": "Phông chữ thời gian",
+        "_t1a": "Phông chữ thời gian AOD",
+        "_t1s": "Kích thước phông chữ thời gian",
+
+
+        "_sah": "Giống như giờ",
+
+        "_t3": "Phông chữ văn bản",
+        "_s1": "Kích thước phông chữ văn bản trên (Chỉ phông chữ có thể thay đổi kích thước)",
+        "_s2": "Kích thước phông chữ hàng 1",
+        "_s3": "Kích thước phông chữ hàng 2",
+        "_s4": "Kích thước phông chữ dưới",
+    
+        "_fo": "Có viền (Nếu có)",
+        "_fk": "Giữ nguyên",
+        "_fks": "Giữ nguyên, bao gồm cả bên trong",
+
+
+        "_pc": "Màu văn bản",
+        "_ic": "Màu nhãn",      
+
+        "_gq": "Chất lượng gradient",
+        "_ng": "Không có gradient",
+
+        "_0f" : "Hiển thị tiến trình trường",
+        "_1f" : "Đầy",
+        "_2f" : "Trống",
+        "_3f" : "Ẩn",
+
+        "_x2": "Tải chủ đề màu tiếp theo",
+        
+        "_a1": "Phím tắt chạm trái",
+        "_a2": "Phím tắt chạm giữa",
+        "_a3": "Phím tắt chạm phải",
+
+        "_aas": "Luôn hiển thị giây",
+        "_aod": "Chế độ AOD (Màn hình luôn bật)",
+        "_aodct": "Màu sắc thời gian AOD",
+        "_aodc": "Màu sắc dữ liệu AOD",
+        "_aodT": "Độ sáng thời gian AOD",
+        "_aodD": "Độ sáng dữ liệu AOD (Nếu màn hình tắt trong AOD, hãy giảm số này. Số thấp hơn = ít pin hơn nhưng ít sáng hơn. Xem FAQ)",
+        "_aodS": "Dịch chuyển AOD (Số pixel màn hình dịch chuyển ngẫu nhiên mỗi phút để tránh cháy màn hình)",
+        "ad0": "TẮT màn hình",
+        "ad100": "AOD đầy đủ (Mặc định)",
+        
+        "ad1": "Chỉ thời gian",
+        "ad3": "Chỉ thời gian - Di chuyển",
+        "ad4": "Thời gian + trường dữ liệu (Chọn bên dưới)",
+        "ad6": "Thời gian di chuyển + trường dữ liệu"
+    }
+}

@@ -1,0 +1,33 @@
+픽셀 완벽한 레트로 디지털 워치페이스. 선명한 마커, 부드러운 진행률 표시줄, 미묘한 그라데이션 및 100개 이상의 Garmin 데이터 필드 지원으로 최대 8개의 실시간 스포츠 데이터 메트릭을 표시합니다. 초절전형이며 지원되는 모든 기기에 완전히 최적화되어 있습니다(Venu X1 및 기타 정사각형 화면 포함).
+
+⭐️ 무료 vs PRO ⭐️
+이 워치페이스는 모든 기본 기능을 갖추고 무료로 제공됩니다. 프리미엄 기능([*]로 표시)은 잠금 해제를 위해 Pro 키가 필요합니다. Pro 키는 여기에서 구입할 수 있습니다: https://ko-fi.com/s/44de64b3d0 또는 https://watchface.io/quantum_square, 또는 PRO 버전을 여기에서 구입할 수 있습니다: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964.
+
+⭐️ MIP 기기(Fenix 7, Enduro, Forerunner 255 등) ⭐️
+대부분의 사진과 색상이 다르게 보일 수 있습니다. 이는 Amoled 기기에서 촬영되었기 때문입니다. 이 워치페이스는 MIP에 최적화된 많은 테마를 가지고 있으며 MIP 그라데이션을 지원합니다. 모든 내장 테마는 여기에서 찾을 수 있습니다: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ 리소스 ⭐️
+* FAQ: https://watchface.io/faq
+* 설명서: https://watchface.io/quantum_square/manual
+* PRO 키 받기: https://ko-fi.com/s/44de64b3d0 또는 https://watchface.io/quantum_square
+* PRO 잠금 해제 버전: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964
+* 테마 목록: https://watchface.io/quantum_square/themes
+* 색상 가이드: https://watchface.io/docs/color-list
+* 사용 가능한 데이터 필드: https://watchface.io/docs/datafields
+
+⭐️ 구성 ⭐️
+참고: 설정이 있는 두 가지 다른 위치가 있습니다:
+* Garmin IQ 앱(휴대폰에서 기기, 워치페이스, 설정으로 이동): 데이터 필드, 색상 및 일반 설정을 구성합니다.
+* 시계의 설정: 메뉴 버튼을 길게 누르고 워치페이스를 선택한 다음 사용자 지정을 탭하여 시계에서 직접 시간 형식, 목표 및 단위와 같은 더 자세한 옵션에 액세스합니다.
+
+⭐️ 데이터 필드 ⭐️
+Garmin이 현재 타사 개발자에게 제공하는 모든 데이터 필드를 사용할 수 있으며, 혈당 모니터(CGM) 지원, Open Weather Map(OWM) 및 기타 타사 앱 지원과 같은 추가 기능도 포함됩니다.
+사용 가능한 모든 데이터 필드는 여기에 나열되어 있습니다: https://watchface.io/docs/datafields. 일부 데이터 필드(예: 훈련 준비 상태 또는 HRV)는 현재 타사 개발자에게 제공되지 않습니다. 여기를 참조하십시오: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Fenix/Enduro 텍스트 등을 변경할 수 있나요? ⭐️
+네, 가능합니다! 여기를 참조하십시오: https://watchface.io/faq/how-to-change-the-fenix-text
+실제로 이 워치페이스의 모든 것을 원하는 대로 조정할 수 있습니다.
+
+*** 버그나 문제가 발생하면 리뷰 시스템을 사용하는 대신 "개발자 문의"를 눌러 저에게 연락해 주십시오. 이메일에는 신속하게 응답할 수 있지만 리뷰는 며칠 동안 보지 못할 수 있습니다. ***
+
+* 변경 로그: https://watchface.io/quantum_square/changelog

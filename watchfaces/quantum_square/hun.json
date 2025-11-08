@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (alább állítsa be)",
+        "_o5": "Egyéni időérték (6767 érintési parancsikon)",
+
+        "_md1": "1. jelölő adatai",
+        "_md2": "2. jelölő adatai",
+
+
+                "_bd1": "Számlap nagy pont mérete",
+        "_bd2": "Számlap kis pont mérete",
+        "_dc1": "Számlap nagy pont színe",
+        "_dc2": "Számlap kis pont színe",
+
+        "_ps0": "Normál számlap",
+        "_ps1": "Teljes előrehaladás",
+        "_ps2": "Másodperc jelek előrehaladásként",
+
+        "_rainbow": "Szivárvány színek",
+        "_xmas": "Karácsonyi színek",
+
+        "_f9": "Számlap előrehaladása",
+        "_p9": "Számlap előrehaladási stílusa",
+
+        "_f1": "Felső adatok",
+        "_l1": "Felső címke",
+        "_p1": "Felső előrehaladási stílus",
+
+        "_f2": "1. sor Bal adatok",
+        "_l2": "1. sor Bal címke",
+        "_p2": "1. sor Bal előrehaladási stílus",
+
+        "_f3": "1. sor Középső adatok",
+        "_l3": "1. sor Középső címke",
+        "_p3": "1. sor Középső előrehaladási stílus",
+
+        "_f4": "1. sor Jobb adatok",
+        "_l4": "1. sor Jobb címke",
+        "_p4": "1. sor Jobb előrehaladási stílus",
+
+        "_f5": "2. sor Bal adatok",
+        "_l5": "2. sor Bal címke",
+        "_p5": "2. sor Bal előrehaladási stílus",
+
+        "_f6": "2. sor Középső adatok",
+        "_l6": "2. sor Középső címke",
+        "_p6": "2. sor Középső előrehaladási stílus",
+
+        "_f7": "2. sor Jobb adatok",
+        "_l7": "2. sor Jobb címke",
+        "_p7": "2. sor Jobb előrehaladási stílus",
+
+        "_f8": "Alsó adatok",
+        "_l8": "Alsó címke",
+        "_p8": "Alsó előrehaladási stílus",
+
+        "_f20": "AOD mező adatai",
+        "_l20": "AOD mező címke",
+
+        "_hc1": "Óra színe 1",
+        "_hc2": "Óra színe 2",
+
+
+        "_mc1": "Perc színe 1",
+        "_mc2": "Perc színe 2",
+
+
+        "_dv1": "Elválasztó színe",
+
+
+
+        "_sbg" : "Ugyanaz, mint a háttérszín",
+
+        "_m1": "1. jelölő színe",
+        "_m2": "2. jelölő színe",
+        
+        "_cp1": "Felső előrehaladási szín 1",
+        "_c21": "Felső előrehaladási szín 2",
+        "_cu1": "Felső előrehaladási szín kitöltetlen",
+
+        "_cp2": "Alsó előrehaladási szín 1",
+        "_c22": "Alsó előrehaladási szín 2",
+        "_cu2": "Alsó előrehaladási szín kitöltetlen",
+
+        "_bgc": "Háttérszín",
+        "_bgl": "Háttérvonalak színe",
+        "_cs": "70%-kal sötétebb",
+        "_cpbs" : "Ugyanaz, mint a felső előrehaladási sáv",
+
+        "_stc" : "Ugyanaz, mint a szöveg színe",
+        "_slc" : "Ugyanaz, mint a címke színe",
+
+
+        "_c1": "Felső adatok színe",
+        "_c1l": "Felső címke színe",
+
+        "_c2": "1. sor adatok színe",
+        "_c2l": "1. sor címke színe",
+
+        "_c3": "2. sor adatok színe",
+        "_c3l": "2. sor címke színe",
+
+        "_c4": "Alsó adatok színe",
+        "_c4l": "Alsó címke színe",
+
+        "_c5": "Felső előrehaladási adatok színe",
+        "_c5l": "Felső előrehaladási címke színe",
+
+        "_c6": "Alsó előrehaladási adatok színe",
+        "_c6l": "Alsó előrehaladási címke színe",
+        "_x4": "Előző előbeállítás betöltése",
+        "_x3": "Előző színtéma betöltése",
+
+        "_pb1": "Adat előrehaladási sáv színe kitöltött",
+        "_pb2": "Adat előrehaladási sáv színe kitöltetlen",
+
+        "_rst": "Összes beállítás visszaállítása",
+        "_tr": "👉 ÉRINTÉSES GYORSBILLENTYŰK",
+        "_tc": "🎨 SZÍNEK / HÁTTÉR",
+        "_tt": "🔤 BETŰTÍPUSOK",
+        "_ta": "🖼️ AOD BEÁLLÍTÁSOK (Mindig bekapcsolt kijelző)",
+        "_to": "💡 EGYÉB",
+        "_tx": "➡️ ELTOLÁSOK",
+
+        "_o1": "Idő eltolások (X óra, Y óra, X perc, Y perc) Alapértelmezett: 20",
+        "_o2": "Mező X eltolások (Felső, 1. sor bal, 1. sor középen, 1. sor jobb, 2. sor bal, 2. sor középen, 2. sor jobb, Alsó) Alapértelmezett: 20",
+        "_o3": "Mező Y eltolások (Felső, 1. sor bal, 1. sor középen, 1. sor jobb, 2. sor bal, 2. sor középen, 2. sor jobb, Alsó) Alapértelmezett: 20",
+        "_o4": "Címke Y eltolások (1. sor bal, 1. sor középen, 1. sor jobb, 2. sor bal, 2. sor középen, 2. sor jobb) Alapértelmezett: 20",
+        "_bdb": "Szám háttér rajzolása (élesebb percek, az órák nem láthatók mögötte)",
+
+        "_t1": "Időbetűtípus",
+        "_t1a": "Időbetűtípus AOD",
+        "_t1s": "Időbetűméret",
+
+
+        "_sah": "Ugyanaz, mint az óra",
+
+        "_t3": "Szövegbetűtípus",
+        "_s1": "Felső szöveg betűmérete (Csak méretezhető betűtípusok)",
+        "_s2": "1. sor betűmérete",
+        "_s3": "2. sor betűmérete",
+        "_s4": "Alsó betűméret",
+    
+        "_fo": "Körvonalazott (ha elérhető)",
+        "_fk": "Megtartani ugyanazt",
+        "_fks": "Megtartani ugyanazt, beleértve a belsőt",
+
+
+        "_pc": "Szöveg színe",
+        "_ic": "Címke színe",      
+
+        "_gq": "Színátmenet minősége",
+        "_ng": "Nincs színátmenet",
+
+        "_0f" : "Mező előrehaladásának megjelenítése",
+        "_1f" : "Tele",
+        "_2f" : "Üres",
+        "_3f" : "Elrejtés",
+
+        "_x2": "Következő színtéma betöltése",
+        
+        "_a1": "Érintéses gyorsbillentyű bal",
+        "_a2": "Érintéses gyorsbillentyű közép",
+        "_a3": "Érintéses gyorsbillentyű jobb",
+
+        "_aas": "Mindig másodpercek",
+        "_aod": "AOD mód (Mindig bekapcsolt kijelző)",
+        "_aodct": "AOD idő árnyalat színe",
+        "_aodc": "AOD adat árnyalat színe",
+        "_aodT": "AOD idő fényereje",
+        "_aodD": "AOD adat fényereje (Ha a képernyő kikapcsol AOD közben, csökkentse ezt a számot. Kisebb szám = kevesebb akkuhasználat, de kevésbé fényes. Lásd GYIK)",
+        "_aodS": "AOD eltolás (Pixelek száma, amennyivel a képernyő véletlenszerűen eltolódik percenként a beégés megelőzésére)",
+        "ad0": "Képernyő kikapcsolása",
+        "ad100": "Teljes AOD (Alapértelmezett)",
+        
+        "ad1": "Csak idő",
+        "ad3": "Csak idő - Mozgó",
+        "ad4": "Idő + adatmező (Válassza ki alább)",
+        "ad6": "Mozgó idő + adatmező"
+    }
+}

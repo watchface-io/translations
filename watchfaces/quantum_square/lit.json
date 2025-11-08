@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (nustatykite žemiau)",
+        "_o5": "Pasirinktinė laiko reikšmė (6767 lietimo trumpinys)",
+
+        "_md1": "Žymeklio 1 duomenys",
+        "_md2": "Žymeklio 2 duomenys",
+
+
+                "_bd1": "Ciferblato didelio taško dydis",
+        "_bd2": "Ciferblato mažo taško dydis",
+        "_dc1": "Ciferblato didelio taško spalva",
+        "_dc2": "Ciferblato mažo taško spalva",
+
+        "_ps0": "Įprastas ciferblatas",
+        "_ps1": "Pilnas progresas",
+        "_ps2": "Sekundžių žymos kaip progresas",
+
+        "_rainbow": "Vaivorykštės spalvos",
+        "_xmas": "Kalėdinės spalvos",
+
+        "_f9": "Ciferblato progresas",
+        "_p9": "Ciferblato progreso stilius",
+
+        "_f1": "Viršutiniai duomenys",
+        "_l1": "Viršutinė etiketė",
+        "_p1": "Viršutinis progreso stilius",
+
+        "_f2": "1 eilutė Kairieji duomenys",
+        "_l2": "1 eilutė Kairė etiketė",
+        "_p2": "1 eilutė Kairysis progreso stilius",
+
+        "_f3": "1 eilutė Viduriniai duomenys",
+        "_l3": "1 eilutė Vidurinė etiketė",
+        "_p3": "1 eilutė Vidurinis progreso stilius",
+
+        "_f4": "1 eilutė Dešinieji duomenys",
+        "_l4": "1 eilutė Dešinė etiketė",
+        "_p4": "1 eilutė Dešinysis progreso stilius",
+
+        "_f5": "2 eilutė Kairieji duomenys",
+        "_l5": "2 eilutė Kairė etiketė",
+        "_p5": "2 eilutė Kairysis progreso stilius",
+
+        "_f6": "2 eilutė Viduriniai duomenys",
+        "_l6": "2 eilutė Vidurinė etiketė",
+        "_p6": "2 eilutė Vidurinis progreso stilius",
+
+        "_f7": "2 eilutė Dešinieji duomenys",
+        "_l7": "2 eilutė Dešinė etiketė",
+        "_p7": "2 eilutė Dešinysis progreso stilius",
+
+        "_f8": "Apatiniai duomenys",
+        "_l8": "Apatinė etiketė",
+        "_p8": "Apatinis progreso stilius",
+
+        "_f20": "AOD lauko duomenys",
+        "_l20": "AOD lauko etiketė",
+
+        "_hc1": "Valandos spalva 1",
+        "_hc2": "Valandos spalva 2",
+
+
+        "_mc1": "Minutės spalva 1",
+        "_mc2": "Minutės spalva 2",
+
+
+        "_dv1": "Skirtukas spalva",
+
+
+
+        "_sbg" : "Tokia pati kaip fono spalva",
+
+        "_m1": "Žymeklio 1 spalva",
+        "_m2": "Žymeklio 2 spalva",
+        
+        "_cp1": "Viršutinė progreso spalva 1",
+        "_c21": "Viršutinė progreso spalva 2",
+        "_cu1": "Viršutinė progreso spalva neužpildyta",
+
+        "_cp2": "Apatinė progreso spalva 1",
+        "_c22": "Apatinė progreso spalva 2",
+        "_cu2": "Apatinė progreso spalva neužpildyta",
+
+        "_bgc": "Fono spalva",
+        "_bgl": "Fono linijų spalva",
+        "_cs": "70% tamsesnė",
+        "_cpbs" : "Tokia pati kaip viršutinė progreso juosta",
+
+        "_stc" : "Tokia pati kaip teksto spalva",
+        "_slc" : "Tokia pati kaip etiketės spalva",
+
+
+        "_c1": "Viršutinių duomenų spalva",
+        "_c1l": "Viršutinės etiketės spalva",
+
+        "_c2": "1 eilutės duomenų spalva",
+        "_c2l": "1 eilutės etiketės spalva",
+
+        "_c3": "2 eilutės duomenų spalva",
+        "_c3l": "2 eilutės etiketės spalva",
+
+        "_c4": "Apatinių duomenų spalva",
+        "_c4l": "Apatinės etiketės spalva",
+
+        "_c5": "Viršutinių progreso duomenų spalva",
+        "_c5l": "Viršutinės progreso etiketės spalva",
+
+        "_c6": "Apatinių progreso duomenų spalva",
+        "_c6l": "Apatinės progreso etiketės spalva",
+        "_x4": "Įkelti ankstesnį išankstinį nustatymą",
+        "_x3": "Įkelti ankstesnę spalvų temą",
+
+        "_pb1": "Duomenų progreso juostos spalva užpildyta",
+        "_pb2": "Duomenų progreso juostos spalva neužpildyta",
+
+        "_rst": "Atstatyti visus nustatymus",
+        "_tr": "👉 LIETIMO SPARTIEJI KLAVIŠAI",
+        "_tc": "🎨 SPALVOS / FONAS",
+        "_tt": "🔤 ŠRIFTAI",
+        "_ta": "🖼️ AOD NUSTATYMAI (Visada įjungtas ekranas)",
+        "_to": "💡 KITA",
+        "_tx": "➡️ POSLINKIAI",
+
+        "_o1": "Laiko poslinkiai (X Valanda, Y Valanda, X Minutė, Y Minutė) Numatytasis: 20",
+        "_o2": "Lauko X poslinkiai (Viršuje, E1 kairė, E1 vidurys, E1 dešinė, E2 kairė, E2 vidurys, E2 dešinė, Apačioje) Numatytasis: 20",
+        "_o3": "Lauko Y poslinkiai (Viršuje, E1 kairė, E1 vidurys, E1 dešinė, E2 kairė, E2 vidurys, E2 dešinė, Apačioje) Numatytasis: 20",
+        "_o4": "Etiketės Y poslinkiai (E1 kairė, E1 vidurys, E1 dešinė, E2 kairė, E2 vidurys, E2 dešinė) Numatytasis: 20",
+        "_bdb": "Piešti skaičiaus foną (ryškesnės minutės, valandos nematyti už nugaros)",
+
+        "_t1": "Laiko šriftas",
+        "_t1a": "Laiko šriftas AOD",
+        "_t1s": "Laiko šrifto dydis",
+
+
+        "_sah": "Toks pats kaip valanda",
+
+        "_t3": "Teksto šriftas",
+        "_s1": "Viršutinio teksto šrifto dydis (Tik keičiamo dydžio šriftai)",
+        "_s2": "1 eilutės šrifto dydis",
+        "_s3": "2 eilutės šrifto dydis",
+        "_s4": "Apatinis šrifto dydis",
+    
+        "_fo": "Kontūruotas (jei prieinamas)",
+        "_fk": "Išlaikyti tą patį",
+        "_fks": "Išlaikyti tą patį, įskaitant vidinį",
+
+
+        "_pc": "Teksto spalva",
+        "_ic": "Etiketės spalva",      
+
+        "_gq": "Gradiento kokybė",
+        "_ng": "Be gradiento",
+
+        "_0f" : "Rodyti lauko progresą",
+        "_1f" : "Pilnas",
+        "_2f" : "Tuščias",
+        "_3f" : "Slėpti",
+
+        "_x2": "Įkelti kitą spalvų temą",
+        
+        "_a1": "Lietimo spartieji klavišai kairė",
+        "_a2": "Lietimo spartieji klavišai vidurys",
+        "_a3": "Lietimo spartieji klavišai dešinė",
+
+        "_aas": "Visada sekundės",
+        "_aod": "AOD režimas (Visada įjungtas ekranas)",
+        "_aodct": "AOD laiko atspalvio spalva",
+        "_aodc": "AOD duomenų atspalvio spalva",
+        "_aodT": "AOD laiko šviesumas",
+        "_aodD": "AOD duomenų šviesumas (Jei ekranas išsijungia AOD metu, sumažinkite šį skaičių. Mažesnis skaičius = mažesnis akumuliatoriaus naudojimas, bet mažiau šviesus. Žr. DUK)",
+        "_aodS": "AOD poslinkis (Pikselių skaičius, kuriuo ekranas atsitiktinai juda per minutę, kad būtų išvengta įdegimo)",
+        "ad0": "Išjungti ekraną",
+        "ad100": "Pilnas AOD (Numatytasis)",
+        
+        "ad1": "Tik laikas",
+        "ad3": "Tik laikas - Judantis",
+        "ad4": "Laikas + duomenų laukas (Pasirinkite žemiau)",
+        "ad6": "Judantis laikas + duomenų laukas"
+    }
+}
