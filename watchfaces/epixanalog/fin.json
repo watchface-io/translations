@@ -110,6 +110,10 @@
         "_h6": "Kuun vaihe",
         "_h7": "Yksinkertainen ympyrä",
         "_h8": "60-segmenttinen eteneminen",
-        "_h9": "Ei viittoja"
+        "_h9": "Ei viittoja",
+        "_hus": "Säädä viisarin asentoa joka sekunti (katso UKK)",
+        "_br": "Tavallinen tausta",
+        "_bl": "Puolikevyt tausta (vain isot numerot voidaan värittää)",
+        "_bf": "Täysin kevyt tausta (käytä viivästymisen yhteydessä, ei voida värittää erikseen, käytä viivoja värillä)"
     }
 }

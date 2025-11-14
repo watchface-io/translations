@@ -110,6 +110,10 @@
         "_h6": "Mēness fāze",
         "_h7": "Vienkāršs aplis",
         "_h8": "60 segmentu progress",
-        "_h9": "Bez rādītājiem"
+        "_h9": "Bez rādītājiem",
+        "_hus": "Pielāgot rādītāja pozīciju katru sekundi (skatiet BUJ)",
+        "_br": "Parastais fons",
+        "_bl": "Pus viegls fons (tikai lieli skaitļi var tikt krāsoti)",
+        "_bf": "Pilnīgi viegls fons (izmantojiet kavēšanās gadījumā, nevar krāsot atsevišķi, izmantojiet iedaļu krāsu)"
     }
 }

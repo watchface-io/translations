@@ -110,6 +110,10 @@
         "_h6": "Faza lunii",
         "_h7": "Cerc simplu",
         "_h8": "Progres 60 segmente",
-        "_h9": "Fără ace"
+        "_h9": "Fără ace",
+        "_hus": "Ajustează poziția acului în fiecare secundă (vezi FAQ)",
+        "_br": "Fundal normal",
+        "_bl": "Fundal semi-ușor (doar numere mari pot fi colorate)",
+        "_bf": "Fundal complet ușor (folosește la întârziere, nu poate fi colorat individual, folosește culoarea graduațiilor)"
     }
 }

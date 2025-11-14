@@ -110,6 +110,10 @@
         "_h6": "Holdfázis",
         "_h7": "Egyszerű kör",
         "_h8": "60 szegmenses előrehaladás",
-        "_h9": "Nincs mutató"
+        "_h9": "Nincs mutató",
+        "_hus": "Mutató pozíció beállítása minden másodpercben (lásd GYIK)",
+        "_br": "Normál háttér",
+        "_bl": "Fél könnyű háttér (csak a nagy számok színezhetők)",
+        "_bf": "Teljes könnyű háttér (használja késés esetén, nem színezhető egyenként, használja az osztások színét)"
     }
 }

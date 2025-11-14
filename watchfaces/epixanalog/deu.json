@@ -110,6 +110,10 @@
         "_h6": "Mondphase",
         "_h7": "Einfacher Kreis",
         "_h8": "60-Segment-Fortschritt",
-        "_h9": "Keine Zeiger"
+        "_h9": "Keine Zeiger",
+        "_hus": "Zeigerposition jede Sekunde anpassen (siehe FAQ)",
+        "_br": "Normaler Hintergrund",
+        "_bl": "Halb leichter Hintergrund (nur große Zahlen können eingefärbt werden)",
+        "_bf": "Vollständig leichter Hintergrund (bei Verzögerung verwenden, kann nicht individuell eingefärbt werden, Teilstrich-Farbe verwenden)"
     }
 }

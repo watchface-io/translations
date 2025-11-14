@@ -110,6 +110,10 @@
         "_h6": "Kuu faas",
         "_h7": "Lihtne ring",
         "_h8": "60-segmendiline progress",
-        "_h9": "Ilma nooleta"
+        "_h9": "Ilma nooleta",
+        "_hus": "Kohanda osuti asukohta iga sekund (vaata KKK)",
+        "_br": "Tavaline taust",
+        "_bl": "Poolkerge taust (ainult suured numbrid saab värvida)",
+        "_bf": "Täiskerge taust (kasuta viivituse korral, ei saa individuaalselt värvida, kasuta kriipsude värvi)"
     }
 }

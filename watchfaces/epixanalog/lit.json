@@ -110,6 +110,10 @@
         "_h6": "Mėnulio fazė",
         "_h7": "Paprastas ratas",
         "_h8": "60 segmentų progresas",
-        "_h9": "Be rodyklių"
+        "_h9": "Be rodyklių",
+        "_hus": "Koreguoti rodyklės padėtį kas sekundę (žr. DUK)",
+        "_br": "Įprastas fonas",
+        "_bl": "Pusiau lengvas fonas (tik dideli skaičiai gali būti spalvinami)",
+        "_bf": "Visiškai lengvas fonas (naudokite esant vėlavimui, negalima spalvinti atskirai, naudokite padalų spalvą)"
     }
 }

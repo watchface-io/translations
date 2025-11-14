@@ -110,6 +110,10 @@
         "_h6": "Faza księżyca",
         "_h7": "Prosty okrąg",
         "_h8": "Postęp 60 segmentów",
-        "_h9": "Brak wskazówek"
+            "_h9": "Brak wskazówek",
+            "_hus": "Dostosuj pozycję wskazówki co sekundę (zobacz FAQ)",
+        "_br": "Zwykłe tło",
+        "_bl": "Pół lekkie tło (tylko duże liczby mogą być kolorowane)",
+        "_bf": "Całkowicie lekkie tło (użyj przy opóźnieniach, nie można kolorować indywidualnie, użyj koloru podziałek)"
     }
 }

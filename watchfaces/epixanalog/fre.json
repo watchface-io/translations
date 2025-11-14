@@ -110,6 +110,10 @@
         "_h6": "Phase de la lune",
         "_h7": "Cercle simple",
         "_h8": "Progression 60 segments",
-        "_h9": "Sans aiguilles"
+        "_h9": "Sans aiguilles",
+        "_hus": "Ajuster la position des aiguilles chaque seconde (voir FAQ)",
+        "_br": "Arrière-plan normal",
+        "_bl": "Arrière-plan semi-léger (seuls les grands chiffres peuvent être colorés)",
+        "_bf": "Arrière-plan entièrement léger (utiliser en cas de ralentissement, ne peut pas être coloré individuellement, utiliser la couleur des graduations)"
     }
 }

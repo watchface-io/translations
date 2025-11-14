@@ -113,7 +113,12 @@
         "_h6": "Moon Phase",
         "_h7": "Plain Circle",
         "_h8": "60 Segment Progress",
-        "_h9": "No Hands"
+        "_h9": "No Hands",
+        "_hus": "Adjust hand position every second (see FAQ)",
+        "_br": "Regular background",
+        "_bl": "Half Lightweight background (only, big numbers can be colored)",
+        "_bf": "Full Lightweight background (use when experiencing lag, cannot be colored individually, use ticks color)"
+        
 
     }
 

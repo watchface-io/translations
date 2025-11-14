@@ -110,6 +110,10 @@
         "_h6": "Faza lune",
         "_h7": "Enostaven krog",
         "_h8": "60-segmentni napredek",
-        "_h9": "Brez kazalcev"
+        "_h9": "Brez kazalcev",
+        "_hus": "Posodobi položaj kazalca vsako sekundo (glej FAQ)",
+        "_br": "Običajno ozadje",
+        "_bl": "Pol lahko ozadje (samo velika števila se lahko pobarvajo)",
+        "_bf": "Popolnoma lahko ozadje (uporabi pri zamudah, ne more biti pobarvan posamično, uporabi barvo oznak)"
     }
 }

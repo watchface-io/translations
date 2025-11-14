@@ -110,6 +110,10 @@
         "_h6": "Fasa Bulan",
         "_h7": "Bulatan ringkas",
         "_h8": "Kemajuan 60 segmen",
-        "_h9": "Tiada Jarum"
+        "_h9": "Tiada Jarum",
+        "_hus": "Kemaskini kedudukan jarum setiap saat (lihat FAQ)",
+        "_br": "Latar belakang biasa",
+        "_bl": "Latar belakang ringan separuh (hanya nombor besar boleh diwarnakan)",
+        "_bf": "Latar belakang ringan penuh (gunakan apabila mengalami kelewatan, tidak boleh diwarnakan secara individu, gunakan warna tanda)"
     }
 }

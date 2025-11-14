@@ -110,6 +110,10 @@
         "_h6": "Ay Fazı",
         "_h7": "Düz Daire",
         "_h8": "60 Segment İlerleme",
-        "_h9": "İbre Yok"
+        "_h9": "İbre Yok",
+        "_hus": "Her saniye ibre konumunu güncelle (SSS'ye bakın)",
+        "_br": "Normal arka plan",
+        "_bl": "Yarı hafif arka plan (yalnızca büyük sayılar renklendirilebilir)",
+        "_bf": "Tam hafif arka plan (gecikme yaşarken kullanın, ayrı ayrı renklendirilemez, işaret rengini kullanın)"
     }
 }

@@ -110,6 +110,10 @@
         "_h6": "Fase lunare",
         "_h7": "Cerchio semplice",
         "_h8": "Progresso 60 segmenti",
-        "_h9": "Nessuna lancetta"
+        "_h9": "Nessuna lancetta",
+        "_hus": "Regola posizione lancetta ogni secondo (vedi FAQ)",
+        "_br": "Sfondo normale",
+        "_bl": "Sfondo semi-leggero (solo i numeri grandi possono essere colorati)",
+        "_bf": "Sfondo completamente leggero (usa in caso di ritardo, non può essere colorato individualmente, usa colore tacche)"
     }
 }

@@ -110,6 +110,10 @@
         "_h6": "Månefase",
         "_h7": "Enkel sirkel",
         "_h8": "60-segment fremgang",
-        "_h9": "Ingen visere"
+        "_h9": "Ingen visere",
+        "_hus": "Juster viser posisjon hvert sekund (se FAQ)",
+        "_br": "Vanlig bakgrunn",
+        "_bl": "Halv lett bakgrunn (bare store tall kan farges)",
+        "_bf": "Helt lett bakgrunn (bruk ved forsinkelse, kan ikke farges individuelt, bruk streker farge)"
     }
 }

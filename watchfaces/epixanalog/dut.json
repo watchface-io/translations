@@ -110,6 +110,10 @@
         "_h6": "Maanstand",
         "_h7": "Eenvoudige cirkel",
         "_h8": "60-segment voortgang",
-        "_h9": "Geen wijzers"
+        "_h9": "Geen wijzers",
+        "_hus": "Wijzerpositie elke seconde aanpassen (zie FAQ)",
+        "_br": "Normale achtergrond",
+        "_bl": "Half lichte achtergrond (alleen grote cijfers kunnen worden gekleurd)",
+        "_bf": "Volledig lichte achtergrond (gebruik bij vertraging, kan niet individueel worden gekleurd, gebruik streepjeskleur)"
     }
 }

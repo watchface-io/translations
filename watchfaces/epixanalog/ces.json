@@ -110,6 +110,10 @@
         "_h6": "Fáze měsíce",
         "_h7": "Jednoduchý kruh",
         "_h8": "60 segmentů průběhu",
-        "_h9": "Bez ručiček"
+        "_h9": "Bez ručiček",
+        "_hus": "Upravovat pozici ručiček každou sekundu (viz FAQ)",
+        "_br": "Běžné pozadí",
+        "_bl": "Poloviční lehké pozadí (pouze velká čísla mohou být obarvena)",
+        "_bf": "Plné lehké pozadí (použijte při zpomalení, nelze individuálně obarvit, použijte barvu značek)"
     }
 }

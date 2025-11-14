@@ -110,6 +110,10 @@
         "_h6": "Fase da lua",
         "_h7": "Círculo simples",
         "_h8": "Progresso de 60 segmentos",
-        "_h9": "Sem ponteiros"
+        "_h9": "Sem ponteiros",
+        "_hus": "Ajustar posição do ponteiro a cada segundo (veja FAQ)",
+        "_br": "Fundo normal",
+        "_bl": "Fundo meio leve (apenas números grandes podem ser coloridos)",
+        "_bf": "Fundo totalmente leve (use ao experimentar atraso, não pode ser colorido individualmente, use cor das marcações)"
     }
 }

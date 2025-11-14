@@ -110,6 +110,10 @@
         "_h6": "Faza lune",
         "_h7": "Enostaven krog",
         "_h8": "60-segmentni napredek",
-        "_h9": "Brez kazalcev"
+        "_h9": "Brez kazalcev",
+        "_hus": "Aktualizovať pozíciu ručičky každú sekundu (pozri FAQ)",
+        "_br": "Obyčajné pozadie",
+        "_bl": "Polo ľahké pozadie (iba veľké čísla možno farebne upraviť)",
+        "_bf": "Úplne ľahké pozadie (použite pri oneskorení, nie je možné farebne upraviť jednotlivo, použite farbu čiarok)"
     }
 }

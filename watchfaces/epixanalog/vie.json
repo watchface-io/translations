@@ -110,6 +110,10 @@
         "_h6": "Pha mặt trăng",
         "_h7": "Vòng đơn giản",
         "_h8": "Tiến trình 60 đoạn",
-        "_h9": "Không có kim"
+        "_h9": "Không có kim",
+        "_hus": "Cập nhật vị trí kim mỗi giây (xem FAQ)",
+        "_br": "Nền thông thường",
+        "_bl": "Nền nhẹ một nửa (chỉ các số lớn có thể tô màu)",
+        "_bf": "Nền nhẹ hoàn toàn (sử dụng khi gặp độ trễ, không thể tô màu riêng lẻ, sử dụng màu vạch)"
     }
 }

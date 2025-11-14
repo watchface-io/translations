@@ -110,6 +110,10 @@
         "_h6": "Månefase",
         "_h7": "Simpel cirkel",
         "_h8": "60-segment fremgang",
-        "_h9": "Ingen viser"
+        "_h9": "Ingen visere",
+        "_hus": "Juster viser position hvert sekund (se FAQ)",
+        "_br": "Almindelig baggrund",
+        "_bl": "Halv let baggrund (kun store tal kan farves)",
+        "_bf": "Fuld let baggrund (brug ved lagring, kan ikke farves individuelt, brug mærker farve)"
     }
 }

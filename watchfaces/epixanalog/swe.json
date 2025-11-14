@@ -110,6 +110,10 @@
         "_h6": "Månfas",
         "_h7": "Enkel cirkel",
         "_h8": "60-segments framsteg",
-        "_h9": "Inga visare"
+        "_h9": "Inga visare",
+        "_hus": "Uppdatera visarposition varje sekund (se FAQ)",
+        "_br": "Vanlig bakgrund",
+        "_bl": "Halvlättviktig bakgrund (endast stora siffror kan färgas)",
+        "_bf": "Fullständig lättviktig bakgrund (använd vid fördröjning, kan inte färgas individuellt, använd markeringar färg)"
     }
 }

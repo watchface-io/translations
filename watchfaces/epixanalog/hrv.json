@@ -110,6 +110,10 @@
         "_h6": "Mjesec faza",
         "_h7": "Obični krug",
         "_h8": "60-segmentni napredak",
-        "_h9": "Bez kazaljki"
+        "_h9": "Bez kazaljki",
+        "_hus": "Prilagodi poziciju kazaljke svake sekunde (vidi FAQ)",
+        "_br": "Obična pozadina",
+        "_bl": "Polu lagana pozadina (samo veliki brojevi mogu biti obojeni)",
+        "_bf": "Potpuno lagana pozadina (koristi pri usporavanju, ne može se bojiti pojedinačno, koristi boju oznaka)"
     }
 }
