@@ -1,0 +1,33 @@
+Esfera digital retro con píxeles perfectos. Muestra hasta 8 métricas de datos deportivos en tiempo real con marcadores nítidos, barras de progreso suaves, gradientes sutiles y compatibilidad con más de 100 campos de datos de Garmin. Ultra amigable con la batería y completamente optimizado para todos los dispositivos compatibles (incluido Venu X1 y otras pantallas cuadradas).
+
+⭐️ Gratis vs PRO ⭐️
+Esta esfera está disponible sin costo con todas las funciones básicas. Las funciones premium (marcadas con [*]) requieren una Clave Pro para desbloquearse. Puede comprar una Clave Pro aquí: https://ko-fi.com/s/44de64b3d0 o https://watchface.io/quantum_square, o comprar la versión PRO aquí: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964.
+
+⭐️ Dispositivos MIP (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Los colores pueden verse diferentes a los de la mayoría de las imágenes, ya que estas se toman en un dispositivo Amoled. Esta esfera tiene muchos temas optimizados para MIP y admite gradientes MIP. Puede encontrar todos los temas integrados aquí: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Recursos ⭐️
+* Preguntas frecuentes: https://watchface.io/faq
+* Manual: https://watchface.io/quantum_square/manual
+* Obtener una clave PRO: https://ko-fi.com/s/44de64b3d0 o https://watchface.io/quantum_square
+* Versión de desbloqueo PRO: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964
+* Lista de temas: https://watchface.io/quantum_square/themes
+* Guía de colores: https://watchface.io/docs/color-list
+* Campos de datos disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuración:
+* Aplicación Garmin IQ (en su teléfono vaya a su dispositivo, esferas, configuración): Configure campos de datos, colores y configuración general.
+* Configuración en el reloj: Acceda a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón de menú, seleccionando esfera y tocando personalizar.
+
+⭐️ Campos de datos ⭐️
+Todos los campos de datos que Garmin actualmente proporciona a los desarrolladores de terceros están disponibles, además de extras como soporte de Monitor de Glucosa (CGM), Open Weather Map (OWM) y soporte para otras aplicaciones de terceros.
+Todos los campos de datos disponibles se enumeran aquí: https://watchface.io/docs/datafields. Algunos campos de datos (como preparación para el entrenamiento o HRV) actualmente no están disponibles para desarrolladores de terceros, consulte aquí: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ ¿Puedo cambiar el texto de Fenix/Enduro, etc.? ⭐️
+¡Sí, puede! Vea aquí: https://watchface.io/faq/how-to-change-the-fenix-text
+De hecho, todo en esta esfera se puede ajustar a su gusto.
+
+*** Si encuentra algún error o problema, comuníquese conmigo presionando "Contactar al desarrollador" en lugar de usar el sistema de reseñas. Puedo responder correos electrónicos rápidamente, mientras que es posible que no vea las reseñas durante varios días. ***
+
+* Registro de cambios: https://watchface.io/quantum_square/changelog

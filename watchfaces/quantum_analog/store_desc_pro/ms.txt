@@ -1,0 +1,32 @@
+Muka jam digital retro dengan piksel sempurna. Paparkan sehingga 8 metrik data sukan masa nyata dengan penanda tajam, bar kemajuan licin, kecerunan halus, dan sokongan untuk 100+ medan data Garmin. Sangat mesra bateri dan dioptimumkan sepenuhnya untuk setiap peranti yang disokong (termasuk Venu X1 dan skrin segi empat sama lain).
+
+⭐️ Cuba sebelum anda membeli ⭐️ 
+Pratonton versi percuma untuk memastikan ia sesuai dengan keperluan anda dan kelihatan bagus pada jam tangan anda: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+
+⭐️ Peranti MIP (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Warna mungkin kelihatan berbeza seperti dalam kebanyakan gambar, kerana ini diambil pada peranti Amoled. Muka jam ini mempunyai banyak tema yang dioptimumkan untuk MIP dan menyokong kecerunan MIP. Anda boleh mencari semua tema terbina dalam di sini: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Sumber ⭐️
+* Soalan Lazim: https://watchface.io/faq
+* Manual: https://watchface.io/quantum_square/manual
+* Versi percuma: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+* Senarai Tema: https://watchface.io/quantum_square/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Medan Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Nota: Terdapat dua tempat berbeza dengan tetapan:
+* Apl Garmin IQ (pada telefon anda pergi ke peranti anda, muka jam, tetapan): Konfigurasikan medan data, warna, dan tetapan am.
+* Tetapan Pada Jam: Akses pilihan lebih terperinci seperti format masa, matlamat, dan unit terus pada jam dengan menahan butang menu, pilih muka jam, dan ketik sesuaikan.
+
+⭐️ Medan Data ⭐️
+Semua medan data yang kini dibekalkan Garmin kepada pembangun pihak ketiga tersedia, ditambah ekstra seperti sokongan Monitor Glukosa (CGM), Open Weather Map (OWM) dan sokongan untuk apl pihak ketiga lain.
+Semua medan data yang tersedia disenaraikan di sini: https://watchface.io/docs/datafields. Sesetengah medan data (seperti kesediaan latihan atau HRV) pada masa ini tidak tersedia untuk pembangun pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Bolehkah saya menukar teks Fenix/Enduro, dll? ⭐️
+Ya, anda boleh! Lihat di sini: https://watchface.io/faq/how-to-change-the-fenix-text
+Malah, segala-galanya pada muka jam ini boleh disesuaikan mengikut kehendak anda.
+
+*** Jika anda menghadapi sebarang pepijat atau isu, sila hubungi saya dengan menekan "Hubungi Pembangun" dan bukannya menggunakan sistem ulasan. Saya boleh membalas e-mel dengan segera, sedangkan saya mungkin tidak melihat ulasan selama beberapa hari. ***
+
+* Changelog: https://watchface.io/quantum_square/changelog

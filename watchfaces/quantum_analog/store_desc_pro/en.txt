@@ -1,0 +1,32 @@
+Pixel‑perfect retro digital watchface. Display up to 8 real‑time sport data metrics with crisp markers, smooth progress bars, subtle gradients, and support for 100+ Garmin data fields. Ultra battery‑friendly and fully optimized for every supported device (including Venu X1 and other square screens).
+
+⭐️ Try before you buy ⭐️ 
+Preview the free version to ensure it fits your needs and looks great on your watch: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+
+⭐️ MIP Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+Colors can look different as in most pictures, as these are taken on an Amoled device. This watchface has many themes optimized for MIP and supports MIP gradients. You can find all the build in themes here: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/quantum_square/manual
+* Free version: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+* Theme List: https://watchface.io/quantum_square/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone go to your device, watchfaces, settings): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields. Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Can I change the Fenix/Enduro, etc text? ⭐️
+Yes, you can! See here: https://watchface.io/faq/how-to-change-the-fenix-text
+In fact, everything on this watchface can be adjusted to your liking.
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***
+
+* Changelog: https://watchface.io/quantum_square/changelog

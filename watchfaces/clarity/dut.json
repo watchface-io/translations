@@ -177,5 +177,8 @@
          "_gq" : "Gradiënt Kwaliteit",
          "mg" : "MIPS Gradiënt",
          "ng" : "Geen Gradiënt"
+,
+
+         "_cg": "Cirkel voortgangsspleet"
     }
 }

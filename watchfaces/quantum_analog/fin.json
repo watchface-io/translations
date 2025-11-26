@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (aseta alla)",
+        "_o5": "Mukautettu aika-arvo (6767 kosketusoikotie)",
+
+        "_md1": "Merkki 1 Tiedot",
+        "_md2": "Merkki 2 Tiedot",
+
+
+                "_bd1": "Kellotaulu Suuren pisteen koko",
+        "_bd2": "Kellotaulu Pienen pisteen koko",
+        "_dc1": "Kellotaulu Suuren pisteen Väri",
+        "_dc2": "Kellotaulu Pienen pisteen Väri",
+
+        "_ps0": "Tavallinen kellotaulu",
+        "_ps1": "Täysi edistyminen",
+        "_ps2": "Sekuntimerkit edistymisenä",
+
+        "_rainbow": "Sateenkaarivärit",
+        "_xmas": "Jouluvärit",
+
+        "_f9": "Kellotaulun edistyminen",
+        "_p9": "Kellotaulun edistymistyyli",
+
+        "_f1": "Yläosan tiedot",
+        "_l1": "Yläosan nimike",
+        "_p1": "Yläosan edistymistyyli",
+
+        "_f2": "Rivi 1 Vasen tiedot",
+        "_l2": "Rivi 1 Vasen nimike",
+        "_p2": "Rivi 1 Vasen edistymistyyli",
+
+        "_f3": "Rivi 1 Keskimmäinen tiedot",
+        "_l3": "Rivi 1 Keskimmäinen nimike",
+        "_p3": "Rivi 1 Keskimmäinen edistymistyyli",
+
+        "_f4": "Rivi 1 Oikea tiedot",
+        "_l4": "Rivi 1 Oikea nimike",
+        "_p4": "Rivi 1 Oikea edistymistyyli",
+
+        "_f5": "Rivi 2 Vasen tiedot",
+        "_l5": "Rivi 2 Vasen nimike",
+        "_p5": "Rivi 2 Vasen edistymistyyli",
+
+        "_f6": "Rivi 2 Keskimmäinen tiedot",
+        "_l6": "Rivi 2 Keskimmäinen nimike",
+        "_p6": "Rivi 2 Keskimmäinen edistymistyyli",
+
+        "_f7": "Rivi 2 Oikea tiedot",
+        "_l7": "Rivi 2 Oikea nimike",
+        "_p7": "Rivi 2 Oikea edistymistyyli",
+
+        "_f8": "Alaosan tiedot",
+        "_l8": "Alaosan nimike",
+        "_p8": "Alaosan edistymistyyli",
+
+        "_f20": "AOD kentän tiedot",
+        "_l20": "AOD kentän nimike",
+
+        "_hc1": "Tunnin väri 1",
+        "_hc2": "Tunnin väri 2",
+
+
+        "_mc1": "Minuutin väri 1",
+        "_mc2": "Minuutin väri 2",
+
+
+        "_dv1": "Erotinviivan väri",
+
+
+
+        "_sbg" : "Sama kuin taustaväri",
+
+        "_m1": "Merkki 1 Väri",
+        "_m2": "Merkki 2 Väri",
+        
+        "_cp1": "Yläosan edistymisväri 1",
+        "_c21": "Yläosan edistymisväri 2",
+        "_cu1": "Yläosan edistymisväri täyttämätön",
+
+        "_cp2": "Alaosan edistymisväri 1",
+        "_c22": "Alaosan edistymisväri 2",
+        "_cu2": "Alaosan edistymisväri täyttämätön",
+
+        "_bgc": "Taustaväri",
+        "_bgl": "Taustaviivojen väri",
+        "_cs": "70% tummempi",
+        "_cpbs" : "Sama kuin yläosan edistymisjana",
+
+        "_stc" : "Sama kuin tekstin väri",
+        "_slc" : "Sama kuin nimikkeen väri",
+
+
+        "_c1": "Yläosan tietojen väri",
+        "_c1l": "Yläosan nimikkeen väri",
+
+        "_c2": "Rivi 1 tietojen väri",
+        "_c2l": "Rivi 1 nimikkeen väri",
+
+        "_c3": "Rivi 2 tietojen väri",
+        "_c3l": "Rivi 2 nimikkeen väri",
+
+        "_c4": "Alaosan tietojen väri",
+        "_c4l": "Alaosan nimikkeen väri",
+
+        "_c5": "Yläosan edistymistietojen väri",
+        "_c5l": "Yläosan edistymisnimikkeen väri",
+
+        "_c6": "Alaosan edistymistietojen väri",
+        "_c6l": "Alaosan edistymisnimikkeen väri",
+        "_x4": "Lataa edellinen esiasetus",
+        "_x3": "Lataa edellinen väriteema",
+
+        "_pb1": "Tietojen edistymispalkin väri täytetty",
+        "_pb2": "Tietojen edistymispalkin väri täyttämätön",
+
+        "_rst": "Nollaa kaikki asetukset",
+        "_tr": "👉 KOSKETUSPIKAVALINNAT",
+        "_tc": "🎨 VÄRIT / TAUSTA",
+        "_tt": "🔤 FONTIT",
+        "_ta": "🖼️ AOD ASETUKSET (Aina päällä näyttö)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ SIIRTYMÄT",
+
+        "_o1": "Aikasiirtymät (X Tunti, Y Tunti, X Minuutti, Y Minuutti) Oletus: 20",
+        "_o2": "Kentän X siirtymät (Ylhäällä, R1 vasen, R1 keskellä, R1 oikea, R2 vasen, R2 keskellä, R2 oikea, Alhaalla) Oletus: 20",
+        "_o3": "Kentän Y siirtymät (Ylhäällä, R1 vasen, R1 keskellä, R1 oikea, R2 vasen, R2 keskellä, R2 oikea, Alhaalla) Oletus: 20",
+        "_o4": "Nimikkeen Y siirtymät (R1 vasen, R1 keskellä, R1 oikea, R2 vasen, R2 keskellä, R2 oikea) Oletus: 20",
+        "_bdb": "Piirrä numeron tausta (terävämpiä minuutteja, tunnit eivät näy takana)",
+
+        "_t1": "Aikafontti",
+        "_t1a": "Aikafontti AOD",
+        "_t1s": "Aikafontin koko",
+
+
+        "_sah": "Sama kuin tunti",
+
+        "_t3": "Tekstifontti",
+        "_s1": "Yläosan tekstifontin koko (Vain skaalautuvat fontit)",
+        "_s2": "Rivi 1 fonttikoko",
+        "_s3": "Rivi 2 fonttikoko",
+        "_s4": "Alaosan fonttikoko",
+    
+        "_fo": "Ääriviivoitettu (jos saatavilla)",
+        "_fk": "Pidä sama",
+        "_fks": "Pidä sama, sisäinen mukaan lukien",
+
+
+        "_pc": "Tekstin väri",
+        "_ic": "Nimikkeen väri",      
+
+        "_gq": "Liukuvärin laatu",
+        "_ng": "Ei liukuväriä",
+
+        "_0f" : "Näytä kentän edistyminen",
+        "_1f" : "Täysi",
+        "_2f" : "Tyhjä",
+        "_3f" : "Piilota",
+
+        "_x2": "Lataa seuraava väriteema",
+        
+        "_a1": "Kosketuspikavalinnat vasen",
+        "_a2": "Kosketuspikavalinnat keskellä",
+        "_a3": "Kosketuspikavalinnat oikea",
+
+        "_aas": "Aina sekunnit",
+        "_aod": "AOD-tila (Aina päällä näyttö)",
+        "_aodct": "AOD ajan sävyn väri",
+        "_aodc": "AOD tietojen sävyn väri",
+        "_aodT": "AOD ajan kirkkaus",
+        "_aodD": "AOD tietojen kirkkaus (Jos näyttö sammuu AOD:n aikana, tee tästä numerosta pienempi. Pienempi numero = vähemmän akun käyttöä, mutta vähemmän kirkas. Katso UKK)",
+        "_aodS": "AOD siirtymä (Pikselien määrä, jonka näyttö siirtyy satunnaisesti minuutissa sisäänpalamisen estämiseksi)",
+        "ad0": "Sammuta näyttö",
+        "ad100": "Täysi AOD (Oletus)",
+        
+        "ad1": "Vain aika",
+        "ad3": "Vain aika - Liikkuva",
+        "ad4": "Aika + tietokenttä (Valitse alla)",
+        "ad6": "Liikkuva aika + tietokenttä"
+    }
+}

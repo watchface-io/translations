@@ -1,0 +1,284 @@
+{
+    "settings": {
+
+        "_bd1": "Dial Big dot size",
+        "_bd2": "Dial Small dot size",
+        "_dc1": "Dial Big dot Color",
+        "_dc2": "Dial Small dot Color",
+
+        "_rainbow": "Rainbow Colors",
+        "_xmas": "Xmas Colors",
+
+        "_cpbs" : "Same as Left Top Progress Bar",
+
+        "_f1": "Top Field Data",
+        "_l1": "Top Field Label",
+        "_p1": "Top Field Progress",
+        "_cp1": "Top Field Progress Color",
+        "_cu1": "Top Field Progress Color Unfilled",
+
+        "_f2": "Left Top Data",
+        "_l2": "Left Top Label",
+        "_p2": "Left Top Progress",
+        "_cp2": "Left Top Progress Color",
+        "_cu2": "Left Top Progress Color Unfilled",
+
+        "_f3": "Left Bottom Data",
+        "_l3": "Left Bottom Label",
+        "_p3": "Left Bottom Progress",
+        "_cp3": "Left Bottom Progress Color",
+        "_cu3": "Left Bottom Progress Color Unfilled",
+
+        "_f4": "Bottom Field Data",
+        "_l4": "Bottom Field Label",
+        "_p4": "Bottom Field Progress",
+        "_cp4": "Bottom Field Progress Color",
+        "_cu4": "Bottom Field Progress Color Unfilled",
+
+        "_f5": "Left Top Data",
+        "_l5": "Left Top Label",
+        "_p5": "Left Top Progress",
+        "_cp5": "Left Top Progress Color",
+        "_cu5": "Left Top Progress Color Unfilled",
+
+
+        "_f6": "Left Center Data",
+        "_l6": "Left Center Label",
+        "_p6": "Left Center Progress",
+        "_cp6": "Left Center Progress Color",
+        "_cu6": "Left Center Progress Color Unfilled",
+
+
+        "_f7": "Left Bottom Data",
+        "_l7": "Left Bottom Label",
+        "_p7": "Left Bottom Progress",
+        "_cp7": "Left Bottom Progress Color",
+        "_cu7": "Left Bottom Progress Color Unfilled",
+
+        "_hc1": "Hour Color",
+        "_hc2": "Hour Color 2",
+        "_m1": "Minute Color",
+        "_m2": "Minute Color 2",
+        "_dc": "Divider Color",
+
+
+        "_x4": "Load Previous Preset",
+        "_x3": "Load Previous Color Theme",
+        "ad102": "Full AOD - Bottom circle on top with AOD datafield",
+        "ad101": "Full AOD - Bottom cirle on top (increases battery usage)",
+        "_s21": "No Circle, show data",
+        "_rst": "Reset all settings",
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+
+        "_s1": "Top Style",
+        "_s10": "Progressbar + 2 fields",
+        "_s11": "Half Progressbar + 2 horizontal fields",
+        "_s12": "2 fields with Progress",
+        "_s13": "Weekdays",
+        "_s14": "Weekdays, no marker",
+        "_s15": "Sun Progress",
+        "_s19": "Radial Datafield (only slow updating values recommended)",
+
+        "_s2": "Bottom Circle Style",
+        "_s3": "Bottom Style",
+        "_s16": "60 Segment Circle",
+        "_s20": "30 Segment Circle",
+        "_s17": "Regular Progress Circle",
+        "_s18": "No Circle",
+        "_si": "Draw Status Icons (set positions below, see FAQ)",
+       
+    
+        "_t1": "Time Font",
+        "_t2": "Time Font AOD",
+        "_fo": "Outlined (If available)",
+        "_fk": "Keep the same",
+
+        "_t3": "Text Font",
+        "_t4": "Weekdays Font",
+        "_t5": "Top 2 Font",
+        "_t6": "Left/Right Circle Font",
+        "_t7": "Bottom Circle Text Font",
+        "_t8": "Bottom Circle Label Font",
+        "_t9": "Bottom Center Fields Font",
+
+        
+
+        "_t1s": "Time Font Size (resizeable fonts only)",
+        "_t3s": "Text Font Size (resizeable fonts only)",
+        "_t4s": "Weekdays Font Size",
+        "_t5s": "Top 2 Font Size",
+        "_t6s": "Left/Right Circle Font Size",
+        "_t7s": "Bottom Circle Text Font  Size",
+        "_t8s": "Bottom Circle Label Font Size",
+        "_t9s": "Bottom Center Fields Font Size",
+
+        "_o1": "Time Offsets (X, Y, X Spacing, Y Spacing, Weekdays, Weekday Marker) Default: 20",
+        "_o2": "Field offsets (Top 1 Y, Top 2 Y, L/R Top Text Y, L/R Top Label Y, L/R Bottom Text Y, L/R Bottom Label Y)",
+        "_o3": "Field offsets 2 (Bottom Circle Text y, Bottom Circle Label Y, L/R Circles Text Y, L/R Circles Label Y, Center Bottom Left Y, Center Bottom Right Y)",
+        "_o4": "Status Icon Positions % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Disable: -1, Default: 70,18,30,18,70,72,30,72",
+
+        "_mc1": "Marker 1 Color",
+        "_mc2": "Marker 2 Color",
+
+        "_c1": "Hour 1 Color",
+        "_c2": "Hour 2 Color",
+        "_c3": "Minute 1 Color",
+        "_c4": "Minute 2 Color",
+        "_dr": "75% Darker",
+
+        "_pc": "Text color",
+        "_ic": "Label color",      
+        
+        "_b1": "Background Color Center / Tint",
+        "_b2": "Background Color Left/Right",
+        "_b3": "Background Lines-only color",
+        "_bgc": "Background Color Sides (Simple bg only)",
+        "_b4": "Background behind MIPS gradient time",
+
+
+        "_c5": "Bottom Circle Color 1",
+        "_c6": "Bottom Circle Color 2",
+        "_c7": "Bottom Circle Unfilled",
+        "_c8": "Bottom Circle Background color",
+        "_c9": "Bottom Circle Shade Color",
+
+        "_c10": "Left/Right Circle Color 1",
+        "_c11": "Left/Right Circle Color 2",
+        "_c12": "Left/Right Circle Unfilled",
+
+        "_c13": "Left/Right Circle Background",
+        "_c14": "Left/Right Circle Shade Color",
+
+        "_c15": "Weekdays Current Day Color",
+        "_c16": "Weekdays Color",
+        "_c17": "Top 1 Label Color",
+        "_c18": "Top 1 Text Color",
+        "_c19": "Top 2 Label Color",
+        "_c20": "Top 2 Text Color",
+
+        "_c21": "Left/Right Circle Text Color",
+        "_c22": "Left/Right Circle Label Color",
+        "_c23": "Bottom Circle Text Color",
+        "_c24": "Bottom Circle Label Color",
+        "_c25": "Center Bottom Text Color",
+        "_c26": "Center Bottom Label Color",
+
+        "_c27": "Progress Color 1",
+        "_c28": "Progress Color 2",
+        "_c29": "Progress Unfilled",
+
+        "_c30": "Status Icons Color",
+
+
+
+
+        "_gq": "Gradient Quality",
+        "_ng": "No Gradient",
+        "_sh": "Time Shade",
+
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+        
+       
+        
+
+
+        "_f10": "Top 1 Data",
+        "_l10": "Top 1 Label",
+        "_f11": "Top 2 Data",
+        "_l11": "Top 2 Label",
+
+        "_l12": "Left Top Label",
+        "_f12": "Left Top Data",
+        "_l13": "Right Top Label",
+        "_f13": "Right Top Data",
+
+        "_l14": "Left Bottom Label",
+        "_f14": "Left Bottom Data",
+
+        "_l15": "Right Bottom Label",
+        "_f15": "Right Bottom Data",
+
+
+        "_l16": "Center Bottom Left Label",
+        "_f16": "Center Bottom Left Data",
+
+        "_l17": "Center Bottom Right Label",
+        "_f17": "Center Bottom Right Data",
+        "_f18": "Radial Data Field (See FAQ!)",
+
+        
+
+
+        "_0f" : "Show Field Progress",
+        "_1f" : "Full",
+        "_2f" : "Empty",
+        "_3f" : "Hide",
+
+        "_4f" : "Same as Main Label Color",
+        "_5f" : "Same as Main Text Color",
+        "_6f" : "Same as Progress Color",
+        "_7f" : "Same as Background Color",
+
+
+
+        "_g1" : "Progress Circles Gap size",
+        "_g2" : "Progress Circles Step size",
+        "_g3" : "Circles Background Transparency",
+        "_g4" : "Weekdays Use English",
+        "_g5" : "Progress Top/Bottom shading",
+      
+        "_bgs": "Background Style",
+        "bg_detailed": "=== Detailed Backgrounds: ===",
+        "bg0": "No Background",
+        "bg1": "Fenix 8 V3",
+        "bg2": "Fenix 8 V1 (Legacy)",
+        "bg4": "Ellipse",
+        "bg5": "2x Shaded",
+
+        "bg3": "MIPS Solid Center, Shaded sides",
+
+        "bg_simple": "=== Simple Backgrounds: ===",
+        "bg10": "Outlines",
+        "bg11": "Lines (1px)",
+        "bg12": "Lines (2px)",
+        "bg13": "Lines (3px)",
+        "bg14": "Lines (4px)",
+
+        "_x2": "Load Next Color Theme",
+        
+        "_a1": "Touch shortcut Hour Left",
+        "_a2": "Touch shortcut Hour Right",
+        "_a3": "Touch shortcut Minute Left",
+        "_a4": "Touch shortcut Minute Right",
+
+       
+        "_aas": "Always on seconds",
+        "_aod": "AOD Mode (Always on Display)",
+        "_aodct": "AOD Time Tint Color",
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "_f20": "AOD Field Data",
+        "_l20": "AOD Field Label",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        
+        "ad1": "Time Only",
+        "ad3": "Time Only - Moving",
+        "ad4": "Time + data field (Select Below)",
+        "ad6": "Time Moving + data field"
+
+        
+
+
+        
+    }
+}

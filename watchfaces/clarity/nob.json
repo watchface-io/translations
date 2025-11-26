@@ -181,6 +181,9 @@
          "_gq" : "Gradient kvalitet",
          "mg" : "MIPS gradient",
          "ng" : "Ingen gradient"
+,
+
+         "_cg": "Sirkel fremdriftsgap"
 
 
 

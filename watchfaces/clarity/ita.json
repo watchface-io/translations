@@ -181,6 +181,9 @@
          "_gq" : "Qualità Gradiente",
          "mg" : "Gradiente MIPS",
          "ng" : "Nessun Gradiente"
+,
+
+         "_cg": "Spazio progresso circolare"
 
 
 

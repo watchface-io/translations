@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (määra allpool)",
+        "_o5": "Kohandatud aja väärtus (6767 puutetundlik otsetee)",
+
+        "_md1": "Märgis 1 Andmed",
+        "_md2": "Märgis 2 Andmed",
+
+
+                "_bd1": "Numbrilaua Suure punkti suurus",
+        "_bd2": "Numbrilaua Väikese punkti suurus",
+        "_dc1": "Numbrilaua Suure punkti Värv",
+        "_dc2": "Numbrilaua Väikese punkti Värv",
+
+        "_ps0": "Tavaline numbrilaud",
+        "_ps1": "Täielik edenemine",
+        "_ps2": "Sekundimärgid edenemisena",
+
+        "_rainbow": "Vikerkaarevärv",
+        "_xmas": "Jõuluvärvid",
+
+        "_f9": "Numbrilaua edenemine",
+        "_p9": "Numbrilaua edenemise stiil",
+
+        "_f1": "Ülemine andmed",
+        "_l1": "Ülemine silt",
+        "_p1": "Ülemine edenemise stiil",
+
+        "_f2": "Rida 1 Vasak andmed",
+        "_l2": "Rida 1 Vasak silt",
+        "_p2": "Rida 1 Vasak edenemise stiil",
+
+        "_f3": "Rida 1 Keskmine andmed",
+        "_l3": "Rida 1 Keskmine silt",
+        "_p3": "Rida 1 Keskmine edenemise stiil",
+
+        "_f4": "Rida 1 Parem andmed",
+        "_l4": "Rida 1 Parem silt",
+        "_p4": "Rida 1 Parem edenemise stiil",
+
+        "_f5": "Rida 2 Vasak andmed",
+        "_l5": "Rida 2 Vasak silt",
+        "_p5": "Rida 2 Vasak edenemise stiil",
+
+        "_f6": "Rida 2 Keskmine andmed",
+        "_l6": "Rida 2 Keskmine silt",
+        "_p6": "Rida 2 Keskmine edenemise stiil",
+
+        "_f7": "Rida 2 Parem andmed",
+        "_l7": "Rida 2 Parem silt",
+        "_p7": "Rida 2 Parem edenemise stiil",
+
+        "_f8": "Alumine andmed",
+        "_l8": "Alumine silt",
+        "_p8": "Alumine edenemise stiil",
+
+        "_f20": "AOD välja andmed",
+        "_l20": "AOD välja silt",
+
+        "_hc1": "Tunni värv 1",
+        "_hc2": "Tunni värv 2",
+
+
+        "_mc1": "Minuti värv 1",
+        "_mc2": "Minuti värv 2",
+
+
+        "_dv1": "Eraldaja värv",
+
+
+
+        "_sbg" : "Sama kui taustavärv",
+
+        "_m1": "Märgis 1 Värv",
+        "_m2": "Märgis 2 Värv",
+        
+        "_cp1": "Ülemine edenemise värv 1",
+        "_c21": "Ülemine edenemise värv 2",
+        "_cu1": "Ülemine edenemise värv täitmata",
+
+        "_cp2": "Alumine edenemise värv 1",
+        "_c22": "Alumine edenemise värv 2",
+        "_cu2": "Alumine edenemise värv täitmata",
+
+        "_bgc": "Taustavärv",
+        "_bgl": "Taustajoonte värv",
+        "_cs": "70% tumedam",
+        "_cpbs" : "Sama kui ülemine edenemisjoon",
+
+        "_stc" : "Sama kui teksti värv",
+        "_slc" : "Sama kui sildi värv",
+
+
+        "_c1": "Ülemine andmete värv",
+        "_c1l": "Ülemine sildi värv",
+
+        "_c2": "Rida 1 andmete värv",
+        "_c2l": "Rida 1 sildi värv",
+
+        "_c3": "Rida 2 andmete värv",
+        "_c3l": "Rida 2 sildi värv",
+
+        "_c4": "Alumine andmete värv",
+        "_c4l": "Alumine sildi värv",
+
+        "_c5": "Ülemine edenemise andmete värv",
+        "_c5l": "Ülemine edenemise sildi värv",
+
+        "_c6": "Alumine edenemise andmete värv",
+        "_c6l": "Alumine edenemise sildi värv",
+        "_x4": "Laadi eelmine eelseadistus",
+        "_x3": "Laadi eelmine värviteema",
+
+        "_pb1": "Andmete edenemisriba värv täidetud",
+        "_pb2": "Andmete edenemisriba värv täitmata",
+
+        "_rst": "Lähtesta kõik seaded",
+        "_tr": "👉 PUUDUTUSOTSETEED",
+        "_tc": "🎨 VÄRVID / TAUST",
+        "_tt": "🔤 FONDID",
+        "_ta": "🖼️ AOD SEADED (Alati sees ekraan)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ NIHKED",
+
+        "_o1": "Aja nihked (X Tund, Y Tund, X Minut, Y Minut) Vaikimisi: 20",
+        "_o2": "Välja X nihked (Üleval, R1 vasak, R1 keskmine, R1 parem, R2 vasak, R2 keskmine, R2 parem, All) Vaikimisi: 20",
+        "_o3": "Välja Y nihked (Üleval, R1 vasak, R1 keskmine, R1 parem, R2 vasak, R2 keskmine, R2 parem, All) Vaikimisi: 20",
+        "_o4": "Sildi Y nihked (R1 vasak, R1 keskmine, R1 parem, R2 vasak, R2 keskmine, R2 parem) Vaikimisi: 20",
+        "_bdb": "Joonista numbri taust (teravamad minutid, tunnid pole taga nähtavad)",
+
+        "_t1": "Aja font",
+        "_t1a": "Aja font AOD",
+        "_t1s": "Aja fondi suurus",
+
+
+        "_sah": "Sama kui tund",
+
+        "_t3": "Teksti font",
+        "_s1": "Ülemine teksti fondi suurus (Ainult muudetava suurusega fondid)",
+        "_s2": "Rida 1 fondi suurus",
+        "_s3": "Rida 2 fondi suurus",
+        "_s4": "Alumine fondi suurus",
+    
+        "_fo": "Ääristatud (kui saadaval)",
+        "_fk": "Hoia sama",
+        "_fks": "Hoia sama, sealhulgas sisemine",
+
+
+        "_pc": "Teksti värv",
+        "_ic": "Sildi värv",      
+
+        "_gq": "Ülemineku kvaliteet",
+        "_ng": "Üleminekut pole",
+
+        "_0f" : "Näita välja edenemist",
+        "_1f" : "Täis",
+        "_2f" : "Tühi",
+        "_3f" : "Peida",
+
+        "_x2": "Laadi järgmine värviteema",
+        
+        "_a1": "Puudutusotsetee vasak",
+        "_a2": "Puudutusotsetee keskmine",
+        "_a3": "Puudutusotsetee parem",
+
+        "_aas": "Alati sekundid",
+        "_aod": "AOD režiim (Alati sees ekraan)",
+        "_aodct": "AOD aja tooni värv",
+        "_aodc": "AOD andmete tooni värv",
+        "_aodT": "AOD aja heledus",
+        "_aodD": "AOD andmete heledus (Kui ekraan lülitub AOD ajal välja, tehke see number väiksemaks. Väiksem number = vähem akukasutust, kuid vähem hele. Vaadake KKK)",
+        "_aodS": "AOD nihe (Pikslite arv, mille võrra ekraan minutis juhuslikult nihkub sissepõlemise vältimiseks)",
+        "ad0": "Lülita ekraan välja",
+        "ad100": "Täielik AOD (Vaikimisi)",
+        
+        "ad1": "Ainult aeg",
+        "ad3": "Ainult aeg - Liikuv",
+        "ad4": "Aeg + andmeväli (Valige allpool)",
+        "ad6": "Liikuv aeg + andmeväli"
+    }
+}

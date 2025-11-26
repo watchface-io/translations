@@ -181,6 +181,9 @@
          "_gq" : "Jakość gradientu",
          "mg" : "Gradient MIPS",
          "ng" : "Bez gradientu"
+,
+
+         "_cg": "Odstęp postępu koła"
 
 
 

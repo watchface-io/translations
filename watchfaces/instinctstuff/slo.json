@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (nastavte nižšie)",
+        "_o5": "Vlastná hodnota času (dotykový skratka 6767)",
+
+        "_md1": "Značka dátumu 1",
+        "_md2": "Značka dátumu 2",
+
+
+                "_bd1": "Veľkosť veľkej bodky ciferníka",
+        "_bd2": "Veľkosť malej bodky ciferníka",
+        "_dc1": "Farba veľkej bodky ciferníka",
+        "_dc2": "Farba malej bodky ciferníka",
+
+        "_ps0": "Bežný ciferník",
+        "_ps1": "Plný pokrok",
+        "_ps2": "Sekundové značky ako pokrok",
+
+        "_rainbow": "Dúhové farby",
+        "_xmas": "Vianočné farby",
+
+        "_f9": "Pokrok ciferníka",
+        "_p9": "Štýl pokroku ciferníka",
+
+        "_f1": "Horné údaje",
+        "_l1": "Horný štítok",
+        "_p1": "Horný štýl pokroku",
+
+        "_f2": "Riadok 1 Ľavé údaje",
+        "_l2": "Riadok 1 Ľavý štítok",
+        "_p2": "Riadok 1 Ľavý štýl pokroku",
+
+        "_f3": "Riadok 1 Stredné údaje",
+        "_l3": "Riadok 1 Stredný štítok",
+        "_p3": "Riadok 1 Stredný štýl pokroku",
+
+        "_f4": "Riadok 1 Pravé údaje",
+        "_l4": "Riadok 1 Pravý štítok",
+        "_p4": "Riadok 1 Pravý štýl pokroku",
+
+        "_f5": "Riadok 2 Ľavé údaje",
+        "_l5": "Riadok 2 Ľavý štítok",
+        "_p5": "Riadok 2 Ľavý štýl pokroku",
+
+        "_f6": "Riadok 2 Stredné údaje",
+        "_l6": "Riadok 2 Stredný štítok",
+        "_p6": "Riadok 2 Stredný štýl pokroku",
+
+        "_f7": "Riadok 2 Pravé údaje",
+        "_l7": "Riadok 2 Pravý štítok",
+        "_p7": "Riadok 2 Pravý štýl pokroku",
+
+        "_f8": "Dolné údaje",
+        "_l8": "Dolný štítok",
+        "_p8": "Dolný štýl pokroku",
+
+        "_f20": "Údaje poľa AOD",
+        "_l20": "Štítok poľa AOD",
+
+        "_hc1": "Farba hodiny 1",
+        "_hc2": "Farba hodiny 2",
+
+
+        "_mc1": "Farba minúty 1",
+        "_mc2": "Farba minúty 2",
+
+
+        "_dv1": "Farba oddeľovača",
+
+
+
+        "_sbg" : "Ako farba pozadia",
+
+        "_m1": "Farba značky 1",
+        "_m2": "Farba značky 2",
+        
+        "_cp1": "Farba horného pokroku 1",
+        "_c21": "Farba horného pokroku 2",
+        "_cu1": "Farba nevyplneného horného pokroku",
+
+        "_cp2": "Farba dolného pokroku 1",
+        "_c22": "Farba dolného pokroku 2",
+        "_cu2": "Farba nevyplneného dolného pokroku",
+
+        "_bgc": "Farba pozadia",
+        "_bgl": "Farba čiar pozadia",
+        "_cs": "70% tmavšie",
+        "_cpbs" : "Ako horný panel pokroku",
+
+        "_stc" : "Ako farba textu",
+        "_slc" : "Ako farba štítku",
+
+
+        "_c1": "Farba horných údajov",
+        "_c1l": "Farba horného štítku",
+
+        "_c2": "Farba údajov riadka 1",
+        "_c2l": "Farba štítku riadka 1",
+
+        "_c3": "Farba údajov riadka 2",
+        "_c3l": "Farba štítku riadka 2",
+
+        "_c4": "Farba dolných údajov",
+        "_c4l": "Farba dolného štítku",
+
+        "_c5": "Farba údajov horného pokroku",
+        "_c5l": "Farba štítku horného pokroku",
+
+        "_c6": "Farba údajov dolného pokroku",
+        "_c6l": "Farba štítku dolného pokroku",
+        "_x4": "Načítať predchádzajúcu predvoľbu",
+        "_x3": "Načítať predchádzajúcu farebnú tému",
+
+        "_pb1": "Farba vyplneného panela pokroku údajov",
+        "_pb2": "Farba nevyplneného panela pokroku údajov",
+
+        "_rst": "Obnoviť všetky nastavenia",
+        "_tr": "👉 DOTYKOVÉ RÝCHLE PRÍKAZY",
+        "_tc": "🎨 FARBY / POZADIE",
+        "_tt": "🔤 PÍSMA",
+        "_ta": "🖼️ NASTAVENIA AOD (Vždy na obrazovke)",
+        "_to": "💡 INÉ",
+        "_tx": "➡️ POSUNY",
+
+        "_o1": "Posuny času (X Hodina, Y Hodina, X Minúta, Y Minúta) Predvolené: 20",
+        "_o2": "Posuny poľa X (Hore, R1 vľavo, R1 stred, R1 vpravo, R2 vľavo, R2 stred, R2 vpravo, Dole) Predvolené: 20",
+        "_o3": "Posuny poľa Y (Hore, R1 vľavo, R1 stred, R1 vpravo, R2 vľavo, R2 stred, R2 vpravo, Dole) Predvolené: 20",
+        "_o4": "Posuny štítku Y (R1 vľavo, R1 stred, R1 vpravo, R2 vľavo, R2 stred, R2 vpravo) Predvolené: 20",
+        "_bdb": "Nakresliť pozadie čísla (svetlejšie minúty, hodiny nie sú viditeľné vzadu)",
+
+        "_t1": "Písmo hodiny",
+        "_t1a": "Písmo hodiny AOD",
+        "_t1s": "Veľkosť písma hodiny",
+
+
+        "_sah": "Ako hodina",
+
+        "_t3": "Písmo textu",
+        "_s1": "Veľkosť horného písma textu (Iba škálovateľné písma)",
+        "_s2": "Veľkosť písma riadka 1",
+        "_s3": "Veľkosť písma riadka 2",
+        "_s4": "Veľkosť dolného písma",
+    
+        "_fo": "Obrys (ak je k dispozícii)",
+        "_fk": "Ponechať rovnaké",
+        "_fks": "Ponechať rovnaké vrátane vnútorného",
+
+
+        "_pc": "Farba textu",
+        "_ic": "Farba štítku",      
+
+        "_gq": "Kvalita prechodu",
+        "_ng": "Žiadny prechod",
+
+        "_0f" : "Zobraziť pokrok poľa",
+        "_1f" : "Vyplnené",
+        "_2f" : "Prázdne",
+        "_3f" : "Skryť",
+
+        "_x2": "Načítať ďalšiu farebnú tému",
+        
+        "_a1": "Ľavý dotykový rýchly príkaz",
+        "_a2": "Stredný dotykový rýchly príkaz",
+        "_a3": "Pravý dotykový rýchly príkaz",
+
+        "_aas": "Vždy sekundy",
+        "_aod": "Režim AOD (Vždy na obrazovke)",
+        "_aodct": "Farba odtieňa času AOD",
+        "_aodc": "Farba odtieňa údajov AOD",
+        "_aodT": "Jas času AOD",
+        "_aodD": "Jas údajov AOD (Ak sa obrazovka vypne počas AOD, znížte toto číslo. Nižšie číslo = nižšia spotreba batérie, ale menej jasné. Pozrite si FAQ)",
+        "_aodS": "Posun AOD (Počet pixelov, o ktoré sa obrazovka náhodne posúva za minútu na zabránenie vyhoreniu)",
+        "ad0": "Vypnúť obrazovku",
+        "ad100": "Plný AOD (Predvolené)",
+        
+        "ad1": "Iba čas",
+        "ad3": "Iba čas - V pohybe",
+        "ad4": "Čas + údajové pole (Vyberte nižšie)",
+        "ad6": "Čas v pohybe + údajové pole"
+    }
+}

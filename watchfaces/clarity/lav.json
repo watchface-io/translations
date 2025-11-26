@@ -181,6 +181,9 @@
          "_gq" : "Gradienta kvalitāte",
          "mg" : "MIPS gradients",
          "ng" : "Nav gradienta"
+,
+
+         "_cg": "Circle progress gap"
 
 
 

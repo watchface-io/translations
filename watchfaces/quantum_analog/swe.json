@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (ställ in nedan)",
+        "_o5": "Anpassat tidsvärde (6767 pekkgenväg)",
+
+        "_md1": "Datummarkör 1",
+        "_md2": "Datummarkör 2",
+
+
+                "_bd1": "Storlek på stor urtavlepunkt",
+        "_bd2": "Storlek på liten urtavlepunkt",
+        "_dc1": "Färg på stor urtavlepunkt",
+        "_dc2": "Färg på liten urtavlepunkt",
+
+        "_ps0": "Vanlig urtavla",
+        "_ps1": "Fullt framsteg",
+        "_ps2": "Sekundmarkeringar som framsteg",
+
+        "_rainbow": "Regnbågsfärger",
+        "_xmas": "Julfärger",
+
+        "_f9": "Urtavla framsteg",
+        "_p9": "Stil för urtavla framsteg",
+
+        "_f1": "Övre data",
+        "_l1": "Övre etikett",
+        "_p1": "Övre framstegsstil",
+
+        "_f2": "Rad 1 Vänster data",
+        "_l2": "Rad 1 Vänster etikett",
+        "_p2": "Rad 1 Vänster framstegsstil",
+
+        "_f3": "Rad 1 Mitten data",
+        "_l3": "Rad 1 Mitten etikett",
+        "_p3": "Rad 1 Mitten framstegsstil",
+
+        "_f4": "Rad 1 Höger data",
+        "_l4": "Rad 1 Höger etikett",
+        "_p4": "Rad 1 Höger framstegsstil",
+
+        "_f5": "Rad 2 Vänster data",
+        "_l5": "Rad 2 Vänster etikett",
+        "_p5": "Rad 2 Vänster framstegsstil",
+
+        "_f6": "Rad 2 Mitten data",
+        "_l6": "Rad 2 Mitten etikett",
+        "_p6": "Rad 2 Mitten framstegsstil",
+
+        "_f7": "Rad 2 Höger data",
+        "_l7": "Rad 2 Höger etikett",
+        "_p7": "Rad 2 Höger framstegsstil",
+
+        "_f8": "Nedre data",
+        "_l8": "Nedre etikett",
+        "_p8": "Nedre framstegsstil",
+
+        "_f20": "AOD-fältdata",
+        "_l20": "AOD-fältetikett",
+
+        "_hc1": "Timmefärg 1",
+        "_hc2": "Timmefärg 2",
+
+
+        "_mc1": "Minutfärg 1",
+        "_mc2": "Minutfärg 2",
+
+
+        "_dv1": "Separatorfärg",
+
+
+
+        "_sbg" : "Som bakgrundsfärg",
+
+        "_m1": "Markörfärg 1",
+        "_m2": "Markörfärg 2",
+        
+        "_cp1": "Övre framstegsfärg 1",
+        "_c21": "Övre framstegsfärg 2",
+        "_cu1": "Övre framstegsfärg ofylld",
+
+        "_cp2": "Nedre framstegsfärg 1",
+        "_c22": "Nedre framstegsfärg 2",
+        "_cu2": "Nedre framstegsfärg ofylld",
+
+        "_bgc": "Bakgrundsfärg",
+        "_bgl": "Bakgrundslinjefärg",
+        "_cs": "70% mörkare",
+        "_cpbs" : "Som övre framstegsrad",
+
+        "_stc" : "Som textfärg",
+        "_slc" : "Som etikettfärg",
+
+
+        "_c1": "Övre datafärg",
+        "_c1l": "Övre etikettfärg",
+
+        "_c2": "Rad 1 datafärg",
+        "_c2l": "Rad 1 etikettfärg",
+
+        "_c3": "Rad 2 datafärg",
+        "_c3l": "Rad 2 etikettfärg",
+
+        "_c4": "Nedre datafärg",
+        "_c4l": "Nedre etikettfärg",
+
+        "_c5": "Övre framstegsdatafärg",
+        "_c5l": "Övre framstegsetikettfärg",
+
+        "_c6": "Nedre framstegsdatafärg",
+        "_c6l": "Nedre framstegsetikettfärg",
+        "_x4": "Ladda föregående förinställning",
+        "_x3": "Ladda föregående färgtema",
+
+        "_pb1": "Datafältets framstegsradfärg fylld",
+        "_pb2": "Datafältets framstegsradfärg ofylld",
+
+        "_rst": "Återställ alla inställningar",
+        "_tr": "👉 PEKGENVÄGAR",
+        "_tc": "🎨 FÄRGER / BAKGRUND",
+        "_tt": "🔤 TYPSNITT",
+        "_ta": "🖼️ AOD-INSTÄLLNINGAR (Alltid på)",
+        "_to": "💡 ANNAT",
+        "_tx": "➡️ FÖRSKJUTNINGAR",
+
+        "_o1": "Tidsförskjutningar (X Timme, Y Timme, X Minut, Y Minut) Standard: 20",
+        "_o2": "Fältförskjutningar X (Övre, R1 vänster, R1 mitten, R1 höger, R2 vänster, R2 mitten, R2 höger, Nedre) Standard: 20",
+        "_o3": "Fältförskjutningar Y (Övre, R1 vänster, R1 mitten, R1 höger, R2 vänster, R2 mitten, R2 höger, Nedre) Standard: 20",
+        "_o4": "Etikettförskjutningar Y (R1 vänster, R1 mitten, R1 höger, R2 vänster, R2 mitten, R2 höger) Standard: 20",
+        "_bdb": "Rita sifferbakgrund (ljusare minuter, timmar syns inte bakåt)",
+
+        "_t1": "Timmtypsnitt",
+        "_t1a": "Timmtypsnitt AOD",
+        "_t1s": "Timmtypsnittsstorlek",
+
+
+        "_sah": "Som timme",
+
+        "_t3": "Texttypsnitt",
+        "_s1": "Övre texttypsnittsstorlek (Endast skalbara typsnitt)",
+        "_s2": "Rad 1 typsnittsstorlek",
+        "_s3": "Rad 2 typsnittsstorlek",
+        "_s4": "Nedre typsnittsstorlek",
+    
+        "_fo": "Kontur (om tillgängligt)",
+        "_fk": "Behåll samma",
+        "_fks": "Behåll samma inklusive inre",
+
+
+        "_pc": "Textfärg",
+        "_ic": "Etikettfärg",      
+
+        "_gq": "Gradientkvalitet",
+        "_ng": "Ingen gradient",
+
+        "_0f" : "Visa fältframsteg",
+        "_1f" : "Fylld",
+        "_2f" : "Tom",
+        "_3f" : "Dölj",
+
+        "_x2": "Ladda nästa färgtema",
+        
+        "_a1": "Vänster pekgenväg",
+        "_a2": "Mitten pekgenväg",
+        "_a3": "Höger pekgenväg",
+
+        "_aas": "Alltid sekunder",
+        "_aod": "AOD-läge (Alltid på)",
+        "_aodct": "AOD tidstonfärg",
+        "_aodc": "AOD datatonfärg",
+        "_aodT": "AOD tidsljusstyrka",
+        "_aodD": "AOD dataljusstyrka (Om skärmen stängs av under AOD, minska detta nummer. Lägre nummer = mindre batterianvändning men mindre ljus. Se FAQ)",
+        "_aodS": "AOD-förskjutning (Antal pixlar som skärmen slumpmässigt förskjuts per minut för att förhindra inbränning)",
+        "ad0": "Stäng av skärmen",
+        "ad100": "Full AOD (Standard)",
+        
+        "ad1": "Endast tid",
+        "ad3": "Endast tid - I rörelse",
+        "ad4": "Tid + datafält (Välj nedan)",
+        "ad6": "Tid i rörelse + datafält"
+    }
+}

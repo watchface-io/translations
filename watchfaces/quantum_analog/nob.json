@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (sett nedenfor)",
+        "_o5": "Tilpasset tidsverdi (6767 berøringssnarvei)",
+
+        "_md1": "Markør 1 Data",
+        "_md2": "Markør 2 Data",
+
+
+                "_bd1": "Urskive Stor prikk størrelse",
+        "_bd2": "Urskive Liten prikk størrelse",
+        "_dc1": "Urskive Stor prikk Farge",
+        "_dc2": "Urskive Liten prikk Farge",
+
+        "_ps0": "Normal urskive",
+        "_ps1": "Full fremgang",
+        "_ps2": "Sekundmerker som fremgang",
+
+        "_rainbow": "Regnbufarger",
+        "_xmas": "Julefarger",
+
+        "_f9": "Urskive fremgang",
+        "_p9": "Urskive fremgangsstil",
+
+        "_f1": "Øverste data",
+        "_l1": "Øverste etikett",
+        "_p1": "Øverste fremgangsstil",
+
+        "_f2": "Rad 1 Venstre data",
+        "_l2": "Rad 1 Venstre etikett",
+        "_p2": "Rad 1 Venstre fremgangsstil",
+
+        "_f3": "Rad 1 Midtre data",
+        "_l3": "Rad 1 Midtre etikett",
+        "_p3": "Rad 1 Midtre fremgangsstil",
+
+        "_f4": "Rad 1 Høyre data",
+        "_l4": "Rad 1 Høyre etikett",
+        "_p4": "Rad 1 Høyre fremgangsstil",
+
+        "_f5": "Rad 2 Venstre data",
+        "_l5": "Rad 2 Venstre etikett",
+        "_p5": "Rad 2 Venstre fremgangsstil",
+
+        "_f6": "Rad 2 Midtre data",
+        "_l6": "Rad 2 Midtre etikett",
+        "_p6": "Rad 2 Midtre fremgangsstil",
+
+        "_f7": "Rad 2 Høyre data",
+        "_l7": "Rad 2 Høyre etikett",
+        "_p7": "Rad 2 Høyre fremgangsstil",
+
+        "_f8": "Nederste data",
+        "_l8": "Nederste etikett",
+        "_p8": "Nederste fremgangsstil",
+
+        "_f20": "AOD felt data",
+        "_l20": "AOD felt etikett",
+
+        "_hc1": "Time farge 1",
+        "_hc2": "Time farge 2",
+
+
+        "_mc1": "Minutt farge 1",
+        "_mc2": "Minutt farge 2",
+
+
+        "_dv1": "Skillelinje farge",
+
+
+
+        "_sbg" : "Samme som bakgrunnsfarge",
+
+        "_m1": "Markør 1 Farge",
+        "_m2": "Markør 2 Farge",
+        
+        "_cp1": "Øverste fremgangsfarge 1",
+        "_c21": "Øverste fremgangsfarge 2",
+        "_cu1": "Øverste fremgangsfarge ufylt",
+
+        "_cp2": "Nederste fremgangsfarge 1",
+        "_c22": "Nederste fremgangsfarge 2",
+        "_cu2": "Nederste fremgangsfarge ufylt",
+
+        "_bgc": "Bakgrunnsfarge",
+        "_bgl": "Bakgrunnslinjer farge",
+        "_cs": "70% mørkere",
+        "_cpbs" : "Samme som øverste fremgangsstripe",
+
+        "_stc" : "Samme som tekstfarge",
+        "_slc" : "Samme som etikettfarge",
+
+
+        "_c1": "Øverste datafarge",
+        "_c1l": "Øverste etikettfarge",
+
+        "_c2": "Rad 1 datafarge",
+        "_c2l": "Rad 1 etikettfarge",
+
+        "_c3": "Rad 2 datafarge",
+        "_c3l": "Rad 2 etikettfarge",
+
+        "_c4": "Nederste datafarge",
+        "_c4l": "Nederste etikettfarge",
+
+        "_c5": "Øverste fremgangsdatafarge",
+        "_c5l": "Øverste fremgangsetikettfarge",
+
+        "_c6": "Nederste fremgangsdatafarge",
+        "_c6l": "Nederste fremgangsetikettfarge",
+        "_x4": "Last inn forrige forhåndsinnstilling",
+        "_x3": "Last inn forrige fargetema",
+
+        "_pb1": "Data fremgangsstripe farge fylt",
+        "_pb2": "Data fremgangsstripe farge ufylt",
+
+        "_rst": "Tilbakestill alle innstillinger",
+        "_tr": "👉 BERØRINGSSNARVEI",
+        "_tc": "🎨 FARGER / BAKGRUNN",
+        "_tt": "🔤 SKRIFTTYPER",
+        "_ta": "🖼️ AOD INNSTILLINGER (Alltid på skjerm)",
+        "_to": "💡 ANNET",
+        "_tx": "➡️ FORSKYVNINGER",
+
+        "_o1": "Tidsforskyvninger (X time, Y time, X minutt, Y minutt) Standard: 20",
+        "_o2": "Felt X forskyvninger (Topp, R1 venstre, R1 midt, R1 høyre, R2 venstre, R2 midt, R2 høyre, Bunn) Standard: 20",
+        "_o3": "Felt Y forskyvninger (Topp, R1 venstre, R1 midt, R1 høyre, R2 venstre, R2 midt, R2 høyre, Bunn) Standard: 20",
+        "_o4": "Etikett Y forskyvninger (R1 venstre, R1 midt, R1 høyre, R2 venstre, R2 midt, R2 høyre) Standard: 20",
+        "_bdb": "Tegn tallbakgrunn (skarpere minutter, timer ikke synlige bak)",
+
+        "_t1": "Tidsskrifttype",
+        "_t1a": "Tidsskrifttype AOD",
+        "_t1s": "Tidsskriftstørrelse",
+
+
+        "_sah": "Samme som time",
+
+        "_t3": "Tekstskrifttype",
+        "_s1": "Øverste tekstskriftstørrelse (Kun skalerbare skrifttyper)",
+        "_s2": "Rad 1 skriftstørrelse",
+        "_s3": "Rad 2 skriftstørrelse",
+        "_s4": "Nederste skriftstørrelse",
+    
+        "_fo": "Omriss (hvis tilgjengelig)",
+        "_fk": "Behold den samme",
+        "_fks": "Behold den samme, inkludert indre",
+
+
+        "_pc": "Tekstfarge",
+        "_ic": "Etikettfarge",      
+
+        "_gq": "Overgang kvalitet",
+        "_ng": "Ingen overgang",
+
+        "_0f" : "Vis feltfremgang",
+        "_1f" : "Full",
+        "_2f" : "Tom",
+        "_3f" : "Skjul",
+
+        "_x2": "Last inn neste fargetema",
+        
+        "_a1": "Berøringssnarvei venstre",
+        "_a2": "Berøringssnarvei midten",
+        "_a3": "Berøringssnarvei høyre",
+
+        "_aas": "Alltid sekunder",
+        "_aod": "AOD-modus (Alltid på skjerm)",
+        "_aodct": "AOD tidstone farge",
+        "_aodc": "AOD datastone farge",
+        "_aodT": "AOD tidslyshet",
+        "_aodD": "AOD datalyshet (Hvis skjermen slukkes under AOD, gjør dette nummeret lavere. Lavere nummer = mindre batteriforbruk, men mindre lyst. Se FAQ)",
+        "_aodS": "AOD forskyvning (Antall piksler skjermen tilfeldig skifter per minutt for å forhindre innbrenning)",
+        "ad0": "Slå av skjermen",
+        "ad100": "Full AOD (Standard)",
+        
+        "ad1": "Kun tid",
+        "ad3": "Kun tid - Bevegelig",
+        "ad4": "Tid + datafelt (Velg nedenfor)",
+        "ad6": "Bevegelig tid + datafelt"
+    }
+}

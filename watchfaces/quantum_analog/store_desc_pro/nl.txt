@@ -1,0 +1,32 @@
+Pixel-perfect retro digitaal wijzerplaatje. Toon tot 8 real-time sportdata-statistieken met scherpe markeringen, vloeiende voortgangsbalken, subtiele kleurverlopen en ondersteuning voor 100+ Garmin datavelden. Ultra batterijvriendelijk en volledig geoptimaliseerd voor elk ondersteund apparaat (inclusief Venu X1 en andere vierkante schermen).
+
+⭐️ Probeer voordat u koopt ⭐️ 
+Bekijk een voorbeeld van de gratis versie om er zeker van te zijn dat het aan uw behoeften voldoet en er geweldig uitziet op uw horloge: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+
+⭐️ MIP-apparaten (Fenix 7, Enduro, Forerunner 255, enz.) ⭐️
+Kleuren kunnen er anders uitzien dan op de meeste afbeeldingen, aangezien deze zijn gemaakt op een Amoled-apparaat. Dit wijzerplaatje heeft veel thema's die zijn geoptimaliseerd voor MIP en ondersteunt MIP-kleurverlopen. U kunt alle ingebouwde thema's hier vinden: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Bronnen ⭐️
+* Veelgestelde vragen: https://watchface.io/faq
+* Handleiding: https://watchface.io/quantum_square/manual
+* Gratis versie: https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+* Themalijst: https://watchface.io/quantum_square/themes
+* Kleurengids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Let op: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ-app (ga op uw telefoon naar uw apparaat, wijzerplaatjes, instellingen): Configureer datavelden, kleuren en algemene instellingen.
+* Instellingen op het horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaatje te selecteren en op aanpassen te tikken.
+
+⭐️ Datavelden ⭐️
+Alle datavelden die Garmin momenteel aan externe ontwikkelaars levert zijn beschikbaar, plus extra's zoals Glucosemeter (CGM) ondersteuning, Open Weather Map (OWM) en ondersteuning voor andere externe apps.
+Alle beschikbare datavelden staan hier vermeld: https://watchface.io/docs/datafields. Sommige datavelden (zoals trainingsbereidheid of HRV) zijn momenteel niet beschikbaar voor externe ontwikkelaars, zie hier: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kan ik de Fenix/Enduro-tekst wijzigen, enz.? ⭐️
+Ja, dat kan! Zie hier: https://watchface.io/faq/how-to-change-the-fenix-text
+In feite kan alles op dit wijzerplaatje worden aangepast naar uw wens.
+
+*** Als u bugs of problemen tegenkomt, neem dan contact met mij op door op "Contact opnemen met ontwikkelaar" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan snel op e-mails reageren, terwijl ik beoordelingen mogelijk meerdere dagen niet zie. ***
+
+* Wijzigingslogboek: https://watchface.io/quantum_square/changelog

@@ -181,6 +181,9 @@
          "_gq" : "渐变质量",
          "mg" : "MIPS渐变",
          "ng" : "无渐变"
+,
+
+         "_cg": "Circle progress gap"
 
 
 

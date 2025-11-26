@@ -181,6 +181,9 @@
          "_gq" : "جودة التدرج",
          "mg" : "تدرج MIPS",
          "ng" : "بدون تدرج"
+,
+
+         "_cg": "Circle progress gap"
 
 
 

@@ -1,0 +1,33 @@
+Pikselowo doskonała retro cyfrowa tarcza zegarka. Wyświetla do 8 metryk danych sportowych w czasie rzeczywistym z wyraźnymi znacznikami, płynnymi paskami postępu, subtelnymi gradientami i obsługą ponad 100 pól danych Garmin. Ultra oszczędna dla baterii i w pełni zoptymalizowana dla każdego obsługiwanego urządzenia (w tym Venu X1 i innych kwadratowych ekranów).
+
+⭐️ Darmowa vs PRO ⭐️
+Ta tarcza zegarka jest dostępna bezpłatnie ze wszystkimi podstawowymi funkcjami. Funkcje premium (oznaczone [*]) wymagają klucza Pro do odblokowania. Klucz Pro można kupić tutaj: https://ko-fi.com/s/44de64b3d0 lub https://watchface.io/quantum_square, lub kupić wersję PRO tutaj: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964.
+
+⭐️ Urządzenia MIP (Fenix 7, Enduro, Forerunner 255 itp.) ⭐️
+Kolory mogą wyglądać inaczej niż na większości zdjęć, ponieważ są one wykonane na urządzeniu Amoled. Ta tarcza zegarka ma wiele motywów zoptymalizowanych dla MIP i obsługuje gradienty MIP. Wszystkie wbudowane motywy można znaleźć tutaj: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Zasoby ⭐️
+* FAQ: https://watchface.io/faq
+* Instrukcja: https://watchface.io/quantum_square/manual
+* Uzyskaj klucz PRO: https://ko-fi.com/s/44de64b3d0 lub https://watchface.io/quantum_square
+* Wersja odblokowania PRO: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964
+* Lista motywów: https://watchface.io/quantum_square/themes
+* Przewodnik po kolorach: https://watchface.io/docs/color-list
+* Dostępne pola danych: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracja ⭐️
+Uwaga: Istnieją dwa różne miejsca z ustawieniami:
+* Aplikacja Garmin IQ (na telefonie przejdź do urządzenia, tarczy zegarków, ustawień): Skonfiguruj pola danych, kolory i ustawienia ogólne.
+* Ustawienia na zegarku: Dostęp do bardziej szczegółowych opcji, takich jak format czasu, cele i jednostki bezpośrednio na zegarku, przytrzymując przycisk menu, wybierając tarczę zegarka i dotykając dostosuj.
+
+⭐️ Pola danych ⭐️
+Wszystkie pola danych, które Garmin obecnie dostarcza programistom zewnętrznym, są dostępne, plus dodatki, takie jak obsługa Monitora Glukozy (CGM), Open Weather Map (OWM) i obsługa innych aplikacji zewnętrznych.
+Wszystkie dostępne pola danych są wymienione tutaj: https://watchface.io/docs/datafields. Niektóre pola danych (takie jak gotowość do treningu lub HRV) nie są obecnie dostępne dla programistów zewnętrznych, zobacz tutaj: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Czy mogę zmienić tekst Fenix/Enduro itp.? ⭐️
+Tak, możesz! Zobacz tutaj: https://watchface.io/faq/how-to-change-the-fenix-text
+W rzeczywistości wszystko na tej tarczy zegarka można dostosować do własnych upodobań.
+
+*** Jeśli napotkasz jakiekolwiek błędy lub problemy, skontaktuj się ze mną, naciskając "Skontaktuj się z deweloperem" zamiast korzystać z systemu recenzji. Mogę szybko odpowiadać na e-maile, podczas gdy recenzje mogę nie widzieć przez kilka dni. ***
+
+* Dziennik zmian: https://watchface.io/quantum_square/changelog

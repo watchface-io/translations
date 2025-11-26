@@ -181,6 +181,9 @@
          "_gq" : "Qualité du dégradé",
          "mg" : "Dégradé MIPS",
          "ng" : "Pas de dégradé"
+,
+
+         "_cg": "Écart de progression circulaire"
 
 
 

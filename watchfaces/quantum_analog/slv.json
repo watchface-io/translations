@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (nastavite spodaj)",
+        "_o5": "Vrednost časa po meri (bližnjica na dotik 6767)",
+
+        "_md1": "Oznaka datuma 1",
+        "_md2": "Oznaka datuma 2",
+
+
+                "_bd1": "Velikost velike pike številčnice",
+        "_bd2": "Velikost majhne pike številčnice",
+        "_dc1": "Barva velike pike številčnice",
+        "_dc2": "Barva majhne pike številčnice",
+
+        "_ps0": "Običajna številčnica",
+        "_ps1": "Poln napredek",
+        "_ps2": "Sekundne oznake kot napredek",
+
+        "_rainbow": "Mavričnih barv",
+        "_xmas": "Božičnih barv",
+
+        "_f9": "Napredek številčnice",
+        "_p9": "Slog napredka številčnice",
+
+        "_f1": "Zgornji podatki",
+        "_l1": "Zgornja oznaka",
+        "_p1": "Zgornji slog napredka",
+
+        "_f2": "Vrstica 1 Levi podatki",
+        "_l2": "Vrstica 1 Leva oznaka",
+        "_p2": "Vrstica 1 Levi slog napredka",
+
+        "_f3": "Vrstica 1 Sredinski podatki",
+        "_l3": "Vrstica 1 Sredinska oznaka",
+        "_p3": "Vrstica 1 Sredinski slog napredka",
+
+        "_f4": "Vrstica 1 Desni podatki",
+        "_l4": "Vrstica 1 Desna oznaka",
+        "_p4": "Vrstica 1 Desni slog napredka",
+
+        "_f5": "Vrstica 2 Levi podatki",
+        "_l5": "Vrstica 2 Leva oznaka",
+        "_p5": "Vrstica 2 Levi slog napredka",
+
+        "_f6": "Vrstica 2 Sredinski podatki",
+        "_l6": "Vrstica 2 Sredinska oznaka",
+        "_p6": "Vrstica 2 Sredinski slog napredka",
+
+        "_f7": "Vrstica 2 Desni podatki",
+        "_l7": "Vrstica 2 Desna oznaka",
+        "_p7": "Vrstica 2 Desni slog napredka",
+
+        "_f8": "Spodnji podatki",
+        "_l8": "Spodnja oznaka",
+        "_p8": "Spodnji slog napredka",
+
+        "_f20": "Podatki polja AOD",
+        "_l20": "Oznaka polja AOD",
+
+        "_hc1": "Barva ure 1",
+        "_hc2": "Barva ure 2",
+
+
+        "_mc1": "Barva minute 1",
+        "_mc2": "Barva minute 2",
+
+
+        "_dv1": "Barva ločevalca",
+
+
+
+        "_sbg" : "Kot barva ozadja",
+
+        "_m1": "Barva oznake 1",
+        "_m2": "Barva oznake 2",
+        
+        "_cp1": "Barva zgornjega napredka 1",
+        "_c21": "Barva zgornjega napredka 2",
+        "_cu1": "Barva neizpolnjenega zgornjega napredka",
+
+        "_cp2": "Barva spodnjega napredka 1",
+        "_c22": "Barva spodnjega napredka 2",
+        "_cu2": "Barva neizpolnjenega spodnjega napredka",
+
+        "_bgc": "Barva ozadja",
+        "_bgl": "Barva črt ozadja",
+        "_cs": "70% temnejše",
+        "_cpbs" : "Kot zgornja vrstica napredka",
+
+        "_stc" : "Kot barva besedila",
+        "_slc" : "Kot barva oznake",
+
+
+        "_c1": "Barva zgornjih podatkov",
+        "_c1l": "Barva zgornje oznake",
+
+        "_c2": "Barva podatkov vrstice 1",
+        "_c2l": "Barva oznake vrstice 1",
+
+        "_c3": "Barva podatkov vrstice 2",
+        "_c3l": "Barva oznake vrstice 2",
+
+        "_c4": "Barva spodnjih podatkov",
+        "_c4l": "Barva spodnje oznake",
+
+        "_c5": "Barva podatkov zgornjega napredka",
+        "_c5l": "Barva oznake zgornjega napredka",
+
+        "_c6": "Barva podatkov spodnjega napredka",
+        "_c6l": "Barva oznake spodnjega napredka",
+        "_x4": "Naloži prejšnjo prednastavitev",
+        "_x3": "Naloži prejšnjo barvno shemo",
+
+        "_pb1": "Barva izpolnjene vrstice napredka podatkov",
+        "_pb2": "Barva neizpolnjene vrstice napredka podatkov",
+
+        "_rst": "Ponastavi vse nastavitve",
+        "_tr": "👉 HITRE DOTIKALNE BLIŽNJICE",
+        "_tc": "🎨 BARVE / OZADJE",
+        "_tt": "🔤 PISAVE",
+        "_ta": "🖼️ NASTAVITVE AOD (Vedno na zaslonu)",
+        "_to": "💡 DRUGO",
+        "_tx": "➡️ ZAMIKI",
+
+        "_o1": "Zamiki časa (X Ura, Y Ura, X Minuta, Y Minuta) Privzeto: 20",
+        "_o2": "Zamiki polja X (Zgoraj, V1 levo, V1 sredina, V1 desno, V2 levo, V2 sredina, V2 desno, Spodaj) Privzeto: 20",
+        "_o3": "Zamiki polja Y (Zgoraj, V1 levo, V1 sredina, V1 desno, V2 levo, V2 sredina, V2 desno, Spodaj) Privzeto: 20",
+        "_o4": "Zamiki oznake Y (V1 levo, V1 sredina, V1 desno, V2 levo, V2 sredina, V2 desno) Privzeto: 20",
+        "_bdb": "Nariši ozadje številke (svetlejše minute, ure niso vidne zadaj)",
+
+        "_t1": "Pisava ure",
+        "_t1a": "Pisava ure AOD",
+        "_t1s": "Velikost pisave ure",
+
+
+        "_sah": "Kot ura",
+
+        "_t3": "Pisava besedila",
+        "_s1": "Velikost zgornje pisave besedila (Samo povečljive pisave)",
+        "_s2": "Velikost pisave vrstice 1",
+        "_s3": "Velikost pisave vrstice 2",
+        "_s4": "Velikost spodnje pisave",
+    
+        "_fo": "Oris (če je na voljo)",
+        "_fk": "Ohrani enako",
+        "_fks": "Ohrani enako, vključno z notranjim",
+
+
+        "_pc": "Barva besedila",
+        "_ic": "Barva oznake",      
+
+        "_gq": "Kakovost prehoda",
+        "_ng": "Brez prehoda",
+
+        "_0f" : "Prikaži napredek polja",
+        "_1f" : "Izpolnjeno",
+        "_2f" : "Prazno",
+        "_3f" : "Skrij",
+
+        "_x2": "Naloži naslednjo barvno shemo",
+        
+        "_a1": "Leva dotikalna bližnjica",
+        "_a2": "Sredinska dotikalna bližnjica",
+        "_a3": "Desna dotikalna bližnjica",
+
+        "_aas": "Vedno sekunde",
+        "_aod": "Način AOD (Vedno na zaslonu)",
+        "_aodct": "Barva odtenka časa AOD",
+        "_aodc": "Barva odtenka podatkov AOD",
+        "_aodT": "Svetlost časa AOD",
+        "_aodD": "Svetlost podatkov AOD (Če se zaslon izklopi med AOD, zmanjšajte to številko. Nižja številka = nižja poraba baterije, vendar manj svetlo. Glejte FAQ)",
+        "_aodS": "Zamik AOD (Število pikslov, za katere se zaslon naključno premakne na minuto, da prepreči izgorevanje)",
+        "ad0": "Izklopite zaslon",
+        "ad100": "Poln AOD (Privzeto)",
+        
+        "ad1": "Samo čas",
+        "ad3": "Samo čas - V gibanju",
+        "ad4": "Čas + podatkovno polje (Izberite spodaj)",
+        "ad6": "Čas v gibanju + podatkovno polje"
+    }
+}

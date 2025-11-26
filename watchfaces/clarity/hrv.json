@@ -181,6 +181,9 @@
          "_gq" : "Kvaliteta gradijenta",
          "mg" : "MIPS gradijent",
          "ng" : "Bez gradijenta"
+,
+
+         "_cg": "Circle progress gap"
 
 
 

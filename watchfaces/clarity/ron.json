@@ -177,5 +177,8 @@
          "_gq" : "Calitate gradient",
          "mg" : "Gradient MIPS",
          "ng" : "Fără gradient"
+,
+
+         "_cg": "Circle progress gap"
     }
 }

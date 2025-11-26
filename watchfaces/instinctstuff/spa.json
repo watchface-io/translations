@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (configurar abajo)",
+        "_o5": "Valor de tiempo personalizado (atajo táctil 6767)",
+
+        "_md1": "Marcador de fecha 1",
+        "_md2": "Marcador de fecha 2",
+
+
+                "_bd1": "Tamaño de punto grande del dial",
+        "_bd2": "Tamaño de punto pequeño del dial",
+        "_dc1": "Color de punto grande del dial",
+        "_dc2": "Color de punto pequeño del dial",
+
+        "_ps0": "Dial regular",
+        "_ps1": "Progreso completo",
+        "_ps2": "Marcas de segundos como progreso",
+
+        "_rainbow": "Colores del arcoíris",
+        "_xmas": "Colores navideños",
+
+        "_f9": "Progreso del dial",
+        "_p9": "Estilo de progreso del dial",
+
+        "_f1": "Datos superiores",
+        "_l1": "Etiqueta superior",
+        "_p1": "Estilo de progreso superior",
+
+        "_f2": "Fila 1 Datos izquierda",
+        "_l2": "Fila 1 Etiqueta izquierda",
+        "_p2": "Fila 1 Estilo de progreso izquierda",
+
+        "_f3": "Fila 1 Datos centro",
+        "_l3": "Fila 1 Etiqueta centro",
+        "_p3": "Fila 1 Estilo de progreso centro",
+
+        "_f4": "Fila 1 Datos derecha",
+        "_l4": "Fila 1 Etiqueta derecha",
+        "_p4": "Fila 1 Estilo de progreso derecha",
+
+        "_f5": "Fila 2 Datos izquierda",
+        "_l5": "Fila 2 Etiqueta izquierda",
+        "_p5": "Fila 2 Estilo de progreso izquierda",
+
+        "_f6": "Fila 2 Datos centro",
+        "_l6": "Fila 2 Etiqueta centro",
+        "_p6": "Fila 2 Estilo de progreso centro",
+
+        "_f7": "Fila 2 Datos derecha",
+        "_l7": "Fila 2 Etiqueta derecha",
+        "_p7": "Fila 2 Estilo de progreso derecha",
+
+        "_f8": "Datos inferiores",
+        "_l8": "Etiqueta inferior",
+        "_p8": "Estilo de progreso inferior",
+
+        "_f20": "Datos de campo AOD",
+        "_l20": "Etiqueta de campo AOD",
+
+        "_hc1": "Color de hora 1",
+        "_hc2": "Color de hora 2",
+
+
+        "_mc1": "Color de minuto 1",
+        "_mc2": "Color de minuto 2",
+
+
+        "_dv1": "Color de separador",
+
+
+
+        "_sbg" : "Como color de fondo",
+
+        "_m1": "Color de marcador 1",
+        "_m2": "Color de marcador 2",
+        
+        "_cp1": "Color de progreso superior 1",
+        "_c21": "Color de progreso superior 2",
+        "_cu1": "Color de progreso superior sin llenar",
+
+        "_cp2": "Color de progreso inferior 1",
+        "_c22": "Color de progreso inferior 2",
+        "_cu2": "Color de progreso inferior sin llenar",
+
+        "_bgc": "Color de fondo",
+        "_bgl": "Color de líneas de fondo",
+        "_cs": "70% más oscuro",
+        "_cpbs" : "Como barra de progreso superior",
+
+        "_stc" : "Como color de texto",
+        "_slc" : "Como color de etiqueta",
+
+
+        "_c1": "Color de datos superiores",
+        "_c1l": "Color de etiqueta superior",
+
+        "_c2": "Color de datos de fila 1",
+        "_c2l": "Color de etiqueta de fila 1",
+
+        "_c3": "Color de datos de fila 2",
+        "_c3l": "Color de etiqueta de fila 2",
+
+        "_c4": "Color de datos inferiores",
+        "_c4l": "Color de etiqueta inferior",
+
+        "_c5": "Color de datos de progreso superior",
+        "_c5l": "Color de etiqueta de progreso superior",
+
+        "_c6": "Color de datos de progreso inferior",
+        "_c6l": "Color de etiqueta de progreso inferior",
+        "_x4": "Cargar ajuste previo anterior",
+        "_x3": "Cargar tema de color anterior",
+
+        "_pb1": "Color de barra de progreso de datos llena",
+        "_pb2": "Color de barra de progreso de datos sin llenar",
+
+        "_rst": "Restablecer todas las configuraciones",
+        "_tr": "👉 ATAJOS TÁCTILES",
+        "_tc": "🎨 COLORES / FONDO",
+        "_tt": "🔤 FUENTES",
+        "_ta": "🖼️ CONFIGURACIÓN AOD (Siempre activo)",
+        "_to": "💡 OTROS",
+        "_tx": "➡️ DESPLAZAMIENTOS",
+
+        "_o1": "Desplazamientos de tiempo (X Hora, Y Hora, X Minuto, Y Minuto) Predeterminado: 20",
+        "_o2": "Desplazamientos de campo X (Superior, F1 izquierda, F1 centro, F1 derecha, F2 izquierda, F2 centro, F2 derecha, Inferior) Predeterminado: 20",
+        "_o3": "Desplazamientos de campo Y (Superior, F1 izquierda, F1 centro, F1 derecha, F2 izquierda, F2 centro, F2 derecha, Inferior) Predeterminado: 20",
+        "_o4": "Desplazamientos de etiqueta Y (F1 izquierda, F1 centro, F1 derecha, F2 izquierda, F2 centro, F2 derecha) Predeterminado: 20",
+        "_bdb": "Dibujar fondo de número (minutos más claros, las horas no son visibles en la parte posterior)",
+
+        "_t1": "Fuente de hora",
+        "_t1a": "Fuente de hora AOD",
+        "_t1s": "Tamaño de fuente de hora",
+
+
+        "_sah": "Como hora",
+
+        "_t3": "Fuente de texto",
+        "_s1": "Tamaño de fuente de texto superior (Solo fuentes escalables)",
+        "_s2": "Tamaño de fuente de fila 1",
+        "_s3": "Tamaño de fuente de fila 2",
+        "_s4": "Tamaño de fuente inferior",
+    
+        "_fo": "Contorno (si está disponible)",
+        "_fk": "Mantener igual",
+        "_fks": "Mantener igual, incluyendo interior",
+
+
+        "_pc": "Color de texto",
+        "_ic": "Color de etiqueta",      
+
+        "_gq": "Calidad de degradado",
+        "_ng": "Sin degradado",
+
+        "_0f" : "Mostrar progreso de campo",
+        "_1f" : "Lleno",
+        "_2f" : "Vacío",
+        "_3f" : "Ocultar",
+
+        "_x2": "Cargar siguiente tema de color",
+        
+        "_a1": "Atajo táctil izquierdo",
+        "_a2": "Atajo táctil central",
+        "_a3": "Atajo táctil derecho",
+
+        "_aas": "Siempre segundos",
+        "_aod": "Modo AOD (Siempre activo)",
+        "_aodct": "Color de tinte de tiempo AOD",
+        "_aodc": "Color de tinte de datos AOD",
+        "_aodT": "Brillo de tiempo AOD",
+        "_aodD": "Brillo de datos AOD (Si la pantalla se apaga durante AOD, disminuya este número. Número menor = menos consumo de batería, pero menos brillante. Vea FAQ)",
+        "_aodS": "Cambio AOD (Número de píxeles que la pantalla se mueve aleatoriamente por minuto para prevenir quemado)",
+        "ad0": "Apagar pantalla",
+        "ad100": "AOD completo (Predeterminado)",
+        
+        "ad1": "Solo tiempo",
+        "ad3": "Solo tiempo - En movimiento",
+        "ad4": "Tiempo + campo de datos (Seleccionar abajo)",
+        "ad6": "Tiempo en movimiento + campo de datos"
+    }
+}

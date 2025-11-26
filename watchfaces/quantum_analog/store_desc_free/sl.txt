@@ -1,0 +1,33 @@
+Pikselsko popoln retro digitalni številčnik. Prikazuje do 8 metrik športnih podatkov v realnem času z ostrimi oznakami, gladkimi vrsticami napredka, subtilnimi prehodi in podporo za več kot 100 Garmin podatkovnih polj. Ultra prijazen do baterije in popolnoma optimiziran za vse podprte naprave (vključno z Venu X1 in drugimi kvadratnimi zasloni).
+
+⭐️ Brezplačno vs PRO ⭐️
+Ta številčnik je na voljo brezplačno z vsemi osnovnimi funkcijami. Premium funkcije (označene z [*]) zahtevajo Pro ključ za odklepanje. Pro ključ lahko kupite tukaj: https://ko-fi.com/s/44de64b3d0 ali https://watchface.io/quantum_square, ali kupite PRO različico tukaj: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964.
+
+⭐️ MIP naprave (Fenix 7, Enduro, Forerunner 255 itd.) ⭐️
+Barve so lahko videti drugačne kot na večini slik, saj so posnete na Amoled napravi. Ta številčnik ima veliko tem, optimiziranih za MIP, in podpira MIP prehode. Vse vgrajene teme najdete tukaj: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Viri ⭐️
+* Pogosta vprašanja: https://watchface.io/faq
+* Priročnik: https://watchface.io/quantum_square/manual
+* Pridobite PRO ključ: https://ko-fi.com/s/44de64b3d0 ali https://watchface.io/quantum_square
+* PRO različica za odklepanje: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964
+* Seznam tem: https://watchface.io/quantum_square/themes
+* Vodnik po barvah: https://watchface.io/docs/color-list
+* Razpoložljiva podatkovna polja: https://watchface.io/docs/datafields
+
+⭐️ Konfiguracija ⭐️
+Opomba: Obstajata dve različni mesti z nastavitvami:
+* Aplikacija Garmin IQ (na telefonu pojdite na svojo napravo, številčnike, nastavitve): Konfigurirajte podatkovna polja, barve in splošne nastavitve.
+* Nastavitve na uri: Dostopajte do podrobnejših možnosti, kot so časovni format, cilji in enote neposredno na uri tako, da pridržite gumb menija, izberete številčnik in tapnete prilagodi.
+
+⭐️ Podatkovna polja ⭐️
+Na voljo so vsa podatkovna polja, ki jih Garmin trenutno zagotavlja razvijalcem tretjih oseb, ter dodatki, kot je podpora za Monitor glukoze (CGM), Open Weather Map (OWM) in podpora za druge aplikacije tretjih oseb.
+Vsa razpoložljiva podatkovna polja so navedena tukaj: https://watchface.io/docs/datafields. Nekatera podatkovna polja (kot je pripravljenost na trening ali HRV) trenutno niso na voljo razvijalcem tretjih oseb, glejte tukaj: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Ali lahko spremenim besedilo Fenix/Enduro itd.? ⭐️
+Da, lahko! Glejte tukaj: https://watchface.io/faq/how-to-change-the-fenix-text
+Pravzaprav je mogoče vse na tem številčniku prilagoditi vašim željam.
+
+*** Če naletite na napake ali težave, me prosim kontaktirajte s pritiskom na "Kontaktiraj razvijalca" namesto uporabe sistema recenzij. Na e-pošto lahko hitro odgovorim, medtem ko recenzij morda ne vidim več dni. ***
+
+* Dnevnik sprememb: https://watchface.io/quantum_square/changelog

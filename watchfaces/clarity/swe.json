@@ -181,6 +181,9 @@
          "_gq" : "Gradientkvalitet",
          "mg" : "MIPS-gradient",
          "ng" : "Ingen gradient"
+,
+
+         "_cg": "Cirkelförloppsgap"
 
 
 

@@ -181,6 +181,9 @@
          "_gq" : "Perėjimo kokybė",
          "mg" : "MIPS perėjimas",
          "ng" : "Be perėjimo"
+,
+
+         "_cg": "Circle progress gap"
 
 
 

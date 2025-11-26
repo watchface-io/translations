@@ -181,6 +181,9 @@
          "_gq" : "Kualitas Gradien",
          "mg" : "Gradien MIPS",
          "ng" : "Tanpa Gradien"
+,
+
+         "_cg": "Circle progress gap"
 
 
 

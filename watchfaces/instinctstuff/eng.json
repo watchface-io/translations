@@ -1,0 +1,40 @@
+{
+    "settings": {
+
+        "_t1": "Time Font",
+        "_t3": "Text Font",
+        "_t2": "Circle Font",
+
+        "_aas": "Always on seconds",
+        
+        "_bgc": "Background Color",
+        "_bcc": "Circle Background Color",
+
+        "l0" : "Black",
+        "l63" : "White",
+        
+        "_f1": "1. Top Data",
+        "_l1": "1. Top Label",
+        "_f2": "2. Field 2 Data",
+        "_l2": "2. Field 2 Label",
+        "_f3": "3. Field 3 Data",
+        "_l3": "3. Field 3 Label",
+        "_f4": "4. Field 4 Data",
+        "_l4": "4. Field 4 Label",
+        "_f5": "5. Field 5 Data",
+        "_l5": "5. Field 5 Label",
+        "_f6": "6. Field 6 (Left) Data",
+        "_l6": "6. Field 6 (Left) Label",
+        "_f7": "7. Field 7 (Right) Data",
+        "_l7": "7. Field 7 (Right) Label",
+        "_f8": "8. Bottom Data",
+        "_l8": "8. Bottom Label",
+ 
+
+       
+        "_u_24": "12/24h time",
+        "_u_wind": "Wind Unit"
+
+       
+    }
+}

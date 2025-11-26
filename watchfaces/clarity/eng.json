@@ -180,7 +180,9 @@
 
          "_gq" : "Gradient Quality",
          "mg" : "MIPS Gradient",
-         "ng" : "No Gradient"
+         "ng" : "No Gradient",
+
+         "_cg": "Circle progress gap"
 
 
 

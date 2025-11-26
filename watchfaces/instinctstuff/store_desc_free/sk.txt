@@ -1,0 +1,33 @@
+Pixel-dokonalý retro digitálny ciferník. Zobrazuje až 8 metrík športových dát v reálnom čase s ostrými značkami, plynulými ukazovateľmi priebehu, jemnými prechodmi a podporou pre viac ako 100 dátových polí Garmin. Ultra výkonný z hľadiska batérie a plne optimalizovaný pre každé podporované zariadenie (vrátane Venu X1 a ďalších štvorcových obrazoviek).
+
+⭐️ Zadarmo vs PRO ⭐️
+Tento ciferník je k dispozícii zadarmo so všetkými základnými funkciami. Prémiové funkcie (označené [*]) vyžadujú Pro kľúč na odomknutie. Pro kľúč si môžete zakúpiť tu: https://ko-fi.com/s/44de64b3d0 alebo https://watchface.io/quantum_square, alebo si zakúpiť PRO verziu tu: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964.
+
+⭐️ MIP zariadenia (Fenix 7, Enduro, Forerunner 255 atď.) ⭐️
+Farby môžu vyzerať inak ako na väčšine obrázkov, pretože sú zhotovené na Amoled zariadení. Tento ciferník má mnoho motívov optimalizovaných pre MIP a podporuje MIP prechody. Všetky vstavané motívy nájdete tu: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Zdroje ⭐️
+* Často kladené otázky: https://watchface.io/faq
+* Manuál: https://watchface.io/quantum_square/manual
+* Získajte PRO kľúč: https://ko-fi.com/s/44de64b3d0 alebo https://watchface.io/quantum_square
+* PRO odomknutá verzia: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964
+* Zoznam motívov: https://watchface.io/quantum_square/themes
+* Sprievodca farbami: https://watchface.io/docs/color-list
+* Dostupné dátové polia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurácia ⭐️
+Poznámka: Existujú dve rôzne miesta s nastaveniami:
+* Aplikácia Garmin IQ (na telefóne prejdite do zariadenia, ciferníkov, nastavení): Nakonfigurujte dátové polia, farby a všeobecné nastavenia.
+* Nastavenia na hodinkách: Prístup k podrobnejším možnostiam ako je formát času, ciele a jednotky priamo na hodinkách podržaním tlačidla ponuky, výberom ciferníka a klepnutím na prispôsobiť.
+
+⭐️ Dátové polia ⭐️
+K dispozícii sú všetky dátové polia, ktoré Garmin v súčasnosti poskytuje vývojárom tretích strán, plus extra ako podpora Monitora glukózy (CGM), Open Weather Map (OWM) a podpora pre ďalšie aplikácie tretích strán.
+Všetky dostupné dátové polia sú uvedené tu: https://watchface.io/docs/datafields. Niektoré dátové polia (ako tréningová pripravenosť alebo HRV) nie sú v súčasnosti dostupné pre vývojárov tretích strán, pozrite si tu: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Môžem zmeniť text Fenix/Enduro atď.? ⭐️
+Áno, môžete! Pozrite sa tu: https://watchface.io/faq/how-to-change-the-fenix-text
+V skutočnosti možno všetko na tomto ciferníku upraviť podľa vašich predstáv.
+
+*** Ak narazíte na nejaké chyby alebo problémy, kontaktujte ma prosím stlačením tlačidla "Kontaktovať vývojára" namiesto použitia systému recenzií. Na e-maily môžem reagovať rýchlo, zatiaľ čo recenzie nemusím vidieť niekoľko dní. ***
+
+* Denník zmien: https://watchface.io/quantum_square/changelog

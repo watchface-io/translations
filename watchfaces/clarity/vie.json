@@ -181,6 +181,9 @@
          "_gq" : "Chất lượng gradient",
          "mg" : "Gradient MIPS",
          "ng" : "Không gradient"
+,
+
+         "_cg": "Circle progress gap"
 
 
 

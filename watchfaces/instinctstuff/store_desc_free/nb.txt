@@ -1,0 +1,33 @@
+Pixel-perfekt retro digital urskive. Vis opptil 8 sanntids sportdatametrikker med skarpe markører, jevne fremdriftsstolper, subtile gradienter og støtte for 100+ Garmin datafelt. Ultra batterivennlig og fullt optimalisert for alle støttede enheter (inkludert Venu X1 og andre firkantede skjermer).
+
+⭐️ Gratis vs PRO ⭐️
+Denne urskiven er tilgjengelig uten kostnad med alle grunnleggende funksjoner. Premium-funksjoner (merket med [*]) krever en Pro-nøkkel for å låse opp. Du kan kjøpe en Pro-nøkkel her: https://ko-fi.com/s/44de64b3d0 eller https://watchface.io/quantum_square, eller kjøpe PRO-versjonen her: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964.
+
+⭐️ MIP-enheter (Fenix 7, Enduro, Forerunner 255, osv.) ⭐️
+Farger kan se annerledes ut enn på de fleste bildene, siden disse er tatt på en Amoled-enhet. Denne urskiven har mange temaer optimalisert for MIP og støtter MIP-gradienter. Du finner alle innebygde temaer her: https://watchface.io/quantum_square/themes#MIP
+
+⭐️ Ressurser ⭐️
+* Vanlige spørsmål: https://watchface.io/faq
+* Manual: https://watchface.io/quantum_square/manual
+* Få en PRO-nøkkel: https://ko-fi.com/s/44de64b3d0 eller https://watchface.io/quantum_square
+* PRO opplåsingsversjon: https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964
+* Temaliste: https://watchface.io/quantum_square/themes
+* Farveguide: https://watchface.io/docs/color-list
+* Tilgjengelige datafelt: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ-app (på telefonen din gå til enheten din, urskiver, innstillinger): Konfigurer datafelt, farger og generelle innstillinger.
+* Innstillinger på klokken: Få tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokken ved å holde inne menyknappen, velge urskive og trykke på tilpass.
+
+⭐️ Datafelt ⭐️
+Alle datafelt som Garmin for øyeblikket leverer til tredjepartsutviklere er tilgjengelige, pluss ekstra som Glukosemåler (CGM) støtte, Open Weather Map (OWM) og støtte for andre tredjepartsapper.
+Alle tilgjengelige datafelt er oppført her: https://watchface.io/docs/datafields. Noen datafelt (som treningsberedskap eller HRV) er for øyeblikket ikke tilgjengelige for tredjepartsutviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kan jeg endre Fenix/Enduro-teksten osv.? ⭐️
+Ja, det kan du! Se her: https://watchface.io/faq/how-to-change-the-fenix-text
+Faktisk kan alt på denne urskiven justeres etter dine ønsker.
+
+*** Hvis du støter på feil eller problemer, vennligst kontakt meg ved å trykke på "Kontakt utvikler" i stedet for å bruke anmeldelsessystemet. Jeg kan svare raskt på e-post, mens jeg kanskje ikke ser anmeldelser på flere dager. ***
+
+* Endringslogg: https://watchface.io/quantum_square/changelog

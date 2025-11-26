@@ -1,0 +1,179 @@
+{
+    "settings": {
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+        "_po": "Progress Bar Offset",
+        "_pl": "Progress Bar Length",
+        "_lz": "Hour first digit color (See FAQ)",
+        "_lz0": "Regular Hour colors",
+        "_lz1": "Different color for Leading zero (set below)",
+        "_lz2": "Different color for first digit (set below)",
+
+
+
+        "_f1": "Top Data",
+        "_l1": "Top Label",
+        "_p1": "Progress Bar Right",
+
+        "_f2": "Data 1",
+        "_l2": "Label 1",
+
+        "_f3": "Data 2",
+        "_l3": "Label 2",
+
+        "_f4": "Data 3",
+        "_l4": "Label 3",
+
+        "_f5": "Bottom Data",
+        "_l5": "Bottom Label",
+        "_p5": "Progress Bar Left Data",
+
+        "_t3": "Text Font",
+        "_s1": "Top Text Font Size",
+        "_s2": "Data Font size",
+        "_s3": "Bottom Text Font Size",
+
+        "_no" : "Show Notification Icon",
+        "_0f" : "Top Data Progress",
+        "_4f" : "Bottom Data Progress",
+        "_1f" : "Full",
+        "_2f" : "Empty",
+        "_3f" : "Hide",
+
+        "_nt": "BigSport Text (Not resizeable)",
+
+        "_t1": "Hour Font",
+        "_t1a": "Hour Font AOD",
+  
+        "_t2": "Minute Font",
+        "_t2a": "Minute Font AOD",
+
+
+        "_f20": "AOD Field Data Top",
+        "_l20": "AOD Field Data Bottom",
+
+        "_hc1": "Hour Color 1",
+        "_hc2": "Hour Color 2",
+        "_hc3": "Hour Color First Digit 1",
+        "_hc4": "Hour Color First Digit 2",
+
+        "_mc1": "Minute Color 1",
+        "_mc2": "Minute Color 2",
+
+        "_t24": "24h time",
+        "_t0": "Show AM/PM",
+        "_t30": "System Default",
+        "_t33": "Off",
+        "_t31": "Show on Top",
+        "_t32": "Show on Right",
+        
+        
+
+ 
+        "_fk": "Keep the same",
+
+        "_sah" : "Same as Hour Color 1/2",
+
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        "ad1": "Time Only",
+        "ad4": "Time + 2 data fields",
+
+        "ad2": "Time + date",
+        "ad5": "Time + date + 2 data fields",
+
+
+        "_m1": "Marker 1 Color",
+        "_m2": "Marker 2 Color",
+        
+        "_cp1": "Top Progress Color 1",
+        "_c21": "Top Progress Color 2",
+        "_cu1": "Top Progress Color Unfilled",
+
+        "_cp2": "Bottom Progress Color 1",
+        "_c22": "Bottom Progress Color 2",
+        "_cu2": "Bottom Progress Color Unfilled",
+
+        "_bgc": "Background Color",
+        "_bgl": "Background Lines Color",
+        "_cs": "70% Darker",
+        "_cpbs" : "Same as Top Progress Bar",
+
+        "_stc" : "Same as Text Color",
+        "_slc" : "Same as Label Color",
+
+
+        "_c1": "Top Field Data Color",
+        "_c1l": "Top Field Label Color",
+
+        "_c2": "Data 1 Color",
+        "_c2l": "Label 1 Color",
+
+        "_c3": "Data 2 Color",
+        "_c3l": "Label 2 Color",
+
+        "_c4": "Data 3 Color",
+        "_c4l": "Label 3 Color",
+
+        "_c5": "Bottom Data Color",
+        "_c5l": "Bottom Label Color",
+
+        "_c7": "Date Number Color",
+        "_c7l": "Date Day Color",
+        "_c8": "AM/PM Color",
+        "_c9": "Notification icon Color",
+
+
+
+        "_x4": "Load Previous Preset",
+        "_x3": "Load Previous Color Theme",
+
+        "_rst": "Reset all settings",
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+
+
+        "_o2": "Field X Offsets (Top, 1, 2, 3, Bottom) Default: 20",
+        "_o3": "Field Y Offsets (Top, 1, 2, 3, Bottom) Default: 20",
+        "_bdb": "Draw number background (sharper minutes, hours not visible behind)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Text color",
+        "_ic": "Label color",      
+
+        "_gq": "Gradient Quality",
+        "_ng": "No Gradient",
+
+     
+
+        "_x2": "Load Next Color Theme",
+        
+        "_a1": "Touch shortcut Hour Left",
+        "_a2": "Touch shortcut Hour Right",
+        "_a3": "Touch shortcut Minute Left",
+        "_a4": "Touch shortcut Minute Right",
+
+        "_aas": "Always on seconds",
+        "_aod": "AOD Mode (Always on Display)",
+        "_aodct": "AOD Time Tint Color",
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness (If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift (Number of pixels the screen randomly shifts per minute to prevent burn-in)"
+
+
+    }
+}

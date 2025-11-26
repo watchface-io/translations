@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (ustaw poniżej)",
+        "_o5": "Niestandardowa wartość czasu (skrót dotykowy 6767)",
+
+        "_md1": "Dane znacznika 1",
+        "_md2": "Dane znacznika 2",
+
+
+                "_bd1": "Rozmiar dużej kropki tarczy",
+        "_bd2": "Rozmiar małej kropki tarczy",
+        "_dc1": "Kolor dużej kropki tarczy",
+        "_dc2": "Kolor małej kropki tarczy",
+
+        "_ps0": "Zwykła tarcza",
+        "_ps1": "Pełny postęp",
+        "_ps2": "Znaki sekund jako postęp",
+
+        "_rainbow": "Kolory tęczy",
+        "_xmas": "Kolory świąteczne",
+
+        "_f9": "Postęp tarczy",
+        "_p9": "Styl postępu tarczy",
+
+        "_f1": "Dane górne",
+        "_l1": "Etykieta górna",
+        "_p1": "Styl postępu górnego",
+
+        "_f2": "Wiersz 1 Dane lewe",
+        "_l2": "Wiersz 1 Etykieta lewa",
+        "_p2": "Wiersz 1 Styl postępu lewego",
+
+        "_f3": "Wiersz 1 Dane środkowe",
+        "_l3": "Wiersz 1 Etykieta środkowa",
+        "_p3": "Wiersz 1 Styl postępu środkowego",
+
+        "_f4": "Wiersz 1 Dane prawe",
+        "_l4": "Wiersz 1 Etykieta prawa",
+        "_p4": "Wiersz 1 Styl postępu prawego",
+
+        "_f5": "Wiersz 2 Dane lewe",
+        "_l5": "Wiersz 2 Etykieta lewa",
+        "_p5": "Wiersz 2 Styl postępu lewego",
+
+        "_f6": "Wiersz 2 Dane środkowe",
+        "_l6": "Wiersz 2 Etykieta środkowa",
+        "_p6": "Wiersz 2 Styl postępu środkowego",
+
+        "_f7": "Wiersz 2 Dane prawe",
+        "_l7": "Wiersz 2 Etykieta prawa",
+        "_p7": "Wiersz 2 Styl postępu prawego",
+
+        "_f8": "Dane dolne",
+        "_l8": "Etykieta dolna",
+        "_p8": "Styl postępu dolnego",
+
+        "_f20": "Dane pola AOD",
+        "_l20": "Etykieta pola AOD",
+
+        "_hc1": "Kolor godziny 1",
+        "_hc2": "Kolor godziny 2",
+
+
+        "_mc1": "Kolor minuty 1",
+        "_mc2": "Kolor minuty 2",
+
+
+        "_dv1": "Kolor separatora",
+
+
+
+        "_sbg" : "Taki sam jak kolor tła",
+
+        "_m1": "Kolor znacznika 1",
+        "_m2": "Kolor znacznika 2",
+        
+        "_cp1": "Górny kolor postępu 1",
+        "_c21": "Górny kolor postępu 2",
+        "_cu1": "Górny kolor postępu niewypełniony",
+
+        "_cp2": "Dolny kolor postępu 1",
+        "_c22": "Dolny kolor postępu 2",
+        "_cu2": "Dolny kolor postępu niewypełniony",
+
+        "_bgc": "Kolor tła",
+        "_bgl": "Kolor linii tła",
+        "_cs": "70% ciemniejszy",
+        "_cpbs" : "Taki sam jak górny pasek postępu",
+
+        "_stc" : "Taki sam jak kolor tekstu",
+        "_slc" : "Taki sam jak kolor etykiety",
+
+
+        "_c1": "Górny kolor danych",
+        "_c1l": "Górny kolor etykiety",
+
+        "_c2": "Kolor danych wiersza 1",
+        "_c2l": "Kolor etykiety wiersza 1",
+
+        "_c3": "Kolor danych wiersza 2",
+        "_c3l": "Kolor etykiety wiersza 2",
+
+        "_c4": "Dolny kolor danych",
+        "_c4l": "Dolny kolor etykiety",
+
+        "_c5": "Górny kolor danych postępu",
+        "_c5l": "Górny kolor etykiety postępu",
+
+        "_c6": "Dolny kolor danych postępu",
+        "_c6l": "Dolny kolor etykiety postępu",
+        "_x4": "Załaduj poprzednie ustawienie",
+        "_x3": "Załaduj poprzedni motyw kolorów",
+
+        "_pb1": "Kolor paska postępu danych wypełniony",
+        "_pb2": "Kolor paska postępu danych niewypełniony",
+
+        "_rst": "Resetuj wszystkie ustawienia",
+        "_tr": "👉 SKRÓTY DOTYKOWE",
+        "_tc": "🎨 KOLORY / TŁO",
+        "_tt": "🔤 CZCIONKI",
+        "_ta": "🖼️ USTAWIENIA AOD (Ekran zawsze włączony)",
+        "_to": "💡 INNE",
+        "_tx": "➡️ PRZESUNIĘCIA",
+
+        "_o1": "Przesunięcia czasu (X Godzina, Y Godzina, X Minuta, Y Minuta) Domyślnie: 20",
+        "_o2": "Przesunięcia pola X (Góra, W1 lewo, W1 środek, W1 prawo, W2 lewo, W2 środek, W2 prawo, Dół) Domyślnie: 20",
+        "_o3": "Przesunięcia pola Y (Góra, W1 lewo, W1 środek, W1 prawo, W2 lewo, W2 środek, W2 prawo, Dół) Domyślnie: 20",
+        "_o4": "Przesunięcia etykiety Y (W1 lewo, W1 środek, W1 prawo, W2 lewo, W2 środek, W2 prawo) Domyślnie: 20",
+        "_bdb": "Rysuj tło liczby (ostrzejsze minuty, godziny niewidoczne z tyłu)",
+
+        "_t1": "Czcionka czasu",
+        "_t1a": "Czcionka czasu AOD",
+        "_t1s": "Rozmiar czcionki czasu",
+
+
+        "_sah": "Taki sam jak godzina",
+
+        "_t3": "Czcionka tekstu",
+        "_s1": "Górny rozmiar czcionki tekstu (Tylko czcionki o zmiennym rozmiarze)",
+        "_s2": "Rozmiar czcionki wiersza 1",
+        "_s3": "Rozmiar czcionki wiersza 2",
+        "_s4": "Dolny rozmiar czcionki",
+    
+        "_fo": "Obrysowana (jeśli dostępna)",
+        "_fk": "Zachowaj tę samą",
+        "_fks": "Zachowaj tę samą, łącznie z wewnętrzną",
+
+
+        "_pc": "Kolor tekstu",
+        "_ic": "Kolor etykiety",      
+
+        "_gq": "Jakość gradientu",
+        "_ng": "Bez gradientu",
+
+        "_0f" : "Pokaż postęp pola",
+        "_1f" : "Pełny",
+        "_2f" : "Pusty",
+        "_3f" : "Ukryj",
+
+        "_x2": "Załaduj następny motyw kolorów",
+        
+        "_a1": "Skrót dotykowy lewo",
+        "_a2": "Skrót dotykowy środek",
+        "_a3": "Skrót dotykowy prawo",
+
+        "_aas": "Zawsze sekundy",
+        "_aod": "Tryb AOD (Ekran zawsze włączony)",
+        "_aodct": "Kolor odcienia czasu AOD",
+        "_aodc": "Kolor odcienia danych AOD",
+        "_aodT": "Jasność czasu AOD",
+        "_aodD": "Jasność danych AOD (Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Mniejsza liczba = mniejsze zużycie baterii, ale mniej jasny. Zobacz FAQ)",
+        "_aodS": "Przesunięcie AOD (Liczba pikseli, o które ekran losowo przesuwa się na minutę, aby zapobiec wypaleniu)",
+        "ad0": "Wyłącz ekran",
+        "ad100": "Pełny AOD (Domyślnie)",
+        
+        "ad1": "Tylko czas",
+        "ad3": "Tylko czas - Ruchomy",
+        "ad4": "Czas + pole danych (Wybierz poniżej)",
+        "ad6": "Ruchomy czas + pole danych"
+    }
+}

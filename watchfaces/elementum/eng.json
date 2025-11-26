@@ -7,7 +7,7 @@
             "_bgs": "Bezel (outer rim) style",
             "_presa": "Pressure Arrow data ( -*- First part of arrow | Last part of arrow)",
             "_presd": "Pressure difference to show up or down",
-            "_presu": "Pressue update frequency",
+            "_presu": "Pressure update frequency",
             "_batt": "Battery Icon",
             "_alarm": "Alarm Icon",
             "_touch": "Enable Touch (touch = hold 3 seconds)",

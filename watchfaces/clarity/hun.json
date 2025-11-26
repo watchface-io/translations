@@ -181,6 +181,9 @@
          "_gq" : "Gradiens minőség",
          "mg" : "MIPS gradiens",
          "ng" : "Nincs gradiens"
+,
+
+         "_cg": "Kör haladási rés"
 
 
 

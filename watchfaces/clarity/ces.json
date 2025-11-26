@@ -181,6 +181,9 @@
          "_gq" : "Kvalita přechodu",
          "mg" : "MIPS přechod",
          "ng" : "Bez přechodu"
+,
+
+         "_cg": "Mezera pokroku kruhu"
 
 
 

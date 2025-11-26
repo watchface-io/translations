@@ -181,6 +181,9 @@
          "_gq" : "Kakovost prehoda",
          "mg" : "MIPS prehod",
          "ng" : "Brez prehoda"
+,
+
+         "_cg": "Circle progress gap"
 
 
 

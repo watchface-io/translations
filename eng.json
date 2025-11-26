@@ -204,7 +204,7 @@
 
         "f613" : "Sunrise (from Garmin)",
         "f614" : "Sunset (from Garmin)",
-        "f700" : "Sun Event",
+        "f700" : "Next Sun Event (Sunset/rise)",
         "f731" : "Time Until Next Sun Event",
         "f706" : "Moon Age",
         "f732" : "Moon Illumination (%)",
@@ -831,7 +831,23 @@
         "o23": "DATE",
         "o24": "ALT1",
         "o25": "ALT2",
-        "o26": "UTC"
+        "o26": "UTC",
+
+        "w1" : "Sunday",
+        "w2" : "Monday", 
+        "w3" : "Tuesday",
+        "w4" : "Wednesday",
+        "w5" : "Thursday",
+        "w6" : "Friday",
+        "w7" : "Saturday",
+
+        "w11": "Sun",
+        "w12": "Mon",
+        "w13": "Tue",
+        "w14": "Wed",
+        "w15": "Thu",
+        "w16": "Fri",
+        "w17": "Sat"
         
 
     }

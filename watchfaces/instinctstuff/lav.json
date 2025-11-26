@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (iestatīt zemāk)",
+        "_o5": "Pielāgota laika vērtība (6767 pieskāriena saīsne)",
+
+        "_md1": "Marķiera 1 dati",
+        "_md2": "Marķiera 2 dati",
+
+
+                "_bd1": "Ciparnīcas lielā punkta izmērs",
+        "_bd2": "Ciparnīcas mazā punkta izmērs",
+        "_dc1": "Ciparnīcas lielā punkta krāsa",
+        "_dc2": "Ciparnīcas mazā punkta krāsa",
+
+        "_ps0": "Parastā ciparnīca",
+        "_ps1": "Pilns progress",
+        "_ps2": "Sekunžu atzīmes kā progress",
+
+        "_rainbow": "Varavīksnes krāsas",
+        "_xmas": "Ziemassvētku krāsas",
+
+        "_f9": "Ciparnīcas progress",
+        "_p9": "Ciparnīcas progresa stils",
+
+        "_f1": "Augšējie dati",
+        "_l1": "Augšējais etiķete",
+        "_p1": "Augšējais progresa stils",
+
+        "_f2": "1. rinda Kreisie dati",
+        "_l2": "1. rinda Kreisā etiķete",
+        "_p2": "1. rinda Kreisais progresa stils",
+
+        "_f3": "1. rinda Vidējie dati",
+        "_l3": "1. rinda Vidējā etiķete",
+        "_p3": "1. rinda Vidējais progresa stils",
+
+        "_f4": "1. rinda Labie dati",
+        "_l4": "1. rinda Labā etiķete",
+        "_p4": "1. rinda Labais progresa stils",
+
+        "_f5": "2. rinda Kreisie dati",
+        "_l5": "2. rinda Kreisā etiķete",
+        "_p5": "2. rinda Kreisais progresa stils",
+
+        "_f6": "2. rinda Vidējie dati",
+        "_l6": "2. rinda Vidējā etiķete",
+        "_p6": "2. rinda Vidējais progresa stils",
+
+        "_f7": "2. rinda Labie dati",
+        "_l7": "2. rinda Labā etiķete",
+        "_p7": "2. rinda Labais progresa stils",
+
+        "_f8": "Apakšējie dati",
+        "_l8": "Apakšējā etiķete",
+        "_p8": "Apakšējais progresa stils",
+
+        "_f20": "AOD lauka dati",
+        "_l20": "AOD lauka etiķete",
+
+        "_hc1": "Stundas krāsa 1",
+        "_hc2": "Stundas krāsa 2",
+
+
+        "_mc1": "Minūtes krāsa 1",
+        "_mc2": "Minūtes krāsa 2",
+
+
+        "_dv1": "Dalītāja krāsa",
+
+
+
+        "_sbg" : "Tāda pati kā fona krāsa",
+
+        "_m1": "Marķiera 1 krāsa",
+        "_m2": "Marķiera 2 krāsa",
+        
+        "_cp1": "Augšējā progresa krāsa 1",
+        "_c21": "Augšējā progresa krāsa 2",
+        "_cu1": "Augšējā progresa krāsa neaizpildīta",
+
+        "_cp2": "Apakšējā progresa krāsa 1",
+        "_c22": "Apakšējā progresa krāsa 2",
+        "_cu2": "Apakšējā progresa krāsa neaizpildīta",
+
+        "_bgc": "Fona krāsa",
+        "_bgl": "Fona līniju krāsa",
+        "_cs": "70% tumšāka",
+        "_cpbs" : "Tāda pati kā augšējā progresa josla",
+
+        "_stc" : "Tāda pati kā teksta krāsa",
+        "_slc" : "Tāda pati kā etiķetes krāsa",
+
+
+        "_c1": "Augšējo datu krāsa",
+        "_c1l": "Augšējās etiķetes krāsa",
+
+        "_c2": "1. rindas datu krāsa",
+        "_c2l": "1. rindas etiķetes krāsa",
+
+        "_c3": "2. rindas datu krāsa",
+        "_c3l": "2. rindas etiķetes krāsa",
+
+        "_c4": "Apakšējo datu krāsa",
+        "_c4l": "Apakšējās etiķetes krāsa",
+
+        "_c5": "Augšējā progresa datu krāsa",
+        "_c5l": "Augšējā progresa etiķetes krāsa",
+
+        "_c6": "Apakšējā progresa datu krāsa",
+        "_c6l": "Apakšējā progresa etiķetes krāsa",
+        "_x4": "Ielādēt iepriekšējo iestatījumu",
+        "_x3": "Ielādēt iepriekšējo krāsu tēmu",
+
+        "_pb1": "Datu progresa joslas krāsa aizpildīta",
+        "_pb2": "Datu progresa joslas krāsa neaizpildīta",
+
+        "_rst": "Atiestatīt visus iestatījumus",
+        "_tr": "👉 PIESKĀRIENU SAĪSNES",
+        "_tc": "🎨 KRĀSAS / FONS",
+        "_tt": "🔤 FONTI",
+        "_ta": "🖼️ AOD IESTATĪJUMI (Vienmēr ieslēgts displejs)",
+        "_to": "💡 CITI",
+        "_tx": "➡️ NOBĪDES",
+
+        "_o1": "Laika nobīdes (X Stunda, Y Stunda, X Minūte, Y Minūte) Noklusējums: 20",
+        "_o2": "Lauka X nobīdes (Augšā, R1 kreisais, R1 vidus, R1 labais, R2 kreisais, R2 vidus, R2 labais, Apakšā) Noklusējums: 20",
+        "_o3": "Lauka Y nobīdes (Augšā, R1 kreisais, R1 vidus, R1 labais, R2 kreisais, R2 vidus, R2 labais, Apakšā) Noklusējums: 20",
+        "_o4": "Etiķetes Y nobīdes (R1 kreisais, R1 vidus, R1 labais, R2 kreisais, R2 vidus, R2 labais) Noklusējums: 20",
+        "_bdb": "Zīmēt skaitļa fonu (asākas minūtes, stundas nav redzamas aizmugurē)",
+
+        "_t1": "Laika fonts",
+        "_t1a": "Laika fonts AOD",
+        "_t1s": "Laika fonta izmērs",
+
+
+        "_sah": "Tāds pats kā stunda",
+
+        "_t3": "Teksta fonts",
+        "_s1": "Augšējā teksta fonta izmērs (Tikai mērogojami fonti)",
+        "_s2": "1. rindas fonta izmērs",
+        "_s3": "2. rindas fonta izmērs",
+        "_s4": "Apakšējais fonta izmērs",
+    
+        "_fo": "Kontūrlīnija (ja pieejama)",
+        "_fk": "Saglabāt to pašu",
+        "_fks": "Saglabāt to pašu, ieskaitot iekšējo",
+
+
+        "_pc": "Teksta krāsa",
+        "_ic": "Etiķetes krāsa",      
+
+        "_gq": "Gradientu kvalitāte",
+        "_ng": "Nav gradientu",
+
+        "_0f" : "Rādīt lauka progresu",
+        "_1f" : "Pilns",
+        "_2f" : "Tukšs",
+        "_3f" : "Slēpt",
+
+        "_x2": "Ielādēt nākamo krāsu tēmu",
+        
+        "_a1": "Pieskārienu saīsne kreisais",
+        "_a2": "Pieskārienu saīsne vidus",
+        "_a3": "Pieskārienu saīsne labais",
+
+        "_aas": "Vienmēr sekundes",
+        "_aod": "AOD režīms (Vienmēr ieslēgts displejs)",
+        "_aodct": "AOD laika toņa krāsa",
+        "_aodc": "AOD datu toņa krāsa",
+        "_aodT": "AOD laika spilgtums",
+        "_aodD": "AOD datu spilgtums (Ja ekrāns izslēdzas AOD laikā, samaziniet šo skaitli. Mazāks skaitlis = mazāks akumulatora patēriņš, bet mazāks spilgtums. Skatīt BUJ)",
+        "_aodS": "AOD nobīde (Pikseļu skaits, par kuru ekrāns nejauši pārvietojas minūtē, lai novērstu iedegsanas)",
+        "ad0": "Izslēgt ekrānu",
+        "ad100": "Pilns AOD (Noklusējums)",
+        
+        "ad1": "Tikai laiks",
+        "ad3": "Tikai laiks - Kustoties",
+        "ad4": "Laiks + datu lauks (Izvēlieties zemāk)",
+        "ad6": "Kustoties laiks + datu lauks"
+    }
+}

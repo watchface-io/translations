@@ -1,0 +1,33 @@
+像素完美的復古數位錶盤。顯示多達8個即時運動數據指標，配有清晰的標記、流暢的進度條、細微的漸變以及對100多個Garmin數據欄位的支援。超級省電，並針對每個受支援的裝置進行了完全優化(包括Venu X1和其他方形螢幕)。
+
+⭐️ 免費 vs PRO ⭐️
+此錶盤免費提供所有基本功能。進階功能(標有[*])需要Pro金鑰才能解鎖。您可以在這裡購買Pro金鑰:https://ko-fi.com/s/44de64b3d0 或 https://watchface.io/quantum_square，或在這裡購買PRO版本:https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964。
+
+⭐️ MIP裝置(Fenix 7、Enduro、Forerunner 255等) ⭐️
+顏色可能看起來與大多數圖片不同，因為這些圖片是在Amoled裝置上拍攝的。此錶盤有許多針對MIP優化的主題，並支援MIP漸變。您可以在這裡找到所有內建主題:https://watchface.io/quantum_square/themes#MIP
+
+⭐️ 資源 ⭐️
+* 常見問題:https://watchface.io/faq
+* 手冊:https://watchface.io/quantum_square/manual
+* 獲取PRO金鑰:https://ko-fi.com/s/44de64b3d0 或 https://watchface.io/quantum_square
+* PRO解鎖版本:https://apps.garmin.com/apps/6769ab8f-5232-48d0-808c-d266f698e964
+* 主題列表:https://watchface.io/quantum_square/themes
+* 顏色指南:https://watchface.io/docs/color-list
+* 可用數據欄位:https://watchface.io/docs/datafields
+
+⭐️ 配置 ⭐️
+注意:有兩個不同的設定位置:
+* Garmin IQ應用程式(在您的手機上，轉到您的裝置、錶盤、設定):配置數據欄位、顏色和常規設定。
+* 手錶上的設定:透過長按選單按鈕、選擇錶盤並點擊自訂，直接在手錶上存取更詳細的選項，如時間格式、目標和單位。
+
+⭐️ 數據欄位 ⭐️
+Garmin目前向第三方開發者提供的所有數據欄位都可用，外加額外功能，如血糖監測器(CGM)支援、Open Weather Map(OWM)以及對其他第三方應用程式的支援。
+所有可用的數據欄位都列在這裡:https://watchface.io/docs/datafields。某些數據欄位(如訓練準備度或HRV)目前不向第三方開發者提供，請參見此處:https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ 我可以更改Fenix/Enduro文字等嗎? ⭐️
+是的，您可以!請參見此處:https://watchface.io/faq/how-to-change-the-fenix-text
+事實上，此錶盤上的所有內容都可以根據您的喜好進行調整。
+
+*** 如果您遇到任何錯誤或問題，請透過按「聯絡開發者」與我聯絡，而不是使用評論系統。我可以快速回覆電子郵件，而我可能幾天都看不到評論。 ***
+
+* 更新日誌:https://watchface.io/quantum_square/changelog

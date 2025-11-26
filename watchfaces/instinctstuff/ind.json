@@ -1,0 +1,182 @@
+{
+    "settings": {
+
+        "_s67": "67 67 (atur di bawah)",
+        "_o5": "Nilai Waktu Kustom (pintasan sentuh 6767)",
+
+        "_md1": "Data Penanda 1",
+        "_md2": "Data Penanda 2",
+
+
+                "_bd1": "Ukuran Titik Besar Dial",
+        "_bd2": "Ukuran Titik Kecil Dial",
+        "_dc1": "Warna Titik Besar Dial",
+        "_dc2": "Warna Titik Kecil Dial",
+
+        "_ps0": "Dial Reguler",
+        "_ps1": "Kemajuan Penuh",
+        "_ps2": "Tanda Detik sebagai Kemajuan",
+
+        "_rainbow": "Warna Pelangi",
+        "_xmas": "Warna Natal",
+
+        "_f9": "Kemajuan Dial",
+        "_p9": "Gaya Kemajuan Dial",
+
+        "_f1": "Data Atas",
+        "_l1": "Label Atas",
+        "_p1": "Gaya Kemajuan Atas",
+
+        "_f2": "Baris 1 Data Kiri",
+        "_l2": "Baris 1 Label Kiri",
+        "_p2": "Baris 1 Gaya Kemajuan Kiri",
+
+        "_f3": "Baris 1 Data Tengah",
+        "_l3": "Baris 1 Label Tengah",
+        "_p3": "Baris 1 Gaya Kemajuan Tengah",
+
+        "_f4": "Baris 1 Data Kanan",
+        "_l4": "Baris 1 Label Kanan",
+        "_p4": "Baris 1 Gaya Kemajuan Kanan",
+
+        "_f5": "Baris 2 Data Kiri",
+        "_l5": "Baris 2 Label Kiri",
+        "_p5": "Baris 2 Gaya Kemajuan Kiri",
+
+        "_f6": "Baris 2 Data Tengah",
+        "_l6": "Baris 2 Label Tengah",
+        "_p6": "Baris 2 Gaya Kemajuan Tengah",
+
+        "_f7": "Baris 2 Data Kanan",
+        "_l7": "Baris 2 Label Kanan",
+        "_p7": "Baris 2 Gaya Kemajuan Kanan",
+
+        "_f8": "Data Bawah",
+        "_l8": "Label Bawah",
+        "_p8": "Gaya Kemajuan Bawah",
+
+        "_f20": "Data Bidang AOD",
+        "_l20": "Label Bidang AOD",
+
+        "_hc1": "Warna Jam 1",
+        "_hc2": "Warna Jam 2",
+
+
+        "_mc1": "Warna Menit 1",
+        "_mc2": "Warna Menit 2",
+
+
+        "_dv1": "Warna Pembatas",
+
+
+
+        "_sbg" : "Sama dengan Warna Latar Belakang",
+
+        "_m1": "Warna Penanda 1",
+        "_m2": "Warna Penanda 2",
+        
+        "_cp1": "Warna Kemajuan Atas 1",
+        "_c21": "Warna Kemajuan Atas 2",
+        "_cu1": "Warna Kemajuan Atas Tidak Terisi",
+
+        "_cp2": "Warna Kemajuan Bawah 1",
+        "_c22": "Warna Kemajuan Bawah 2",
+        "_cu2": "Warna Kemajuan Bawah Tidak Terisi",
+
+        "_bgc": "Warna Latar Belakang",
+        "_bgl": "Warna Garis Latar Belakang",
+        "_cs": "70% Lebih Gelap",
+        "_cpbs" : "Sama dengan Bilah Kemajuan Atas",
+
+        "_stc" : "Sama dengan Warna Teks",
+        "_slc" : "Sama dengan Warna Label",
+
+
+        "_c1": "Warna Data Atas",
+        "_c1l": "Warna Label Atas",
+
+        "_c2": "Warna Data Baris 1",
+        "_c2l": "Warna Label Baris 1",
+
+        "_c3": "Warna Data Baris 2",
+        "_c3l": "Warna Label Baris 2",
+
+        "_c4": "Warna Data Bawah",
+        "_c4l": "Warna Label Bawah",
+
+        "_c5": "Warna Data Kemajuan Atas",
+        "_c5l": "Warna Label Kemajuan Atas",
+
+        "_c6": "Warna Data Kemajuan Bawah",
+        "_c6l": "Warna Label Kemajuan Bawah",
+        "_x4": "Muat Preset Sebelumnya",
+        "_x3": "Muat Tema Warna Sebelumnya",
+
+        "_pb1": "Warna bilah kemajuan data terisi",
+        "_pb2": "Warna bilah kemajuan data tidak terisi",
+
+        "_rst": "Reset semua pengaturan",
+        "_tr": "👉 PINTASAN SENTUH",
+        "_tc": "🎨 WARNA / LATAR BELAKANG",
+        "_tt": "🔤 FONT",
+        "_ta": "🖼️ PENGATURAN AOD (Layar Selalu Aktif)",
+        "_to": "💡 LAINNYA",
+        "_tx": "➡️ OFFSET",
+
+        "_o1": "Offset Waktu (X Jam, Y Jam, X Menit, Y Menit) Default: 20",
+        "_o2": "Offset Bidang X (Atas, B1 Kiri, B1 Tengah, B1 Kanan, B2 Kiri, B2 Tengah, B2 Kanan, Bawah) Default: 20",
+        "_o3": "Offset Bidang Y (Atas, B1 Kiri, B1 Tengah, B1 Kanan, B2 Kiri, B2 Tengah, B2 Kanan, Bawah) Default: 20",
+        "_o4": "Offset Label Y (B1 Kiri, B1 Tengah, B1 Kanan, B2 Kiri, B2 Tengah, B2 Kanan) Default: 20",
+        "_bdb": "Gambar latar belakang angka (menit lebih tajam, jam tidak terlihat di belakang)",
+
+        "_t1": "Font Waktu",
+        "_t1a": "Font Waktu AOD",
+        "_t1s": "Ukuran Font Waktu",
+
+
+        "_sah": "Sama dengan Jam",
+
+        "_t3": "Font Teks",
+        "_s1": "Ukuran Font Teks Atas (Hanya font yang dapat diubah ukurannya)",
+        "_s2": "Ukuran Font Baris 1",
+        "_s3": "Ukuran Font Baris 2",
+        "_s4": "Ukuran Font Bawah",
+    
+        "_fo": "Digarisbawahi (Jika tersedia)",
+        "_fk": "Pertahankan yang sama",
+        "_fks": "Pertahankan yang sama, termasuk Dalam",
+
+
+        "_pc": "Warna teks",
+        "_ic": "Warna label",      
+
+        "_gq": "Kualitas Gradien",
+        "_ng": "Tanpa Gradien",
+
+        "_0f" : "Tampilkan Kemajuan Bidang",
+        "_1f" : "Penuh",
+        "_2f" : "Kosong",
+        "_3f" : "Sembunyikan",
+
+        "_x2": "Muat Tema Warna Berikutnya",
+        
+        "_a1": "Pintasan sentuh Kiri",
+        "_a2": "Pintasan sentuh Tengah",
+        "_a3": "Pintasan sentuh Kanan",
+
+        "_aas": "Selalu tampilkan detik",
+        "_aod": "Mode AOD (Layar Selalu Aktif)",
+        "_aodct": "Warna Tint Waktu AOD",
+        "_aodc": "Warna Tint Data AOD",
+        "_aodT": "Kecerahan Waktu AOD",
+        "_aodD": "Kecerahan Data AOD (Jika layar mati selama AOD, buat angka ini lebih kecil. Angka lebih kecil = penggunaan baterai lebih sedikit tetapi kurang cerah. Lihat FAQ)",
+        "_aodS": "Pergeseran AOD (Jumlah piksel layar bergeser secara acak per menit untuk mencegah burn-in)",
+        "ad0": "Matikan Layar",
+        "ad100": "AOD Penuh (Default)",
+        
+        "ad1": "Hanya Waktu",
+        "ad3": "Hanya Waktu - Bergerak",
+        "ad4": "Waktu + bidang data (Pilih di bawah)",
+        "ad6": "Waktu Bergerak + bidang data"
+    }
+}
