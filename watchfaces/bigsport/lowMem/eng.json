@@ -34,6 +34,9 @@
 
        
         "_u_24": "12/24h time",
-        "_u_wind": "Wind Unit"
+        "_u_wind": "Wind Unit",
+
+        "_ed": "English Day",
+        "_f6": "Day Display data"
     }
 }

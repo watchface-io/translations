@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Đánh dấu 1 Dữ liệu",
+        "_md2": "Đánh dấu 2 Dữ liệu",
+
+        "_po": "Độ lệch thanh tiến trình",
+        "_pl": "Độ dài thanh tiến trình",
+        "_lz": "Màu chữ số đầu tiên của giờ (Xem FAQ)",
+        "_lz0": "Màu giờ bình thường",
+        "_lz1": "Màu khác cho số không đứng đầu (đặt bên dưới)",
+        "_lz2": "Màu khác cho chữ số đầu tiên (đặt bên dưới)",
+
+
+        "_ed": "Ngày bằng tiếng Anh",
+        "_f6": "Dữ liệu hiển thị ngày",
+
+
+
+        "_f1": "Dữ liệu trên",
+        "_l1": "Nhãn trên",
+        "_p1": "Thanh tiến trình phải",
+
+        "_f2": "Dữ liệu 1",
+        "_l2": "Nhãn 1",
+
+        "_f3": "Dữ liệu 2",
+        "_l3": "Nhãn 2",
+
+        "_f4": "Dữ liệu 3",
+        "_l4": "Nhãn 3",
+
+        "_f5": "Dữ liệu dưới",
+        "_l5": "Nhãn dưới",
+        "_p5": "Thanh tiến trình trái dữ liệu",
+
+        "_t3": "Phông chữ văn bản",
+        "_s1": "Cỡ phông văn bản trên",
+        "_s2": "Cỡ phông dữ liệu",
+        "_s3": "Cỡ phông văn bản dưới",
+        "_s4": "Cỡ phông hiển thị ngày (khi ghi đè)",
+
+        "_no" : "Hiển thị biểu tượng thông báo",
+        "_0f" : "Tiến trình dữ liệu trên",
+        "_4f" : "Tiến trình dữ liệu dưới",
+        "_1f" : "Đầy",
+        "_2f" : "Trống",
+        "_3f" : "Ẩn",
+
+        "_nt": "BigSport Văn bản (Không thể thay đổi kích thước)",
+
+        "_t1": "Phông giờ",
+        "_t1a": "Phông giờ AOD",
+  
+        "_t2": "Phông phút",
+        "_t2a": "Phông phút AOD",
+
+
+        "_f20": "AOD Dữ liệu trường trên",
+        "_l20": "AOD Dữ liệu trường dưới",
+
+        "_hc1": "Màu giờ 1",
+        "_hc2": "Màu giờ 2",
+        "_hc3": "Màu chữ số đầu tiên giờ 1",
+        "_hc4": "Màu chữ số đầu tiên giờ 2",
+
+        "_mc1": "Màu phút 1",
+        "_mc2": "Màu phút 2",
+
+        "_t24": "Thời gian 24 giờ",
+        "_t0": "Hiển thị AM/PM",
+        "_t30": "Mặc định hệ thống",
+        "_t33": "Tắt",
+        "_t31": "Hiển thị ở trên",
+        "_t32": "Hiển thị bên phải",
+        
+        
+
+ 
+        "_fk": "Giữ nguyên",
+
+        "_sah" : "Giống như Màu giờ 1/2",
+
+        "ad0": "TẮT màn hình",
+        "ad100": "AOD Đầy đủ (Mặc định)",
+        "ad1": "Chỉ thời gian",
+        "ad4": "Thời gian + 2 trường dữ liệu",
+
+        "ad2": "Thời gian + ngày",
+        "ad5": "Thời gian + ngày + 2 trường dữ liệu",
+
+
+        "_m1": "Đánh dấu 1 Màu",
+        "_m2": "Đánh dấu 2 Màu",
+        
+        "_cp1": "Màu tiến trình trên 1",
+        "_c21": "Màu tiến trình trên 2",
+        "_cu1": "Màu tiến trình trên chưa điền",
+
+        "_cp2": "Màu tiến trình dưới 1",
+        "_c22": "Màu tiến trình dưới 2",
+        "_cu2": "Màu tiến trình dưới chưa điền",
+
+        "_bgc": "Màu nền",
+        "_bgl": "Màu đường nền",
+        "_cs": "Tối hơn 70%",
+        "_cpbs" : "Giống như thanh tiến trình trên",
+
+        "_stc" : "Giống như màu văn bản",
+        "_slc" : "Giống như màu nhãn",
+
+
+        "_c1": "Màu dữ liệu trường trên",
+        "_c1l": "Màu nhãn trường trên",
+
+        "_c2": "Màu dữ liệu 1",
+        "_c2l": "Màu nhãn 1",
+
+        "_c3": "Màu dữ liệu 2",
+        "_c3l": "Màu nhãn 2",
+
+        "_c4": "Màu dữ liệu 3",
+        "_c4l": "Màu nhãn 3",
+
+        "_c5": "Màu dữ liệu dưới",
+        "_c5l": "Màu nhãn dưới",
+
+        "_c7": "Màu số ngày",
+        "_c7l": "Màu ngày trong tuần",
+        "_c8": "Màu AM/PM",
+        "_c9": "Màu biểu tượng thông báo",
+
+
+
+        "_x4": "Tải cài đặt trước trước đó",
+        "_x3": "Tải chủ đề màu trước đó",
+
+        "_rst": "Đặt lại tất cả cài đặt",
+        "_tr": "👉 PHÍM TẮT CẢM ỨNG",
+        "_tc": "🎨 MÀU SẮC / NỀN",
+        "_tt": "🔤 PHÔNG CHỮ",
+        "_ta": "🖼️ CÀI ĐẶT AOD (Màn hình luôn bật)",
+        "_to": "💡 KHÁC",
+        "_tx": "➡️ ĐỘ LỆCH",
+
+
+        "_o2": "Độ lệch X Trường (Trên, 1, 2, 3, Dưới, Ngày) Mặc định: 20",
+        "_o3": "Độ lệch Y Trường (Trên, 1, 2, 3, Dưới, Ngày) Mặc định: 20",
+        "_bdb": "Vẽ nền số (phút sắc nét hơn, giờ không hiển thị phía sau)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Màu văn bản",
+        "_ic": "Màu nhãn",      
+
+        "_gq": "Chất lượng gradient",
+        "_ng": "Không gradient",
+
+     
+
+        "_x2": "Tải chủ đề màu tiếp theo",
+        
+        "_a1": "Phím tắt cảm ứng giờ trái",
+        "_a2": "Phím tắt cảm ứng giờ phải",
+        "_a3": "Phím tắt cảm ứng phút trái",
+        "_a4": "Phím tắt cảm ứng phút phải",
+
+        "_aas": "Giây luôn bật",
+        "_aod": "Chế độ AOD (Màn hình luôn bật)",
+        "_aodct": "AOD Màu tông thời gian",
+        "_aodc": "AOD Màu tông dữ liệu",
+        "_aodT": "AOD Độ sáng thời gian",
+        "_aodD": "AOD Độ sáng dữ liệu (Nếu màn hình tắt trong AOD, giảm số này. Số thấp hơn = ít tiêu thụ pin hơn nhưng độ sáng thấp hơn. Xem FAQ)",
+        "_aodS": "AOD Độ lệch (Số pixel màn hình dịch chuyển ngẫu nhiên mỗi phút để tránh burn-in)"
+
+
+    }
+}

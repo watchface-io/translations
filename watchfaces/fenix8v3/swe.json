@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Markör framstegsformat",
+        "m360": "Regelbunden, 360 grader, 12 = 0% och 100%, 6 = 50%",
+        "m90": "Sidor, Markör 1 Vänster, Markör 2 Höger, se Användarhandbok",
+
         "_x4": "Ladda föregående förinställning",
         "_x3": "Ladda föregående färgtema",
         "ad102": "Full AOD - Alternativ nedre cirkel upptill",
@@ -209,6 +214,9 @@
         "ad1": "Endast tid",
         "ad3": "Endast tid - rörlig",
         "ad4": "Tid + datafält (välj nedan)",
-        "ad6": "Rörlig tid + datafält"
+        "ad6": "Rörlig tid + datafält",
+
+        "_aodB": "AOD cirkel ljusstyrka (när cirkel överst är aktiverad)",
+        "_aodsame": "Samma som dataljusstyrka"
     }
 }

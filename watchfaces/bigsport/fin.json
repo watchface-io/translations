@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Merkintä 1 Tiedot",
+        "_md2": "Merkintä 2 Tiedot",
+
+        "_po": "Edistymispalkin Siirtymä",
+        "_pl": "Edistymispalkin Pituus",
+        "_lz": "Tunnin ensimmäisen numeron väri (Katso UKK)",
+        "_lz0": "Normaalit tuntivärit",
+        "_lz1": "Eri väri etunollalle (aseta alla)",
+        "_lz2": "Eri väri ensimmäiselle numerolle (aseta alla)",
+
+
+        "_ed": "Päivä englanniksi",
+        "_f6": "Päivänäytön tiedot",
+
+
+
+        "_f1": "Yläosan tiedot",
+        "_l1": "Yläosan otsikko",
+        "_p1": "Edistymispalkki oikea",
+
+        "_f2": "Tiedot 1",
+        "_l2": "Otsikko 1",
+
+        "_f3": "Tiedot 2",
+        "_l3": "Otsikko 2",
+
+        "_f4": "Tiedot 3",
+        "_l4": "Otsikko 3",
+
+        "_f5": "Alaosan tiedot",
+        "_l5": "Alaosan otsikko",
+        "_p5": "Edistymispalkki vasen tiedot",
+
+        "_t3": "Tekstin fontti",
+        "_s1": "Yläosan tekstin fonttikoko",
+        "_s2": "Tietojen fonttikoko",
+        "_s3": "Alaosan tekstin fonttikoko",
+        "_s4": "Päivänäytön fonttikoko (ohitettaessa)",
+
+        "_no" : "Näytä ilmoituskuvake",
+        "_0f" : "Yläosan tietojen edistyminen",
+        "_4f" : "Alaosan tietojen edistyminen",
+        "_1f" : "Täysi",
+        "_2f" : "Tyhjä",
+        "_3f" : "Piilota",
+
+        "_nt": "BigSport Teksti (Ei skaalattavissa)",
+
+        "_t1": "Tuntifontti",
+        "_t1a": "Tuntifontti AOD",
+  
+        "_t2": "Minuuttifontti",
+        "_t2a": "Minuuttifontti AOD",
+
+
+        "_f20": "AOD Kenttätiedot ylhäällä",
+        "_l20": "AOD Kenttätiedot alhaalla",
+
+        "_hc1": "Tuntiväri 1",
+        "_hc2": "Tuntiväri 2",
+        "_hc3": "Tunnin ensimmäinen numero väri 1",
+        "_hc4": "Tunnin ensimmäinen numero väri 2",
+
+        "_mc1": "Minuuttiväri 1",
+        "_mc2": "Minuuttiväri 2",
+
+        "_t24": "24 tunnin aika",
+        "_t0": "Näytä AM/PM",
+        "_t30": "Järjestelmän oletus",
+        "_t33": "Pois",
+        "_t31": "Näytä ylhäällä",
+        "_t32": "Näytä oikealla",
+        
+        
+
+ 
+        "_fk": "Pidä samana",
+
+        "_sah" : "Sama kuin Tuntiväri 1/2",
+
+        "ad0": "SAMMUTA näyttö",
+        "ad100": "Täysi AOD (Oletus)",
+        "ad1": "Vain aika",
+        "ad4": "Aika + 2 tietokenttää",
+
+        "ad2": "Aika + päivämäärä",
+        "ad5": "Aika + päivämäärä + 2 tietokenttää",
+
+
+        "_m1": "Merkintä 1 Väri",
+        "_m2": "Merkintä 2 Väri",
+        
+        "_cp1": "Yläosan edistymisväri 1",
+        "_c21": "Yläosan edistymisväri 2",
+        "_cu1": "Yläosan edistymisväri täyttämätön",
+
+        "_cp2": "Alaosan edistymisväri 1",
+        "_c22": "Alaosan edistymisväri 2",
+        "_cu2": "Alaosan edistymisväri täyttämätön",
+
+        "_bgc": "Taustaväri",
+        "_bgl": "Taustoviivojen väri",
+        "_cs": "70% tummempi",
+        "_cpbs" : "Sama kuin yläosan edistymispalkki",
+
+        "_stc" : "Sama kuin tekstin väri",
+        "_slc" : "Sama kuin otsikon väri",
+
+
+        "_c1": "Yläosan kentän tietoväri",
+        "_c1l": "Yläosan kentän otsikkoväri",
+
+        "_c2": "Tiedot 1 väri",
+        "_c2l": "Otsikko 1 väri",
+
+        "_c3": "Tiedot 2 väri",
+        "_c3l": "Otsikko 2 väri",
+
+        "_c4": "Tiedot 3 väri",
+        "_c4l": "Otsikko 3 väri",
+
+        "_c5": "Alaosan tietoväri",
+        "_c5l": "Alaosan otsikkoväri",
+
+        "_c7": "Päivämäärän numero väri",
+        "_c7l": "Päivämäärän päivä väri",
+        "_c8": "AM/PM väri",
+        "_c9": "Ilmoituskuvakkeen väri",
+
+
+
+        "_x4": "Lataa edellinen esiasetus",
+        "_x3": "Lataa edellinen väriteema",
+
+        "_rst": "Palauta kaikki asetukset",
+        "_tr": "👉 KOSKETUSPIKANÄPPÄIMET",
+        "_tc": "🎨 VÄRIT / TAUSTA",
+        "_tt": "🔤 FONTIT",
+        "_ta": "🖼️ AOD ASETUKSET (Aina päällä näyttö)",
+        "_to": "💡 MUUT",
+        "_tx": "➡️ SIIRTYMÄT",
+
+
+        "_o2": "Kentän X Siirtymät (Ylä, 1, 2, 3, Ala, Päivä) Oletus: 20",
+        "_o3": "Kentän Y Siirtymät (Ylä, 1, 2, 3, Ala, Päivä) Oletus: 20",
+        "_bdb": "Piirrä numeroiden tausta (terävemmät minuutit, tunnit eivät näy takana)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Tekstin väri",
+        "_ic": "Otsikon väri",      
+
+        "_gq": "Liukuvärin laatu",
+        "_ng": "Ei liukuväriä",
+
+     
+
+        "_x2": "Lataa seuraava väriteema",
+        
+        "_a1": "Kosketuspikanäppäin tunti vasen",
+        "_a2": "Kosketuspikanäppäin tunti oikea",
+        "_a3": "Kosketuspikanäppäin minuutti vasen",
+        "_a4": "Kosketuspikanäppäin minuutti oikea",
+
+        "_aas": "Sekunnit aina päällä",
+        "_aod": "AOD Tila (Aina päällä näyttö)",
+        "_aodct": "AOD Ajan sävyväri",
+        "_aodc": "AOD Tietojen sävyväri",
+        "_aodT": "AOD Ajan kirkkaus",
+        "_aodD": "AOD Tietojen kirkkaus (Jos näyttö sammuu AOD:n aikana, laske tätä lukua. Pienempi luku = vähemmän akun kulutusta mutta himmeämpi. Katso UKK)",
+        "_aodS": "AOD Siirtymä (Pikselien määrä, jonka näyttö siirtyy satunnaisesti minuutissa palamisen estämiseksi)"
+
+
+    }
+}

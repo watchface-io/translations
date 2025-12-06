@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Marcator 1 Date",
+        "_md2": "Marcator 2 Date",
+
+        "_po": "Offset Bară Progres",
+        "_pl": "Lungime Bară Progres",
+        "_lz": "Culoare primă cifră oră (Vezi FAQ)",
+        "_lz0": "Culori normale pentru ore",
+        "_lz1": "Culoare diferită pentru zero de început (setează mai jos)",
+        "_lz2": "Culoare diferită pentru prima cifră (setează mai jos)",
+
+
+        "_ed": "Zi în engleză",
+        "_f6": "Date afișare zi",
+
+
+
+        "_f1": "Date sus",
+        "_l1": "Etichetă sus",
+        "_p1": "Bară progres dreapta",
+
+        "_f2": "Date 1",
+        "_l2": "Etichetă 1",
+
+        "_f3": "Date 2",
+        "_l3": "Etichetă 2",
+
+        "_f4": "Date 3",
+        "_l4": "Etichetă 3",
+
+        "_f5": "Date jos",
+        "_l5": "Etichetă jos",
+        "_p5": "Bară progres stânga date",
+
+        "_t3": "Font text",
+        "_s1": "Dimensiune font text sus",
+        "_s2": "Dimensiune font date",
+        "_s3": "Dimensiune font text jos",
+        "_s4": "Dimensiune font afișare zi (la suprascriere)",
+
+        "_no" : "Afișează pictograma notificare",
+        "_0f" : "Progres date sus",
+        "_4f" : "Progres date jos",
+        "_1f" : "Plin",
+        "_2f" : "Gol",
+        "_3f" : "Ascunde",
+
+        "_nt": "Text BigSport (Nu poate fi scalat)",
+
+        "_t1": "Font oră",
+        "_t1a": "Font oră AOD",
+  
+        "_t2": "Font minut",
+        "_t2a": "Font minut AOD",
+
+
+        "_f20": "AOD Date câmp sus",
+        "_l20": "AOD Date câmp jos",
+
+        "_hc1": "Culoare oră 1",
+        "_hc2": "Culoare oră 2",
+        "_hc3": "Culoare primă cifră oră 1",
+        "_hc4": "Culoare primă cifră oră 2",
+
+        "_mc1": "Culoare minut 1",
+        "_mc2": "Culoare minut 2",
+
+        "_t24": "Format 24 ore",
+        "_t0": "Afișează AM/PM",
+        "_t30": "Implicit sistem",
+        "_t33": "Oprit",
+        "_t31": "Afișează sus",
+        "_t32": "Afișează dreapta",
+        
+        
+
+ 
+        "_fk": "Păstrează la fel",
+
+        "_sah" : "La fel ca Culoare oră 1/2",
+
+        "ad0": "Oprește ecranul",
+        "ad100": "AOD Complet (Implicit)",
+        "ad1": "Doar oră",
+        "ad4": "Oră + 2 câmpuri date",
+
+        "ad2": "Oră + dată",
+        "ad5": "Oră + dată + 2 câmpuri date",
+
+
+        "_m1": "Culoare Marcator 1",
+        "_m2": "Culoare Marcator 2",
+        
+        "_cp1": "Culoare progres sus 1",
+        "_c21": "Culoare progres sus 2",
+        "_cu1": "Culoare progres sus necompletat",
+
+        "_cp2": "Culoare progres jos 1",
+        "_c22": "Culoare progres jos 2",
+        "_cu2": "Culoare progres jos necompletat",
+
+        "_bgc": "Culoare fundal",
+        "_bgl": "Culoare linii fundal",
+        "_cs": "70% mai închis",
+        "_cpbs" : "La fel ca bara progres sus",
+
+        "_stc" : "La fel ca culoarea textului",
+        "_slc" : "La fel ca culoarea etichetei",
+
+
+        "_c1": "Culoare date câmp sus",
+        "_c1l": "Culoare etichetă câmp sus",
+
+        "_c2": "Culoare date 1",
+        "_c2l": "Culoare etichetă 1",
+
+        "_c3": "Culoare date 2",
+        "_c3l": "Culoare etichetă 2",
+
+        "_c4": "Culoare date 3",
+        "_c4l": "Culoare etichetă 3",
+
+        "_c5": "Culoare date jos",
+        "_c5l": "Culoare etichetă jos",
+
+        "_c7": "Culoare număr dată",
+        "_c7l": "Culoare zi dată",
+        "_c8": "Culoare AM/PM",
+        "_c9": "Culoare pictogramă notificare",
+
+
+
+        "_x4": "Încarcă presetarea anterioară",
+        "_x3": "Încarcă tema de culori anterioară",
+
+        "_rst": "Resetează toate setările",
+        "_tr": "👉 COMENZI RAPIDE TACTILE",
+        "_tc": "🎨 CULORI / FUNDAL",
+        "_tt": "🔤 FONTURI",
+        "_ta": "🖼️ SETĂRI AOD (Ecran mereu aprins)",
+        "_to": "💡 ALTELE",
+        "_tx": "➡️ OFFSET-URI",
+
+
+        "_o2": "Offset-uri X Câmp (Sus, 1, 2, 3, Jos, Zi) Implicit: 20",
+        "_o3": "Offset-uri Y Câmp (Sus, 1, 2, 3, Jos, Zi) Implicit: 20",
+        "_bdb": "Desenează fundal numere (minute mai clare, orele nu sunt vizibile în spate)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Culoare text",
+        "_ic": "Culoare etichetă",      
+
+        "_gq": "Calitate gradient",
+        "_ng": "Fără gradient",
+
+     
+
+        "_x2": "Încarcă tema de culori următoare",
+        
+        "_a1": "Comandă rapidă tactilă oră stânga",
+        "_a2": "Comandă rapidă tactilă oră dreapta",
+        "_a3": "Comandă rapidă tactilă minut stânga",
+        "_a4": "Comandă rapidă tactilă minut dreapta",
+
+        "_aas": "Secunde mereu pornite",
+        "_aod": "Mod AOD (Ecran mereu aprins)",
+        "_aodct": "AOD Culoare nuanță oră",
+        "_aodc": "AOD Culoare nuanță date",
+        "_aodT": "AOD Luminozitate oră",
+        "_aodD": "AOD Luminozitate date (Dacă ecranul se stinge în timpul AOD, micșorează acest număr. Număr mai mic = consum mai mic de baterie dar luminozitate mai mică. Vezi FAQ)",
+        "_aodS": "AOD Offset (Numărul de pixeli cu care ecranul se deplasează aleatoriu pe minut pentru a preveni arderea)"
+
+
+    }
+}

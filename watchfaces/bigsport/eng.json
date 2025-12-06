@@ -12,6 +12,10 @@
         "_lz2": "Different color for first digit (set below)",
 
 
+        "_ed": "English Day",
+        "_f6": "Day Display data",
+
+
 
         "_f1": "Top Data",
         "_l1": "Top Label",
@@ -32,8 +36,9 @@
 
         "_t3": "Text Font",
         "_s1": "Top Text Font Size",
-        "_s2": "Data Font size",
+        "_s2": "Data Font Size",
         "_s3": "Bottom Text Font Size",
+        "_s4": "Day Display Font Size (when overridden)",
 
         "_no" : "Show Notification Icon",
         "_0f" : "Top Data Progress",
@@ -139,8 +144,8 @@
         "_tx": "➡️ OFFSETS",
 
 
-        "_o2": "Field X Offsets (Top, 1, 2, 3, Bottom) Default: 20",
-        "_o3": "Field Y Offsets (Top, 1, 2, 3, Bottom) Default: 20",
+        "_o2": "Field X Offsets (Top, 1, 2, 3, Bottom, Day) Default: 20",
+        "_o3": "Field Y Offsets (Top, 1, 2, 3, Bottom, Day) Default: 20",
         "_bdb": "Draw number background (sharper minutes, hours not visible behind)",
 
 

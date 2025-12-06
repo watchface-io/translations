@@ -1,4 +1,9 @@
 {    "settings": {
+
+        "_ms": "Stil napretka oznake",
+        "m360": "Regularan, 360 stupnjeva, 12 = 0% i 100%, 6 = 50%",
+        "m90": "Strane, Oznaka 1 Lijevo, Oznaka 2 Desno, pogledajte Korisnički priručnik",
+
         "_x4": "Učitaj prethodnu postavku",
         "_x3": "Učitaj prethodnu temu boja",
         "ad102": "Puni AOD - Alternativni donji krug na vrhu",
@@ -208,6 +213,9 @@
         "ad1": "Samo vrijeme",
         "ad3": "Samo vrijeme - pokretno",
         "ad4": "Vrijeme + podatkovno polje (odaberi dolje)",
-        "ad6": "Pokretno vrijeme + podatkovno polje"
+        "ad6": "Pokretno vrijeme + podatkovno polje",
+
+        "_aodB": "Svjetlina AOD kruga (kada je krug na vrhu omogućen)",
+        "_aodsame": "Isto kao svjetlina podataka"
     }
 }

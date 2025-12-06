@@ -1,4 +1,9 @@
 {    "settings": {
+
+        "_ms": "Estilo de progreso del marcador",
+        "m360": "Regular, 360 grados, 12 = 0% y 100%, 6 = 50%",
+        "m90": "Lados, Marcador 1 Izquierda, Marcador 2 Derecha, ver Guía del Usuario",
+
         "_x4": "Cargar configuración anterior",
         "_x3": "Cargar tema de colores anterior",
         "ad102": "AOD completo - Círculo inferior alternativo arriba",
@@ -209,6 +214,9 @@
         "ad1": "Solo hora",
         "ad3": "Solo hora - móvil",
         "ad4": "Hora + campo de datos (seleccionar abajo)",
-        "ad6": "Hora móvil + campo de datos"
+        "ad6": "Hora móvil + campo de datos",
+
+        "_aodB": "Brillo del círculo AOD (cuando el círculo en la parte superior está activado)",
+        "_aodsame": "Igual que el brillo de datos"
     }
 }

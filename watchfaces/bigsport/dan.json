@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+        "_po": "Fremdskridtslinje Forskydning",
+        "_pl": "Fremdskridtslinje Længde",
+        "_lz": "Time første ciffer farve (Se FAQ)",
+        "_lz0": "Normale timefarver",
+        "_lz1": "Anden farve til førende nul (indstil nedenfor)",
+        "_lz2": "Anden farve til første ciffer (indstil nedenfor)",
+
+
+        "_ed": "Dag på engelsk",
+        "_f6": "Dagsvisning data",
+
+
+
+        "_f1": "Øverste data",
+        "_l1": "Øverste etiket",
+        "_p1": "Fremdskridtslinje højre",
+
+        "_f2": "Data 1",
+        "_l2": "Etiket 1",
+
+        "_f3": "Data 2",
+        "_l3": "Etiket 2",
+
+        "_f4": "Data 3",
+        "_l4": "Etiket 3",
+
+        "_f5": "Nederste data",
+        "_l5": "Nederste etiket",
+        "_p5": "Fremdskridtslinje venstre data",
+
+        "_t3": "Tekst skrifttype",
+        "_s1": "Øverste tekst skriftstørrelse",
+        "_s2": "Data skriftstørrelse",
+        "_s3": "Nederste tekst skriftstørrelse",
+        "_s4": "Dagsvisning skriftstørrelse (ved tilsidesættelse)",
+
+        "_no" : "Vis notifikationsikon",
+        "_0f" : "Øverste data fremskridt",
+        "_4f" : "Nederste data fremskridt",
+        "_1f" : "Fuld",
+        "_2f" : "Tom",
+        "_3f" : "Skjul",
+
+        "_nt": "BigSport Tekst (Kan ikke skaleres)",
+
+        "_t1": "Time skrifttype",
+        "_t1a": "Time skrifttype AOD",
+  
+        "_t2": "Minut skrifttype",
+        "_t2a": "Minut skrifttype AOD",
+
+
+        "_f20": "AOD Felt data top",
+        "_l20": "AOD Felt data bund",
+
+        "_hc1": "Timefarve 1",
+        "_hc2": "Timefarve 2",
+        "_hc3": "Time første ciffer farve 1",
+        "_hc4": "Time første ciffer farve 2",
+
+        "_mc1": "Minutfarve 1",
+        "_mc2": "Minutfarve 2",
+
+        "_t24": "24-timers tid",
+        "_t0": "Vis AM/PM",
+        "_t30": "Systemstandard",
+        "_t33": "Fra",
+        "_t31": "Vis øverst",
+        "_t32": "Vis til højre",
+        
+        
+
+ 
+        "_fk": "Behold samme",
+
+        "_sah" : "Samme som Timefarve 1/2",
+
+        "ad0": "Sluk skærm",
+        "ad100": "Fuld AOD (Standard)",
+        "ad1": "Kun tid",
+        "ad4": "Tid + 2 datafelter",
+
+        "ad2": "Tid + dato",
+        "ad5": "Tid + dato + 2 datafelter",
+
+
+        "_m1": "Marker 1 Farve",
+        "_m2": "Marker 2 Farve",
+        
+        "_cp1": "Øverste fremskridtfarve 1",
+        "_c21": "Øverste fremskridtfarve 2",
+        "_cu1": "Øverste fremskridtfarve ikke udfyldt",
+
+        "_cp2": "Nederste fremskridtfarve 1",
+        "_c22": "Nederste fremskridtfarve 2",
+        "_cu2": "Nederste fremskridtfarve ikke udfyldt",
+
+        "_bgc": "Baggrundsfarve",
+        "_bgl": "Baggrundslinjer farve",
+        "_cs": "70% mørkere",
+        "_cpbs" : "Samme som øverste fremdskridtslinje",
+
+        "_stc" : "Samme som tekstfarve",
+        "_slc" : "Samme som etiketfarve",
+
+
+        "_c1": "Øverste felt datafarve",
+        "_c1l": "Øverste felt etiketfarve",
+
+        "_c2": "Data 1 farve",
+        "_c2l": "Etiket 1 farve",
+
+        "_c3": "Data 2 farve",
+        "_c3l": "Etiket 2 farve",
+
+        "_c4": "Data 3 farve",
+        "_c4l": "Etiket 3 farve",
+
+        "_c5": "Nederste datafarve",
+        "_c5l": "Nederste etiketfarve",
+
+        "_c7": "Dato nummer farve",
+        "_c7l": "Dato dag farve",
+        "_c8": "AM/PM farve",
+        "_c9": "Notifikationsikon farve",
+
+
+
+        "_x4": "Indlæs forrige forudindstilling",
+        "_x3": "Indlæs forrige farvetema",
+
+        "_rst": "Nulstil alle indstillinger",
+        "_tr": "👉 BERØRINGSGENVEJE",
+        "_tc": "🎨 FARVER / BAGGRUND",
+        "_tt": "🔤 SKRIFTTYPER",
+        "_ta": "🖼️ AOD INDSTILLINGER (Altid tændt skærm)",
+        "_to": "💡 ANDET",
+        "_tx": "➡️ FORSKYDNINGER",
+
+
+        "_o2": "Felt X Forskydninger (Øverst, 1, 2, 3, Nederst, Dag) Standard: 20",
+        "_o3": "Felt Y Forskydninger (Øverst, 1, 2, 3, Nederst, Dag) Standard: 20",
+        "_bdb": "Tegn nummer baggrund (skarpere minutter, timer ikke synlige bagved)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Tekstfarve",
+        "_ic": "Etiketfarve",      
+
+        "_gq": "Gradientkvalitet",
+        "_ng": "Ingen gradient",
+
+     
+
+        "_x2": "Indlæs næste farvetema",
+        
+        "_a1": "Berøringsgenvej time venstre",
+        "_a2": "Berøringsgenvej time højre",
+        "_a3": "Berøringsgenvej minut venstre",
+        "_a4": "Berøringsgenvej minut højre",
+
+        "_aas": "Sekunder altid tændt",
+        "_aod": "AOD Tilstand (Altid tændt skærm)",
+        "_aodct": "AOD Tid farvetone",
+        "_aodc": "AOD Data farvetone",
+        "_aodT": "AOD Tid lysstyrke",
+        "_aodD": "AOD Data lysstyrke (Hvis skærmen slukker under AOD, sænk dette tal. Lavere tal = mindre batteriforbrug men lavere lysstyrke. Se FAQ)",
+        "_aodS": "AOD Forskydning (Antal pixels skærmen tilfældigt forskydes per minut for at forhindre indbrænding)"
+
+
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Marķieris 1 Dati",
+        "_md2": "Marķieris 2 Dati",
+
+        "_po": "Progresa joslas Nobīde",
+        "_pl": "Progresa joslas Garums",
+        "_lz": "Stundas pirmā cipara krāsa (Skatīt BUJ)",
+        "_lz0": "Parastās stundu krāsas",
+        "_lz1": "Cita krāsa priekšējai nullei (iestatīt zemāk)",
+        "_lz2": "Cita krāsa pirmajam ciparam (iestatīt zemāk)",
+
+
+        "_ed": "Diena angliski",
+        "_f6": "Dienas attēlojuma dati",
+
+
+
+        "_f1": "Augšējie dati",
+        "_l1": "Augšējā etiķete",
+        "_p1": "Progresa josla labajā pusē",
+
+        "_f2": "Dati 1",
+        "_l2": "Etiķete 1",
+
+        "_f3": "Dati 2",
+        "_l3": "Etiķete 2",
+
+        "_f4": "Dati 3",
+        "_l4": "Etiķete 3",
+
+        "_f5": "Apakšējie dati",
+        "_l5": "Apakšējā etiķete",
+        "_p5": "Progresa josla kreisajā pusē dati",
+
+        "_t3": "Teksta fonts",
+        "_s1": "Augšējā teksta fonta izmērs",
+        "_s2": "Datu fonta izmērs",
+        "_s3": "Apakšējā teksta fonta izmērs",
+        "_s4": "Dienas attēlojuma fonta izmērs (pārrakstot)",
+
+        "_no" : "Rādīt paziņojuma ikonu",
+        "_0f" : "Augšējo datu progress",
+        "_4f" : "Apakšējo datu progress",
+        "_1f" : "Pilns",
+        "_2f" : "Tukšs",
+        "_3f" : "Slēpt",
+
+        "_nt": "BigSport Teksts (Nav mērogojams)",
+
+        "_t1": "Stundu fonts",
+        "_t1a": "Stundu fonts AOD",
+  
+        "_t2": "Minūšu fonts",
+        "_t2a": "Minūšu fonts AOD",
+
+
+        "_f20": "AOD Lauka dati augšā",
+        "_l20": "AOD Lauka dati apakšā",
+
+        "_hc1": "Stundu krāsa 1",
+        "_hc2": "Stundu krāsa 2",
+        "_hc3": "Stundas pirmā cipara krāsa 1",
+        "_hc4": "Stundas pirmā cipara krāsa 2",
+
+        "_mc1": "Minūšu krāsa 1",
+        "_mc2": "Minūšu krāsa 2",
+
+        "_t24": "24 stundu laiks",
+        "_t0": "Rādīt AM/PM",
+        "_t30": "Sistēmas noklusējums",
+        "_t33": "Izslēgts",
+        "_t31": "Rādīt augšā",
+        "_t32": "Rādīt labajā pusē",
+        
+        
+
+ 
+        "_fk": "Paturēt tādu pašu",
+
+        "_sah" : "Tāpat kā Stundu krāsa 1/2",
+
+        "ad0": "IZSLĒGT ekrānu",
+        "ad100": "Pilns AOD (Noklusējums)",
+        "ad1": "Tikai laiks",
+        "ad4": "Laiks + 2 datu lauki",
+
+        "ad2": "Laiks + datums",
+        "ad5": "Laiks + datums + 2 datu lauki",
+
+
+        "_m1": "Marķieris 1 Krāsa",
+        "_m2": "Marķieris 2 Krāsa",
+        
+        "_cp1": "Augšējā progresa krāsa 1",
+        "_c21": "Augšējā progresa krāsa 2",
+        "_cu1": "Augšējā progresa krāsa neaizpildīta",
+
+        "_cp2": "Apakšējā progresa krāsa 1",
+        "_c22": "Apakšējā progresa krāsa 2",
+        "_cu2": "Apakšējā progresa krāsa neaizpildīta",
+
+        "_bgc": "Fona krāsa",
+        "_bgl": "Fona līniju krāsa",
+        "_cs": "70% tumšāka",
+        "_cpbs" : "Tāpat kā augšējā progresa josla",
+
+        "_stc" : "Tāpat kā teksta krāsa",
+        "_slc" : "Tāpat kā etiķetes krāsa",
+
+
+        "_c1": "Augšējā lauka datu krāsa",
+        "_c1l": "Augšējā lauka etiķetes krāsa",
+
+        "_c2": "Datu 1 krāsa",
+        "_c2l": "Etiķetes 1 krāsa",
+
+        "_c3": "Datu 2 krāsa",
+        "_c3l": "Etiķetes 2 krāsa",
+
+        "_c4": "Datu 3 krāsa",
+        "_c4l": "Etiķetes 3 krāsa",
+
+        "_c5": "Apakšējo datu krāsa",
+        "_c5l": "Apakšējās etiķetes krāsa",
+
+        "_c7": "Datuma skaitļa krāsa",
+        "_c7l": "Datuma dienas krāsa",
+        "_c8": "AM/PM krāsa",
+        "_c9": "Paziņojuma ikonas krāsa",
+
+
+
+        "_x4": "Ielādēt iepriekšējo priekšiestatījumu",
+        "_x3": "Ielādēt iepriekšējo krāsu tēmu",
+
+        "_rst": "Atiestatīt visus iestatījumus",
+        "_tr": "👉 PIESKĀRIENA SAĪSNES",
+        "_tc": "🎨 KRĀSAS / FONS",
+        "_tt": "🔤 FONTI",
+        "_ta": "🖼️ AOD IESTATĪJUMI (Vienmēr ieslēgts ekrāns)",
+        "_to": "💡 CITS",
+        "_tx": "➡️ NOBĪDES",
+
+
+        "_o2": "Lauka X Nobīdes (Augša, 1, 2, 3, Apakša, Diena) Noklusējums: 20",
+        "_o3": "Lauka Y Nobīdes (Augša, 1, 2, 3, Apakša, Diena) Noklusējums: 20",
+        "_bdb": "Zīmēt skaitļu fonu (asākas minūtes, stundas nav redzamas aiz tā)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Teksta krāsa",
+        "_ic": "Etiķetes krāsa",      
+
+        "_gq": "Gradienta kvalitāte",
+        "_ng": "Bez gradienta",
+
+     
+
+        "_x2": "Ielādēt nākamo krāsu tēmu",
+        
+        "_a1": "Pieskāriena saīsne stunda kreisajā pusē",
+        "_a2": "Pieskāriena saīsne stunda labajā pusē",
+        "_a3": "Pieskāriena saīsne minūte kreisajā pusē",
+        "_a4": "Pieskāriena saīsne minūte labajā pusē",
+
+        "_aas": "Sekundes vienmēr ieslēgtas",
+        "_aod": "AOD Režīms (Vienmēr ieslēgts ekrāns)",
+        "_aodct": "AOD Laika toņa krāsa",
+        "_aodc": "AOD Datu toņa krāsa",
+        "_aodT": "AOD Laika spilgtums",
+        "_aodD": "AOD Datu spilgtums (Ja ekrāns izslēdzas AOD laikā, samaziniet šo skaitli. Mazāks skaitlis = mazāks baterijas patēriņš, bet mazāks spilgtums. Skatīt BUJ)",
+        "_aodS": "AOD Nobīde (Pikseļu skaits, par kuru ekrāns nejauši nobīdās katru minūti, lai novērstu iedegšanu)"
+
+
+    }
+}

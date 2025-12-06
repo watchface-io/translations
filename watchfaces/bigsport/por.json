@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Marcador 1 Dados",
+        "_md2": "Marcador 2 Dados",
+
+        "_po": "Deslocamento da barra de progresso",
+        "_pl": "Comprimento da barra de progresso",
+        "_lz": "Cor do primeiro dígito da hora (Ver FAQ)",
+        "_lz0": "Cores de hora normais",
+        "_lz1": "Cor diferente para zero inicial (definir abaixo)",
+        "_lz2": "Cor diferente para primeiro dígito (definir abaixo)",
+
+
+        "_ed": "Dia em inglês",
+        "_f6": "Dados de exibição do dia",
+
+
+
+        "_f1": "Dados superiores",
+        "_l1": "Etiqueta superior",
+        "_p1": "Barra de progresso direita",
+
+        "_f2": "Dados 1",
+        "_l2": "Etiqueta 1",
+
+        "_f3": "Dados 2",
+        "_l3": "Etiqueta 2",
+
+        "_f4": "Dados 3",
+        "_l4": "Etiqueta 3",
+
+        "_f5": "Dados inferiores",
+        "_l5": "Etiqueta inferior",
+        "_p5": "Dados barra de progresso esquerda",
+
+        "_t3": "Fonte do texto",
+        "_s1": "Tamanho fonte texto superior",
+        "_s2": "Tamanho fonte dados",
+        "_s3": "Tamanho fonte texto inferior",
+        "_s4": "Tamanho fonte exibição dia (quando substituído)",
+
+        "_no" : "Mostrar ícone de notificação",
+        "_0f" : "Progresso dados superiores",
+        "_4f" : "Progresso dados inferiores",
+        "_1f" : "Cheio",
+        "_2f" : "Vazio",
+        "_3f" : "Ocultar",
+
+        "_nt": "Texto BigSport (Não redimensionável)",
+
+        "_t1": "Fonte das horas",
+        "_t1a": "Fonte das horas AOD",
+  
+        "_t2": "Fonte dos minutos",
+        "_t2a": "Fonte dos minutos AOD",
+
+
+        "_f20": "Dados campo AOD superior",
+        "_l20": "Dados campo AOD inferior",
+
+        "_hc1": "Cor hora 1",
+        "_hc2": "Cor hora 2",
+        "_hc3": "Cor primeiro dígito hora 1",
+        "_hc4": "Cor primeiro dígito hora 2",
+
+        "_mc1": "Cor minutos 1",
+        "_mc2": "Cor minutos 2",
+
+        "_t24": "Formato 24h",
+        "_t0": "Mostrar AM/PM",
+        "_t30": "Padrão do sistema",
+        "_t33": "Desligado",
+        "_t31": "Mostrar no topo",
+        "_t32": "Mostrar à direita",
+        
+        
+
+ 
+        "_fk": "Manter igual",
+
+        "_sah" : "Igual à Cor hora 1/2",
+
+        "ad0": "Desligar tela",
+        "ad100": "AOD completo (Padrão)",
+        "ad1": "Apenas hora",
+        "ad4": "Hora + 2 campos de dados",
+
+        "ad2": "Hora + data",
+        "ad5": "Hora + data + 2 campos de dados",
+
+
+        "_m1": "Cor marcador 1",
+        "_m2": "Cor marcador 2",
+        
+        "_cp1": "Cor progresso superior 1",
+        "_c21": "Cor progresso superior 2",
+        "_cu1": "Cor progresso superior não preenchida",
+
+        "_cp2": "Cor progresso inferior 1",
+        "_c22": "Cor progresso inferior 2",
+        "_cu2": "Cor progresso inferior não preenchida",
+
+        "_bgc": "Cor de fundo",
+        "_bgl": "Cor das linhas de fundo",
+        "_cs": "70% mais escuro",
+        "_cpbs" : "Igual à barra de progresso superior",
+
+        "_stc" : "Igual à cor do texto",
+        "_slc" : "Igual à cor da etiqueta",
+
+
+        "_c1": "Cor dados campo superior",
+        "_c1l": "Cor etiqueta campo superior",
+
+        "_c2": "Cor dados 1",
+        "_c2l": "Cor etiqueta 1",
+
+        "_c3": "Cor dados 2",
+        "_c3l": "Cor etiqueta 2",
+
+        "_c4": "Cor dados 3",
+        "_c4l": "Cor etiqueta 3",
+
+        "_c5": "Cor dados inferiores",
+        "_c5l": "Cor etiqueta inferior",
+
+        "_c7": "Cor número da data",
+        "_c7l": "Cor dia da data",
+        "_c8": "Cor AM/PM",
+        "_c9": "Cor ícone de notificação",
+
+
+
+        "_x4": "Carregar predefinição anterior",
+        "_x3": "Carregar tema de cores anterior",
+
+        "_rst": "Redefinir todas as configurações",
+        "_tr": "👉 ATALHOS DE TOQUE",
+        "_tc": "🎨 CORES / FUNDO",
+        "_tt": "🔤 FONTES",
+        "_ta": "🖼️ CONFIGURAÇÕES AOD (Tela sempre ativa)",
+        "_to": "💡 OUTROS",
+        "_tx": "➡️ DESLOCAMENTOS",
+
+
+        "_o2": "Deslocamentos X dos campos (Superior, 1, 2, 3, Inferior, Dia) Padrão: 20",
+        "_o3": "Deslocamentos Y dos campos (Superior, 1, 2, 3, Inferior, Dia) Padrão: 20",
+        "_bdb": "Desenhar fundo dos números (minutos mais nítidos, horas não visíveis atrás)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Cor do texto",
+        "_ic": "Cor da etiqueta",      
+
+        "_gq": "Qualidade do gradiente",
+        "_ng": "Sem gradiente",
+
+     
+
+        "_x2": "Carregar próximo tema de cores",
+        
+        "_a1": "Atalho toque hora esquerda",
+        "_a2": "Atalho toque hora direita",
+        "_a3": "Atalho toque minuto esquerda",
+        "_a4": "Atalho toque minuto direita",
+
+        "_aas": "Segundos sempre ativos",
+        "_aod": "Modo AOD (Tela sempre ativa)",
+        "_aodct": "Cor de tonalidade hora AOD",
+        "_aodc": "Cor de tonalidade dados AOD",
+        "_aodT": "Brilho hora AOD",
+        "_aodD": "Brilho dados AOD (Se a tela desligar durante AOD, reduza este número. Número menor = menos uso de bateria mas menos brilho. Ver FAQ)",
+        "_aodS": "Deslocamento AOD (Número de pixels que a tela se desloca aleatoriamente por minuto para prevenir queima)"
+
+
+    }
+}

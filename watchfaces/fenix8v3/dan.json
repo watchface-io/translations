@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Markørforskydningsstil",
+        "m360": "Regulær, 360 grader, 12 = 0% og 100%, 6 = 50%",
+        "m90": "Sider, Markør 1 Venstre, Markør 2 Højre, se Brugervejledning",
+
         "_x4": "Indlæs forrige forudindstilling",
         "_x3": "Indlæs forrige farvetema",
         "ad102": "Fuld AOD - Alternativ nederste cirkel øverst",
@@ -209,6 +214,9 @@
         "ad1": "Kun tid",
         "ad3": "Kun tid - bevægende",
         "ad4": "Tid + datafelt (vælg nedenfor)",
-        "ad6": "Bevægende tid + datafelt"
+        "ad6": "Bevægende tid + datafelt",
+
+        "_aodB": "AOD cirkel lysstyrke (når cirkel øverst er aktiveret)",
+        "_aodsame": "Samme som data lysstyrke"
     }
 }

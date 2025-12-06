@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Kiểu tiến trình dấu",
+        "m360": "Thường, 360 độ, 12 = 0% và 100%, 6 = 50%",
+        "m90": "Cạnh, Dấu 1 Trái, Dấu 2 Phải, xem Hướng dẫn Sử dụng",
+
         "_x4": "Tải cài đặt sẵn trước đó",
         "_x3": "Tải chủ đề màu trước đó",
         "ad102": "AOD đầy đủ - Vòng tròn dưới thay thế ở trên",
@@ -222,11 +227,9 @@
         "ad1": "Chỉ thời gian",
         "ad3": "Chỉ thời gian - di chuyển",
         "ad4": "Thời gian + trường dữ liệu (chọn bên dưới)",
-        "ad6": "Thời gian di chuyển + trường dữ liệu"
+        "ad6": "Thời gian di chuyển + trường dữ liệu",
 
-        
-
-
-        
+        "_aodB": "Độ sáng vòng tròn AOD (khi vòng tròn trên cùng được bật)",
+        "_aodsame": "Giống như độ sáng dữ liệu"
     }
 }

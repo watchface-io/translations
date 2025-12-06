@@ -76,7 +76,7 @@
         "f856" : "Full day (Tuesday)",
         "f857" : "am/pm",
         "f858" : "AM/PM",
-        "f859" : "Week Number",
+        "f859" : "Week Number (ISO 8601)",
         "f860" : "Time (09:15)",
         "f861" : "Custom Time Format (09:15)",
         "f880" : "UTC Time (09:15)",

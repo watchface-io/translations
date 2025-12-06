@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Žymeklis 1 Duomenys",
+        "_md2": "Žymeklis 2 Duomenys",
+
+        "_po": "Progreso juostos Poslinkis",
+        "_pl": "Progreso juostos Ilgis",
+        "_lz": "Valandos pirmo skaitmens spalva (Žr. DUK)",
+        "_lz0": "Įprastos valandų spalvos",
+        "_lz1": "Kita spalva priekiniam nuliui (nustatykite žemiau)",
+        "_lz2": "Kita spalva pirmam skaitmeniui (nustatykite žemiau)",
+
+
+        "_ed": "Diena angliškai",
+        "_f6": "Dienos rodymo duomenys",
+
+
+
+        "_f1": "Viršutiniai duomenys",
+        "_l1": "Viršutinė etiketė",
+        "_p1": "Progreso juosta dešinėje",
+
+        "_f2": "Duomenys 1",
+        "_l2": "Etiketė 1",
+
+        "_f3": "Duomenys 2",
+        "_l3": "Etiketė 2",
+
+        "_f4": "Duomenys 3",
+        "_l4": "Etiketė 3",
+
+        "_f5": "Apatiniai duomenys",
+        "_l5": "Apatinė etiketė",
+        "_p5": "Progreso juosta kairėje duomenys",
+
+        "_t3": "Teksto šriftas",
+        "_s1": "Viršutinio teksto šrifto dydis",
+        "_s2": "Duomenų šrifto dydis",
+        "_s3": "Apatinio teksto šrifto dydis",
+        "_s4": "Dienos rodymo šrifto dydis (perrašant)",
+
+        "_no" : "Rodyti pranešimo piktogramą",
+        "_0f" : "Viršutinių duomenų progresas",
+        "_4f" : "Apatinių duomenų progresas",
+        "_1f" : "Pilnas",
+        "_2f" : "Tuščias",
+        "_3f" : "Slėpti",
+
+        "_nt": "BigSport Tekstas (Nekeičiamas dydis)",
+
+        "_t1": "Valandos šriftas",
+        "_t1a": "Valandos šriftas AOD",
+  
+        "_t2": "Minutės šriftas",
+        "_t2a": "Minutės šriftas AOD",
+
+
+        "_f20": "AOD Lauko duomenys viršuje",
+        "_l20": "AOD Lauko duomenys apačioje",
+
+        "_hc1": "Valandos spalva 1",
+        "_hc2": "Valandos spalva 2",
+        "_hc3": "Valandos pirmo skaitmens spalva 1",
+        "_hc4": "Valandos pirmo skaitmens spalva 2",
+
+        "_mc1": "Minutės spalva 1",
+        "_mc2": "Minutės spalva 2",
+
+        "_t24": "24 valandų laikas",
+        "_t0": "Rodyti AM/PM",
+        "_t30": "Sistemos numatytasis",
+        "_t33": "Išjungta",
+        "_t31": "Rodyti viršuje",
+        "_t32": "Rodyti dešinėje",
+        
+        
+
+ 
+        "_fk": "Palikti tą patį",
+
+        "_sah" : "Tas pats kaip Valandos spalva 1/2",
+
+        "ad0": "IŠJUNGTI ekraną",
+        "ad100": "Pilnas AOD (Numatytasis)",
+        "ad1": "Tik laikas",
+        "ad4": "Laikas + 2 duomenų laukai",
+
+        "ad2": "Laikas + data",
+        "ad5": "Laikas + data + 2 duomenų laukai",
+
+
+        "_m1": "Žymeklis 1 Spalva",
+        "_m2": "Žymeklis 2 Spalva",
+        
+        "_cp1": "Viršutinė progreso spalva 1",
+        "_c21": "Viršutinė progreso spalva 2",
+        "_cu1": "Viršutinė progreso spalva neužpildyta",
+
+        "_cp2": "Apatinė progreso spalva 1",
+        "_c22": "Apatinė progreso spalva 2",
+        "_cu2": "Apatinė progreso spalva neužpildyta",
+
+        "_bgc": "Fono spalva",
+        "_bgl": "Fono linijų spalva",
+        "_cs": "70% tamsesnė",
+        "_cpbs" : "Tas pats kaip viršutinė progreso juosta",
+
+        "_stc" : "Tas pats kaip teksto spalva",
+        "_slc" : "Tas pats kaip etiketės spalva",
+
+
+        "_c1": "Viršutinio lauko duomenų spalva",
+        "_c1l": "Viršutinio lauko etiketės spalva",
+
+        "_c2": "Duomenų 1 spalva",
+        "_c2l": "Etiketės 1 spalva",
+
+        "_c3": "Duomenų 2 spalva",
+        "_c3l": "Etiketės 2 spalva",
+
+        "_c4": "Duomenų 3 spalva",
+        "_c4l": "Etiketės 3 spalva",
+
+        "_c5": "Apatinių duomenų spalva",
+        "_c5l": "Apatinės etiketės spalva",
+
+        "_c7": "Datos skaičiaus spalva",
+        "_c7l": "Datos dienos spalva",
+        "_c8": "AM/PM spalva",
+        "_c9": "Pranešimo piktogramos spalva",
+
+
+
+        "_x4": "Įkelti ankstesnį išankstinį nustatymą",
+        "_x3": "Įkelti ankstesnę spalvų temą",
+
+        "_rst": "Atstatyti visus nustatymus",
+        "_tr": "👉 LIETIMO SPARTIEJI KLAVIŠAI",
+        "_tc": "🎨 SPALVOS / FONAS",
+        "_tt": "🔤 ŠRIFTAI",
+        "_ta": "🖼️ AOD NUSTATYMAI (Visada įjungtas ekranas)",
+        "_to": "💡 KITA",
+        "_tx": "➡️ POSLINKIAI",
+
+
+        "_o2": "Lauko X Poslinkiai (Viršus, 1, 2, 3, Apačia, Diena) Numatytasis: 20",
+        "_o3": "Lauko Y Poslinkiai (Viršus, 1, 2, 3, Apačia, Diena) Numatytasis: 20",
+        "_bdb": "Piešti skaičių foną (ryškesnės minutės, valandos nematomos už)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Teksto spalva",
+        "_ic": "Etiketės spalva",      
+
+        "_gq": "Gradiento kokybė",
+        "_ng": "Be gradiento",
+
+     
+
+        "_x2": "Įkelti kitą spalvų temą",
+        
+        "_a1": "Lietimo spartusis klavišas valanda kairėje",
+        "_a2": "Lietimo spartusis klavišas valanda dešinėje",
+        "_a3": "Lietimo spartusis klavišas minutė kairėje",
+        "_a4": "Lietimo spartusis klavišas minutė dešinėje",
+
+        "_aas": "Sekundės visada įjungtos",
+        "_aod": "AOD Režimas (Visada įjungtas ekranas)",
+        "_aodct": "AOD Laiko atspalvio spalva",
+        "_aodc": "AOD Duomenų atspalvio spalva",
+        "_aodT": "AOD Laiko ryškumas",
+        "_aodD": "AOD Duomenų ryškumas (Jei ekranas išsijungia AOD metu, sumažinkite šį skaičių. Mažesnis skaičius = mažesnis baterijos naudojimas, bet mažesnis ryškumas. Žr. DUK)",
+        "_aodS": "AOD Poslinkis (Pikselių skaičius, kuriais ekranas atsitiktinai pasislenka kas minutę, kad išvengtų įdegimo)"
+
+
+    }
+}

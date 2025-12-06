@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Markör 1 Data",
+        "_md2": "Markör 2 Data",
+
+        "_po": "Förloppsindikator Offset",
+        "_pl": "Förloppsindikator Längd",
+        "_lz": "Timme första siffra färg (Se FAQ)",
+        "_lz0": "Normala timfärger",
+        "_lz1": "Annan färg för inledande nolla (ställ in nedan)",
+        "_lz2": "Annan färg för första siffran (ställ in nedan)",
+
+
+        "_ed": "Dag på engelska",
+        "_f6": "Dagvisning data",
+
+
+
+        "_f1": "Övre data",
+        "_l1": "Övre etikett",
+        "_p1": "Förloppsindikator höger",
+
+        "_f2": "Data 1",
+        "_l2": "Etikett 1",
+
+        "_f3": "Data 2",
+        "_l3": "Etikett 2",
+
+        "_f4": "Data 3",
+        "_l4": "Etikett 3",
+
+        "_f5": "Nedre data",
+        "_l5": "Nedre etikett",
+        "_p5": "Förloppsindikator vänster data",
+
+        "_t3": "Texttypsnitt",
+        "_s1": "Övre text teckenstorlek",
+        "_s2": "Data teckenstorlek",
+        "_s3": "Nedre text teckenstorlek",
+        "_s4": "Dagvisning teckenstorlek (vid åsidosättning)",
+
+        "_no" : "Visa aviseringsikon",
+        "_0f" : "Övre data förlopp",
+        "_4f" : "Nedre data förlopp",
+        "_1f" : "Full",
+        "_2f" : "Tom",
+        "_3f" : "Dölj",
+
+        "_nt": "BigSport Text (Inte skalbar)",
+
+        "_t1": "Timtypsnitt",
+        "_t1a": "Timtypsnitt AOD",
+  
+        "_t2": "Minuttypsnitt",
+        "_t2a": "Minuttypsnitt AOD",
+
+
+        "_f20": "AOD Fältdata uppe",
+        "_l20": "AOD Fältdata nere",
+
+        "_hc1": "Timfärg 1",
+        "_hc2": "Timfärg 2",
+        "_hc3": "Timme första siffra färg 1",
+        "_hc4": "Timme första siffra färg 2",
+
+        "_mc1": "Minutfärg 1",
+        "_mc2": "Minutfärg 2",
+
+        "_t24": "24-timmars tid",
+        "_t0": "Visa AM/PM",
+        "_t30": "Systemstandard",
+        "_t33": "Av",
+        "_t31": "Visa överst",
+        "_t32": "Visa till höger",
+        
+        
+
+ 
+        "_fk": "Behåll samma",
+
+        "_sah" : "Samma som Timfärg 1/2",
+
+        "ad0": "STÄNG AV skärm",
+        "ad100": "Full AOD (Standard)",
+        "ad1": "Endast tid",
+        "ad4": "Tid + 2 datafält",
+
+        "ad2": "Tid + datum",
+        "ad5": "Tid + datum + 2 datafält",
+
+
+        "_m1": "Markör 1 Färg",
+        "_m2": "Markör 2 Färg",
+        
+        "_cp1": "Övre förloppsfärg 1",
+        "_c21": "Övre förloppsfärg 2",
+        "_cu1": "Övre förloppsfärg ofylld",
+
+        "_cp2": "Nedre förloppsfärg 1",
+        "_c22": "Nedre förloppsfärg 2",
+        "_cu2": "Nedre förloppsfärg ofylld",
+
+        "_bgc": "Bakgrundsfärg",
+        "_bgl": "Bakgrundslinjer färg",
+        "_cs": "70% mörkare",
+        "_cpbs" : "Samma som övre förloppsindikator",
+
+        "_stc" : "Samma som textfärg",
+        "_slc" : "Samma som etikettfärg",
+
+
+        "_c1": "Övre fält datafärg",
+        "_c1l": "Övre fält etikettfärg",
+
+        "_c2": "Data 1 färg",
+        "_c2l": "Etikett 1 färg",
+
+        "_c3": "Data 2 färg",
+        "_c3l": "Etikett 2 färg",
+
+        "_c4": "Data 3 färg",
+        "_c4l": "Etikett 3 färg",
+
+        "_c5": "Nedre datafärg",
+        "_c5l": "Nedre etikettfärg",
+
+        "_c7": "Datum nummer färg",
+        "_c7l": "Datum dag färg",
+        "_c8": "AM/PM färg",
+        "_c9": "Aviseringsikon färg",
+
+
+
+        "_x4": "Ladda föregående förinställning",
+        "_x3": "Ladda föregående färgtema",
+
+        "_rst": "Återställ alla inställningar",
+        "_tr": "👉 PEKGENVÄGAR",
+        "_tc": "🎨 FÄRGER / BAKGRUND",
+        "_tt": "🔤 TYPSNITT",
+        "_ta": "🖼️ AOD INSTÄLLNINGAR (Alltid på skärm)",
+        "_to": "💡 ÖVRIGT",
+        "_tx": "➡️ FÖRSKJUTNINGAR",
+
+
+        "_o2": "Fält X Förskjutningar (Övre, 1, 2, 3, Nedre, Dag) Standard: 20",
+        "_o3": "Fält Y Förskjutningar (Övre, 1, 2, 3, Nedre, Dag) Standard: 20",
+        "_bdb": "Rita nummerbakgrund (skarpare minuter, timmar inte synliga bakom)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Textfärg",
+        "_ic": "Etikettfärg",      
+
+        "_gq": "Gradientkvalitet",
+        "_ng": "Ingen gradient",
+
+     
+
+        "_x2": "Ladda nästa färgtema",
+        
+        "_a1": "Pekgenväg timme vänster",
+        "_a2": "Pekgenväg timme höger",
+        "_a3": "Pekgenväg minut vänster",
+        "_a4": "Pekgenväg minut höger",
+
+        "_aas": "Sekunder alltid på",
+        "_aod": "AOD Läge (Alltid på skärm)",
+        "_aodct": "AOD Tid tonfärg",
+        "_aodc": "AOD Data tonfärg",
+        "_aodT": "AOD Tid ljusstyrka",
+        "_aodD": "AOD Data ljusstyrka (Om skärmen stängs av under AOD, sänk detta nummer. Lägre nummer = mindre batteriförbrukning men mindre ljusstyrka. Se FAQ)",
+        "_aodS": "AOD Förskjutning (Antal pixlar skärmen slumpmässigt förskjuts per minut för att förhindra inbränning)"
+
+
+    }
+}

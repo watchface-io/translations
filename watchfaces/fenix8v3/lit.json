@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Žymeklio progreso stilius",
+        "m360": "Įprastas, 360 laipsnių, 12 = 0% ir 100%, 6 = 50%",
+        "m90": "Pusės, Žymeklis 1 Kairė, Žymeklis 2 Dešinė, žiūrėkite Vartotojo vadovą",
+
         "_x4": "Užkrauti ankstesnį išankstinį nustatymą",
         "_x3": "Užkrauti ankstesnę spalvų temą",
         "ad102": "Pilnas AOD - Alternatyvus apatinis ratas viršuje",
@@ -223,11 +228,9 @@
         "ad1": "Tik laikas",
         "ad3": "Tik laikas - judantis",
         "ad4": "Laikas + duomenų laukas (pasirinkite žemiau)",
-        "ad6": "Judantis laikas + duomenų laukas"
+        "ad6": "Judantis laikas + duomenų laukas",
 
-        
-
-
-        
+        "_aodB": "AOD apskritimo ryškumas (kai viršutinis apskritimas įjungtas)",
+        "_aodsame": "Toks pat kaip duomenų ryškumas"
     }
 }

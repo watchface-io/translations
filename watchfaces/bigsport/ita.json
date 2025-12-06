@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Marcatore 1 Dati",
+        "_md2": "Marcatore 2 Dati",
+
+        "_po": "Offset barra di progresso",
+        "_pl": "Lunghezza barra di progresso",
+        "_lz": "Colore prima cifra ora (Vedi FAQ)",
+        "_lz0": "Colori ora normali",
+        "_lz1": "Colore diverso per zero iniziale (imposta sotto)",
+        "_lz2": "Colore diverso per prima cifra (imposta sotto)",
+
+
+        "_ed": "Giorno in inglese",
+        "_f6": "Dati visualizzazione giorno",
+
+
+
+        "_f1": "Dati superiori",
+        "_l1": "Etichetta superiore",
+        "_p1": "Barra di progresso destra",
+
+        "_f2": "Dati 1",
+        "_l2": "Etichetta 1",
+
+        "_f3": "Dati 2",
+        "_l3": "Etichetta 2",
+
+        "_f4": "Dati 3",
+        "_l4": "Etichetta 3",
+
+        "_f5": "Dati inferiori",
+        "_l5": "Etichetta inferiore",
+        "_p5": "Dati barra di progresso sinistra",
+
+        "_t3": "Font del testo",
+        "_s1": "Dimensione font testo superiore",
+        "_s2": "Dimensione font dati",
+        "_s3": "Dimensione font testo inferiore",
+        "_s4": "Dimensione font visualizzazione giorno (quando sovrascritto)",
+
+        "_no" : "Mostra icona notifica",
+        "_0f" : "Progresso dati superiori",
+        "_4f" : "Progresso dati inferiori",
+        "_1f" : "Pieno",
+        "_2f" : "Vuoto",
+        "_3f" : "Nascondi",
+
+        "_nt": "Testo BigSport (Non ridimensionabile)",
+
+        "_t1": "Font delle ore",
+        "_t1a": "Font delle ore AOD",
+  
+        "_t2": "Font dei minuti",
+        "_t2a": "Font dei minuti AOD",
+
+
+        "_f20": "Dati campo AOD superiore",
+        "_l20": "Dati campo AOD inferiore",
+
+        "_hc1": "Colore ora 1",
+        "_hc2": "Colore ora 2",
+        "_hc3": "Colore prima cifra ora 1",
+        "_hc4": "Colore prima cifra ora 2",
+
+        "_mc1": "Colore minuti 1",
+        "_mc2": "Colore minuti 2",
+
+        "_t24": "Formato 24h",
+        "_t0": "Mostra AM/PM",
+        "_t30": "Predefinito di sistema",
+        "_t33": "Disattivato",
+        "_t31": "Mostra in alto",
+        "_t32": "Mostra a destra",
+        
+        
+
+ 
+        "_fk": "Mantieni uguale",
+
+        "_sah" : "Uguale a Colore ora 1/2",
+
+        "ad0": "Spegni schermo",
+        "ad100": "AOD completo (Predefinito)",
+        "ad1": "Solo ora",
+        "ad4": "Ora + 2 campi dati",
+
+        "ad2": "Ora + data",
+        "ad5": "Ora + data + 2 campi dati",
+
+
+        "_m1": "Colore marcatore 1",
+        "_m2": "Colore marcatore 2",
+        
+        "_cp1": "Colore progresso superiore 1",
+        "_c21": "Colore progresso superiore 2",
+        "_cu1": "Colore progresso superiore non riempito",
+
+        "_cp2": "Colore progresso inferiore 1",
+        "_c22": "Colore progresso inferiore 2",
+        "_cu2": "Colore progresso inferiore non riempito",
+
+        "_bgc": "Colore sfondo",
+        "_bgl": "Colore linee sfondo",
+        "_cs": "70% più scuro",
+        "_cpbs" : "Uguale a barra progresso superiore",
+
+        "_stc" : "Uguale a colore testo",
+        "_slc" : "Uguale a colore etichetta",
+
+
+        "_c1": "Colore dati campo superiore",
+        "_c1l": "Colore etichetta campo superiore",
+
+        "_c2": "Colore dati 1",
+        "_c2l": "Colore etichetta 1",
+
+        "_c3": "Colore dati 2",
+        "_c3l": "Colore etichetta 2",
+
+        "_c4": "Colore dati 3",
+        "_c4l": "Colore etichetta 3",
+
+        "_c5": "Colore dati inferiori",
+        "_c5l": "Colore etichetta inferiore",
+
+        "_c7": "Colore numero data",
+        "_c7l": "Colore giorno data",
+        "_c8": "Colore AM/PM",
+        "_c9": "Colore icona notifica",
+
+
+
+        "_x4": "Carica preset precedente",
+        "_x3": "Carica tema colori precedente",
+
+        "_rst": "Ripristina tutte le impostazioni",
+        "_tr": "👉 SCORCIATOIE TOCCO",
+        "_tc": "🎨 COLORI / SFONDO",
+        "_tt": "🔤 FONT",
+        "_ta": "🖼️ IMPOSTAZIONI AOD (Display sempre attivo)",
+        "_to": "💡 ALTRO",
+        "_tx": "➡️ OFFSET",
+
+
+        "_o2": "Offset X campi (Alto, 1, 2, 3, Basso, Giorno) Predefinito: 20",
+        "_o3": "Offset Y campi (Alto, 1, 2, 3, Basso, Giorno) Predefinito: 20",
+        "_bdb": "Disegna sfondo numeri (minuti più nitidi, ore non visibili dietro)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Colore testo",
+        "_ic": "Colore etichetta",      
+
+        "_gq": "Qualità sfumatura",
+        "_ng": "Nessuna sfumatura",
+
+     
+
+        "_x2": "Carica tema colori successivo",
+        
+        "_a1": "Scorciatoia tocco ora sinistra",
+        "_a2": "Scorciatoia tocco ora destra",
+        "_a3": "Scorciatoia tocco minuto sinistra",
+        "_a4": "Scorciatoia tocco minuto destra",
+
+        "_aas": "Secondi sempre attivi",
+        "_aod": "Modalità AOD (Display sempre attivo)",
+        "_aodct": "Colore tinta ora AOD",
+        "_aodc": "Colore tinta dati AOD",
+        "_aodT": "Luminosità ora AOD",
+        "_aodD": "Luminosità dati AOD (Se lo schermo si spegne durante AOD, ridurre questo numero. Numero più basso = meno consumo batteria ma meno luminoso. Vedi FAQ)",
+        "_aodS": "Spostamento AOD (Numero di pixel di cui lo schermo si sposta casualmente al minuto per prevenire burn-in)"
+
+
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Marker 1 Podaci",
+        "_md2": "Marker 2 Podaci",
+
+        "_po": "Pomak trake napretka",
+        "_pl": "Dužina trake napretka",
+        "_lz": "Boja prve znamenke sata (Vidi FAQ)",
+        "_lz0": "Normalne boje sata",
+        "_lz1": "Druga boja za vodeću nulu (postavi ispod)",
+        "_lz2": "Druga boja za prvu znamenku (postavi ispod)",
+
+
+        "_ed": "Dan na engleskom",
+        "_f6": "Podaci prikaza dana",
+
+
+
+        "_f1": "Gornji podaci",
+        "_l1": "Gornja oznaka",
+        "_p1": "Traka napretka desno",
+
+        "_f2": "Podaci 1",
+        "_l2": "Oznaka 1",
+
+        "_f3": "Podaci 2",
+        "_l3": "Oznaka 2",
+
+        "_f4": "Podaci 3",
+        "_l4": "Oznaka 3",
+
+        "_f5": "Donji podaci",
+        "_l5": "Donja oznaka",
+        "_p5": "Traka napretka lijevo podaci",
+
+        "_t3": "Font teksta",
+        "_s1": "Veličina fonta gornjeg teksta",
+        "_s2": "Veličina fonta podataka",
+        "_s3": "Veličina fonta donjeg teksta",
+        "_s4": "Veličina fonta prikaza dana (pri nadjačavanju)",
+
+        "_no" : "Prikaži ikonu obavijesti",
+        "_0f" : "Napredak gornjih podataka",
+        "_4f" : "Napredak donjih podataka",
+        "_1f" : "Puno",
+        "_2f" : "Prazno",
+        "_3f" : "Sakrij",
+
+        "_nt": "BigSport Tekst (Nije moguće skalirati)",
+
+        "_t1": "Font sata",
+        "_t1a": "Font sata AOD",
+  
+        "_t2": "Font minuta",
+        "_t2a": "Font minuta AOD",
+
+
+        "_f20": "AOD Podaci polja gore",
+        "_l20": "AOD Podaci polja dolje",
+
+        "_hc1": "Boja sata 1",
+        "_hc2": "Boja sata 2",
+        "_hc3": "Boja prve znamenke sata 1",
+        "_hc4": "Boja prve znamenke sata 2",
+
+        "_mc1": "Boja minuta 1",
+        "_mc2": "Boja minuta 2",
+
+        "_t24": "24-satno vrijeme",
+        "_t0": "Prikaži AM/PM",
+        "_t30": "Zadano sustava",
+        "_t33": "Isključeno",
+        "_t31": "Prikaži gore",
+        "_t32": "Prikaži desno",
+        
+        
+
+ 
+        "_fk": "Zadrži isto",
+
+        "_sah" : "Isto kao Boja sata 1/2",
+
+        "ad0": "ISKLJUČI zaslon",
+        "ad100": "Puni AOD (Zadano)",
+        "ad1": "Samo vrijeme",
+        "ad4": "Vrijeme + 2 podatkovna polja",
+
+        "ad2": "Vrijeme + datum",
+        "ad5": "Vrijeme + datum + 2 podatkovna polja",
+
+
+        "_m1": "Marker 1 Boja",
+        "_m2": "Marker 2 Boja",
+        
+        "_cp1": "Gornja boja napretka 1",
+        "_c21": "Gornja boja napretka 2",
+        "_cu1": "Gornja boja napretka neispunjena",
+
+        "_cp2": "Donja boja napretka 1",
+        "_c22": "Donja boja napretka 2",
+        "_cu2": "Donja boja napretka neispunjena",
+
+        "_bgc": "Boja pozadine",
+        "_bgl": "Boja linija pozadine",
+        "_cs": "70% tamnije",
+        "_cpbs" : "Isto kao gornja traka napretka",
+
+        "_stc" : "Isto kao boja teksta",
+        "_slc" : "Isto kao boja oznake",
+
+
+        "_c1": "Boja podataka gornjeg polja",
+        "_c1l": "Boja oznake gornjeg polja",
+
+        "_c2": "Boja podataka 1",
+        "_c2l": "Boja oznake 1",
+
+        "_c3": "Boja podataka 2",
+        "_c3l": "Boja oznake 2",
+
+        "_c4": "Boja podataka 3",
+        "_c4l": "Boja oznake 3",
+
+        "_c5": "Boja donjih podataka",
+        "_c5l": "Boja donje oznake",
+
+        "_c7": "Boja broja datuma",
+        "_c7l": "Boja dana datuma",
+        "_c8": "Boja AM/PM",
+        "_c9": "Boja ikone obavijesti",
+
+
+
+        "_x4": "Učitaj prethodnu predpostavku",
+        "_x3": "Učitaj prethodnu temu boja",
+
+        "_rst": "Resetiraj sve postavke",
+        "_tr": "👉 DODIRNE PREČICE",
+        "_tc": "🎨 BOJE / POZADINA",
+        "_tt": "🔤 FONTOVI",
+        "_ta": "🖼️ AOD POSTAVKE (Uvijek uključen zaslon)",
+        "_to": "💡 OSTALO",
+        "_tx": "➡️ POMACI",
+
+
+        "_o2": "Pomaci polja X (Gornji, 1, 2, 3, Donji, Dan) Zadano: 20",
+        "_o3": "Pomaci polja Y (Gornji, 1, 2, 3, Donji, Dan) Zadano: 20",
+        "_bdb": "Nacrtaj pozadinu brojeva (oštrije minute, sati nisu vidljivi iza)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Boja teksta",
+        "_ic": "Boja oznake",      
+
+        "_gq": "Kvaliteta gradijenta",
+        "_ng": "Bez gradijenta",
+
+     
+
+        "_x2": "Učitaj sljedeću temu boja",
+        
+        "_a1": "Dodirna prečica sat lijevo",
+        "_a2": "Dodirna prečica sat desno",
+        "_a3": "Dodirna prečica minuta lijevo",
+        "_a4": "Dodirna prečica minuta desno",
+
+        "_aas": "Sekunde uvijek uključene",
+        "_aod": "AOD Način (Uvijek uključen zaslon)",
+        "_aodct": "AOD Boja nijanse vremena",
+        "_aodc": "AOD Boja nijanse podataka",
+        "_aodT": "AOD Svjetlina vremena",
+        "_aodD": "AOD Svjetlina podataka (Ako se zaslon isključi tijekom AOD-a, smanji ovaj broj. Manji broj = manja potrošnja baterije ali manja svjetlina. Vidi FAQ)",
+        "_aodS": "AOD Pomak (Broj piksela za koji se zaslon nasumično pomiče svake minute kako bi se spriječilo ugorijevanje)"
+
+
+    }
+}

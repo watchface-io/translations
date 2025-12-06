@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Markierung 1 Daten",
+        "_md2": "Markierung 2 Daten",
+
+        "_po": "Fortschrittsbalken Versatz",
+        "_pl": "Fortschrittsbalken Länge",
+        "_lz": "Erste Stundenziffer Farbe (Siehe FAQ)",
+        "_lz0": "Normale Stundenfarben",
+        "_lz1": "Andere Farbe für führende Null (unten einstellen)",
+        "_lz2": "Andere Farbe für erste Ziffer (unten einstellen)",
+
+
+        "_ed": "Tag auf Englisch",
+        "_f6": "Tagesanzeige Daten",
+
+
+
+        "_f1": "Obere Daten",
+        "_l1": "Obere Beschriftung",
+        "_p1": "Fortschrittsbalken rechts",
+
+        "_f2": "Daten 1",
+        "_l2": "Beschriftung 1",
+
+        "_f3": "Daten 2",
+        "_l3": "Beschriftung 2",
+
+        "_f4": "Daten 3",
+        "_l4": "Beschriftung 3",
+
+        "_f5": "Untere Daten",
+        "_l5": "Untere Beschriftung",
+        "_p5": "Fortschrittsbalken links Daten",
+
+        "_t3": "Textschriftart",
+        "_s1": "Obere Textschriftgröße",
+        "_s2": "Datenschriftgröße",
+        "_s3": "Untere Textschriftgröße",
+        "_s4": "Tagesanzeige Schriftgröße (wenn überschrieben)",
+
+        "_no" : "Benachrichtigungssymbol anzeigen",
+        "_0f" : "Obere Daten Fortschritt",
+        "_4f" : "Untere Daten Fortschritt",
+        "_1f" : "Voll",
+        "_2f" : "Leer",
+        "_3f" : "Ausblenden",
+
+        "_nt": "BigSport Text (Nicht skalierbar)",
+
+        "_t1": "Stundenschriftart",
+        "_t1a": "Stundenschriftart AOD",
+  
+        "_t2": "Minutenschriftart",
+        "_t2a": "Minutenschriftart AOD",
+
+
+        "_f20": "AOD Felddaten oben",
+        "_l20": "AOD Felddaten unten",
+
+        "_hc1": "Stundenfarbe 1",
+        "_hc2": "Stundenfarbe 2",
+        "_hc3": "Erste Stundenziffer Farbe 1",
+        "_hc4": "Erste Stundenziffer Farbe 2",
+
+        "_mc1": "Minutenfarbe 1",
+        "_mc2": "Minutenfarbe 2",
+
+        "_t24": "24h Zeit",
+        "_t0": "AM/PM anzeigen",
+        "_t30": "Systemstandard",
+        "_t33": "Aus",
+        "_t31": "Oben anzeigen",
+        "_t32": "Rechts anzeigen",
+        
+        
+
+ 
+        "_fk": "Gleich behalten",
+
+        "_sah" : "Gleich wie Stundenfarbe 1/2",
+
+        "ad0": "Bildschirm AUSSCHALTEN",
+        "ad100": "Vollständiges AOD (Standard)",
+        "ad1": "Nur Zeit",
+        "ad4": "Zeit + 2 Datenfelder",
+
+        "ad2": "Zeit + Datum",
+        "ad5": "Zeit + Datum + 2 Datenfelder",
+
+
+        "_m1": "Markierung 1 Farbe",
+        "_m2": "Markierung 2 Farbe",
+        
+        "_cp1": "Obere Fortschrittsfarbe 1",
+        "_c21": "Obere Fortschrittsfarbe 2",
+        "_cu1": "Obere Fortschrittsfarbe ungefüllt",
+
+        "_cp2": "Untere Fortschrittsfarbe 1",
+        "_c22": "Untere Fortschrittsfarbe 2",
+        "_cu2": "Untere Fortschrittsfarbe ungefüllt",
+
+        "_bgc": "Hintergrundfarbe",
+        "_bgl": "Hintergrundlinienfarbe",
+        "_cs": "70% dunkler",
+        "_cpbs" : "Gleich wie obere Fortschrittsleiste",
+
+        "_stc" : "Gleich wie Textfarbe",
+        "_slc" : "Gleich wie Beschriftungsfarbe",
+
+
+        "_c1": "Oberes Feld Datenfarbe",
+        "_c1l": "Oberes Feld Beschriftungsfarbe",
+
+        "_c2": "Daten 1 Farbe",
+        "_c2l": "Beschriftung 1 Farbe",
+
+        "_c3": "Daten 2 Farbe",
+        "_c3l": "Beschriftung 2 Farbe",
+
+        "_c4": "Daten 3 Farbe",
+        "_c4l": "Beschriftung 3 Farbe",
+
+        "_c5": "Untere Datenfarbe",
+        "_c5l": "Untere Beschriftungsfarbe",
+
+        "_c7": "Datumsnummernfarbe",
+        "_c7l": "Datumstagfarbe",
+        "_c8": "AM/PM Farbe",
+        "_c9": "Benachrichtigungssymbol Farbe",
+
+
+
+        "_x4": "Vorherige Voreinstellung laden",
+        "_x3": "Vorheriges Farbthema laden",
+
+        "_rst": "Alle Einstellungen zurücksetzen",
+        "_tr": "👉 BERÜHRUNGSVERKNÜPFUNGEN",
+        "_tc": "🎨 FARBEN / HINTERGRUND",
+        "_tt": "🔤 SCHRIFTARTEN",
+        "_ta": "🖼️ AOD EINSTELLUNGEN (Immer eingeschaltetes Display)",
+        "_to": "💡 ANDERE",
+        "_tx": "➡️ VERSÄTZE",
+
+
+        "_o2": "Feld X-Versätze (Oben, 1, 2, 3, Unten, Tag) Standard: 20",
+        "_o3": "Feld Y-Versätze (Oben, 1, 2, 3, Unten, Tag) Standard: 20",
+        "_bdb": "Zahlenhintergrund zeichnen (schärfere Minuten, Stunden nicht dahinter sichtbar)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Textfarbe",
+        "_ic": "Beschriftungsfarbe",      
+
+        "_gq": "Verlaufsqualität",
+        "_ng": "Kein Verlauf",
+
+     
+
+        "_x2": "Nächstes Farbthema laden",
+        
+        "_a1": "Berührungsverknüpfung Stunde links",
+        "_a2": "Berührungsverknüpfung Stunde rechts",
+        "_a3": "Berührungsverknüpfung Minute links",
+        "_a4": "Berührungsverknüpfung Minute rechts",
+
+        "_aas": "Sekunden immer an",
+        "_aod": "AOD Modus (Immer eingeschaltetes Display)",
+        "_aodct": "AOD Zeit Tönungsfarbe",
+        "_aodc": "AOD Daten Tönungsfarbe",
+        "_aodT": "AOD Zeit Helligkeit",
+        "_aodD": "AOD Daten Helligkeit (Wenn der Bildschirm während AOD ausgeht, diese Zahl verringern. Niedrigere Zahl = weniger Akkuverbrauch aber weniger hell. Siehe FAQ)",
+        "_aodS": "AOD Verschiebung (Anzahl der Pixel, um die der Bildschirm pro Minute zufällig verschoben wird, um Einbrennen zu verhindern)"
+
+
+    }
+}

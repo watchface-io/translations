@@ -1,4 +1,9 @@
 {    "settings": {
+
+        "_ms": "Styl průběhu značky",
+        "m360": "Pravidelný, 360 stupňů, 12 = 0% a 100%, 6 = 50%",
+        "m90": "Strany, Značka 1 Vlevo, Značka 2 Vpravo, viz Uživatelská příručka",
+
         "_x4": "Načíst předchozí předvolbu",
         "_x3": "Načíst předchozí barevné téma",
         "ad102": "Plný AOD - Alternativní spodní kruh nahoře",
@@ -209,6 +214,9 @@
         "ad1": "Pouze čas",
         "ad3": "Pouze čas - pohyblivý",
         "ad4": "Čas + datové pole (vyberte níže)",
-        "ad6": "Pohyblivý čas + datové pole"
+        "ad6": "Pohyblivý čas + datové pole",
+
+        "_aodB": "Jas kruhu AOD (když je kruh nahoře povolen)",
+        "_aodsame": "Stejný jako jas dat"
     }
 }

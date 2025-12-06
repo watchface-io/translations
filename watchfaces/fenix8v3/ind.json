@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Gaya kemajuan penanda",
+        "m360": "Reguler, 360 derajat, 12 = 0% dan 100%, 6 = 50%",
+        "m90": "Sisi, Penanda 1 Kiri, Penanda 2 Kanan, lihat Panduan Pengguna",
+
         "_x4": "Muat preset sebelumnya",
         "_x3": "Muat tema warna sebelumnya",
         "ad102": "AOD Penuh - Lingkaran bawah alternatif di atas",
@@ -209,6 +214,9 @@
         "ad1": "Hanya waktu",
         "ad3": "Hanya waktu - bergerak",
         "ad4": "Waktu + bidang data (pilih di bawah)",
-        "ad6": "Waktu bergerak + bidang data"
+        "ad6": "Waktu bergerak + bidang data",
+
+        "_aodB": "Kecerahan lingkaran AOD (ketika lingkaran di atas diaktifkan)",
+        "_aodsame": "Sama dengan kecerahan data"
     }
 }

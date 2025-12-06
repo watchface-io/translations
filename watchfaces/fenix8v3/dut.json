@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Markeerder voortgangsstijl",
+        "m360": "Regulier, 360 graden, 12 = 0% en 100%, 6 = 50%",
+        "m90": "Zijkanten, Markeerder 1 Links, Markeerder 2 Rechts, zie Gebruikershandleiding",
+
         "_x4": "Vorige voorinstelling laden",
         "_x3": "Vorig kleurenthema laden",
         "ad102": "Volledige AOD - Alternatieve onderste cirkel bovenaan",
@@ -209,6 +214,9 @@
         "ad1": "Alleen tijd",
         "ad3": "Alleen tijd - bewegend",
         "ad4": "Tijd + gegevensveld (selecteer hieronder)",
-        "ad6": "Bewegende tijd + gegevensveld"
+        "ad6": "Bewegende tijd + gegevensveld",
+
+        "_aodB": "AOD cirkel helderheid (wanneer cirkel bovenaan is ingeschakeld)",
+        "_aodsame": "Hetzelfde als gegevenshelderheid"
     }
 }

@@ -1,6 +1,10 @@
 {
     "settings": {
 
+        "_ms": "Marker Progress Style",
+        "m360": "Regular, 360 degrees, 12 = 0% and 100%, 6 = 50%",
+        "m90": "Sides, Marker 1 Left, Marker 2 Right, see User Guide",
+
         "_x4": "Load Previous Preset",
         "_x3": "Load Previous Color Theme",
         "ad102": "Full AOD - Bottom circle on top with AOD datafield",
@@ -215,6 +219,7 @@
         "_aodc": "AOD Data Tint Color",
         "_aodT": "AOD Time Brightness",
         "_aodD": "AOD Data Brightness. If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+
         "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
         "_f20": "AOD Field Data",
         "_l20": "AOD Field Label",
@@ -224,11 +229,9 @@
         "ad1": "Time Only",
         "ad3": "Time Only - Moving",
         "ad4": "Time + data field (Select Below)",
-        "ad6": "Time Moving + data field"
+        "ad6": "Time Moving + data field",
 
-        
-
-
-        
+        "_aodB": "AOD Circle Brightness (when circle on top is enabled)",
+        "_aodsame": "Same as Data Brightness"        
     }
 }

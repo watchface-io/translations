@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Gaya kemajuan penanda",
+        "m360": "Biasa, 360 darjah, 12 = 0% dan 100%, 6 = 50%",
+        "m90": "Sisi, Penanda 1 Kiri, Penanda 2 Kanan, lihat Panduan Pengguna",
+
         "_x4": "Muatkan pratetap sebelumnya",
         "_x3": "Muatkan tema warna sebelumnya",
         "ad102": "AOD penuh - Bulatan bawah alternatif di atas",
@@ -222,11 +227,9 @@
         "ad1": "Masa Sahaja",
         "ad3": "Masa Sahaja - Bergerak",
         "ad4": "Masa + medan data (Pilih Di Bawah)",
-        "ad6": "Masa Bergerak + medan data"
+        "ad6": "Masa Bergerak + medan data",
 
-        
-
-
-        
+        "_aodB": "Kecerahan bulatan AOD (apabila bulatan di atas diaktifkan)",
+        "_aodsame": "Sama dengan kecerahan data"
     }
 }

@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Marķiera progresa stils",
+        "m360": "Parasts, 360 grādi, 12 = 0% un 100%, 6 = 50%",
+        "m90": "Malas, Marķieris 1 Kreisais, Marķieris 2 Labais, skatiet Lietošanas rocībgrrāmatu",
+
         "_x4": "Ielādēt iepriekšējo sākotnējo iestatījumu",
         "_x3": "Ielādēt iepriekšējo krāsu tēmu",
         "ad102": "Pilns AOD - Alternatīvs apakšējais aplis augšpusē",
@@ -223,11 +228,9 @@
         "ad1": "Tikai laiks",
         "ad3": "Tikai laiks - kustīgs",
         "ad4": "Laiks + datu lauks (Izvēlieties zemāk)",
-        "ad6": "Kustīgs laiks + datu lauks"
+        "ad6": "Kustīgs laiks + datu lauks",
 
-        
-
-
-        
+        "_aodB": "AOD apkārtnes spilgtums (kad augšējais aplis ir iespējots)",
+        "_aodsame": "Tāds pats kā datu spilgtums"
     }
 }

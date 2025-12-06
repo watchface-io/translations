@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Penanda 1 Data",
+        "_md2": "Penanda 2 Data",
+
+        "_po": "Ofset Bar Kemajuan",
+        "_pl": "Panjang Bar Kemajuan",
+        "_lz": "Warna digit pertama jam (Lihat FAQ)",
+        "_lz0": "Warna jam biasa",
+        "_lz1": "Warna berbeza untuk sifar pendahulu (tetapkan di bawah)",
+        "_lz2": "Warna berbeza untuk digit pertama (tetapkan di bawah)",
+
+
+        "_ed": "Hari dalam Bahasa Inggeris",
+        "_f6": "Data paparan hari",
+
+
+
+        "_f1": "Data atas",
+        "_l1": "Label atas",
+        "_p1": "Bar kemajuan kanan",
+
+        "_f2": "Data 1",
+        "_l2": "Label 1",
+
+        "_f3": "Data 2",
+        "_l3": "Label 2",
+
+        "_f4": "Data 3",
+        "_l4": "Label 3",
+
+        "_f5": "Data bawah",
+        "_l5": "Label bawah",
+        "_p5": "Bar kemajuan kiri data",
+
+        "_t3": "Fon teks",
+        "_s1": "Saiz fon teks atas",
+        "_s2": "Saiz fon data",
+        "_s3": "Saiz fon teks bawah",
+        "_s4": "Saiz fon paparan hari (apabila ditindih)",
+
+        "_no" : "Tunjukkan ikon pemberitahuan",
+        "_0f" : "Kemajuan data atas",
+        "_4f" : "Kemajuan data bawah",
+        "_1f" : "Penuh",
+        "_2f" : "Kosong",
+        "_3f" : "Sembunyikan",
+
+        "_nt": "BigSport Teks (Tidak boleh diskalakan)",
+
+        "_t1": "Fon jam",
+        "_t1a": "Fon jam AOD",
+  
+        "_t2": "Fon minit",
+        "_t2a": "Fon minit AOD",
+
+
+        "_f20": "AOD Data medan atas",
+        "_l20": "AOD Data medan bawah",
+
+        "_hc1": "Warna jam 1",
+        "_hc2": "Warna jam 2",
+        "_hc3": "Warna digit pertama jam 1",
+        "_hc4": "Warna digit pertama jam 2",
+
+        "_mc1": "Warna minit 1",
+        "_mc2": "Warna minit 2",
+
+        "_t24": "Masa 24 jam",
+        "_t0": "Tunjukkan AM/PM",
+        "_t30": "Lalai sistem",
+        "_t33": "Mati",
+        "_t31": "Tunjukkan di atas",
+        "_t32": "Tunjukkan di kanan",
+        
+        
+
+ 
+        "_fk": "Kekalkan sama",
+
+        "_sah" : "Sama dengan Warna jam 1/2",
+
+        "ad0": "MATIKAN skrin",
+        "ad100": "AOD Penuh (Lalai)",
+        "ad1": "Masa sahaja",
+        "ad4": "Masa + 2 medan data",
+
+        "ad2": "Masa + tarikh",
+        "ad5": "Masa + tarikh + 2 medan data",
+
+
+        "_m1": "Penanda 1 Warna",
+        "_m2": "Penanda 2 Warna",
+        
+        "_cp1": "Warna kemajuan atas 1",
+        "_c21": "Warna kemajuan atas 2",
+        "_cu1": "Warna kemajuan atas tidak diisi",
+
+        "_cp2": "Warna kemajuan bawah 1",
+        "_c22": "Warna kemajuan bawah 2",
+        "_cu2": "Warna kemajuan bawah tidak diisi",
+
+        "_bgc": "Warna latar belakang",
+        "_bgl": "Warna garisan latar belakang",
+        "_cs": "70% lebih gelap",
+        "_cpbs" : "Sama dengan bar kemajuan atas",
+
+        "_stc" : "Sama dengan warna teks",
+        "_slc" : "Sama dengan warna label",
+
+
+        "_c1": "Warna data medan atas",
+        "_c1l": "Warna label medan atas",
+
+        "_c2": "Warna data 1",
+        "_c2l": "Warna label 1",
+
+        "_c3": "Warna data 2",
+        "_c3l": "Warna label 2",
+
+        "_c4": "Warna data 3",
+        "_c4l": "Warna label 3",
+
+        "_c5": "Warna data bawah",
+        "_c5l": "Warna label bawah",
+
+        "_c7": "Warna nombor tarikh",
+        "_c7l": "Warna hari tarikh",
+        "_c8": "Warna AM/PM",
+        "_c9": "Warna ikon pemberitahuan",
+
+
+
+        "_x4": "Muat pratetap sebelumnya",
+        "_x3": "Muat tema warna sebelumnya",
+
+        "_rst": "Tetapkan semula semua tetapan",
+        "_tr": "👉 PINTASAN SENTUH",
+        "_tc": "🎨 WARNA / LATAR BELAKANG",
+        "_tt": "🔤 FON",
+        "_ta": "🖼️ TETAPAN AOD (Paparan sentiasa hidup)",
+        "_to": "💡 LAIN-LAIN",
+        "_tx": "➡️ OFSET",
+
+
+        "_o2": "Ofset X Medan (Atas, 1, 2, 3, Bawah, Hari) Lalai: 20",
+        "_o3": "Ofset Y Medan (Atas, 1, 2, 3, Bawah, Hari) Lalai: 20",
+        "_bdb": "Lukis latar belakang nombor (minit lebih tajam, jam tidak kelihatan di belakang)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Warna teks",
+        "_ic": "Warna label",      
+
+        "_gq": "Kualiti kecerunan",
+        "_ng": "Tiada kecerunan",
+
+     
+
+        "_x2": "Muat tema warna seterusnya",
+        
+        "_a1": "Pintasan sentuh jam kiri",
+        "_a2": "Pintasan sentuh jam kanan",
+        "_a3": "Pintasan sentuh minit kiri",
+        "_a4": "Pintasan sentuh minit kanan",
+
+        "_aas": "Saat sentiasa hidup",
+        "_aod": "Mod AOD (Paparan sentiasa hidup)",
+        "_aodct": "AOD Warna ton masa",
+        "_aodc": "AOD Warna ton data",
+        "_aodT": "AOD Kecerahan masa",
+        "_aodD": "AOD Kecerahan data (Jika skrin mati semasa AOD, kurangkan nombor ini. Nombor lebih rendah = penggunaan bateri lebih sedikit tetapi kecerahan lebih rendah. Lihat FAQ)",
+        "_aodS": "AOD Ofset (Bilangan piksel skrin beralih secara rawak setiap minit untuk mengelakkan burn-in)"
+
+
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "İşaretçi 1 Veri",
+        "_md2": "İşaretçi 2 Veri",
+
+        "_po": "İlerleme Çubuğu Ofseti",
+        "_pl": "İlerleme Çubuğu Uzunluğu",
+        "_lz": "Saat ilk basamak rengi (SSS'ye bakın)",
+        "_lz0": "Normal saat renkleri",
+        "_lz1": "Baştaki sıfır için farklı renk (aşağıda ayarlayın)",
+        "_lz2": "İlk basamak için farklı renk (aşağıda ayarlayın)",
+
+
+        "_ed": "Gün İngilizce",
+        "_f6": "Gün gösterimi verileri",
+
+
+
+        "_f1": "Üst veri",
+        "_l1": "Üst etiket",
+        "_p1": "Sağ ilerleme çubuğu",
+
+        "_f2": "Veri 1",
+        "_l2": "Etiket 1",
+
+        "_f3": "Veri 2",
+        "_l3": "Etiket 2",
+
+        "_f4": "Veri 3",
+        "_l4": "Etiket 3",
+
+        "_f5": "Alt veri",
+        "_l5": "Alt etiket",
+        "_p5": "Sol ilerleme çubuğu verileri",
+
+        "_t3": "Metin yazı tipi",
+        "_s1": "Üst metin yazı tipi boyutu",
+        "_s2": "Veri yazı tipi boyutu",
+        "_s3": "Alt metin yazı tipi boyutu",
+        "_s4": "Gün gösterimi yazı tipi boyutu (geçersiz kılındığında)",
+
+        "_no" : "Bildirim simgesini göster",
+        "_0f" : "Üst veri ilerlemesi",
+        "_4f" : "Alt veri ilerlemesi",
+        "_1f" : "Dolu",
+        "_2f" : "Boş",
+        "_3f" : "Gizle",
+
+        "_nt": "BigSport Metin (Boyutlandırılamaz)",
+
+        "_t1": "Saat yazı tipi",
+        "_t1a": "Saat yazı tipi AOD",
+  
+        "_t2": "Dakika yazı tipi",
+        "_t2a": "Dakika yazı tipi AOD",
+
+
+        "_f20": "AOD Üst alan verileri",
+        "_l20": "AOD Alt alan verileri",
+
+        "_hc1": "Saat rengi 1",
+        "_hc2": "Saat rengi 2",
+        "_hc3": "Saat ilk basamak rengi 1",
+        "_hc4": "Saat ilk basamak rengi 2",
+
+        "_mc1": "Dakika rengi 1",
+        "_mc2": "Dakika rengi 2",
+
+        "_t24": "24 saat formatı",
+        "_t0": "AM/PM göster",
+        "_t30": "Sistem varsayılanı",
+        "_t33": "Kapalı",
+        "_t31": "Üstte göster",
+        "_t32": "Sağda göster",
+        
+        
+
+ 
+        "_fk": "Aynı tut",
+
+        "_sah" : "Saat rengi 1/2 ile aynı",
+
+        "ad0": "Ekranı KAPAT",
+        "ad100": "Tam AOD (Varsayılan)",
+        "ad1": "Sadece saat",
+        "ad4": "Saat + 2 veri alanı",
+
+        "ad2": "Saat + tarih",
+        "ad5": "Saat + tarih + 2 veri alanı",
+
+
+        "_m1": "İşaretçi 1 Renk",
+        "_m2": "İşaretçi 2 Renk",
+        
+        "_cp1": "Üst ilerleme rengi 1",
+        "_c21": "Üst ilerleme rengi 2",
+        "_cu1": "Üst ilerleme rengi doldurulmamış",
+
+        "_cp2": "Alt ilerleme rengi 1",
+        "_c22": "Alt ilerleme rengi 2",
+        "_cu2": "Alt ilerleme rengi doldurulmamış",
+
+        "_bgc": "Arka plan rengi",
+        "_bgl": "Arka plan çizgileri rengi",
+        "_cs": "%70 daha koyu",
+        "_cpbs" : "Üst ilerleme çubuğu ile aynı",
+
+        "_stc" : "Metin rengi ile aynı",
+        "_slc" : "Etiket rengi ile aynı",
+
+
+        "_c1": "Üst alan veri rengi",
+        "_c1l": "Üst alan etiket rengi",
+
+        "_c2": "Veri 1 rengi",
+        "_c2l": "Etiket 1 rengi",
+
+        "_c3": "Veri 2 rengi",
+        "_c3l": "Etiket 2 rengi",
+
+        "_c4": "Veri 3 rengi",
+        "_c4l": "Etiket 3 rengi",
+
+        "_c5": "Alt veri rengi",
+        "_c5l": "Alt etiket rengi",
+
+        "_c7": "Tarih sayısı rengi",
+        "_c7l": "Tarih günü rengi",
+        "_c8": "AM/PM rengi",
+        "_c9": "Bildirim simgesi rengi",
+
+
+
+        "_x4": "Önceki ön ayarı yükle",
+        "_x3": "Önceki renk temasını yükle",
+
+        "_rst": "Tüm ayarları sıfırla",
+        "_tr": "👉 DOKUNMA KISAYOLLARI",
+        "_tc": "🎨 RENKLER / ARKA PLAN",
+        "_tt": "🔤 YAZI TİPLERİ",
+        "_ta": "🖼️ AOD AYARLARI (Her zaman açık ekran)",
+        "_to": "💡 DİĞER",
+        "_tx": "➡️ OFSETLER",
+
+
+        "_o2": "Alan X Ofsetleri (Üst, 1, 2, 3, Alt, Gün) Varsayılan: 20",
+        "_o3": "Alan Y Ofsetleri (Üst, 1, 2, 3, Alt, Gün) Varsayılan: 20",
+        "_bdb": "Sayı arka planı çiz (daha keskin dakikalar, saatler arkada görünmez)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Metin rengi",
+        "_ic": "Etiket rengi",      
+
+        "_gq": "Gradyan kalitesi",
+        "_ng": "Gradyan yok",
+
+     
+
+        "_x2": "Sonraki renk temasını yükle",
+        
+        "_a1": "Dokunma kısayolu saat sol",
+        "_a2": "Dokunma kısayolu saat sağ",
+        "_a3": "Dokunma kısayolu dakika sol",
+        "_a4": "Dokunma kısayolu dakika sağ",
+
+        "_aas": "Saniyeler her zaman açık",
+        "_aod": "AOD Modu (Her zaman açık ekran)",
+        "_aodct": "AOD Saat ton rengi",
+        "_aodc": "AOD Veri ton rengi",
+        "_aodT": "AOD Saat parlaklığı",
+        "_aodD": "AOD Veri parlaklığı (AOD sırasında ekran kapanırsa bu sayıyı düşürün. Düşük sayı = daha az pil tüketimi ama daha az parlaklık. SSS'ye bakın)",
+        "_aodS": "AOD Ofset (Yanmayı önlemek için ekranın dakikada rastgele kaydığı piksel sayısı)"
+
+
+    }
+}

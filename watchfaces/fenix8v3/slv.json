@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Slog napredka označevalca",
+        "m360": "Običajno, 360 stopinj, 12 = 0% in 100%, 6 = 50%",
+        "m90": "Stranice, Označevalec 1 Levo, Označevalec 2 Desno, glejte Uporabniški priročnik",
+
         "_x4": "Naloži prejšnjo prednastavitev",
         "_x3": "Naloži prejšnjo barvno temo",
         "ad102": "Poln AOD - Alternativni spodnji krog na vrhu",
@@ -209,6 +214,9 @@
         "ad1": "Samo čas",
         "ad3": "Samo čas - premikajoč",
         "ad4": "Čas + podatkovno polje (izberi spodaj)",
-        "ad6": "Premikajoč čas + podatkovno polje"
+        "ad6": "Premikajoč čas + podatkovno polje",
+
+        "_aodB": "Svetlost kroga AOD (ko je krog na vrhu omogočen)",
+        "_aodsame": "Enako kot svetlost podatkov"
     }
 }

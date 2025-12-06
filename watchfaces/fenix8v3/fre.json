@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Style de progression du marqueur",
+        "m360": "Régulier, 360 degrés, 12 = 0% et 100%, 6 = 50%",
+        "m90": "Côtés, Marqueur 1 Gauche, Marqueur 2 Droite, voir Guide de l'utilisateur",
+
         "_x4": "Charger le préréglage précédent",
         "_x3": "Charger le thème de couleurs précédent",
         "ad102": "AOD complet - Cercle inférieur alternatif en haut",
@@ -209,6 +214,9 @@
         "ad1": "Heure seulement",
         "ad3": "Heure seulement - mobile",
         "ad4": "Heure + champ de données (sélectionner ci-dessous)",
-        "ad6": "Heure mobile + champ de données"
+        "ad6": "Heure mobile + champ de données",
+
+        "_aodB": "Luminosité du cercle AOD (lorsque le cercle en haut est activé)",
+        "_aodsame": "Identique à la luminosité des données"
     }
 }

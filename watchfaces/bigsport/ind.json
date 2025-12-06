@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Penanda 1 Data",
+        "_md2": "Penanda 2 Data",
+
+        "_po": "Offset Bar Progres",
+        "_pl": "Panjang Bar Progres",
+        "_lz": "Warna digit pertama jam (Lihat FAQ)",
+        "_lz0": "Warna jam normal",
+        "_lz1": "Warna berbeda untuk nol di depan (atur di bawah)",
+        "_lz2": "Warna berbeda untuk digit pertama (atur di bawah)",
+
+
+        "_ed": "Hari dalam Bahasa Inggris",
+        "_f6": "Data tampilan hari",
+
+
+
+        "_f1": "Data atas",
+        "_l1": "Label atas",
+        "_p1": "Bar progres kanan",
+
+        "_f2": "Data 1",
+        "_l2": "Label 1",
+
+        "_f3": "Data 2",
+        "_l3": "Label 2",
+
+        "_f4": "Data 3",
+        "_l4": "Label 3",
+
+        "_f5": "Data bawah",
+        "_l5": "Label bawah",
+        "_p5": "Bar progres kiri data",
+
+        "_t3": "Font teks",
+        "_s1": "Ukuran font teks atas",
+        "_s2": "Ukuran font data",
+        "_s3": "Ukuran font teks bawah",
+        "_s4": "Ukuran font tampilan hari (saat override)",
+
+        "_no" : "Tampilkan ikon notifikasi",
+        "_0f" : "Progres data atas",
+        "_4f" : "Progres data bawah",
+        "_1f" : "Penuh",
+        "_2f" : "Kosong",
+        "_3f" : "Sembunyikan",
+
+        "_nt": "BigSport Teks (Tidak bisa diskalakan)",
+
+        "_t1": "Font jam",
+        "_t1a": "Font jam AOD",
+  
+        "_t2": "Font menit",
+        "_t2a": "Font menit AOD",
+
+
+        "_f20": "AOD Data field atas",
+        "_l20": "AOD Data field bawah",
+
+        "_hc1": "Warna jam 1",
+        "_hc2": "Warna jam 2",
+        "_hc3": "Warna digit pertama jam 1",
+        "_hc4": "Warna digit pertama jam 2",
+
+        "_mc1": "Warna menit 1",
+        "_mc2": "Warna menit 2",
+
+        "_t24": "Waktu 24 jam",
+        "_t0": "Tampilkan AM/PM",
+        "_t30": "Default sistem",
+        "_t33": "Mati",
+        "_t31": "Tampilkan di atas",
+        "_t32": "Tampilkan di kanan",
+        
+        
+
+ 
+        "_fk": "Tetap sama",
+
+        "_sah" : "Sama dengan Warna jam 1/2",
+
+        "ad0": "MATIKAN layar",
+        "ad100": "AOD Penuh (Default)",
+        "ad1": "Hanya waktu",
+        "ad4": "Waktu + 2 field data",
+
+        "ad2": "Waktu + tanggal",
+        "ad5": "Waktu + tanggal + 2 field data",
+
+
+        "_m1": "Penanda 1 Warna",
+        "_m2": "Penanda 2 Warna",
+        
+        "_cp1": "Warna progres atas 1",
+        "_c21": "Warna progres atas 2",
+        "_cu1": "Warna progres atas tidak terisi",
+
+        "_cp2": "Warna progres bawah 1",
+        "_c22": "Warna progres bawah 2",
+        "_cu2": "Warna progres bawah tidak terisi",
+
+        "_bgc": "Warna latar belakang",
+        "_bgl": "Warna garis latar belakang",
+        "_cs": "70% lebih gelap",
+        "_cpbs" : "Sama dengan bar progres atas",
+
+        "_stc" : "Sama dengan warna teks",
+        "_slc" : "Sama dengan warna label",
+
+
+        "_c1": "Warna data field atas",
+        "_c1l": "Warna label field atas",
+
+        "_c2": "Warna data 1",
+        "_c2l": "Warna label 1",
+
+        "_c3": "Warna data 2",
+        "_c3l": "Warna label 2",
+
+        "_c4": "Warna data 3",
+        "_c4l": "Warna label 3",
+
+        "_c5": "Warna data bawah",
+        "_c5l": "Warna label bawah",
+
+        "_c7": "Warna nomor tanggal",
+        "_c7l": "Warna hari tanggal",
+        "_c8": "Warna AM/PM",
+        "_c9": "Warna ikon notifikasi",
+
+
+
+        "_x4": "Muat preset sebelumnya",
+        "_x3": "Muat tema warna sebelumnya",
+
+        "_rst": "Reset semua pengaturan",
+        "_tr": "👉 PINTASAN SENTUH",
+        "_tc": "🎨 WARNA / LATAR BELAKANG",
+        "_tt": "🔤 FONT",
+        "_ta": "🖼️ PENGATURAN AOD (Layar selalu aktif)",
+        "_to": "💡 LAINNYA",
+        "_tx": "➡️ OFFSET",
+
+
+        "_o2": "Offset X Field (Atas, 1, 2, 3, Bawah, Hari) Default: 20",
+        "_o3": "Offset Y Field (Atas, 1, 2, 3, Bawah, Hari) Default: 20",
+        "_bdb": "Gambar latar belakang angka (menit lebih tajam, jam tidak terlihat di belakang)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Warna teks",
+        "_ic": "Warna label",      
+
+        "_gq": "Kualitas gradien",
+        "_ng": "Tanpa gradien",
+
+     
+
+        "_x2": "Muat tema warna berikutnya",
+        
+        "_a1": "Pintasan sentuh jam kiri",
+        "_a2": "Pintasan sentuh jam kanan",
+        "_a3": "Pintasan sentuh menit kiri",
+        "_a4": "Pintasan sentuh menit kanan",
+
+        "_aas": "Detik selalu aktif",
+        "_aod": "Mode AOD (Layar selalu aktif)",
+        "_aodct": "AOD Warna tint waktu",
+        "_aodc": "AOD Warna tint data",
+        "_aodT": "AOD Kecerahan waktu",
+        "_aodD": "AOD Kecerahan data (Jika layar mati saat AOD, kurangi angka ini. Angka lebih rendah = konsumsi baterai lebih sedikit tapi kecerahan lebih rendah. Lihat FAQ)",
+        "_aodS": "AOD Offset (Jumlah piksel layar bergeser secara acak per menit untuk mencegah burn-in)"
+
+
+    }
+}

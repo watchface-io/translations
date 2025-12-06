@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Marker 1 Podatki",
+        "_md2": "Marker 2 Podatki",
+
+        "_po": "Odmik vrstice napredka",
+        "_pl": "Dolžina vrstice napredka",
+        "_lz": "Barva prve številke ure (Glejte Pogosta vprašanja)",
+        "_lz0": "Običajne barve ur",
+        "_lz1": "Druga barva za vodilno ničlo (nastavi spodaj)",
+        "_lz2": "Druga barva za prvo številko (nastavi spodaj)",
+
+
+        "_ed": "Dan v angleščini",
+        "_f6": "Podatki prikaza dneva",
+
+
+
+        "_f1": "Zgornji podatki",
+        "_l1": "Zgornja oznaka",
+        "_p1": "Vrstica napredka desno",
+
+        "_f2": "Podatki 1",
+        "_l2": "Oznaka 1",
+
+        "_f3": "Podatki 2",
+        "_l3": "Oznaka 2",
+
+        "_f4": "Podatki 3",
+        "_l4": "Oznaka 3",
+
+        "_f5": "Spodnji podatki",
+        "_l5": "Spodnja oznaka",
+        "_p5": "Vrstica napredka levo podatki",
+
+        "_t3": "Pisava besedila",
+        "_s1": "Velikost pisave zgornjega besedila",
+        "_s2": "Velikost pisave podatkov",
+        "_s3": "Velikost pisave spodnjega besedila",
+        "_s4": "Velikost pisave prikaza dneva (ob preglasitvi)",
+
+        "_no" : "Prikaži ikono obvestila",
+        "_0f" : "Napredek zgornjih podatkov",
+        "_4f" : "Napredek spodnjih podatkov",
+        "_1f" : "Polno",
+        "_2f" : "Prazno",
+        "_3f" : "Skrij",
+
+        "_nt": "BigSport Besedilo (Ni mogoče spreminjati velikosti)",
+
+        "_t1": "Pisava ur",
+        "_t1a": "Pisava ur AOD",
+  
+        "_t2": "Pisava minut",
+        "_t2a": "Pisava minut AOD",
+
+
+        "_f20": "AOD Podatki polja zgoraj",
+        "_l20": "AOD Podatki polja spodaj",
+
+        "_hc1": "Barva ure 1",
+        "_hc2": "Barva ure 2",
+        "_hc3": "Barva prve številke ure 1",
+        "_hc4": "Barva prve številke ure 2",
+
+        "_mc1": "Barva minute 1",
+        "_mc2": "Barva minute 2",
+
+        "_t24": "24-urni čas",
+        "_t0": "Prikaži AM/PM",
+        "_t30": "Sistemska privzeta vrednost",
+        "_t33": "Izklopljeno",
+        "_t31": "Prikaži zgoraj",
+        "_t32": "Prikaži desno",
+        
+        
+
+ 
+        "_fk": "Ohrani enako",
+
+        "_sah" : "Enako kot Barva ure 1/2",
+
+        "ad0": "IZKLOPI zaslon",
+        "ad100": "Polni AOD (Privzeto)",
+        "ad1": "Samo čas",
+        "ad4": "Čas + 2 podatkovni polji",
+
+        "ad2": "Čas + datum",
+        "ad5": "Čas + datum + 2 podatkovni polji",
+
+
+        "_m1": "Barva markerja 1",
+        "_m2": "Barva markerja 2",
+        
+        "_cp1": "Zgornja barva napredka 1",
+        "_c21": "Zgornja barva napredka 2",
+        "_cu1": "Zgornja barva napredka neizpolnjena",
+
+        "_cp2": "Spodnja barva napredka 1",
+        "_c22": "Spodnja barva napredka 2",
+        "_cu2": "Spodnja barva napredka neizpolnjena",
+
+        "_bgc": "Barva ozadja",
+        "_bgl": "Barva črt ozadja",
+        "_cs": "70% temnejša",
+        "_cpbs" : "Enako kot zgornja vrstica napredka",
+
+        "_stc" : "Enako kot barva besedila",
+        "_slc" : "Enako kot barva oznake",
+
+
+        "_c1": "Barva podatkov zgornjega polja",
+        "_c1l": "Barva oznake zgornjega polja",
+
+        "_c2": "Barva podatkov 1",
+        "_c2l": "Barva oznake 1",
+
+        "_c3": "Barva podatkov 2",
+        "_c3l": "Barva oznake 2",
+
+        "_c4": "Barva podatkov 3",
+        "_c4l": "Barva oznake 3",
+
+        "_c5": "Barva spodnjih podatkov",
+        "_c5l": "Barva spodnje oznake",
+
+        "_c7": "Barva številke datuma",
+        "_c7l": "Barva dneva datuma",
+        "_c8": "Barva AM/PM",
+        "_c9": "Barva ikone obvestila",
+
+
+
+        "_x4": "Naloži prejšnjo prednastavitev",
+        "_x3": "Naloži prejšnjo barvno temo",
+
+        "_rst": "Ponastavi vse nastavitve",
+        "_tr": "👉 BLIŽNJICE NA DOTIK",
+        "_tc": "🎨 BARVE / OZADJE",
+        "_tt": "🔤 PISAVE",
+        "_ta": "🖼️ NASTAVITVE AOD (Vedno vklopljen zaslon)",
+        "_to": "💡 DRUGO",
+        "_tx": "➡️ ODMIKI",
+
+
+        "_o2": "Odmiki polja X (Zgoraj, 1, 2, 3, Spodaj, Dan) Privzeto: 20",
+        "_o3": "Odmiki polja Y (Zgoraj, 1, 2, 3, Spodaj, Dan) Privzeto: 20",
+        "_bdb": "Nariši ozadje številk (ostrejše minute, ure niso vidne zadaj)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Barva besedila",
+        "_ic": "Barva oznake",      
+
+        "_gq": "Kakovost preliva",
+        "_ng": "Brez preliva",
+
+     
+
+        "_x2": "Naloži naslednjo barvno temo",
+        
+        "_a1": "Bližnjica na dotik ura levo",
+        "_a2": "Bližnjica na dotik ura desno",
+        "_a3": "Bližnjica na dotik minuta levo",
+        "_a4": "Bližnjica na dotik minuta desno",
+
+        "_aas": "Sekunde vedno vklopljene",
+        "_aod": "Način AOD (Vedno vklopljen zaslon)",
+        "_aodct": "AOD Barva odtenka časa",
+        "_aodc": "AOD Barva odtenka podatkov",
+        "_aodT": "AOD Svetlost časa",
+        "_aodD": "AOD Svetlost podatkov (Če se zaslon izklopi med AOD, zmanjšaj to številko. Manjša številka = manjša poraba baterije, a manjša svetlost. Glejte Pogosta vprašanja)",
+        "_aodS": "AOD Odmik (Število pikslov, za katere se zaslon naključno premakne vsako minuto, da prepreči vžiganje)"
+
+
+    }
+}

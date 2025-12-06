@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Marker 1 Andmed",
+        "_md2": "Marker 2 Andmed",
+
+        "_po": "Edenemisriba Nihe",
+        "_pl": "Edenemisriba Pikkus",
+        "_lz": "Tunni esimese numbri värv (Vt KKK)",
+        "_lz0": "Tavalised tunnivärvid",
+        "_lz1": "Teine värv esimesele nullile (seadista allpool)",
+        "_lz2": "Teine värv esimesele numbrile (seadista allpool)",
+
+
+        "_ed": "Päev inglise keeles",
+        "_f6": "Päevakuva andmed",
+
+
+
+        "_f1": "Ülemine andmed",
+        "_l1": "Ülemine silt",
+        "_p1": "Edenemisriba paremal",
+
+        "_f2": "Andmed 1",
+        "_l2": "Silt 1",
+
+        "_f3": "Andmed 2",
+        "_l3": "Silt 2",
+
+        "_f4": "Andmed 3",
+        "_l4": "Silt 3",
+
+        "_f5": "Alumine andmed",
+        "_l5": "Alumine silt",
+        "_p5": "Edenemisriba vasakul andmed",
+
+        "_t3": "Teksti font",
+        "_s1": "Ülemise teksti fondisuurus",
+        "_s2": "Andmete fondisuurus",
+        "_s3": "Alumise teksti fondisuurus",
+        "_s4": "Päevakuva fondisuurus (alistamisel)",
+
+        "_no" : "Näita teavituse ikooni",
+        "_0f" : "Ülemise andmete edenemine",
+        "_4f" : "Alumise andmete edenemine",
+        "_1f" : "Täis",
+        "_2f" : "Tühi",
+        "_3f" : "Peida",
+
+        "_nt": "BigSport Tekst (Ei ole skaleeritav)",
+
+        "_t1": "Tunni font",
+        "_t1a": "Tunni font AOD",
+  
+        "_t2": "Minuti font",
+        "_t2a": "Minuti font AOD",
+
+
+        "_f20": "AOD Välja andmed üleval",
+        "_l20": "AOD Välja andmed all",
+
+        "_hc1": "Tunni värv 1",
+        "_hc2": "Tunni värv 2",
+        "_hc3": "Tunni esimese numbri värv 1",
+        "_hc4": "Tunni esimese numbri värv 2",
+
+        "_mc1": "Minuti värv 1",
+        "_mc2": "Minuti värv 2",
+
+        "_t24": "24-tunnine aeg",
+        "_t0": "Näita AM/PM",
+        "_t30": "Süsteemi vaikimisi",
+        "_t33": "Väljas",
+        "_t31": "Näita üleval",
+        "_t32": "Näita paremal",
+        
+        
+
+ 
+        "_fk": "Hoia sama",
+
+        "_sah" : "Sama mis Tunni värv 1/2",
+
+        "ad0": "LÜLITA ekraan VÄLJA",
+        "ad100": "Täis AOD (Vaikimisi)",
+        "ad1": "Ainult aeg",
+        "ad4": "Aeg + 2 andmevälja",
+
+        "ad2": "Aeg + kuupäev",
+        "ad5": "Aeg + kuupäev + 2 andmevälja",
+
+
+        "_m1": "Marker 1 Värv",
+        "_m2": "Marker 2 Värv",
+        
+        "_cp1": "Ülemine edenemise värv 1",
+        "_c21": "Ülemine edenemise värv 2",
+        "_cu1": "Ülemine edenemise värv täitmata",
+
+        "_cp2": "Alumine edenemise värv 1",
+        "_c22": "Alumine edenemise värv 2",
+        "_cu2": "Alumine edenemise värv täitmata",
+
+        "_bgc": "Taustavärv",
+        "_bgl": "Taustajoonte värv",
+        "_cs": "70% tumedam",
+        "_cpbs" : "Sama mis ülemine edenemisriba",
+
+        "_stc" : "Sama mis teksti värv",
+        "_slc" : "Sama mis sildi värv",
+
+
+        "_c1": "Ülemise välja andmete värv",
+        "_c1l": "Ülemise välja sildi värv",
+
+        "_c2": "Andmete 1 värv",
+        "_c2l": "Sildi 1 värv",
+
+        "_c3": "Andmete 2 värv",
+        "_c3l": "Sildi 2 värv",
+
+        "_c4": "Andmete 3 värv",
+        "_c4l": "Sildi 3 värv",
+
+        "_c5": "Alumine andmete värv",
+        "_c5l": "Alumine sildi värv",
+
+        "_c7": "Kuupäeva numbri värv",
+        "_c7l": "Kuupäeva päeva värv",
+        "_c8": "AM/PM värv",
+        "_c9": "Teavituse ikooni värv",
+
+
+
+        "_x4": "Laadi eelmine eelseade",
+        "_x3": "Laadi eelmine värviteema",
+
+        "_rst": "Lähtesta kõik seaded",
+        "_tr": "👉 PUUTEOTSETEEDE",
+        "_tc": "🎨 VÄRVID / TAUST",
+        "_tt": "🔤 FONDID",
+        "_ta": "🖼️ AOD SEADED (Alati sees ekraan)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ NIHKED",
+
+
+        "_o2": "Välja X Nihked (Ülemine, 1, 2, 3, Alumine, Päev) Vaikimisi: 20",
+        "_o3": "Välja Y Nihked (Ülemine, 1, 2, 3, Alumine, Päev) Vaikimisi: 20",
+        "_bdb": "Joonista numbrite taust (teravamad minutid, tunnid pole taga nähtavad)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Teksti värv",
+        "_ic": "Sildi värv",      
+
+        "_gq": "Gradiendi kvaliteet",
+        "_ng": "Gradiendita",
+
+     
+
+        "_x2": "Laadi järgmine värviteema",
+        
+        "_a1": "Puuteotsetee tund vasakul",
+        "_a2": "Puuteotsetee tund paremal",
+        "_a3": "Puuteotsetee minut vasakul",
+        "_a4": "Puuteotsetee minut paremal",
+
+        "_aas": "Sekundid alati sees",
+        "_aod": "AOD Režiim (Alati sees ekraan)",
+        "_aodct": "AOD Aja toonivärv",
+        "_aodc": "AOD Andmete toonivärv",
+        "_aodT": "AOD Aja heledus",
+        "_aodD": "AOD Andmete heledus (Kui ekraan lülitub AOD ajal välja, vähenda seda numbrit. Madalam number = vähem akukasutust aga madalam heledus. Vt KKK)",
+        "_aodS": "AOD Nihe (Pikslite arv, mille võrra ekraan iga minut juhuslikult nihkub, et vältida sissekirjutamist)"
+
+
+    }
+}

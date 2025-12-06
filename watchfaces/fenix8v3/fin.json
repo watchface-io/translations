@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Merkkien edistymistyyli",
+        "m360": "Säännöllinen, 360 astetta, 12 = 0% ja 100%, 6 = 50%",
+        "m90": "Sivut, Merkki 1 Vasen, Merkki 2 Oikea, katso Käyttöopas",
+
         "_x4": "Lataa edellinen esiasetus",
         "_x3": "Lataa edellinen väriteema",
         "ad102": "Täysi AOD - Vaihtoehtoinen alaympyrä päällä",
@@ -209,6 +214,9 @@
         "ad1": "Vain aika",
         "ad3": "Vain aika - liikkuva",
         "ad4": "Aika + tietokenttä (valitse alla)",
-        "ad6": "Liikkuva aika + tietokenttä"
+        "ad6": "Liikkuva aika + tietokenttä",
+
+        "_aodB": "AOD ympyrän kirkkaus (kun yläosa ympyrä on käytössä)",
+        "_aodsame": "Sama kuin tietojen kirkkaus"
     }
 }

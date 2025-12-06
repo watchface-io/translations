@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "İşaretleyici ilerleme stili",
+        "m360": "Düzenli, 360 derece, 12 = 0% ve 100%, 6 = 50%",
+        "m90": "Kenarlar, İşaretleyici 1 Sol, İşaretleyici 2 Sağ, Kullanıcı Kılavuzuna bakın",
+
         "_x4": "Önceki ön ayarı yükle",
         "_x3": "Önceki renk temasını yükle",
         "ad102": "Tam AOD - Alternatif alt daire üstte",
@@ -223,11 +228,9 @@
         "ad1": "Sadece Saat",
         "ad3": "Sadece Saat - Hareketli",
         "ad4": "Saat + veri alanı (Aşağıdan Seçin)",
-        "ad6": "Hareketli Saat + veri alanı"
+        "ad6": "Hareketli Saat + veri alanı",
 
-        
-
-
-        
+        "_aodB": "AOD daire parlaklığı (üstteki daire etkinleştirildiğinde)",
+        "_aodsame": "Veri parlaklığı ile aynı"
     }
 }

@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Markierungsfortschrittsstil",
+        "m360": "Normal, 360 Grad, 12 = 0% und 100%, 6 = 50%",
+        "m90": "Seiten, Markierung 1 Links, Markierung 2 Rechts, siehe Benutzerhandbuch",
+
         "_x4": "Vorherige Voreinstellung laden",
         "_x3": "Vorheriges Farbthema laden",
         "ad102": "Vollständiger AOD - Alternativer unterer Kreis oben",
@@ -209,6 +214,9 @@
         "ad1": "Nur Zeit",
         "ad3": "Nur Zeit - Bewegend",
         "ad4": "Zeit + Datenfeld (unten auswählen)",
-        "ad6": "Bewegende Zeit + Datenfeld"
+        "ad6": "Bewegende Zeit + Datenfeld",
+
+        "_aodB": "AOD Kreis Helligkeit (wenn Kreis oben aktiviert ist)",
+        "_aodsame": "Gleich wie Datenhelligkeit"
     }
 }

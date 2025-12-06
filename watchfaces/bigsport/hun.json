@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Jelölő 1 Adat",
+        "_md2": "Jelölő 2 Adat",
+
+        "_po": "Folyamatjelző Eltolás",
+        "_pl": "Folyamatjelző Hossz",
+        "_lz": "Óra első számjegy szín (Lásd FAQ)",
+        "_lz0": "Normál óra színek",
+        "_lz1": "Más szín a bevezető nullához (lent állítsd be)",
+        "_lz2": "Más szín az első számjegyhez (lent állítsd be)",
+
+
+        "_ed": "Nap angolul",
+        "_f6": "Nap kijelző adat",
+
+
+
+        "_f1": "Felső adat",
+        "_l1": "Felső címke",
+        "_p1": "Folyamatjelző jobb",
+
+        "_f2": "Adat 1",
+        "_l2": "Címke 1",
+
+        "_f3": "Adat 2",
+        "_l3": "Címke 2",
+
+        "_f4": "Adat 3",
+        "_l4": "Címke 3",
+
+        "_f5": "Alsó adat",
+        "_l5": "Alsó címke",
+        "_p5": "Folyamatjelző bal adat",
+
+        "_t3": "Szöveg betűtípus",
+        "_s1": "Felső szöveg betűméret",
+        "_s2": "Adat betűméret",
+        "_s3": "Alsó szöveg betűméret",
+        "_s4": "Nap kijelző betűméret (felülírásakor)",
+
+        "_no" : "Értesítési ikon megjelenítése",
+        "_0f" : "Felső adat folyamat",
+        "_4f" : "Alsó adat folyamat",
+        "_1f" : "Teli",
+        "_2f" : "Üres",
+        "_3f" : "Elrejtés",
+
+        "_nt": "BigSport Szöveg (Nem méretezhető)",
+
+        "_t1": "Óra betűtípus",
+        "_t1a": "Óra betűtípus AOD",
+  
+        "_t2": "Perc betűtípus",
+        "_t2a": "Perc betűtípus AOD",
+
+
+        "_f20": "AOD Mező adat fent",
+        "_l20": "AOD Mező adat lent",
+
+        "_hc1": "Óra szín 1",
+        "_hc2": "Óra szín 2",
+        "_hc3": "Óra első számjegy szín 1",
+        "_hc4": "Óra első számjegy szín 2",
+
+        "_mc1": "Perc szín 1",
+        "_mc2": "Perc szín 2",
+
+        "_t24": "24 órás idő",
+        "_t0": "AM/PM megjelenítése",
+        "_t30": "Rendszer alapértelmezett",
+        "_t33": "Ki",
+        "_t31": "Megjelenítés fent",
+        "_t32": "Megjelenítés jobbra",
+        
+        
+
+ 
+        "_fk": "Változatlan hagyás",
+
+        "_sah" : "Ugyanaz mint Óra szín 1/2",
+
+        "ad0": "Képernyő KIKAPCSOLÁSA",
+        "ad100": "Teljes AOD (Alapértelmezett)",
+        "ad1": "Csak idő",
+        "ad4": "Idő + 2 adatmező",
+
+        "ad2": "Idő + dátum",
+        "ad5": "Idő + dátum + 2 adatmező",
+
+
+        "_m1": "Jelölő 1 Szín",
+        "_m2": "Jelölő 2 Szín",
+        
+        "_cp1": "Felső folyamat szín 1",
+        "_c21": "Felső folyamat szín 2",
+        "_cu1": "Felső folyamat szín kitöltetlen",
+
+        "_cp2": "Alsó folyamat szín 1",
+        "_c22": "Alsó folyamat szín 2",
+        "_cu2": "Alsó folyamat szín kitöltetlen",
+
+        "_bgc": "Háttérszín",
+        "_bgl": "Háttérvonalak színe",
+        "_cs": "70% sötétebb",
+        "_cpbs" : "Ugyanaz mint felső folyamatjelző",
+
+        "_stc" : "Ugyanaz mint szöveg szín",
+        "_slc" : "Ugyanaz mint címke szín",
+
+
+        "_c1": "Felső mező adat szín",
+        "_c1l": "Felső mező címke szín",
+
+        "_c2": "Adat 1 szín",
+        "_c2l": "Címke 1 szín",
+
+        "_c3": "Adat 2 szín",
+        "_c3l": "Címke 2 szín",
+
+        "_c4": "Adat 3 szín",
+        "_c4l": "Címke 3 szín",
+
+        "_c5": "Alsó adat szín",
+        "_c5l": "Alsó címke szín",
+
+        "_c7": "Dátum szám szín",
+        "_c7l": "Dátum nap szín",
+        "_c8": "AM/PM szín",
+        "_c9": "Értesítési ikon szín",
+
+
+
+        "_x4": "Előző előbeállítás betöltése",
+        "_x3": "Előző színtéma betöltése",
+
+        "_rst": "Minden beállítás visszaállítása",
+        "_tr": "👉 ÉRINTÉSI GYORSGOMBOK",
+        "_tc": "🎨 SZÍNEK / HÁTTÉR",
+        "_tt": "🔤 BETŰTÍPUSOK",
+        "_ta": "🖼️ AOD BEÁLLÍTÁSOK (Mindig bekapcsolt kijelző)",
+        "_to": "💡 EGYÉB",
+        "_tx": "➡️ ELTOLÁSOK",
+
+
+        "_o2": "Mező X Eltolások (Felső, 1, 2, 3, Alsó, Nap) Alapért.: 20",
+        "_o3": "Mező Y Eltolások (Felső, 1, 2, 3, Alsó, Nap) Alapért.: 20",
+        "_bdb": "Számok háttér rajzolása (élesebb percek, órák nem láthatók mögötte)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Szöveg szín",
+        "_ic": "Címke szín",      
+
+        "_gq": "Színátmenet minőség",
+        "_ng": "Nincs színátmenet",
+
+     
+
+        "_x2": "Következő színtéma betöltése",
+        
+        "_a1": "Érintési gyorsgomb óra bal",
+        "_a2": "Érintési gyorsgomb óra jobb",
+        "_a3": "Érintési gyorsgomb perc bal",
+        "_a4": "Érintési gyorsgomb perc jobb",
+
+        "_aas": "Másodpercek mindig bekapcsolva",
+        "_aod": "AOD Mód (Mindig bekapcsolt kijelző)",
+        "_aodct": "AOD Idő árnyalat szín",
+        "_aodc": "AOD Adat árnyalat szín",
+        "_aodT": "AOD Idő fényerő",
+        "_aodD": "AOD Adat fényerő (Ha a képernyő kikapcsol AOD alatt, csökkentsd ezt a számot. Alacsonyabb szám = kevesebb akkumulátor fogyasztás de alacsonyabb fényerő. Lásd FAQ)",
+        "_aodS": "AOD Eltolás (Pixelek száma, amennyivel a képernyő véletlenszerűen eltolódik percenként a beégés megelőzésére)"
+
+
+    }
+}

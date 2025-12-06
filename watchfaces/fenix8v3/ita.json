@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Stile di avanzamento marcatore",
+        "m360": "Regolare, 360 gradi, 12 = 0% e 100%, 6 = 50%",
+        "m90": "Lati, Marcatore 1 Sinistra, Marcatore 2 Destra, vedi Guida utente",
+
         "_x4": "Carica preset precedente",
         "_x3": "Carica tema colori precedente",
         "ad102": "AOD completo - Cerchio inferiore alternativo in alto",
@@ -210,6 +215,9 @@
         "ad1": "Solo ora",
         "ad3": "Solo ora - mobile",
         "ad4": "Ora + campo dati (seleziona sotto)",
-        "ad6": "Ora mobile + campo dati"
+        "ad6": "Ora mobile + campo dati",
+
+        "_aodB": "Luminosità cerchio AOD (quando il cerchio in alto è abilitato)",
+        "_aodsame": "Uguale alla luminosità dei dati"
     }
 }

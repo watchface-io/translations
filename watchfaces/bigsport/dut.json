@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Markering 1 Gegevens",
+        "_md2": "Markering 2 Gegevens",
+
+        "_po": "Voortgangsbalk Offset",
+        "_pl": "Voortgangsbalk Lengte",
+        "_lz": "Kleur eerste cijfer uur (Zie FAQ)",
+        "_lz0": "Normale uurkleuren",
+        "_lz1": "Andere kleur voor voorloopnul (hieronder instellen)",
+        "_lz2": "Andere kleur voor eerste cijfer (hieronder instellen)",
+
+
+        "_ed": "Dag in het Engels",
+        "_f6": "Dagweergave gegevens",
+
+
+
+        "_f1": "Bovenste gegevens",
+        "_l1": "Bovenste label",
+        "_p1": "Voortgangsbalk rechts",
+
+        "_f2": "Gegevens 1",
+        "_l2": "Label 1",
+
+        "_f3": "Gegevens 2",
+        "_l3": "Label 2",
+
+        "_f4": "Gegevens 3",
+        "_l4": "Label 3",
+
+        "_f5": "Onderste gegevens",
+        "_l5": "Onderste label",
+        "_p5": "Voortgangsbalk links gegevens",
+
+        "_t3": "Tekstlettertype",
+        "_s1": "Bovenste tekst lettergrootte",
+        "_s2": "Gegevens lettergrootte",
+        "_s3": "Onderste tekst lettergrootte",
+        "_s4": "Dagweergave lettergrootte (indien overschreven)",
+
+        "_no" : "Meldingspictogram weergeven",
+        "_0f" : "Bovenste gegevens voortgang",
+        "_4f" : "Onderste gegevens voortgang",
+        "_1f" : "Vol",
+        "_2f" : "Leeg",
+        "_3f" : "Verbergen",
+
+        "_nt": "BigSport Tekst (Niet schaalbaar)",
+
+        "_t1": "Uurlettertype",
+        "_t1a": "Uurlettertype AOD",
+  
+        "_t2": "Minuutlettertype",
+        "_t2a": "Minuutlettertype AOD",
+
+
+        "_f20": "AOD Veldgegevens boven",
+        "_l20": "AOD Veldgegevens onder",
+
+        "_hc1": "Uurkleur 1",
+        "_hc2": "Uurkleur 2",
+        "_hc3": "Uur eerste cijfer kleur 1",
+        "_hc4": "Uur eerste cijfer kleur 2",
+
+        "_mc1": "Minuutkleur 1",
+        "_mc2": "Minuutkleur 2",
+
+        "_t24": "24-uurs tijd",
+        "_t0": "AM/PM weergeven",
+        "_t30": "Systeemstandaard",
+        "_t33": "Uit",
+        "_t31": "Boven weergeven",
+        "_t32": "Rechts weergeven",
+        
+        
+
+ 
+        "_fk": "Hetzelfde houden",
+
+        "_sah" : "Hetzelfde als Uurkleur 1/2",
+
+        "ad0": "Scherm UITSCHAKELEN",
+        "ad100": "Volledige AOD (Standaard)",
+        "ad1": "Alleen tijd",
+        "ad4": "Tijd + 2 gegevensvelden",
+
+        "ad2": "Tijd + datum",
+        "ad5": "Tijd + datum + 2 gegevensvelden",
+
+
+        "_m1": "Markering 1 Kleur",
+        "_m2": "Markering 2 Kleur",
+        
+        "_cp1": "Bovenste voortgangskleur 1",
+        "_c21": "Bovenste voortgangskleur 2",
+        "_cu1": "Bovenste voortgangskleur ongevuld",
+
+        "_cp2": "Onderste voortgangskleur 1",
+        "_c22": "Onderste voortgangskleur 2",
+        "_cu2": "Onderste voortgangskleur ongevuld",
+
+        "_bgc": "Achtergrondkleur",
+        "_bgl": "Achtergrondlijnen kleur",
+        "_cs": "70% donkerder",
+        "_cpbs" : "Hetzelfde als bovenste voortgangsbalk",
+
+        "_stc" : "Hetzelfde als tekstkleur",
+        "_slc" : "Hetzelfde als labelkleur",
+
+
+        "_c1": "Bovenste veld gegevenskleur",
+        "_c1l": "Bovenste veld labelkleur",
+
+        "_c2": "Gegevens 1 kleur",
+        "_c2l": "Label 1 kleur",
+
+        "_c3": "Gegevens 2 kleur",
+        "_c3l": "Label 2 kleur",
+
+        "_c4": "Gegevens 3 kleur",
+        "_c4l": "Label 3 kleur",
+
+        "_c5": "Onderste gegevenskleur",
+        "_c5l": "Onderste labelkleur",
+
+        "_c7": "Datum nummer kleur",
+        "_c7l": "Datum dag kleur",
+        "_c8": "AM/PM kleur",
+        "_c9": "Meldingspictogram kleur",
+
+
+
+        "_x4": "Vorige voorinstelling laden",
+        "_x3": "Vorig kleurenthema laden",
+
+        "_rst": "Alle instellingen resetten",
+        "_tr": "👉 AANRAAKSNELKOPPELINGEN",
+        "_tc": "🎨 KLEUREN / ACHTERGROND",
+        "_tt": "🔤 LETTERTYPEN",
+        "_ta": "🖼️ AOD INSTELLINGEN (Altijd aan display)",
+        "_to": "💡 OVERIG",
+        "_tx": "➡️ VERSCHUIVINGEN",
+
+
+        "_o2": "Veld X Verschuivingen (Boven, 1, 2, 3, Onder, Dag) Standaard: 20",
+        "_o3": "Veld Y Verschuivingen (Boven, 1, 2, 3, Onder, Dag) Standaard: 20",
+        "_bdb": "Nummers achtergrond tekenen (scherpere minuten, uren niet zichtbaar achter)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Tekstkleur",
+        "_ic": "Labelkleur",      
+
+        "_gq": "Verloopkwaliteit",
+        "_ng": "Geen verloop",
+
+     
+
+        "_x2": "Volgend kleurenthema laden",
+        
+        "_a1": "Aanraaksnelkoppeling uur links",
+        "_a2": "Aanraaksnelkoppeling uur rechts",
+        "_a3": "Aanraaksnelkoppeling minuut links",
+        "_a4": "Aanraaksnelkoppeling minuut rechts",
+
+        "_aas": "Seconden altijd aan",
+        "_aod": "AOD Modus (Altijd aan display)",
+        "_aodct": "AOD Tijd tintkleur",
+        "_aodc": "AOD Gegevens tintkleur",
+        "_aodT": "AOD Tijd helderheid",
+        "_aodD": "AOD Gegevens helderheid (Als het scherm uitgaat tijdens AOD, verlaag dit nummer. Lager nummer = minder batterijverbruik maar minder helder. Zie FAQ)",
+        "_aodS": "AOD Verschuiving (Aantal pixels dat het scherm per minuut willekeurig verschuift om inbranden te voorkomen)"
+
+
+    }
+}

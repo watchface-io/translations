@@ -1,4 +1,9 @@
 {    "settings": {
+
+        "_ms": "Jelölő haladási stílus",
+        "m360": "Szabályos, 360 fok, 12 = 0% és 100%, 6 = 50%",
+        "m90": "Oldalak, Jelölő 1 Bal, Jelölő 2 Jobb, lásd Felhasználói kézikönyv",
+
         "_x4": "Előző előbeállítás betöltése",
         "_x3": "Előző színtéma betöltése",
         "ad102": "Teljes AOD - Alternatív alsó kör felül",
@@ -209,6 +214,9 @@
         "ad1": "Csak idő",
         "ad3": "Csak idő - mozgó",
         "ad4": "Idő + adatmező (válassz alul)",
-        "ad6": "Mozgó idő + adatmező"
+        "ad6": "Mozgó idő + adatmező",
+
+        "_aodB": "AOD kör fényerő (ha a felső kör engedélyezve van)",
+        "_aodsame": "Ugyanaz, mint az adat fényerő"
     }
 }

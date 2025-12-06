@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Markør 1 Data",
+        "_md2": "Markør 2 Data",
+
+        "_po": "Fremdriftslinje Forskyvning",
+        "_pl": "Fremdriftslinje Lengde",
+        "_lz": "Time første siffer farge (Se FAQ)",
+        "_lz0": "Vanlige timefargerer",
+        "_lz1": "Annen farge for ledende null (sett nedenfor)",
+        "_lz2": "Annen farge for første siffer (sett nedenfor)",
+
+
+        "_ed": "Dag på engelsk",
+        "_f6": "Dagvisning data",
+
+
+
+        "_f1": "Øvre data",
+        "_l1": "Øvre etikett",
+        "_p1": "Fremdriftslinje høyre",
+
+        "_f2": "Data 1",
+        "_l2": "Etikett 1",
+
+        "_f3": "Data 2",
+        "_l3": "Etikett 2",
+
+        "_f4": "Data 3",
+        "_l4": "Etikett 3",
+
+        "_f5": "Nedre data",
+        "_l5": "Nedre etikett",
+        "_p5": "Fremdriftslinje venstre data",
+
+        "_t3": "Tekstskrift",
+        "_s1": "Øvre tekst skriftstørrelse",
+        "_s2": "Data skriftstørrelse",
+        "_s3": "Nedre tekst skriftstørrelse",
+        "_s4": "Dagvisning skriftstørrelse (når overstyrt)",
+
+        "_no" : "Vis varselikon",
+        "_0f" : "Øvre data fremdrift",
+        "_4f" : "Nedre data fremdrift",
+        "_1f" : "Full",
+        "_2f" : "Tom",
+        "_3f" : "Skjul",
+
+        "_nt": "BigSport Tekst (Ikke skalerbar)",
+
+        "_t1": "Timeskrift",
+        "_t1a": "Timeskrift AOD",
+  
+        "_t2": "Minuttskrift",
+        "_t2a": "Minuttskrift AOD",
+
+
+        "_f20": "AOD Feltdata øverst",
+        "_l20": "AOD Feltdata nederst",
+
+        "_hc1": "Timefarge 1",
+        "_hc2": "Timefarge 2",
+        "_hc3": "Time første siffer farge 1",
+        "_hc4": "Time første siffer farge 2",
+
+        "_mc1": "Minuttfarge 1",
+        "_mc2": "Minuttfarge 2",
+
+        "_t24": "24-timers tid",
+        "_t0": "Vis AM/PM",
+        "_t30": "Systemstandard",
+        "_t33": "Av",
+        "_t31": "Vis øverst",
+        "_t32": "Vis til høyre",
+        
+        
+
+ 
+        "_fk": "Behold samme",
+
+        "_sah" : "Samme som Timefarge 1/2",
+
+        "ad0": "Slå av skjerm",
+        "ad100": "Full AOD (Standard)",
+        "ad1": "Kun tid",
+        "ad4": "Tid + 2 datafelt",
+
+        "ad2": "Tid + dato",
+        "ad5": "Tid + dato + 2 datafelt",
+
+
+        "_m1": "Markør 1 Farge",
+        "_m2": "Markør 2 Farge",
+        
+        "_cp1": "Øvre fremdriftsfarge 1",
+        "_c21": "Øvre fremdriftsfarge 2",
+        "_cu1": "Øvre fremdriftsfarge ufylt",
+
+        "_cp2": "Nedre fremdriftsfarge 1",
+        "_c22": "Nedre fremdriftsfarge 2",
+        "_cu2": "Nedre fremdriftsfarge ufylt",
+
+        "_bgc": "Bakgrunnsfarge",
+        "_bgl": "Bakgrunnslinjer farge",
+        "_cs": "70% mørkere",
+        "_cpbs" : "Samme som øvre fremdriftslinje",
+
+        "_stc" : "Samme som tekstfarge",
+        "_slc" : "Samme som etikettfarge",
+
+
+        "_c1": "Øvre felt datafarge",
+        "_c1l": "Øvre felt etikettfarge",
+
+        "_c2": "Data 1 farge",
+        "_c2l": "Etikett 1 farge",
+
+        "_c3": "Data 2 farge",
+        "_c3l": "Etikett 2 farge",
+
+        "_c4": "Data 3 farge",
+        "_c4l": "Etikett 3 farge",
+
+        "_c5": "Nedre datafarge",
+        "_c5l": "Nedre etikettfarge",
+
+        "_c7": "Dato nummer farge",
+        "_c7l": "Dato dag farge",
+        "_c8": "AM/PM farge",
+        "_c9": "Varselikon farge",
+
+
+
+        "_x4": "Last forrige forhåndsinnstilling",
+        "_x3": "Last forrige fargetema",
+
+        "_rst": "Tilbakestill alle innstillinger",
+        "_tr": "👉 BERØRINGSSNARVEIER",
+        "_tc": "🎨 FARGER / BAKGRUNN",
+        "_tt": "🔤 SKRIFTER",
+        "_ta": "🖼️ AOD INNSTILLINGER (Alltid på skjerm)",
+        "_to": "💡 ANNET",
+        "_tx": "➡️ FORSKYVNINGER",
+
+
+        "_o2": "Felt X Forskyvninger (Øvre, 1, 2, 3, Nedre, Dag) Standard: 20",
+        "_o3": "Felt Y Forskyvninger (Øvre, 1, 2, 3, Nedre, Dag) Standard: 20",
+        "_bdb": "Tegn nummer bakgrunn (skarpere minutter, timer ikke synlige bak)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Tekstfarge",
+        "_ic": "Etikettfarge",      
+
+        "_gq": "Gradientkvalitet",
+        "_ng": "Ingen gradient",
+
+     
+
+        "_x2": "Last neste fargetema",
+        
+        "_a1": "Berøringssnarvei time venstre",
+        "_a2": "Berøringssnarvei time høyre",
+        "_a3": "Berøringssnarvei minutt venstre",
+        "_a4": "Berøringssnarvei minutt høyre",
+
+        "_aas": "Sekunder alltid på",
+        "_aod": "AOD Modus (Alltid på skjerm)",
+        "_aodct": "AOD Tid tintfarge",
+        "_aodc": "AOD Data tintfarge",
+        "_aodT": "AOD Tid lysstyrke",
+        "_aodD": "AOD Data lysstyrke (Hvis skjermen slås av under AOD, senk dette tallet. Lavere tall = mindre batteribruk men mindre lysstyrke. Se FAQ)",
+        "_aodS": "AOD Forskyvning (Antall piksler skjermen tilfeldig forskyver per minutt for å forhindre innbrenning)"
+
+
+    }
+}

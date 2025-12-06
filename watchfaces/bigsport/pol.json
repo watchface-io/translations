@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Znacznik 1 Dane",
+        "_md2": "Znacznik 2 Dane",
+
+        "_po": "Przesunięcie paska postępu",
+        "_pl": "Długość paska postępu",
+        "_lz": "Kolor pierwszej cyfry godziny (Zobacz FAQ)",
+        "_lz0": "Normalne kolory godzin",
+        "_lz1": "Inny kolor dla zera wiodącego (ustaw poniżej)",
+        "_lz2": "Inny kolor dla pierwszej cyfry (ustaw poniżej)",
+
+
+        "_ed": "Dzień po angielsku",
+        "_f6": "Dane wyświetlania dnia",
+
+
+
+        "_f1": "Górne dane",
+        "_l1": "Górna etykieta",
+        "_p1": "Pasek postępu prawy",
+
+        "_f2": "Dane 1",
+        "_l2": "Etykieta 1",
+
+        "_f3": "Dane 2",
+        "_l3": "Etykieta 2",
+
+        "_f4": "Dane 3",
+        "_l4": "Etykieta 3",
+
+        "_f5": "Dolne dane",
+        "_l5": "Dolna etykieta",
+        "_p5": "Pasek postępu lewy dane",
+
+        "_t3": "Czcionka tekstu",
+        "_s1": "Rozmiar czcionki górnego tekstu",
+        "_s2": "Rozmiar czcionki danych",
+        "_s3": "Rozmiar czcionki dolnego tekstu",
+        "_s4": "Rozmiar czcionki wyświetlania dnia (przy nadpisaniu)",
+
+        "_no" : "Pokaż ikonę powiadomienia",
+        "_0f" : "Postęp górnych danych",
+        "_4f" : "Postęp dolnych danych",
+        "_1f" : "Pełny",
+        "_2f" : "Pusty",
+        "_3f" : "Ukryj",
+
+        "_nt": "BigSport Tekst (Nie skalowalny)",
+
+        "_t1": "Czcionka godzin",
+        "_t1a": "Czcionka godzin AOD",
+  
+        "_t2": "Czcionka minut",
+        "_t2a": "Czcionka minut AOD",
+
+
+        "_f20": "AOD Dane pola góra",
+        "_l20": "AOD Dane pola dół",
+
+        "_hc1": "Kolor godziny 1",
+        "_hc2": "Kolor godziny 2",
+        "_hc3": "Kolor pierwszej cyfry godziny 1",
+        "_hc4": "Kolor pierwszej cyfry godziny 2",
+
+        "_mc1": "Kolor minuty 1",
+        "_mc2": "Kolor minuty 2",
+
+        "_t24": "Czas 24-godzinny",
+        "_t0": "Pokaż AM/PM",
+        "_t30": "Domyślne systemowe",
+        "_t33": "Wyłączony",
+        "_t31": "Pokaż na górze",
+        "_t32": "Pokaż po prawej",
+        
+        
+
+ 
+        "_fk": "Zachowaj takie samo",
+
+        "_sah" : "Takie samo jak Kolor godziny 1/2",
+
+        "ad0": "WYŁĄCZ ekran",
+        "ad100": "Pełne AOD (Domyślne)",
+        "ad1": "Tylko czas",
+        "ad4": "Czas + 2 pola danych",
+
+        "ad2": "Czas + data",
+        "ad5": "Czas + data + 2 pola danych",
+
+
+        "_m1": "Znacznik 1 Kolor",
+        "_m2": "Znacznik 2 Kolor",
+        
+        "_cp1": "Górny kolor postępu 1",
+        "_c21": "Górny kolor postępu 2",
+        "_cu1": "Górny kolor postępu niewypełniony",
+
+        "_cp2": "Dolny kolor postępu 1",
+        "_c22": "Dolny kolor postępu 2",
+        "_cu2": "Dolny kolor postępu niewypełniony",
+
+        "_bgc": "Kolor tła",
+        "_bgl": "Kolor linii tła",
+        "_cs": "70% ciemniejszy",
+        "_cpbs" : "Takie samo jak górny pasek postępu",
+
+        "_stc" : "Takie samo jak kolor tekstu",
+        "_slc" : "Takie samo jak kolor etykiety",
+
+
+        "_c1": "Kolor danych górnego pola",
+        "_c1l": "Kolor etykiety górnego pola",
+
+        "_c2": "Kolor danych 1",
+        "_c2l": "Kolor etykiety 1",
+
+        "_c3": "Kolor danych 2",
+        "_c3l": "Kolor etykiety 2",
+
+        "_c4": "Kolor danych 3",
+        "_c4l": "Kolor etykiety 3",
+
+        "_c5": "Kolor dolnych danych",
+        "_c5l": "Kolor dolnej etykiety",
+
+        "_c7": "Kolor numeru daty",
+        "_c7l": "Kolor dnia daty",
+        "_c8": "Kolor AM/PM",
+        "_c9": "Kolor ikony powiadomienia",
+
+
+
+        "_x4": "Załaduj poprzedni preset",
+        "_x3": "Załaduj poprzedni motyw kolorów",
+
+        "_rst": "Zresetuj wszystkie ustawienia",
+        "_tr": "👉 SKRÓTY DOTYKOWE",
+        "_tc": "🎨 KOLORY / TŁO",
+        "_tt": "🔤 CZCIONKI",
+        "_ta": "🖼️ USTAWIENIA AOD (Zawsze włączony wyświetlacz)",
+        "_to": "💡 INNE",
+        "_tx": "➡️ PRZESUNIĘCIA",
+
+
+        "_o2": "Przesunięcia pól X (Górne, 1, 2, 3, Dolne, Dzień) Domyślnie: 20",
+        "_o3": "Przesunięcia pól Y (Górne, 1, 2, 3, Dolne, Dzień) Domyślnie: 20",
+        "_bdb": "Rysuj tło cyfr (ostrzejsze minuty, godziny niewidoczne za)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Kolor tekstu",
+        "_ic": "Kolor etykiety",      
+
+        "_gq": "Jakość gradientu",
+        "_ng": "Bez gradientu",
+
+     
+
+        "_x2": "Załaduj następny motyw kolorów",
+        
+        "_a1": "Skrót dotykowy godzina lewa",
+        "_a2": "Skrót dotykowy godzina prawa",
+        "_a3": "Skrót dotykowy minuta lewa",
+        "_a4": "Skrót dotykowy minuta prawa",
+
+        "_aas": "Sekundy zawsze włączone",
+        "_aod": "Tryb AOD (Zawsze włączony wyświetlacz)",
+        "_aodct": "AOD Kolor odcienia czasu",
+        "_aodc": "AOD Kolor odcienia danych",
+        "_aodT": "AOD Jasność czasu",
+        "_aodD": "AOD Jasność danych (Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Niższa liczba = mniejsze zużycie baterii ale mniejsza jasność. Zobacz FAQ)",
+        "_aodS": "AOD Przesunięcie (Liczba pikseli o którą ekran przesuwa się losowo co minutę, aby zapobiec wypaleniu)"
+
+
+    }
+}

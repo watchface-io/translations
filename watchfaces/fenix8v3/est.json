@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Markeri edenemise stiil",
+        "m360": "Tavaline, 360 kraadi, 12 = 0% ja 100%, 6 = 50%",
+        "m90": "Küljed, Marker 1 Vasak, Marker 2 Parem, vaata Kasutusjuhendit",
+
         "_x4": "Laadi eelmine eelseadistus",
         "_x3": "Laadi eelmine värviskeema",
         "ad102": "Täielik AOD - Alternatiivne alumine ring peal",
@@ -210,6 +215,9 @@
         "ad1": "Ainult aeg",
         "ad3": "Ainult aeg - liikuv",
         "ad4": "Aeg + andmeväli (vali allpool)",
-        "ad6": "Liikuv aeg + andmeväli"
+        "ad6": "Liikuv aeg + andmeväli",
+
+        "_aodB": "AOD ringi heledus (kui ülemine ring on lubatud)",
+        "_aodsame": "Sama mis andmete heledus"
     }
 }

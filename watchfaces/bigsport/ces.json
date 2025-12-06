@@ -1,0 +1,184 @@
+{
+    "settings": {
+
+        "_md1": "Značka 1 Data",
+        "_md2": "Značka 2 Data",
+
+        "_po": "Posun ukazatele pokroku",
+        "_pl": "Délka ukazatele pokroku",
+        "_lz": "Barva první číslice hodin (Viz FAQ)",
+        "_lz0": "Běžné barvy hodin",
+        "_lz1": "Jiná barva pro úvodní nulu (nastavte níže)",
+        "_lz2": "Jiná barva pro první číslici (nastavte níže)",
+
+
+        "_ed": "Den anglicky",
+        "_f6": "Data zobrazení dne",
+
+
+
+        "_f1": "Horní data",
+        "_l1": "Horní popisek",
+        "_p1": "Ukazatel pokroku vpravo",
+
+        "_f2": "Data 1",
+        "_l2": "Popisek 1",
+
+        "_f3": "Data 2",
+        "_l3": "Popisek 2",
+
+        "_f4": "Data 3",
+        "_l4": "Popisek 3",
+
+        "_f5": "Spodní data",
+        "_l5": "Spodní popisek",
+        "_p5": "Ukazatel pokroku vlevo data",
+
+        "_t3": "Písmo textu",
+        "_s1": "Velikost písma horního textu",
+        "_s2": "Velikost písma dat",
+        "_s3": "Velikost písma spodního textu",
+        "_s4": "Velikost písma zobrazení dne (při přepsání)",
+
+        "_no" : "Zobrazit ikonu oznámení",
+        "_0f" : "Pokrok horních dat",
+        "_4f" : "Pokrok spodních dat",
+        "_1f" : "Plný",
+        "_2f" : "Prázdný",
+        "_3f" : "Skrýt",
+
+        "_nt": "BigSport Text (Nelze měnit velikost)",
+
+        "_t1": "Písmo hodin",
+        "_t1a": "Písmo hodin AOD",
+  
+        "_t2": "Písmo minut",
+        "_t2a": "Písmo minut AOD",
+
+
+        "_f20": "AOD Data pole nahoře",
+        "_l20": "AOD Data pole dole",
+
+        "_hc1": "Barva hodin 1",
+        "_hc2": "Barva hodin 2",
+        "_hc3": "Barva první číslice hodin 1",
+        "_hc4": "Barva první číslice hodin 2",
+
+        "_mc1": "Barva minut 1",
+        "_mc2": "Barva minut 2",
+
+        "_t24": "24hodinový čas",
+        "_t0": "Zobrazit AM/PM",
+        "_t30": "Výchozí systému",
+        "_t33": "Vypnuto",
+        "_t31": "Zobrazit nahoře",
+        "_t32": "Zobrazit vpravo",
+        
+        
+
+ 
+        "_fk": "Ponechat stejné",
+
+        "_sah" : "Stejné jako Barva hodin 1/2",
+
+        "ad0": "VYPNOUT obrazovku",
+        "ad100": "Plné AOD (Výchozí)",
+        "ad1": "Pouze čas",
+        "ad4": "Čas + 2 datová pole",
+
+        "ad2": "Čas + datum",
+        "ad5": "Čas + datum + 2 datová pole",
+
+
+        "_m1": "Značka 1 Barva",
+        "_m2": "Značka 2 Barva",
+        
+        "_cp1": "Horní barva pokroku 1",
+        "_c21": "Horní barva pokroku 2",
+        "_cu1": "Horní barva pokroku nevyplněná",
+
+        "_cp2": "Spodní barva pokroku 1",
+        "_c22": "Spodní barva pokroku 2",
+        "_cu2": "Spodní barva pokroku nevyplněná",
+
+        "_bgc": "Barva pozadí",
+        "_bgl": "Barva čar pozadí",
+        "_cs": "70% tmavší",
+        "_cpbs" : "Stejné jako horní ukazatel pokroku",
+
+        "_stc" : "Stejné jako barva textu",
+        "_slc" : "Stejné jako barva popisku",
+
+
+        "_c1": "Barva dat horního pole",
+        "_c1l": "Barva popisku horního pole",
+
+        "_c2": "Barva dat 1",
+        "_c2l": "Barva popisku 1",
+
+        "_c3": "Barva dat 2",
+        "_c3l": "Barva popisku 2",
+
+        "_c4": "Barva dat 3",
+        "_c4l": "Barva popisku 3",
+
+        "_c5": "Barva spodních dat",
+        "_c5l": "Barva spodního popisku",
+
+        "_c7": "Barva čísla data",
+        "_c7l": "Barva dne data",
+        "_c8": "Barva AM/PM",
+        "_c9": "Barva ikony oznámení",
+
+
+
+        "_x4": "Načíst předchozí předvolbu",
+        "_x3": "Načíst předchozí barevné téma",
+
+        "_rst": "Resetovat všechna nastavení",
+        "_tr": "👉 DOTYKOVÉ ZKRATKY",
+        "_tc": "🎨 BARVY / POZADÍ",
+        "_tt": "🔤 PÍSMA",
+        "_ta": "🖼️ NASTAVENÍ AOD (Vždy zapnutý displej)",
+        "_to": "💡 OSTATNÍ",
+        "_tx": "➡️ POSUNY",
+
+
+        "_o2": "Posuny polí X (Horní, 1, 2, 3, Spodní, Den) Výchozí: 20",
+        "_o3": "Posuny polí Y (Horní, 1, 2, 3, Spodní, Den) Výchozí: 20",
+        "_bdb": "Kreslit pozadí čísel (ostřejší minuty, hodiny neviditelné vzadu)",
+
+
+
+
+
+    
+
+   
+
+        "_pc": "Barva textu",
+        "_ic": "Barva popisku",      
+
+        "_gq": "Kvalita přechodu",
+        "_ng": "Bez přechodu",
+
+     
+
+        "_x2": "Načíst další barevné téma",
+        
+        "_a1": "Dotyková zkratka hodina vlevo",
+        "_a2": "Dotyková zkratka hodina vpravo",
+        "_a3": "Dotyková zkratka minuta vlevo",
+        "_a4": "Dotyková zkratka minuta vpravo",
+
+        "_aas": "Sekundy vždy zapnuty",
+        "_aod": "Režim AOD (Vždy zapnutý displej)",
+        "_aodct": "AOD Barva odstínu času",
+        "_aodc": "AOD Barva odstínu dat",
+        "_aodT": "AOD Jas času",
+        "_aodD": "AOD Jas dat (Pokud se obrazovka během AOD vypne, snižte toto číslo. Nižší číslo = menší spotřeba baterie, ale menší jas. Viz FAQ)",
+        "_aodS": "AOD Posun (Počet pixelů, o které se obrazovka náhodně posune každou minutu, aby se zabránilo vypálení)"
+
+
+    }
+}

@@ -1,5 +1,10 @@
 {
     "settings": {
+
+        "_ms": "Stil progres marcator",
+        "m360": "Regulat, 360 grade, 12 = 0% și 100%, 6 = 50%",
+        "m90": "Laterale, Marcator 1 Stânga, Marcator 2 Dreapta, vedeți Ghidul utilizatorului",
+
         "_x4": "Încărcați setarea anterioară",
         "_x3": "Încărcați tema de culori anterioară",
         "ad102": "AOD complet - Cerc de jos alternativ în partea de sus",
@@ -223,11 +228,9 @@
         "ad1": "Doar oră",
         "ad3": "Doar oră - în mișcare",
         "ad4": "Oră + câmp de date (selectează mai jos)",
-        "ad6": "Oră în mișcare + câmp de date"
+        "ad6": "Oră în mișcare + câmp de date",
 
-        
-
-
-        
+        "_aodB": "Luminozitate cerc AOD (când cercul de sus este activat)",
+        "_aodsame": "La fel ca luminozitatea datelor"
     }
 }
