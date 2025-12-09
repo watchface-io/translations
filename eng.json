@@ -528,8 +528,7 @@
         "_ta" : "🖼️ AOD SETTINGS (Always on Display)",
         "_tf" : "📊 DATA FIELDS ",
         "_tt" : "👉 TOUCH SHORTCUTS",
-        "_tc" : "🎨 COLORS"
-        
+        "_tc" : "🎨 COLORS"        
         },
     "background" : {
         "lang" : "en"
@@ -740,6 +739,53 @@
         
 
     },
+    "devices": {
+        "instinctcrossoveramoled": {
+            "settings": {
+                "_co_w" : "Crossover Amoled: Hand Highlight (do not set highlight to 'always on', this causes blinking, see FAQ)"
+            },
+            "foreground": {
+                "_co_wm": "Crossover Hand Style",
+                "_co_w0": "No Highlight",
+                "_co_w20": "Fade-in Small",
+                "_co_w24": "Fade-in Medium",
+                "_co_w26": "Fade-in Large",
+                "_co_w4": "Small",
+                "_co_w6": "Medium",
+                "_co_w8": "Large",
+                "_co_w1": "Top Only",
+                "_co_w34": "Small 30% Transparent",
+                "_co_w36": "Medium 30% Transparent",
+                "_co_w38": "Large 30% Transparent",
+                "_co_1": "Highlight Hour Color",
+                "_co_2": "Highlight Minute Color",
+                "_co_3": "Second Hand Color",
+                
+                "_co_a": "Hand Highlight AOD mode",
+                "_co_a1": "Keep as is",
+                "_co_a2": "Green Lume",
+                "_co_a3": "Red Lume",
+                "_co_a4": "Blue Lume",
+                "_co_a5": "Custom Color 1",
+                "_co_a6": "40% darker",
+                "_co_a7": "60% darker",
+                "_co_a0": "No highlight",
+
+                 "_co_s": "Hand Highlight Second Hand",
+                 "_co_s0": "No Second Hand",
+                 "_co_s1": "Fade In",
+                 "_co_s2": "Solid"
+
+
+            },
+            "menu": {
+                "_ch": "Hand Highlights",
+                "_cs": "Second Hand",
+                "_ca": "AOD Highlights"
+            }
+        }
+    },
+
     "labels" : {
         "l1": "STEP",
         "l2": "CAL",
