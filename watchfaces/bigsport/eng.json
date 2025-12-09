@@ -6,7 +6,7 @@
 
         "_po": "Progress Bar Offset",
         "_pl": "Progress Bar Length",
-        "_lz": "Hour first digit color (See FAQ)",
+        "_lz": "Hour first digit color (See User Guide)",
         "_lz0": "Regular Hour colors",
         "_lz1": "Different color for Leading zero (set below)",
         "_lz2": "Different color for first digit (set below)",
@@ -47,7 +47,7 @@
         "_2f" : "Empty",
         "_3f" : "Hide",
 
-        "_nt": "BigSport Text (Not resizeable)",
+        "_nt": "BigSport Text (Not resizable)",
 
         "_t1": "Hour Font",
         "_t1a": "Hour Font AOD",
@@ -93,13 +93,13 @@
         "_m1": "Marker 1 Color",
         "_m2": "Marker 2 Color",
         
-        "_cp1": "Top Progress Color 1",
-        "_c21": "Top Progress Color 2",
-        "_cu1": "Top Progress Color Unfilled",
+        "_cp1": "Right Progress Color 1",
+        "_c21": "Right Progress Color 2",
+        "_cu1": "Right Progress Color Unfilled",
 
-        "_cp2": "Bottom Progress Color 1",
-        "_c22": "Bottom Progress Color 2",
-        "_cu2": "Bottom Progress Color Unfilled",
+        "_cp2": "Left Progress Color 1",
+        "_c22": "Left Progress Color 2",
+        "_cu2": "Left Progress Color Unfilled",
 
         "_bgc": "Background Color",
         "_bgl": "Background Lines Color",
