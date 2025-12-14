@@ -1,6 +1,6 @@
 {
     "settings": {
-        "_xx" : "Crash fix - Fixes crash on FR970, FR570 and some Fenix8 models in AOD mode",
+        "_xx" : "Crash fix - Fixes crash on FR970, FR570 and some Fenix8 models in AOD mode. Causes numbers not to show in AOD.",
 
         "_tr": "👉 TOUCH SHORTCUTS",
         "_tc": "🎨 COLORS",
