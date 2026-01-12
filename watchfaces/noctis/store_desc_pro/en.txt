@@ -1,0 +1,16 @@
+Noctis, A highly readable sports watch face featuring extra-large, bold digits for instant time visibility.
+
+Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/68aff0bc-b401-47ac-ab9f-a87e78242792
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/noctis/manual
+* Free version: https://apps.garmin.com/apps/68aff0bc-b401-47ac-ab9f-a87e78242792
+* Available Datafields: https://watchface.io/docs/datafields
+
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields. Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+
