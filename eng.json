@@ -234,6 +234,7 @@
         "f312" : "Pressure Sea Level",
         "f313" : "UVI",
         "f314" : "Visibility",
+        "f315" : "Dew Point",
         "f307" : "Wind Bearing",
         "f310" : "Wind Direction (N, SSE, etc)",
         "f308" : "Wind Speed",

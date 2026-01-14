@@ -240,6 +240,7 @@
         "f304" : "Precipitação (%)",
         "f305" : "Umidade",
         "f311" : "Ponto de Orvalho",
+        "f315" : "Ponto de Orvalho",
         "f312" : "Pressão do Nível do Mar",
         "f313" : "IUV",
         "f314" : "Visibilidade",
