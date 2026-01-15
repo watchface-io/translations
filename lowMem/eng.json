@@ -1,5 +1,11 @@
 {
     "settings" : {
+        "_u_24": "12/24h time",
+        "_u_wind": "Wind Unit",
+        "_u_p": "Pressure Unit",
+        "_unit_time_c" : "Data Time Format (See FAQ %h:%i%a = 7:01pm %H:i = 19:01)",
+
+
         "c0" : "Nothing",
         "c1" : "Active Minutes (8 days)",
         "c2" : "Calories (8 days)",
@@ -512,7 +518,7 @@
         "_touch" : "Enable Touch ([PRO], touch = hold 3 seconds)",
         "_deviceid" : "Device ID",
         "_proKey" : "🔑 Pro Key (Visit watchface.io for info. [*] Are PRO options)",
-        "_unit_time_c" : "Custom Time Format (See FAQ)",
+        
         "_unit_date_c1" : "Custom Date Format 1 (See FAQ)",
         "_unit_date_c2" : "Custom Date Format 2 (See FAQ)",
         "_custom_time0" : "Timezone 1",
