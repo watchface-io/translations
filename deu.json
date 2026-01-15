@@ -240,6 +240,7 @@
         "f304" : "Niederschlag (%)",
         "f305" : "Luftfeuchtigkeit",
         "f311" : "Taupunkt",
+        "f315" : "Taupunkt",
         "f312" : "Luftdruck Meeresspiegel",
         "f313" : "UV-Index",
         "f314" : "Sichtweite",

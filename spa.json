@@ -240,6 +240,7 @@
         "f304" : "Precipitación (%)",
         "f305" : "Humedad",
         "f311" : "Punto de Rocío",
+        "f315" : "Punto de Rocío",
         "f312" : "Presión del Nivel del Mar",
         "f313" : "Índice UV",
         "f314" : "Visibilidad",
