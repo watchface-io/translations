@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Bruk enkelt dynamisk farge for fremdriftslinjer (fargen endres basert på fremgangsnivå)",
          "_t_guf": "Rediger mål og formater:",
     "_aodS": "AOD forskyvning (antall piksler skjermen vil flytte tilfeldig per minutt for å unngå innbrenning)",
     "_l7": "AOD datafeltetikett",

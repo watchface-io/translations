@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Einzelne dynamische Farbe für Fortschrittsbalken verwenden (Farbe ändert sich je nach Fortschritt)",
          "_t_guf": "Ziele und Formate bearbeiten:",
     "_aodS": "AOD-Verschiebung (Anzahl Pixel, die der Bildschirm pro Minute zufällig verschiebt, um Einbrennen zu vermeiden)",
     "_l7": "AOD Datenbeschriftung",

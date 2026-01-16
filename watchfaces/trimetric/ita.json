@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Usa un singolo colore dinamico per le barre di avanzamento (il colore cambia in base al livello di avanzamento)",
          "_t_guf": "Modifica obiettivi e formati:",
     "_aodS": "Spostamento AOD (numero di pixel che lo schermo sposta casualmente al minuto per evitare burn-in)",
     "_l7": "Etichetta campo dati AOD",

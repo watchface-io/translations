@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Gunakan satu warna dinamik untuk bar kemajuan (warna berubah berdasarkan tahap kemajuan)",
          "_t_guf": "Edit Matlamat dan Format:",
     "_aodS": "Anjakan AOD (bilangan piksel skrin dialihkan secara rawak setiap minit untuk mengelakkan burn-in)",
     "_l7": "Label medan data AOD",

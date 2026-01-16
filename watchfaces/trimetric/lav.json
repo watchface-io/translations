@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Izmantot vienu dinamisku krāsu progresa joslām (krāsa mainās atkarībā no progresa līmeņa)",
          "_t_guf": "Rediģēt mērķus un formātus:",
     "_aodS": "AOD nobīde (pikseļu skaits, ko ekrāns nejauši pārvieto minūtē, lai izvairītos no sadedzināšanās)",
     "_l7": "AOD datu lauka etiķete",

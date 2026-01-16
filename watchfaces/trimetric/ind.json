@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Gunakan satu warna dinamis untuk bilah progres (warna berubah berdasarkan tingkat progres)",
          "_t_guf": "Sunting Sasaran dan Format:",
     "_aodS": "Perpindahan AOD (jumlah piksel yang bergeser acak per menit untuk menghindari burn-in)",
     "_l7": "Label field data AOD",

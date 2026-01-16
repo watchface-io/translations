@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Sử dụng một màu động duy nhất cho thanh tiến trình (màu thay đổi dựa trên mức độ tiến trình)",
          "_t_guf": "Chỉnh Mục tiêu và Định dạng:",
     "_aodS": "Dịch AOD (số pixel màn hình di chuyển ngẫu nhiên mỗi phút để tránh lưu ảnh)",
     "_l7": "Nhãn trường dữ liệu AOD",

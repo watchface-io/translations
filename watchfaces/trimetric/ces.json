@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Použít jednu dynamickou barvu pro ukazatele průběhu (barva se mění podle úrovně průběhu)",
          "_t_guf": "Změnit cíle a formáty:",
     "_aodS": "Posun AOD (počet pixelů, které se náhodně posunou za minutu, aby se předešlo vypálení)",
     "_l7": "AOD popisek pole",

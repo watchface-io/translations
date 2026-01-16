@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Použiť jednu dynamickú farbu pre ukazovatele priebehu (farba sa mení podľa úrovne priebehu)",
          "_t_guf": "Upraviť ciele a formáty:",
     "_aodS": "Posun AOD (počet pixelov, o ktoré sa obrazovka náhodne presunie za minútu, aby sa zabránilo vypáleniu)",
     "_l7": "Štítok AOD poľa dát",

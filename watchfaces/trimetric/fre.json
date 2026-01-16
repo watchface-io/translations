@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Utiliser une seule couleur dynamique pour les barres de progression (la couleur change en fonction du niveau de progression)",
          "_t_guf": "Modifier les objectifs et les formats :",
     "_aodS": "Décalage AOD (nombre de pixels que l'écran déplace aléatoirement par minute pour éviter le burn-in)",
     "_l7": "Étiquette du champ AOD",

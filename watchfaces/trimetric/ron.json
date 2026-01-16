@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Folosește o singură culoare dinamică pentru barele de progres (culoarea se schimbă în funcție de nivelul de progres)",
          "_t_guf": "Editați obiectivele și formatele:",
     "_aodS": "Deplasare AOD (numărul de pixeli pe care ecranul îi deplasează aleatoriu pe minut pentru a evita arderea)",
     "_l7": "Etichetă câmp date AOD",

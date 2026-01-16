@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Egyetlen dinamikus szín használata a folyamatjelzőkhöz (a szín a haladási szint alapján változik)",
          "_t_guf": "Célok és formátumok szerkesztése:",
     "_aodS": "AOD eltolás (a pixel-ek száma, amellyel a képernyő percenként véletlenszerűen elmozdul az égett kép elkerüléséhez)",
     "_l7": "AOD mező címke",

@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "İlerleme çubukları için tek dinamik renk kullan (renk, ilerleme seviyesine göre değişir)",
          "_t_guf": "Hedefleri ve formatları düzenle:",
     "_aodS": "AOD kaydırması (ekranın yanma izini önlemek için dakikada rastgele kaydırdığı piksel sayısı)",
     "_l7": "AOD veri alanı etiketi",

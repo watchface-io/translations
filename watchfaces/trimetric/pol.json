@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Użyj jednego dynamicznego koloru dla pasków postępu (kolor zmienia się w zależności od poziomu postępu)",
          "_t_guf": "Edytuj cele i formaty:",
     "_aodS": "Przesunięcie AOD (liczba pikseli, które ekran losowo przesuwa na minutę, aby uniknąć wypalenia)",
     "_l7": "Etykieta pola danych AOD",

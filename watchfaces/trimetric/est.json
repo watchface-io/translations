@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Kasuta ühte dünaamilist värvi edenemisribadele (värv muutub edenemise taseme alusel)",
          "_t_guf": "Eesmärkide ja formaadisätete redigeerimine:",
     "_aodS": "AOD nihkumine (pikslite arv, mida ekraan minutis juhuslikult nihutab, et vältida põlemist)",
     "_l7": "AOD andmevälja silt",

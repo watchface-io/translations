@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Koristi jednu dinamičku boju za trake napretka (boja se mijenja ovisno o razini napretka)",
          "_t_guf": "Uredi ciljeve i formate:",
     "_aodS": "AOD pomak (broj piksela koje zaslon nasumično pomiče po minuti radi izbjegavanja burn-in)",
     "_l7": "Oznaka AOD polja podataka",

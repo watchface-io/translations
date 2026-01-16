@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Brug enkelt dynamisk farve til statusbjælker (farven ændres baseret på fremskridtsniveau)",
          "_t_guf": "Rediger mål og formater:",
     "_aodS": "AOD forskydning (antal pixels skærmen flytter pr. minut for at undgå indbrænding)",
     "_l7": "AOD dataetiket",

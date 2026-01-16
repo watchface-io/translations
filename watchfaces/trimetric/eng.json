@@ -1,5 +1,6 @@
 {
     "settings": {
+       "_cb" : "Use single dynamic color for progress bars (color changes based on progress level)",
          "_t_guf": "Edit Goals and Formats:",
     "_aodS": "AOD shift (number of pixels the screen randomly shifts per minute to avoid burn-in)",
     "_l7": "AOD Datafield Label",

@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Use uma única cor dinâmica para barras de progresso (a cor muda com base no nível de progresso)",
          "_t_guf": "Editar metas e formatos:",
     "_aodS": "Deslocamento AOD (número de pixels que a tela desloca aleatoriamente por minuto para evitar burn-in)",
     "_l7": "Rótulo do campo de dados AOD",

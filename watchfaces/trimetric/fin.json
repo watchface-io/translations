@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Käytä yhtä dynaamista väriä edistymispalkeille (väri muuttuu edistymistason mukaan)",
          "_t_guf": "Muokkaa tavoitteita ja formaatteja:",
     "_aodS": "AOD-siirto (kuinka monta pikseliä näyttö siirtyy satunnaisesti minuutissa palamisvian välttämiseksi)",
     "_l7": "AOD-tietokentän etiketti",

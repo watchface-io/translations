@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Använd en enda dynamisk färg för förloppsstaplar (färgen ändras baserat på förloppsnivå)",
          "_t_guf": "Redigera mål och format:",
     "_aodS": "AOD-förskjutning (antal pixlar skärmen slumpmässigt flyttar per minut för att undvika inbränning)",
     "_l7": "AOD-datafältets etikett",

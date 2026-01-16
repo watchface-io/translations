@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Gebruik enkele dynamische kleur voor voortgangsbalken (kleur verandert op basis van voortgangsniveau)",
          "_t_guf": "Doelen en formaten bewerken:",
     "_aodS": "AOD-verschuiving (aantal pixels dat het scherm per minuut willekeurig verschuift om inbranden te voorkomen)",
     "_l7": "AOD data-label",

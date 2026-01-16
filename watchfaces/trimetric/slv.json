@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Uporabi eno dinamično barvo za vrstice napredka (barva se spreminja glede na raven napredka)",
          "_t_guf": "Uredi cilje in formate:",
     "_aodS": "AOD premik (število slikovnih pik, ki jih zaslon naključno premakne v minuti, da se prepreči izgorevanje)",
     "_l7": "Oznaka AOD podatkovnega polja",

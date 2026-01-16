@@ -1,5 +1,6 @@
 {
     "settings": {
+         "_cb" : "Naudoti vieną dinaminę spalvą progreso juostoms (spalva keičiasi pagal progreso lygį)",
          "_t_guf": "Redaguoti tikslus ir formatus:",
     "_aodS": "AOD poslinkis (pikselių skaičius, kuriuos ekranas atsitiktinai perstumia per minutę, kad būtų išvengta degimo)",
     "_l7": "AOD duomenų lauko etiketė",
