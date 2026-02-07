@@ -47,8 +47,8 @@
         "_sn": "Centro izquierda",
         "_sb": "Centro derecha",
         "_r0": "Icono notificación",
-        "_r1": "Icono Bluetooth deshabilitado",
-        "_r2": "AM/PM",
+        "_r1": "Icono Bluetooth deshabilitado",        "_r4": "Icono alarma activada",
+        "_r5": "Icono No molestar activado",        "_r2": "AM/PM",
         "_r3": "Segundos",
 
         "_wo": "Icono tiempo OWM + 2 campos",

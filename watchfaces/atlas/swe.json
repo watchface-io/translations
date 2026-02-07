@@ -48,6 +48,8 @@
         "_sb": "Höger center",
         "_r0": "Notifikationsikon",
         "_r1": "Bluetooth inaktiverad ikon",
+        "_r4": "Alarm aktiverat ikon",
+        "_r5": "Stör ej aktiverat ikon",
         "_r2": "AM/PM",
         "_r3": "Sekunder",
 

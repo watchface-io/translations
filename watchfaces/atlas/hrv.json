@@ -56,8 +56,8 @@
         "_sb": "Desni centar",
 
         "_r0": "Ikona obavijesti",
-        "_r1": "Ikona isključenog Bluetootha",
-        "_r2": "AM/PM",
+        "_r1": "Ikona isključenog Bluetootha",        "_r4": "Ikona omogućenog alarma",
+        "_r5": "Ikona omogućenog Ne uznemiruj",        "_r2": "AM/PM",
         "_r3": "Sekunde",
 
         "_wo": "OWM Vremenska ikona + 2 polja",

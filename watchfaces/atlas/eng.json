@@ -57,6 +57,8 @@
 
         "_r0": "Notification Icon",
         "_r1": "Bluetooth Disabled Icon",
+        "_r4": "Alarm Enabled Icon",
+        "_r5": "DND Enabled Icon",
         "_r2": "AM/PM",
         "_r3": "Seconds",
 

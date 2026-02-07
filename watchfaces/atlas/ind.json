@@ -56,8 +56,8 @@
         "_sb": "Tengah kanan",
 
         "_r0": "Ikon notifikasi",
-        "_r1": "Ikon Bluetooth mati",
-        "_r2": "AM/PM",
+        "_r1": "Ikon Bluetooth mati",        "_r4": "Ikon alarm aktif",
+        "_r5": "Ikon Jangan Ganggu aktif",        "_r2": "AM/PM",
         "_r3": "Detik",
         
         "_wo": "Ikon cuaca OWM + 2 field",

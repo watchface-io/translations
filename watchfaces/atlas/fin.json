@@ -56,8 +56,8 @@
         "_sb": "Oikea keskikohta",
 
         "_r0": "Ilmoituskuvake",
-        "_r1": "Bluetooth pois päältä kuvake",
-        "_r2": "AM/PM",
+        "_r1": "Bluetooth pois päältä kuvake",        "_r4": "Hälytys päällä -kuvake",
+        "_r5": "Älä häiritse päällä -kuvake",        "_r2": "AM/PM",
         "_r3": "Sekunnit",
 
         "_wo": "OWM Sääkuvake + 2 kenttää",

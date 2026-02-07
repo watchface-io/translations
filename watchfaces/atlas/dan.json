@@ -57,6 +57,8 @@
 
         "_r0": "Notifikationsikon",
         "_r1": "Bluetooth deaktiveret ikon",
+        "_r4": "Alarm aktiveret ikon",
+        "_r5": "Forstyr ikke aktiveret ikon",
         "_r2": "AM/PM",
         "_r3": "Sekunder",
 
