@@ -114,6 +114,7 @@
         "_hus": "Wijzerpositie elke seconde aanpassen (zie FAQ)",
         "_br": "Normale achtergrond",
         "_bl": "Half lichte achtergrond (alleen grote cijfers kunnen worden gekleurd)",
-        "_bf": "Volledig lichte achtergrond (gebruik bij vertraging, kan niet individueel worden gekleurd, gebruik streepjeskleur)"
+        "_bf": "Volledig lichte achtergrond (gebruik bij vertraging, kan niet individueel worden gekleurd, gebruik streepjeskleur)",
+        "_wde": "Weekdagen in het Engels"
     }
 }

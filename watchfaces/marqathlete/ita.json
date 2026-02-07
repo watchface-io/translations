@@ -171,6 +171,9 @@
         "_x4": "Carica preimpostazione precedente",
         "_x3": "Carica tema colore precedente",
         "_x2": "Carica prossimo tema colore",
-        "_hus": "Regola posizione lancetta ogni secondo (vedi FAQ)"
+        "_hus": "Regola posizione lancetta ogni secondo (vedi FAQ)",
+
+        "_lc": "Colore etichetta centro",
+        "_lc2": "Uguale al colore del testo"
     }
 }

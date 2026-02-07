@@ -171,6 +171,9 @@
         "_x4": "Last inn forrige forhåndsinnstilling",
         "_x3": "Last inn forrige fargetema",
         "_x2": "Last inn neste fargetema",
-        "_hus": "Juster viser posisjon hvert sekund (se FAQ)"
+        "_hus": "Juster viserstilling hvert sekund (se FAQ)",
+
+        "_lc": "Merkelappfarge senter",
+        "_lc2": "Samme som tekstfarge"
     }
 }

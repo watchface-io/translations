@@ -114,6 +114,7 @@
             "_hus": "Dostosuj pozycję wskazówki co sekundę (zobacz FAQ)",
         "_br": "Zwykłe tło",
         "_bl": "Pół lekkie tło (tylko duże liczby mogą być kolorowane)",
-        "_bf": "Całkowicie lekkie tło (użyj przy opóźnieniach, nie można kolorować indywidualnie, użyj koloru podziałek)"
+        "_bf": "Całkowicie lekkie tło (użyj przy opóźnieniu, nie można kolorować indywidualnie, użyj koloru znaczników)",
+        "_wde": "Dni tygodnia po angielsku"
     }
 }

@@ -114,6 +114,7 @@
         "_hus": "Juster viser posisjon hvert sekund (se FAQ)",
         "_br": "Vanlig bakgrunn",
         "_bl": "Halv lett bakgrunn (bare store tall kan farges)",
-        "_bf": "Helt lett bakgrunn (bruk ved forsinkelse, kan ikke farges individuelt, bruk streker farge)"
+        "_bf": "Fullstendig lett bakgrunn (bruk ved forsinkelse, kan ikke farges individuelt, bruk farge på merker)",
+        "_wde": "Ukedager på engelsk"
     }
 }

@@ -2,9 +2,10 @@
     "settings": {
 
         "_t1": "Time Font",
-        "_t2": "Text Font",
+        "_t2": "Text Font Top",
         "_t3": "Circle Label Font",
         "_t4": "Circle Text Font",
+        "_t5": "Text Font Bottom",
 
 
         "_aas": "Always on seconds",
@@ -22,10 +23,10 @@
         "_l1": "1. Field 1 Label",
         "_f2": "2. Field 2 Data",
         "_l2": "2. Field 2 Label",
-        "_f3": "3. Field 3 Data",
-        "_l3": "3. Field 3 Label",
-        "_f4": "4. Bottom Data",
-        "_l4": "4. Bottom Label",
+        "_f3": "3. Bottom 1 Data",
+        "_l3": "3. Bottom 1 Label",
+        "_f4": "4. Bottom 2 Data",
+        "_l4": "4. Bottom 2 Label",
         "_f5": "5. Circle Data",
         "_l5": "5. Circle Label",
 
@@ -39,7 +40,7 @@
 
 
         "_os": "Y offset Circle (Label,Text) (20,20 = default)",
-        "_pw": "Lines Thickness",
+      
         "_clt": "Circle Outline Thickness"
     }
 }

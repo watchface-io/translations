@@ -114,6 +114,7 @@
         "_hus": "Regola posizione lancetta ogni secondo (vedi FAQ)",
         "_br": "Sfondo normale",
         "_bl": "Sfondo semi-leggero (solo i numeri grandi possono essere colorati)",
-        "_bf": "Sfondo completamente leggero (usa in caso di ritardo, non può essere colorato individualmente, usa colore tacche)"
+        "_bf": "Sfondo completamente leggero (usa in caso di ritardo, non può essere colorato individualmente, usa colore dei segni)",
+        "_wde": "Giorni della settimana in inglese"
     }
 }

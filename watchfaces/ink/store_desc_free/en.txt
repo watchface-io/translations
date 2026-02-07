@@ -1,0 +1,18 @@
+Noctis, A highly readable sports watch face featuring extra-large, bold digits for instant time visibility.
+
+⭐️ Free vs PRO ⭐️
+This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/410283b948 or https://apps.garmin.com/apps/59c502ad-b540-4a61-897b-31cfba262749.
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/noctis/manual
+* Get a PRO key: https://ko-fi.com/s/410283b948 or https://watchface.io/noctis
+* Available Datafields: https://watchface.io/docs/datafields
+* PRO version: https://apps.garmin.com/apps/59c502ad-b540-4a61-897b-31cfba262749
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields. Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+
+

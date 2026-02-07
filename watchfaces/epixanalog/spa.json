@@ -114,6 +114,7 @@
         "_hus": "Actualizar posición de aguja cada segundo (ver FAQ)",
         "_br": "Fondo normal",
         "_bl": "Fondo semi ligero (solo los números grandes pueden colorearse)",
-        "_bf": "Fondo completamente ligero (usar al experimentar retraso, no se puede colorear individualmente, usar color de marcas)"
+        "_bf": "Fondo completamente ligero (usar al experimentar retraso, no se puede colorear individualmente, usar color de marcas)",
+        "_wde": "Días de la semana en inglés"
     }
 }

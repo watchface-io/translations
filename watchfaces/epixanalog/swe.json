@@ -114,6 +114,7 @@
         "_hus": "Uppdatera visarposition varje sekund (se FAQ)",
         "_br": "Vanlig bakgrund",
         "_bl": "Halvlättviktig bakgrund (endast stora siffror kan färgas)",
-        "_bf": "Fullständig lättviktig bakgrund (använd vid fördröjning, kan inte färgas individuellt, använd markeringar färg)"
+        "_bf": "Fullständig lättviktig bakgrund (använd vid fördröjning, kan inte färgas individuellt, använd markeringar färg)",
+        "_wde": "Veckodagar på engelska"
     }
 }

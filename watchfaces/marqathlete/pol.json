@@ -171,6 +171,9 @@
         "_x4": "Wczytaj poprzedni preset",
         "_x3": "Wczytaj poprzedni motyw kolorów",
         "_x2": "Wczytaj następny motyw kolorów",
-        "_hus": "Dostosuj pozycję wskazówki co sekundę (zobacz FAQ)"
+        "_hus": "Dostosuj pozycję wskazówki co sekundę (zobacz FAQ)",
+
+        "_lc": "Kolor etykiety środkowej",
+        "_lc2": "Taki sam jak kolor tekstu"
     }
 }

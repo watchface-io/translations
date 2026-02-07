@@ -114,6 +114,7 @@
         "_hus": "Posodobi položaj kazalca vsako sekundo (glej FAQ)",
         "_br": "Običajno ozadje",
         "_bl": "Pol lahko ozadje (samo velika števila se lahko pobarvajo)",
-        "_bf": "Popolnoma lahko ozadje (uporabi pri zamudah, ne more biti pobarvan posamično, uporabi barvo oznak)"
+        "_bf": "Popolnoma lahko ozadje (uporabite pri zamiku, ne morete barvati posamezno, uporabite barvo oznak)",
+        "_wde": "Dnevi v tednu v angleščini"
     }
 }

@@ -171,6 +171,9 @@
         "_x4": "Načíst předchozí předvolbu",
         "_x3": "Načíst předchozí barevné téma",
         "_x2": "Načíst následující barevné téma",
-        "_hus": "Upravovat pozici ručiček každou sekundu (viz FAQ)"
+        "_hus": "Upravovat pozici ručiček každou sekundu (viz FAQ)",
+
+        "_lc": "Barva popisku uprostřed",
+        "_lc2": "Stejná jako barva textu"
     }
 }

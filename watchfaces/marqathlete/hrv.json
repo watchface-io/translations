@@ -171,6 +171,9 @@
         "_x4": "Učitaj prethodni predložak",
         "_x3": "Učitaj prethodnu temu boja",
         "_x2": "Učitaj sljedeću temu boja",
-        "_hus": "Prilagodi poziciju kazaljke svake sekunde (vidi FAQ)"
+        "_hus": "Prilagodi položaj kazaljki svake sekunde (pogledaj FAQ)",
+
+        "_lc": "Boja oznake u sredini",
+        "_lc2": "Isto kao boja teksta"
     }
 }

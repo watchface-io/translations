@@ -171,6 +171,9 @@
         "_x4": "Naloži prejšnjo prednastavitev",
         "_x3": "Naloži prejšnjo barvno temo",
         "_x2": "Naloži naslednjo barvno temo",
-        "_hus": "Posodobi položaj kazalca vsako sekundo (glej FAQ)"
+        "_hus": "Prilagodi položaj kazalcev vsako sekundo (glej FAQ)",
+
+        "_lc": "Barva oznake na sredini",
+        "_lc2": "Enaka kot barva besedila"
     }
 }

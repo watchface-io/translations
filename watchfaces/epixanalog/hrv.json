@@ -114,6 +114,7 @@
         "_hus": "Prilagodi poziciju kazaljke svake sekunde (vidi FAQ)",
         "_br": "Obična pozadina",
         "_bl": "Polu lagana pozadina (samo veliki brojevi mogu biti obojeni)",
-        "_bf": "Potpuno lagana pozadina (koristi pri usporavanju, ne može se bojiti pojedinačno, koristi boju oznaka)"
+        "_bf": "Potpuno lagana pozadina (koristi pri kašnjenju, ne može se bojati pojedinačno, koristi boju oznaka)",
+        "_wde": "Dani u tjednu na engleskom"
     }
 }

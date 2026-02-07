@@ -114,6 +114,7 @@
         "_hus": "Upravovat pozici ručiček každou sekundu (viz FAQ)",
         "_br": "Běžné pozadí",
         "_bl": "Poloviční lehké pozadí (pouze velká čísla mohou být obarvena)",
-        "_bf": "Plné lehké pozadí (použijte při zpomalení, nelze individuálně obarvit, použijte barvu značek)"
+        "_bf": "Plné lehké pozadí (použijte při zpomaléní, nelze individuálně obarvit, použijte barvu značek)",
+        "_wde": "Dny v týdnu v angličtině"
     }
 }

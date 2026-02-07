@@ -171,6 +171,9 @@
         "_x4": "Încarcă presetarea anterioară",
         "_x3": "Încarcă tema de culori anterioară",
         "_x2": "Încarcă următoarea temă de culori",
-        "_hus": "Ajustează poziția acului în fiecare secundă (vezi FAQ)"
+        "_hus": "Ajustează poziția acului în fiecare secundă (vezi FAQ)",
+
+        "_lc": "Culoarea etichetei centrale",
+        "_lc2": "Aceeași cu culoarea textului"
     }
 }

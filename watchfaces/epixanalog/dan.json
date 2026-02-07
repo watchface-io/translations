@@ -114,6 +114,7 @@
         "_hus": "Juster viser position hvert sekund (se FAQ)",
         "_br": "Almindelig baggrund",
         "_bl": "Halv let baggrund (kun store tal kan farves)",
-        "_bf": "Fuld let baggrund (brug ved lagring, kan ikke farves individuelt, brug mærker farve)"
+        "_bf": "Fuld let baggrund (brug ved lagring, kan ikke farves individuelt, brug mærker farve)",
+        "_wde": "Ugedage på engelsk"
     }
 }

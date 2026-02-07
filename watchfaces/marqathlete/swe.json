@@ -171,6 +171,9 @@
         "_x4": "Ladda föregående förinställning",
         "_x3": "Ladda föregående färgtema",
         "_x2": "Ladda nästa färgtema",
-        "_hus": "Uppdatera visarposition varje sekund (se FAQ)"
+        "_hus": "Justera visarposition varje sekund (se FAQ)",
+
+        "_lc": "Etikett färg mitten",
+        "_lc2": "Samma som textfärg"
     }
 }

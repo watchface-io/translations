@@ -127,7 +127,9 @@
             "_i11": "No Circle, 1 Field Vertical",
             "_i12": "No Circle, 1 Field Horizontal",
             "_i13": "No Circle, 2 Fields Horizontal",
-            "_i14": "Moon Phase"
+            "_i14": "Moon Phase",
+
+            "_batt40": "Battery icon (hide above 40%)"
 
     }
 }

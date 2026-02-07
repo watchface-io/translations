@@ -114,6 +114,7 @@
         "_hus": "Kohanda osuti asukohta iga sekund (vaata KKK)",
         "_br": "Tavaline taust",
         "_bl": "Poolkerge taust (ainult suured numbrid saab värvida)",
-        "_bf": "Täiskerge taust (kasuta viivituse korral, ei saa individuaalselt värvida, kasuta kriipsude värvi)"
+        "_bf": "Täielikult kerge taust (kasuta viivituse korral, ei saa individuaalselt värvida, kasuta märkide värvi)",
+        "_wde": "Nädalapäevad inglise keeles"
     }
 }

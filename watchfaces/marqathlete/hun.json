@@ -170,6 +170,9 @@
         "_x4": "Előző előbeállítás betöltése",
         "_x3": "Előző színtéma betöltése",
         "_x2": "Következő színtéma betöltése",
-        "_hus": "Mutató pozíció beállítása minden másodpercben (lásd GYIK)"
+        "_hus": "Mutató pozíció beállítása minden másodpercben (lásd GYIK)",
+
+        "_lc": "Címke szín középen",
+        "_lc2": "Ugyanaz, mint a szöveg színe"
     }
 }

@@ -114,6 +114,7 @@
         "_hus": "Säädä viisarin asentoa joka sekunti (katso UKK)",
         "_br": "Tavallinen tausta",
         "_bl": "Puolikevyt tausta (vain isot numerot voidaan värittää)",
-        "_bf": "Täysin kevyt tausta (käytä viivästymisen yhteydessä, ei voida värittää erikseen, käytä viivoja värillä)"
+        "_bf": "Täysin kevyt tausta (käytä viivästymisen yhteydessä, ei voida värittää erikseen, käytä viivoja värillä)",
+        "_wde": "Viikonpäivät englanniksi"
     }
 }

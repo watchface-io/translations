@@ -171,6 +171,9 @@
         "_x4": "Muat pratetap sebelumnya",
         "_x3": "Muat tema warna sebelumnya",
         "_x2": "Muat tema warna seterusnya",
-        "_hus": "Kemaskini kedudukan jarum setiap saat (lihat FAQ)"
+        "_hus": "Laraskan kedudukan jarum setiap saat (lihat Soalan Lazim)",
+
+        "_lc": "Warna label tengah",
+        "_lc2": "Sama dengan warna teks"
     }
 }

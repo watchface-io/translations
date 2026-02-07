@@ -114,6 +114,7 @@
         "_hus": "Koreguoti rodyklės padėtį kas sekundę (žr. DUK)",
         "_br": "Įprastas fonas",
         "_bl": "Pusiau lengvas fonas (tik dideli skaičiai gali būti spalvinami)",
-        "_bf": "Visiškai lengvas fonas (naudokite esant vėlavimui, negalima spalvinti atskirai, naudokite padalų spalvą)"
+        "_bf": "Visiškai lengvas fonas (naudoti esant vėlavimui, negalima spalvinti atskirai, naudoti žymių spalvą)",
+        "_wde": "Savaitės dienos anglų kalba"
     }
 }

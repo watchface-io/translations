@@ -171,6 +171,9 @@
         "_x4": "Carregar predefinição anterior",
         "_x3": "Carregar tema cor anterior",
         "_x2": "Carregar próximo tema cor",
-        "_hus": "Ajustar posição do ponteiro a cada segundo (veja FAQ)"
+        "_hus": "Ajustar posição dos ponteiros a cada segundo (ver FAQ)",
+
+        "_lc": "Cor da etiqueta central",
+        "_lc2": "Igual à cor do texto"
     }
 }

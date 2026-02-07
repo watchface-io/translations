@@ -114,6 +114,7 @@
         "_hus": "Ajustează poziția acului în fiecare secundă (vezi FAQ)",
         "_br": "Fundal normal",
         "_bl": "Fundal semi-ușor (doar numere mari pot fi colorate)",
-        "_bf": "Fundal complet ușor (folosește la întârziere, nu poate fi colorat individual, folosește culoarea graduațiilor)"
+        "_bf": "Fundal complet ușor (folosiți la întârziere, nu poate fi colorat individual, folosiți culoarea marcajelor)",
+        "_wde": "Zilele săptămânii în engleză"
     }
 }

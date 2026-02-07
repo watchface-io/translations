@@ -114,6 +114,7 @@
         "_hus": "Her saniye ibre konumunu güncelle (SSS'ye bakın)",
         "_br": "Normal arka plan",
         "_bl": "Yarı hafif arka plan (yalnızca büyük sayılar renklendirilebilir)",
-        "_bf": "Tam hafif arka plan (gecikme yaşarken kullanın, ayrı ayrı renklendirilemez, işaret rengini kullanın)"
+        "_bf": "Tamamen hafif arka plan (gecikme yaşandığında kullanın, ayrı ayrı renklendirilemez, işaret rengini kullanın)",
+        "_wde": "Haftanın günleri İngilizce"
     }
 }

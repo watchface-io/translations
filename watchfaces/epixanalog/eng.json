@@ -117,8 +117,8 @@
         "_hus": "Adjust hand position every second (see FAQ)",
         "_br": "Regular background",
         "_bl": "Half Lightweight background (only, big numbers can be colored)",
-        "_bf": "Full Lightweight background (use when experiencing lag, cannot be colored individually, use ticks color)"
-        
+        "_bf": "Full Lightweight background (use when experiencing lag, cannot be colored individually, use ticks color)",
+        "_wde": "Weekdays in English"
 
     }
 

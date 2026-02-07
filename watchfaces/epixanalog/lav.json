@@ -114,6 +114,7 @@
         "_hus": "Pielāgot rādītāja pozīciju katru sekundi (skatiet BUJ)",
         "_br": "Parastais fons",
         "_bl": "Pus viegls fons (tikai lieli skaitļi var tikt krāsoti)",
-        "_bf": "Pilnīgi viegls fons (izmantojiet kavēšanās gadījumā, nevar krāsot atsevišķi, izmantojiet iedaļu krāsu)"
+        "_bf": "Pilnīgi viegls fons (izmantojiet kavēšanās gadījumā, nevar krāsot atsevišķi, izmantojiet iedaļu krāsu)",
+        "_wde": "Nedēļas dienas angļu valodā"
     }
 }

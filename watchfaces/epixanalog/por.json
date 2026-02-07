@@ -114,6 +114,7 @@
         "_hus": "Ajustar posição do ponteiro a cada segundo (veja FAQ)",
         "_br": "Fundo normal",
         "_bl": "Fundo meio leve (apenas números grandes podem ser coloridos)",
-        "_bf": "Fundo totalmente leve (use ao experimentar atraso, não pode ser colorido individualmente, use cor das marcações)"
+        "_bf": "Fundo totalmente leve (usar ao experimentar atraso, não pode ser colorido individualmente, usar cor das marcações)",
+        "_wde": "Dias da semana em inglês"
     }
 }

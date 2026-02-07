@@ -171,6 +171,9 @@
         "_x4": "Indlæs forrige forudindstilling",
         "_x3": "Indlæs forrige farvetema",
         "_x2": "Indlæs næste farvetema",
-        "_hus": "Juster viserposition hvert sekund (se FAQ)"
+        "_hus": "Juster viserstilling hvert sekund (se FAQ)",
+
+        "_lc": "Mærkatfarve i midten",
+        "_lc2": "Samme som tekstfarve"
     }
 }

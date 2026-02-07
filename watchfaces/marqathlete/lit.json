@@ -171,6 +171,9 @@
         "_x4": "Įkelti ankstesnį išankstinį nustatymą",
         "_x3": "Įkelti ankstesnę spalvų temą",
         "_x2": "Įkelti kitą spalvų temą",
-        "_hus": "Koreguoti rodyklės padėtį kas sekundę (žr. DUK)"
+        "_hus": "Reguliuoti rodyklės padėtį kas sekundę (žr. DUK)",
+
+        "_lc": "Etiketės spalva centre",
+        "_lc2": "Tokia pati kaip teksto spalva"
     }
 }

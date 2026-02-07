@@ -114,6 +114,7 @@
         "_hus": "Mutató pozíció beállítása minden másodpercben (lásd GYIK)",
         "_br": "Normál háttér",
         "_bl": "Fél könnyű háttér (csak a nagy számok színezhetők)",
-        "_bf": "Teljes könnyű háttér (használja késés esetén, nem színezhető egyenként, használja az osztások színét)"
+        "_bf": "Teljesen könnyű háttér (használja késleltetés esetén, nem színezhető egyedileg, használja a jelölések színét)",
+        "_wde": "Hét napjai angolul"
     }
 }

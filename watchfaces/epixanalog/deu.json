@@ -114,6 +114,7 @@
         "_hus": "Zeigerposition jede Sekunde anpassen (siehe FAQ)",
         "_br": "Normaler Hintergrund",
         "_bl": "Halb leichter Hintergrund (nur große Zahlen können eingefärbt werden)",
-        "_bf": "Vollständig leichter Hintergrund (bei Verzögerung verwenden, kann nicht individuell eingefärbt werden, Teilstrich-Farbe verwenden)"
+        "_bf": "Vollständig leichter Hintergrund (bei Verzögerung verwenden, kann nicht individuell eingefärbt werden, Teilstrich-Farbe verwenden)",
+        "_wde": "Wochentage auf Englisch"
     }
 }

@@ -171,6 +171,9 @@
         "_x4": "Load Previous Preset",
         "_x3": "Load Previous Color Theme",
         "_x2": "Load Next Color Theme",
-        "_hus": "Adjust hand position every second (see FAQ)"
+        "_hus": "Adjust hand position every second (see FAQ)",
+
+        "_lc": "Label Color Center",
+        "_lc2": "Same as Text Color"
     }
 }

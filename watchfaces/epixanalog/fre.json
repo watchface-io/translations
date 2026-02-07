@@ -114,6 +114,7 @@
         "_hus": "Ajuster la position des aiguilles chaque seconde (voir FAQ)",
         "_br": "Arrière-plan normal",
         "_bl": "Arrière-plan semi-léger (seuls les grands chiffres peuvent être colorés)",
-        "_bf": "Arrière-plan entièrement léger (utiliser en cas de ralentissement, ne peut pas être coloré individuellement, utiliser la couleur des graduations)"
+        "_bf": "Arrière-plan entièrement léger (utiliser en cas de ralentissement, ne peut pas être coloré individuellement, utiliser la couleur des graduations)",
+        "_wde": "Jours de la semaine en anglais"
     }
 }

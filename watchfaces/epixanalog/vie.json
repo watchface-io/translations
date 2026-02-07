@@ -114,6 +114,7 @@
         "_hus": "Cập nhật vị trí kim mỗi giây (xem FAQ)",
         "_br": "Nền thông thường",
         "_bl": "Nền nhẹ một nửa (chỉ các số lớn có thể tô màu)",
-        "_bf": "Nền nhẹ hoàn toàn (sử dụng khi gặp độ trễ, không thể tô màu riêng lẻ, sử dụng màu vạch)"
+        "_bf": "Nền nhẹ hoàn toàn (sử dụng khi gặp độ trễ, không thể tô màu riêng lẻ, sử dụng màu vạch)",
+        "_wde": "Các ngày trong tuần bằng tiếng Anh"
     }
 }

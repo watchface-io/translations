@@ -114,6 +114,7 @@
         "_hus": "Sesuaikan posisi jarum setiap detik (lihat FAQ)",
         "_br": "Latar belakang biasa",
         "_bl": "Latar belakang ringan setengah (hanya angka besar yang dapat diwarnai)",
-        "_bf": "Latar belakang ringan penuh (gunakan saat mengalami lag, tidak dapat diwarnai secara individual, gunakan warna tanda)"
+        "_bf": "Latar belakang ringan penuh (gunakan saat mengalami lag, tidak dapat diwarnai secara individual, gunakan warna tanda)",
+        "_wde": "Hari dalam seminggu dalam bahasa Inggris"
     }
 }

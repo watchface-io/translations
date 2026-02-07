@@ -171,6 +171,9 @@
         "_x4": "Laadi eelmine eelseade",
         "_x3": "Laadi eelmine värviteema",
         "_x2": "Laadi järgmine värviteema",
-        "_hus": "Kohanda osuti asukohta iga sekund (vaata KKK)"
+        "_hus": "Kohanda osuti asukohta iga sekund (vaata KKK)",
+
+        "_lc": "Sildi värv keskel",
+        "_lc2": "Sama mis teksti värv"
     }
 }
