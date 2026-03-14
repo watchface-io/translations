@@ -1,0 +1,31 @@
+Recon is a pixel‑perfect retro digital watchface. Display up to 8 real‑time sport data metrics with crisp markers, smooth progress bars, subtle gradients, and support for 100+ Garmin data fields. Ultra battery‑friendly and fully optimized for every supported device (including Venu X1 and other square screens).
+
+⭐️ Free vs PRO ⭐️
+This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://watchface.io/recon/.
+
+⭐️ MIP Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+Colors can look different as in most pictures, as these are taken on an Amoled device. This watchface has many themes optimized for MIP and supports MIP gradients. You can find all the build in themes here: https://watchface.io/recon/themes#MIP
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/recon/manual
+* Get a PRO key: https://ko-fi.com/s/d6b4b3e24d or https://watchface.io/recon
+* PRO unlocked version: https://apps-developer.garmin.com/apps/cd89a5fb-a7f8-4e15-8c5c-a28ed838cb81
+* Theme List: https://watchface.io/recon/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone go to your device, watchfaces, settings): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields. Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Can I change the Fenix/Enduro, etc text? ⭐️
+Yes, you can! See here: https://watchface.io/faq/how-to-change-the-fenix-text
+In fact, everything on this watchface can be adjusted to your liking.
+
+

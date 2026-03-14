@@ -286,6 +286,7 @@
         "f697" : "App 3 (select on watch)",
         "f698" : "App 4 (select on watch)",
         "f699" : "App 5 (select on watch)",
+        "f687" : "CGM+ GB (Dexcom, Libre, Nightscout, xDrip)",
         "f680" : "CGM Connect (bruder_jakob)",
         "f681" : "CGM Update Time (bruder_jakob)",
         "f683" : "CGM (Other)",
