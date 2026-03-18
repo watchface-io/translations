@@ -99,6 +99,8 @@
         "f211" : "Calories Week (WTD)",
         "f212" : "Calories 7 Days",
         "f603" : "Active Calories Day",
+        "f743" : "Active Calories Week (est)",
+        "f744" : "Active Calories 7 days (est)",
         "f150" : "Active Minutes Today (Total)",
         "f151" : "Active Minutes Week (WTD) (Total)",
         "f200" : "Active Minutes Last 7 Days (Total)",
@@ -553,7 +555,12 @@
         "f57" : "Sport 2 Time 7 Day",
         "f56" : "Sport 2 Time Week (WTD)",
         "f58" : "Sport 2 Time Month",
-        "f59" : "Sport 2 Time 28 Days"
+        "f59" : "Sport 2 Time 28 Days",
+        "f60" : "Sport 1 Activities Today",
+        "f62" : "Sport 1 Activities 7 Day",
+        "f61" : "Sport 1 Activities Week (WTD)",
+        "f63" : "Sport 1 Activities Month",
+        "f64" : "Sport 1 Activities 28 Days"
 
         },
     "background" : {
