@@ -33,6 +33,7 @@
         "_s17": "Obični krug napretka",
         "_s18": "Bez kruga",
         "_si": "Nacrtaj ikone stanja (postavi pozicije dolje, vidi FAQ)",
+        "_si2": "Nacrtaj neaktivne ikone stanja",
        
     
         "_t1": "Font vremena",
@@ -94,6 +95,7 @@
 
         "_c13": "Pozadina kruga lijevo/desno",
         "_c14": "Boja sjene kruga lijevo/desno",
+        "_c45": "Spajanje boja kruga lijevo/desno (pomak od 45 stupnjeva)",
 
         "_c15": "Boja trenutnog dana u tjednu",
         "_c16": "Boja dana u tjednu",

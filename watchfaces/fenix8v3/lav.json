@@ -35,6 +35,7 @@
         "_s17": "Parastais progresa riņķis",
         "_s18": "Nav riņķa",
         "_si": "Zīmēt statusa ikonas (iestatiet pozīcijas zemāk, skatiet FAQ)",
+        "_si2": "Zīmēt neaktīvas statusa ikonas",
        
     
         "_t1": "Laika fonts",
@@ -97,6 +98,7 @@
 
         "_c13": "Kreisā/labā riņķa fons",
         "_c14": "Kreisā/labā riņķa ēnas krāsa",
+        "_c45": "Kreisā/labā riņķa krāsu sapludināšana (45 grādu nobīde)",
 
         "_c15": "Nedēļas dienu pašreizējās dienas krāsa",
         "_c16": "Nedēļas dienu krāsa",

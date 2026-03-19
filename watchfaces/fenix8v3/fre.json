@@ -34,6 +34,7 @@
         "_s17": "Cercle de progression ordinaire",
         "_s18": "Pas de cercle",
         "_si": "Dessiner les icônes d'état (définir les positions ci-dessous, voir FAQ)",
+        "_si2": "Dessiner les icônes d'état inactives",
        
     
         "_t1": "Police de l'heure",
@@ -95,6 +96,7 @@
 
         "_c13": "Arrière-plan du cercle gauche/droite",
         "_c14": "Couleur de l'ombre du cercle gauche/droite",
+        "_c45": "Fusion des couleurs du cercle gauche/droite (décalage de 45 degrés)",
 
         "_c15": "Couleur du jour actuel des jours de la semaine",
         "_c16": "Couleur des jours de la semaine",

@@ -34,6 +34,7 @@
         "_s17": "Regulärer Fortschrittskreis",
         "_s18": "Kein Kreis",
         "_si": "Status-Icons zeichnen (Positionen unten einstellen, siehe FAQ)",
+        "_si2": "Inaktive Status-Icons zeichnen",
        
     
         "_t1": "Zeit-Schriftart",
@@ -95,6 +96,7 @@
 
         "_c13": "Links/Rechts-Kreis Hintergrund",
         "_c14": "Links/Rechts-Kreis Schattenfarbe",
+        "_c45": "Links/Rechts-Kreis Farbverschmelzung (45-Grad-Versatz)",
 
         "_c15": "Wochentage aktueller Tag Farbe",
         "_c16": "Wochentage Farbe",

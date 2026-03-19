@@ -34,6 +34,7 @@
         "_s17": "Bežný kruh priebehu",
         "_s18": "Bez kruhu",
         "_si": "Kresliť ikony stavu (nastaviť pozície nižšie, pozri FAQ)",
+        "_si2": "Kresliť neaktívne ikony stavu",
        
     
         "_t1": "Písmo času",
@@ -95,6 +96,7 @@
 
         "_c13": "Pozadie kruhu vľavo/vpravo",
         "_c14": "Farba tieňa kruhu vľavo/vpravo",
+        "_c45": "Zlúčenie farieb kruhu vľavo/vpravo (posun o 45 stupňov)",
 
         "_c15": "Farba aktuálneho dňa v týždni",
         "_c16": "Farba dní v týždni",

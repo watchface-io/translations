@@ -35,6 +35,7 @@
         "_s17": "Normal İlerleme Çemberi",
         "_s18": "Çember Yok",
         "_si": "Durum Simgelerini Çiz (aşağıda konumları ayarlayın, SSS'ye bakın)",
+        "_si2": "Pasif Durum Simgelerini Çiz",
        
     
         "_t1": "Saat Fontu",
@@ -97,6 +98,7 @@
 
         "_c13": "Sol/Sağ Çember Arkaplanı",
         "_c14": "Sol/Sağ Çember Gölge Rengi",
+        "_c45": "Sol/Sağ Çember Renk Birleştirme (45 derece ofset)",
 
         "_c15": "Haftanın Günleri Mevcut Gün Rengi",
         "_c16": "Haftanın Günleri Rengi",

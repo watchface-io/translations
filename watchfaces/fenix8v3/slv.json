@@ -34,6 +34,7 @@
         "_s17": "Navaden krog napredka",
         "_s18": "Brez kroga",
         "_si": "Nariši ikone stanja (nastavi pozicije spodaj, glej FAQ)",
+        "_si2": "Nariši neaktivne ikone stanja",
        
     
         "_t1": "Pisava časa",
@@ -95,6 +96,7 @@
 
         "_c13": "Ozadje kroga levo/desno",
         "_c14": "Barva sence kroga levo/desno",
+        "_c45": "Združevanje barv kroga levo/desno (zamik 45 stopinj)",
 
         "_c15": "Barva trenutnega dne v tednu",
         "_c16": "Barva dni v tednu",

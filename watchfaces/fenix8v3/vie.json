@@ -34,6 +34,7 @@
         "_s17": "Vòng tròn tiến trình thường",
         "_s18": "Không có vòng tròn",
         "_si": "Vẽ biểu tượng trạng thái (đặt vị trí bên dưới, xem FAQ)",
+        "_si2": "Vẽ biểu tượng trạng thái không hoạt động",
        
     
         "_t1": "Phông chữ thời gian",
@@ -96,6 +97,7 @@
 
         "_c13": "Nền vòng tròn trái/phải",
         "_c14": "Màu bóng vòng tròn trái/phải",
+        "_c45": "Hợp nhất màu vòng tròn trái/phải (lệch 45 độ)",
 
         "_c15": "Màu ngày hiện tại trong tuần",
         "_c16": "Màu các ngày trong tuần",

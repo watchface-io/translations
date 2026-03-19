@@ -34,6 +34,7 @@
         "_s17": "Vanlig fremdriftssirkel",
         "_s18": "Ingen sirkel",
         "_si": "Tegn statusikoner (angi posisjoner nedenfor, se FAQ)",
+        "_si2": "Tegn inaktive statusikoner",
        
     
         "_t1": "Tid skrift",
@@ -96,6 +97,7 @@
 
         "_c13": "Venstre/høyre sirkel bakgrunn",
         "_c14": "Venstre/høyre sirkel skygge farge",
+        "_c45": "Venstre/høyre sirkel fargesammenslåing (45 graders forskyvning)",
 
         "_c15": "Ukedager gjeldende dag farge",
         "_c16": "Ukedager farge",

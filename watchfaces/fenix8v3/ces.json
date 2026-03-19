@@ -34,6 +34,7 @@
         "_s17": "Běžný kruh pokroku",
         "_s18": "Bez kruhu",
         "_si": "Kreslit ikony stavu (nastavte pozice níže, viz FAQ)",
+        "_si2": "Kreslit neaktivní ikony stavu",
        
     
         "_t1": "Písmo času",
@@ -95,6 +96,7 @@
 
         "_c13": "Pozadí levého/pravého kruhu",
         "_c14": "Barva stínu levého/pravého kruhu",
+        "_c45": "Sloučení barev levého/pravého kruhu (posun 45 stupňů)",
 
         "_c15": "Barva aktuálního dne v týdnu",
         "_c16": "Barva dnů v týdnu",

@@ -34,6 +34,7 @@
         "_s17": "Szokásos haladási kör",
         "_s18": "Nincs kör",
         "_si": "Állapot ikonok rajzolása (állítsd be a pozíciókat alul, lásd GYIK)",
+        "_si2": "Inaktív állapot ikonok rajzolása",
        
     
         "_t1": "Idő betűtípus",
@@ -95,6 +96,7 @@
 
         "_c13": "Bal/jobb kör háttér",
         "_c14": "Bal/jobb kör árnyék szín",
+        "_c45": "Bal/jobb kör színösszevonás (45 fokos eltolás)",
 
         "_c15": "Hét napjai aktuális nap szín",
         "_c16": "Hét napjai szín",

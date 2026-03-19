@@ -34,6 +34,7 @@
         "_s17": "Regular Progress Circle",
         "_s18": "No Circle",
         "_si": "Draw Status Icons (set positions below, see FAQ)",
+        "_si2": "Draw Inactive Status Icons",
        
     
         "_t1": "Time Font",
@@ -96,6 +97,8 @@
 
         "_c13": "Left/Right Circle Background",
         "_c14": "Left/Right Circle Shade Color",
+        "_c45": "Left/Right Circle Color Merge (45 degree offset)",
+        
 
         "_c15": "Weekdays Current Day Color",
         "_c16": "Weekdays Color",

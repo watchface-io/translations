@@ -35,6 +35,7 @@
         "_s17": "Cerc de progres obișnuit",
         "_s18": "Fără cerc",
         "_si": "Desenează pictograme de stare (setează pozițiile mai jos, vezi FAQ)",
+        "_si2": "Desenează pictograme de stare inactive",
        
     
         "_t1": "Font oră",
@@ -97,6 +98,7 @@
 
         "_c13": "Fundal cerc stânga/dreapta",
         "_c14": "Culoare umbră cerc stânga/dreapta",
+        "_c45": "Îmbinare culori cerc stânga/dreapta (decalaj de 45 de grade)",
 
         "_c15": "Culoare zi curentă zilele săptămânii",
         "_c16": "Culoare zilele săptămânii",

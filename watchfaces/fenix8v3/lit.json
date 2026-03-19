@@ -35,6 +35,7 @@
         "_s17": "Įprastas progreso ratas",
         "_s18": "Be rato",
         "_si": "Piešti būsenos piktogramas (nustatykite pozicijas žemiau, žr. DUK)",
+        "_si2": "Piešti neaktyvias būsenos piktogramas",
        
     
         "_t1": "Laiko šriftas",
@@ -97,6 +98,7 @@
 
         "_c13": "Kairės/dešinės rato fonas",
         "_c14": "Kairės/dešinės rato šešėlio spalva",
+        "_c45": "Kairės/dešinės rato spalvų suliejimas (45 laipsnių poslinkis)",
 
         "_c15": "Savaitės dienų dabartinės dienos spalva",
         "_c16": "Savaitės dienų spalva",

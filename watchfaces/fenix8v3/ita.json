@@ -35,6 +35,7 @@
         "_s17": "Cerchio di progresso ordinario",
         "_s18": "Nessun cerchio",
         "_si": "Disegna icone di stato (imposta posizioni sotto, vedi FAQ)",
+        "_si2": "Disegna icone di stato inattive",
        
     
         "_t1": "Carattere ora",
@@ -96,6 +97,7 @@
 
         "_c13": "Sfondo cerchio sinistro/destro",
         "_c14": "Colore ombra cerchio sinistro/destro",
+        "_c45": "Unione colori cerchio sinistro/destro (offset di 45 gradi)",
 
         "_c15": "Colore giorno corrente della settimana",
         "_c16": "Colore giorni della settimana",

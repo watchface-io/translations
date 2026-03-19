@@ -33,6 +33,7 @@
         "_s17": "Zwykłe koło postępu",
         "_s18": "Brak koła",
         "_si": "Rysuj ikony statusu (ustaw pozycje poniżej, zobacz FAQ)",
+        "_si2": "Rysuj nieaktywne ikony statusu",
        
     
         "_t1": "Czcionka czasu",
@@ -95,6 +96,7 @@
 
         "_c13": "Tło koła lewy/prawy",
         "_c14": "Kolor cienia koła lewy/prawy",
+        "_c45": "Scalanie kolorów lewego/prawego koła (przesunięcie o 45 stopni)",
 
         "_c15": "Kolor bieżącego dnia tygodnia",
         "_c16": "Kolor dni tygodnia",

@@ -35,6 +35,7 @@
         "_s17": "Tavaline edenemisring",
         "_s18": "Ringita",
         "_si": "Joonista oleku ikoonid (määra positsioonid allpool, vaata KKK)",
+        "_si2": "Joonista mitteaktiivsed oleku ikoonid",
        
     
         "_t1": "Aja font",
@@ -96,6 +97,7 @@
 
         "_c13": "Vasak/parem ringi taust",
         "_c14": "Vasak/parem ringi varju värv",
+        "_c45": "Vasak/parem ringi värvide ühendamine (45 kraadi nihe)",
 
         "_c15": "Nädalapäevade praeguse päeva värv",
         "_c16": "Nädalapäevade värv",

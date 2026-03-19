@@ -34,6 +34,7 @@
         "_s17": "Tavallinen edistymisympyrä",
         "_s18": "Ei ympyrää",
         "_si": "Piirrä tilakuvakkeet (aseta sijainnit alla, katso UKK)",
+        "_si2": "Piirrä passiiviset tilakuvakkeet",
        
     
         "_t1": "Aika fontti",
@@ -95,6 +96,7 @@
 
         "_c13": "Vasen/oikea ympyrän tausta",
         "_c14": "Vasen/oikea ympyrän varjon väri",
+        "_c45": "Vasen/oikea ympyrän värien yhdistäminen (45 asteen siirtymä)",
 
         "_c15": "Viikonpäivien nykyisen päivän väri",
         "_c16": "Viikonpäivien väri",

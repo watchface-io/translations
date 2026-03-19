@@ -34,6 +34,7 @@
         "_s17": "Bulatan Kemajuan Biasa",
         "_s18": "Tiada Bulatan",
         "_si": "Lukis Ikon Status (tetapkan kedudukan di bawah, lihat FAQ)",
+        "_si2": "Lukis Ikon Status Tidak Aktif",
        
     
         "_t1": "Fon Masa",
@@ -96,6 +97,7 @@
 
         "_c13": "Latar Belakang Bulatan Kiri/Kanan",
         "_c14": "Warna Bayang Bulatan Kiri/Kanan",
+        "_c45": "Gabungan Warna Bulatan Kiri/Kanan (ofset 45 darjah)",
 
         "_c15": "Warna Hari Semasa Hari Minggu",
         "_c16": "Warna Hari Minggu",

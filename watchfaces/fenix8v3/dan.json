@@ -34,6 +34,7 @@
         "_s17": "Almindelig fremskridtscirkel",
         "_s18": "Ingen cirkel",
         "_si": "Tegn statusikoner (indstil positioner nedenfor, se FAQ)",
+        "_si2": "Tegn inaktive statusikoner",
        
     
         "_t1": "Tids skrifttype",
@@ -95,6 +96,7 @@
 
         "_c13": "Venstre/højre cirkel baggrund",
         "_c14": "Venstre/højre cirkel skygge farve",
+        "_c45": "Venstre/højre cirkel farvefletning (45 graders forskydning)",
 
         "_c15": "Ugedage nuværende dag farve",
         "_c16": "Ugedage farve",

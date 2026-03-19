@@ -35,6 +35,7 @@
         "_s17": "Círculo de progresso regular",
         "_s18": "Sem círculo",
         "_si": "Desenhar ícones de status (defina posições abaixo, veja FAQ)",
+        "_si2": "Desenhar ícones de status inativos",
        
     
         "_t1": "Fonte da hora",
@@ -97,6 +98,7 @@
 
         "_c13": "Fundo do círculo esquerdo/direito",
         "_c14": "Cor da sombra do círculo esquerdo/direito",
+        "_c45": "Mesclagem de cores do círculo esquerdo/direito (deslocamento de 45 graus)",
 
         "_c15": "Cor do dia atual dos dias da semana",
         "_c16": "Cor dos dias da semana",

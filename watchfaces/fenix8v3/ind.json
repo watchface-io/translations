@@ -34,6 +34,7 @@
         "_s17": "Lingkaran kemajuan biasa",
         "_s18": "Tanpa lingkaran",
         "_si": "Gambar ikon status (atur posisi di bawah, lihat FAQ)",
+        "_si2": "Gambar ikon status tidak aktif",
        
     
         "_t1": "Font waktu",
@@ -95,6 +96,7 @@
 
         "_c13": "Latar belakang lingkaran kiri/kanan",
         "_c14": "Warna bayangan lingkaran kiri/kanan",
+        "_c45": "Gabungan warna lingkaran kiri/kanan (offset 45 derajat)",
 
         "_c15": "Warna hari saat ini dalam seminggu",
         "_c16": "Warna hari dalam seminggu",
