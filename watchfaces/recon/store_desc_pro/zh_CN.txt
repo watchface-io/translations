@@ -1,7 +1,7 @@
 像素级复古数字表盘，支持显示8项实时运动数据。配有清晰的标记、平滑的进度条和细腻的渐变效果，支持百余种佳明数据，超级省电，并针对每个受支持的设备进行了完全优化(包括Venu X1和其他方形屏幕)。
 
 ⭐️先试后买！⭐️
-购买前请先体验免费版，确保表盘功能与显示效果符合您的预期：https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+购买前请先体验免费版，确保表盘功能与显示效果符合您的预期：https://apps-developer.garmin.com/apps/cd89a5fb-a7f8-4e15-8c5c-a28ed838cb81
 
 ⭐️MIP屏幕兼容性（Fenix 7、Enduro、Forerunner 255等）⭐️
 本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。
@@ -10,7 +10,7 @@
 ⭐️资源中心⭐️
 * 常见问题:https://watchface.io/faq
 * 使用手册:https://watchface.io/recon/manual
-* 免费版本:https://apps.garmin.com/apps/7840cd97-745d-4b44-97dc-01fbc6caba3c
+* 免费版本:https://apps-developer.garmin.com/apps/cd89a5fb-a7f8-4e15-8c5c-a28ed838cb81
 * 模式颜色:https://watchface.io/recon/themes
 * 颜色指南:https://watchface.io/docs/color-list
 * 栏位数据:https://watchface.io/docs/datafields
