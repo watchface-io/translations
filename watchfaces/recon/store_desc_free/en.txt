@@ -10,7 +10,7 @@ Colors can look different as in most pictures, as these are taken on an Amoled d
 * FAQ: https://watchface.io/faq
 * Manual: https://watchface.io/recon/manual
 * Get a PRO key: https://ko-fi.com/s/d6b4b3e24d or https://watchface.io/recon
-* PRO unlocked version: https://apps-developer.garmin.com/apps/cd89a5fb-a7f8-4e15-8c5c-a28ed838cb81
+* PRO unlocked version: https://apps.garmin.com/apps/aba0ffe1-4a8f-475c-826d-e1e587693317
 * Theme List: https://watchface.io/recon/themes
 * Color Guide: https://watchface.io/docs/color-list
 * Available Datafields: https://watchface.io/docs/datafields
