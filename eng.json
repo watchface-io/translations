@@ -680,6 +680,7 @@
         "t43": "Military (0700)",
         "t44": "Show am/pm",
         "t45": "Hide am/pm",
+        "t46": "Use Custom Time",
 
         
         "m1": "Info",
@@ -767,7 +768,8 @@
         "g42": "Goal",
         "g50": "No other apps found",
         "g51": "PRO Active",
-        "g52": "PRO Inactive"
+        "g52": "PRO Inactive",
+        "g53": "Stress Goal"
 
         
 
