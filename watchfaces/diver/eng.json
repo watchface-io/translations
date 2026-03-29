@@ -3,6 +3,34 @@
         
         "_t_h": "⌚ Hands",
 
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+        "_f1": "Top 1 Data",
+        "_l1": "Top 1 Label",
+        "_f2": "Top 2 Data",
+        "_l2": "Top 2 Label",
+        "_f3": "Center 1 Data",
+        "_l3": "Center 1 Label",
+        "_f4": "Center 2 Data",
+        "_l4": "Center 2 Label",
+
+        "_f5": "Bottom 1 Data",
+        "_l5": "Bottom 1 Label",
+        "_f6": "Bottom 2 Data",
+        "_l6": "Bottom 2 Label",
+        "_f7": "Bottom 3 Data",
+        "_l7": "Bottom 3 Label",
+
+        "_t3": "Text Font",
+        "_s1": "Top 1 Font size",
+        "_s2": "Top 2 Font size",
+        "_s3": "Center 1 Font size",
+        "_s4": "Center 2 Font size",
+        "_s5": "Bottom 1 font size",
+        "_s6": "Bottom 2 font size",
+        "_s7": "Bottom 3 font size",
+
 
 
 
@@ -40,6 +68,9 @@
         "ah1": "Green Lume",
         "ah2": "Red Lume",
         "ah3": "Blue Lume",
+
+        "_tsh": "Enable Text shade",
+        "_si": "Draw Status Icons (set positions below, see FAQ)",
         
 
         "_a1": "Touch shortcut #12",
@@ -69,6 +100,9 @@
         "_e29": "Medium shade with 10 offset",
         "_e30": "Dark shade with 10 offset",
 
+        "_mc1": "Marker 1 Color",
+        "_mc2": "Marker 2 Color",
+
 
 
                 "_hub": "Hands drawing method",
@@ -78,11 +112,6 @@
 
 
 
-
-
-        "_ms": "Marker Progress Style",
-        "m360": "Regular, 360 degrees, 12 = 0% and 100%, 6 = 50%",
-        "m90": "Sides, Marker 1 Left, Marker 2 Right, see User Guide",
 
         "_x4": "Load Previous Preset",
         "_x3": "Load Previous Color Theme",
@@ -97,63 +126,19 @@
         "_to": "💡 OTHER",
         "_tx": "➡️ OFFSETS",
 
-        "_s1": "Top Style",
-        "_s2": "Top Style",
-        "_s3": "Top Style",
-        "_s4": "Top Style",
-        "_s5": "Top Style",
-        "_s6": "Top Style",
-        "_s7": "Top Style",
-        "_s8": "Top Style",
-        "_s9": "Top Style",
-
-        "_tsh": "Enable Text shade",
-
-        "_si": "Draw Status Icons (set positions below, see FAQ)",
-       
-    
-        "_t1": "Time Font",
-        "_t2": "Time Font AOD",
-        "_fo": "Outlined (If available)",
-        "_fk": "Keep the same",
-
-        "_t3": "Text Font",
-        "_t4": "Weekdays Font",
-        "_t5": "Top 2 Font",
-        "_t6": "Left/Right Circle Font",
-        "_t7": "Bottom Circle Text Font",
-        "_t8": "Bottom Circle Label Font",
-        "_t9": "Bottom Center Fields Font",
-
-        
-
-        "_t1s": "Time Font Size (resizeable fonts only)",
-        "_t3s": "Text Font Size (resizeable fonts only)",
-        "_t4s": "Weekdays Font Size",
-        "_t5s": "Top 2 Font Size",
-        "_t6s": "Left/Right Circle Font Size",
-        "_t7s": "Bottom Circle Text Font  Size",
-        "_t8s": "Bottom Circle Label Font Size",
-        "_t9s": "Bottom Center Fields Font Size",
-
-        "_o1": "Time Offsets (X, Y, X Spacing, Y Spacing, Weekdays, Weekday Marker) Default: 20",
-        "_o2": "Field offsets (Top 1 Y, Top 2 Y, L/R Top Text Y, L/R Top Label Y, L/R Bottom Text Y, L/R Bottom Label Y)",
-        "_o3": "Field offsets 2 (Bottom Circle Text y, Bottom Circle Label Y, L/R Circles Text Y, L/R Circles Label Y, Center Bottom Left Y, Center Bottom Right Y)",
-        "_o4": "Status Icon Positions % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Disable: -1, Default: 70,18,30,18,70,72,30,72",
-
-        "_mc1": "Marker 1 Color",
-        "_mc2": "Marker 2 Color",
 
 
-        "_dr": "75% Darker",
+        "_o1": "Offsets X (Top 1,2, Center 1,2, Bottom 1, 2, 3) Default: 20",
+        "_o2": "Offsets Y (Top 1,2, Center 1,2, Bottom 1, 2, 3) Default: 20",
+        "_o3": "Offsets Label Y (Center 1, 2, Bottom 1,2) Default: 20",
 
         "_pc": "Text color",
         "_ic": "Label color",      
         
 
         "_b3": "Background Lines-only color",
-        "_bgc": "Background Color Sides (Simple bg only)",
-        "_b4": "Background behind MIPS gradient time",
+        "_bgc": "Background Color (No BG Image only)",
+
 
         "_stc": "Same as Main Text Color",
         "_slc": "Same as Main Label Color",
@@ -161,134 +146,33 @@
         "_c9": "Main Text Color",
         "_c9l": "Main Label Color",
 
-        "_c10": "Left/Right Circle Color 1",
-        "_c11": "Left/Right Circle Color 2",
-        "_c12": "Left/Right Circle Unfilled",
-        "_c13": "Left/Right Circle Background",
-        "_c14": "Left/Right Circle Shade Color",
-        "_c15": "Weekdays Current Day Color",
-        "_c16": "Weekdays Current Day Color",
-        "_c17": "Weekdays Current Day Color",
-        "_c18": "Weekdays Current Day Color",
-        "_c19": "Weekdays Current Day Color",
+        "_c10": "Top 1 Data Color",
+        "_c11": "Top 2 Data Color",
+        "_c12": "Center 1 Data Color",
+        "_c13": "Center 2 Data Color",
+        "_c14": "Bottom 1 Data Color",
+        "_c15": "Bottom 2 Data Color",
+        "_c16": "Bottom 3 Data Color",
 
-        "_c10l": "Left/Right Circle Color 1",
-        "_c11l": "Left/Right Circle Color 2",
-        "_c12l": "Left/Right Circle Unfilled",
 
-        "_c13l": "Left/Right Circle Background",
-        "_c14l": "Left/Right Circle Shade Color",
-
-        "_c15l": "Weekdays Current Day Color",
-        "_c16l": "Weekdays Current Day Color",
-        "_c17l": "Weekdays Current Day Color",
-        "_c18l": "Weekdays Current Day Color",
-        "_c19l": "Weekdays Current Day Color",
+        "_c10l": "Top 1 Label Color",
+        "_c11l": "Top 2 Label Color",
+        "_c12l": "Center 1 Label Color",
+        "_c13l": "Center 2 Label Color",
+        "_c14l": "Bottom 1 Label Color",
+        "_c15l": "Bottom 2 Label Color",
+        "_c16l": "Bottom 3 Label Color",
        
-
-
-
-
-        "_gq": "Gradient Quality",
-        "_ng": "No Gradient",
-        "_sh": "Time Shade",
-
-
-        "_md1": "Marker 1 Data",
-        "_md2": "Marker 2 Data",
-        
-        "_f1": "Bottom Circle Data",
-        "_l1": "Bottom Circle Label",
-        "_p1": "Bottom Circle Progress Style",
-
-        "_f2": "Left Circle Data",
-        "_l2": "Left Circle Label",
-        "_p2": "Left Circle Progress Style",
-
-        "_f3": "Right Circle Data",
-        "_l3": "Right Circle Label",
-        "_p3": "Right Circle Progress Style",
-
-        "_f4": "Top Progress Data",
-        "_l4": "Top Progress Data l",
-        "_f5": "Bottom Progress Data",
-        "_l5": "Bottom Progress Data l",
-
-        "_f6": "Bottom Progress Data",
-        "_l6": "Bottom Progress Data l",
-
-        "_f7": "Bottom Progress Data",
-        "_l7": "Bottom Progress Data l",
-
-                "_f8": "Bottom Progress Data",
-        "_l8": "Bottom Progress Data l",
-
-                "_f9": "Bottom Progress Data",
-        "_l9": "Bottom Progress Data l",
-
-        "_f10": "Top 1 Data",
-        "_l10": "Top 1 Label",
-        "_f11": "Top 2 Data",
-        "_l11": "Top 2 Label",
-
-        "_l12": "Left Top Label",
-        "_f12": "Left Top Data",
-        "_l13": "Right Top Label",
-        "_f13": "Right Top Data",
-
-        "_l14": "Left Bottom Label",
-        "_f14": "Left Bottom Data",
-
-        "_l15": "Right Bottom Label",
-        "_f15": "Right Bottom Data",
-
-
-        "_l16": "Center Bottom Left Label",
-        "_f16": "Center Bottom Left Data",
-
-        "_l17": "Center Bottom Right Label",
-        "_f17": "Center Bottom Right Data",
-        "_f18": "Radial Data Field (See FAQ!)",
-
-        
-
-
-        "_0f" : "Show Field Progress",
-        "_1f" : "Full",
-        "_2f" : "Empty",
-        "_3f" : "Hide",
 
         "_4f" : "Same as Main Label Color",
         "_5f" : "Same as Main Text Color",
         "_6f" : "Same as Progress Color",
         "_7f" : "Same as Background Color",
 
-
-
-        "_g1" : "Progress Circles Gap size",
-        "_g2" : "Progress Circles Step size",
-        "_g3" : "Circles Background Transparency",
-        "_g4" : "Weekdays Use English",
-        "_g5" : "Progress Top/Bottom shading",
       
-        "_bgs": "Background Style",
-        "bg_detailed": "=== Detailed Backgrounds: ===",
-        "bg0": "No Background",
-        "bg1": "Fenix 8 V3",
-        "bg2": "Fenix 8 V1 (Legacy)",
-        "bg4": "Ellipse",
-        "bg5": "2x Shaded",
-
-        "bg3": "MIPS Solid Center, Shaded sides",
-
-        "bg_simple": "=== Simple Backgrounds: ===",
-        "bg10": "Outlines",
-        "bg11": "Lines (1px)",
-        "bg12": "Lines (2px)",
-        "bg13": "Lines (3px)",
-        "bg14": "Lines (4px)",
 
         "_x2": "Load Next Color Theme",
+        "_fk": "Keep the same",
         
 
 
@@ -299,19 +183,20 @@
         "_aodB": "AOD Dial Brightness",
         "_aodT": "AOD Hands Brightness",
 
-        "_aodc": "AOD Data Tint Color",
+        "_aodc": "AOD Data Color",
         "_aodD": "AOD Data Brightness. ",
 
         "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
         "_f20": "AOD Field Data",
         "_l20": "AOD Field Label",
         "ad0": "Turn Screen OFF",
-        "ad100": "Full AOD (Default)",
-        
-        "ad1": "Time Only",
-        "ad3": "Time Only - Moving",
-        "ad4": "Time + data field (Select Below)",
-        "ad6": "Time Moving + data field"
+        "ad100": "Full AOD (Default)",        
+        "ad1": "Hands Only",
+        "_dot": "Draw Hands behind data (uses more battery)",
+
+        "_hcc": "Center Circle color",
+        "_hcca": "AOD - Center Circle color"
+
 
         
     }

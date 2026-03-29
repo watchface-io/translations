@@ -536,7 +536,7 @@
         "_ta" : "🖼️ 息屏显示设置(AOD)",
         "_tf" : "📊 栏位数据",
         "_tt" : "👉 触控快捷设置",
-        "_tc" : "🎨 颜色配置"
+        "_tc" : "🎨 颜色配置",
 
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg" : "StormGlass.io API密钥",
@@ -560,7 +560,7 @@
         "f62" : "运动1·7天活动次数",
         "f61" : "运动1·本周活动次数(WTD)",
         "f63" : "运动1·本月活动次数",
-        "f64" : "运动1·28天活动次数",
+        "f64" : "运动1·28天活动次数"
               
         },
     "background" : {
