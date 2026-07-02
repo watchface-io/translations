@@ -1,0 +1,30 @@
+Uma fusão de estética retrô clássica e tecnologia contemporânea de smartwatch. Este mostrador combina tipografia nostálgica inspirada em LCD e elementos digitais vintage com visualização de dados moderna, opções avançadas de personalização e princípios de design elegantes. Experiencie a harmonia perfeita entre o charme old-school e funcionalidade de ponta.
+    
+⭐️ Experimente antes de comprar! ⭐️
+Antes de comprar este mostrador, veja primeiro a versão gratuita para se certificar de que é o que deseja e que gosta da aparência no seu relógio: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Este mostrador está totalmente optimizado para MIPS, mas as cores parecerão diferentes como na maioria das imagens, pois estas foram tiradas num dispositivo Amoled. Este mostrador tem muitos temas optimizados para MIPS e suporta gradientes MIPS. Pode encontrar todos os temas integrados aqui: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/legacy/manual
+* Versão gratuita: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* Lista de Temas: https://watchface.io/legacy/themes
+* Guia de Cores: https://watchface.io/docs/color-list
+* Campos de Dados Disponíveis: https://watchface.io/docs/datafields
+
+
+⭐️ Configuração ⭐️
+Nota: Existem dois locais diferentes com definições:
+* App Garmin IQ (no seu telefone vá ao seu dispositivo, mostradores, definições): Configure campos de dados, cores e definições gerais.
+* Definições no Relógio: Aceda a opções mais detalhadas como formato de hora, objectivos e unidades directamente no relógio mantendo o botão menu, seleccionando mostrador e tocando personalizar.
+
+⭐️ Campos de Dados ⭐️
+Todos os campos de dados que a Garmin actualmente fornece a programadores terceiros estão disponíveis, mais extras como suporte ao Glucose Monitor (CGM), Open Weather Map (OWM) e suporte para outras aplicações terceiras.
+Todos os campos de dados disponíveis estão listados aqui: https://watchface.io/docs/datafields . Alguns campos de dados (como prontidão para treino ou HRV) actualmente não estão disponíveis para programadores terceiros, veja aqui: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Se encontrar bugs ou problemas, por favor contacte-me pressionando "Contact Developer" em vez de usar o sistema de avaliação. Posso responder emails prontamente, enquanto posso não ver avaliações durante vários dias. ***
+
+* Changelog: https://watchface.io/legacy/changelog

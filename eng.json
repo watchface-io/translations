@@ -128,6 +128,8 @@
         "f620" : "Bike Distance Week (WTD) - From Connect",
         "f619" : "Run Distance Week (WTD) - From Connect",
         "f641" : "Last Golf Round Score",
+        "f642" : "Sleep Score",
+
         "f9" : "Push Distance",
         "f215" : "Push Distance Week (WTD)",
         "f216" : "Push Distance Last 7 Days",
@@ -417,6 +419,7 @@
         "t38" : "Weather",
         "t40" : "Wheelchair Pushes",
         "t41" : "Golf Score",
+        "t42" : "Sleep Score",
 
         "l111" : "Custom Color 1",
         "l112" : "Custom Color 2",
@@ -894,6 +897,7 @@
         "n22": "TIMR",
         "n23": "TE",
         "n24": "BMI",
+        "n25": "SLEEP",
         "o1": "ASTR",
         "o2": "NAUT",
         "o3": "DAWN",

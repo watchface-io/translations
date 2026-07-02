@@ -1,0 +1,30 @@
+Eine Fusion aus klassischer Retro-Ästhetik und zeitgemäßer Smartwatch-Technologie. Dieses Ziffernblatt verbindet nostalgische LCD-inspirierte Typografie und vintage digitale Elemente mit moderner Datenvisualisierung, erweiterten Anpassungsoptionen und eleganten Designprinzipien. Erleben Sie die perfekte Harmonie zwischen Old-School-Charme und modernster Funktionalität.
+    
+⭐️ Kostenlos vs Pro ⭐️
+Dieses Ziffernblatt ist kostenlos mit allen Grundfunktionen verfügbar. Premium-Funktionen (markiert mit [*]) erfordern einen Pro-Schlüssel zum Freischalten. Sie können einen Pro-Schlüssel hier kaufen: https://ko-fi.com/s/2dffa075ce Oder kaufen Sie die PRO-Version hier: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+
+⭐️ MIPS-Geräte (Fenix 7, Enduro, Forerunner 255, usw.) ⭐️
+Dieses Ziffernblatt ist vollständig für MIPS optimiert, aber die Farben werden anders aussehen als in den meisten Bildern, da diese auf einem Amoled-Gerät aufgenommen wurden. Dieses Ziffernblatt hat viele für MIPS optimierte Themes und unterstützt MIPS-Verläufe. Alle eingebauten Themes finden Sie hier: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Ressourcen ⭐️
+* FAQ: https://watchface.io/faq
+* Handbuch: https://watchface.io/legacy/manual
+* Pro-Schlüssel erhalten: https://ko-fi.com/s/2dffa075ce oder https://watchface.io/legacy
+* Freigeschaltete Version: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+* Theme-Liste: https://watchface.io/legacy/themes
+* Farb-Leitfaden: https://watchface.io/docs/color-list
+* Verfügbare Datenfelder: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Hinweis: Es gibt zwei verschiedene Orte mit Einstellungen:
+* Garmin IQ App (auf Ihrem Telefon gehen Sie zu Ihrem Gerät, Ziffernblätter, Einstellungen): Konfigurieren Sie Datenfelder, Farben und allgemeine Einstellungen.
+* Einstellungen auf der Uhr: Greifen Sie direkt auf der Uhr auf detailliertere Optionen wie Zeitformat, Ziele und Einheiten zu, indem Sie die Menütaste gedrückt halten, Ziffernblatt auswählen und auf Anpassen tippen.
+
+⭐️ Datenfelder ⭐️
+Alle Datenfelder, die Garmin derzeit Drittanbieter-Entwicklern zur Verfügung stellt, sind verfügbar, plus Extras wie Glucose Monitor (CGM)-Unterstützung, Open Weather Map (OWM) und Unterstützung für andere Drittanbieter-Apps.
+Alle verfügbaren Datenfelder sind hier aufgelistet: https://watchface.io/docs/datafields . Einige Datenfelder (wie Trainingsbereitschaft oder HRV) sind derzeit nicht für Drittanbieter-Entwickler verfügbar, siehe hier: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Falls Sie auf Bugs oder Probleme stoßen, kontaktieren Sie mich bitte über "Contact Developer", anstatt das Bewertungssystem zu verwenden. Ich kann E-Mails schnell beantworten, während ich Bewertungen möglicherweise tagelang nicht sehe. ***
+
+* Changelog: https://watchface.io/legacy/changelog

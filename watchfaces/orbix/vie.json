@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Bù trừ giờ (X,Y) Mặc định: 20",
+        "_o2": "Bù trừ X trường (Trên 1, Trên 2, Giữa T, Giữa Ph, Giữa, Dưới T, Dưới Ph, Vòng T, Vòng Ph, Vòng Dưới) Mặc định: 20",
+        "_o3": "Bù trừ Y trường Mặc định: 20",
+        "_o4": "Bù trừ Y nhãn (Trên 1, Trên 2, Giữa, Vòng T, Vòng Ph, Vòng Dưới) Mặc định: 20",
+        
+        "_t3": "Phông chữ văn bản",
+        "_s1": "Cỡ phông chữ Trên 1 (Chỉ phông chữ có thể thay đổi kích thước)",
+        "_s2": "Cỡ phông chữ Trên 2",
+        "_s3": "Cỡ phông chữ Giữa Trái/Phải",
+        "_s4": "Cỡ phông chữ Giữa",
+        "_s5": "Cỡ phông chữ Dưới Trái/Phải",
+        "_s6": "Cỡ phông chữ Vòng Trái/Phải",
+
+        "_t4": "Phông chữ Vòng Dưới",
+        "_s7": "Cỡ phông chữ Vòng Dưới",
+
+        "_70p": "Tối hơn 70%",
+        "auto": "Tự động",
+
+   
+        "_cr0b": "Màu nền Vòng Trái",
+        "_cr00": "Màu tiến trình Vòng Trái 1",
+        "_cr01": "Màu tiến trình Vòng Trái 2",
+        "_cr02": "Màu tiến trình Vòng Trái 3",
+        "_cr03": "Màu chưa điền Vòng Trái",
+
+        "_cr1b": "Màu nền Vòng Phải",
+        "_cr10": "Màu tiến trình Vòng Phải 1",
+        "_cr11": "Màu tiến trình Vòng Phải 2",
+        "_cr12": "Màu tiến trình Vòng Phải 3",
+        "_cr13": "Màu chưa điền Vòng Phải",
+
+        "_cr2b": "Màu nền Vòng Dưới",
+        "_cr20": "Màu tiến trình Vòng Dưới 1",
+        "_cr21": "Màu tiến trình Vòng Dưới 2",
+        "_cr22": "Màu tiến trình Vòng Dưới 3",
+        "_cr23": "Màu chưa điền Vòng Dưới",
+
+         "_8b": "Đen trong suốt 20%",
+
+
+
+        "_dg": "Chuyển màu giờ (Tắt = Vẽ màu riêng biệt)",
+        "_hc1": "Màu giờ Bắt đầu",
+        "_hc2": "Màu giờ Giữa",
+        "_hc3": "Màu giờ Kết thúc",
+
+
+        "_mc1": "Màu phút Bắt đầu",
+        "_mc2": "Màu phút Giữa",
+        "_mc3": "Màu phút Kết thúc",
+
+
+        "_dv1": "Màu dải phân cách Bắt đầu",
+        "_dv2": "Màu dải phân cách Kết thúc",
+
+
+        "_tops": "Kiểu trên",
+        "_ts0": "1 trường Ngang",
+        "_ts1": "2 trường Ngang",
+        "_ts2": "2 trường Dọc",
+
+        
+        "_c1": "Màu dữ liệu Trên",
+        "_c1l": "Màu nhãn Trên",
+
+        "_c2": "Màu dữ liệu Trên 2",
+        "_c2l": "Màu nhãn Trên 2",
+
+        "_c3": "Màu dữ liệu Trái",
+        "_c4": "Màu dữ liệu Phải",
+
+        "_c5": "Màu dữ liệu Giữa",
+        "_c5l": "Màu nhãn Giữa",
+
+        "_c6": "Màu dữ liệu Dưới Trái",
+        "_c7": "Màu dữ liệu Dưới Phải",
+
+        "_c10": "Màu dữ liệu Vòng Trái",
+        "_c10l": "Màu nhãn Vòng Trái",
+        "_c11": "Màu dữ liệu Vòng Phải",
+        "_c11l": "Màu nhãn Vòng Phải",
+        "_c12": "Màu dữ liệu Vòng Dưới",
+        "_c12l": "Màu nhãn Vòng Dưới",
+
+        "_csc": "Màu biểu tượng trạng thái",
+
+        
+    
+
+        "_f1": "1. Dữ liệu Trên",
+        "_l1": "1. Nhãn Trên",
+
+        "_f2": "2. Dữ liệu Trên 2",
+        "_l2": "2. Nhãn Trên 2",
+
+        "_f3": "3. Giữa Trái",
+        "_f4": "4. Giữa Phải",
+
+        "_f5": "5. Dữ liệu Giữa",
+        "_l5": "5. Nhãn Giữa",
+       
+        "_f6": "6. Dữ liệu Dưới Trái",
+        "_f7": "6. Dữ liệu Dưới Phải",
+
+        "_f10": "7. Dữ liệu Vòng Trái",
+        "_l10": "7. Nhãn Vòng Trái",
+        "_p10": "7. Dữ liệu Tiến trình Vòng Trái",
+        "_cs10": "7. Kiểu Tiến trình Vòng Trái",
+        "_cg10": "7. Khoảng cách đoạn Vòng Trái",
+
+        "_f11": "8. Dữ liệu Vòng Phải",
+        "_l11": "8. Nhãn Vòng Phải",
+        "_p11": "8. Dữ liệu Tiến trình Vòng Phải",
+        "_cs11": "8. Kiểu Tiến trình Vòng Phải",
+        "_cg11": "8. Khoảng cách đoạn Vòng Phải",
+
+        "_f12": "9. Dữ liệu Vòng Dưới",
+        "_l12": "9. Nhãn Vòng Dưới",
+        "_p12": "9. Dữ liệu Tiến trình Vòng Dưới",
+        "_cs12": "9. Kiểu Tiến trình Vòng Dưới",
+        "_cg12": "9. Khoảng cách đoạn Vòng Dưới",
+
+        "_a1": "Phím tắt cảm ứng Giờ",
+        "_a2": "Phím tắt cảm ứng Giữa",
+        "_a3": "Phím tắt cảm ứng Phút",
+
+        "_layout": "Bố cục",
+        "_si": "Hiển thị biểu tượng trạng thái (Xem FAQ)",
+        "_o5": "Vị trí biểu tượng trạng thái % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Tắt: -1, Mặc định: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Hình nền",
+        "bg0": "Không có hình nền",
+        "bg1": "Topo",
+        "bg2": "Hoa văn lục giác",
+
+
+        "_md1": "Dữ liệu Điểm đánh dấu 1",
+        "_md2": "Dữ liệu Điểm đánh dấu 2",
+
+
+        "_bd1": "Kích thước vạch 5 phút mặt số",
+        "_bd2": "Kích thước vạch 1 phút mặt số",
+        "_dc1": "Màu vạch 5 phút mặt số",
+        "_dc2": "Màu vạch 1 phút mặt số",
+
+        "_ps0": "Mặt số thông thường",
+        "_ps1": "Tiến trình đầy đủ",
+        "_ps2": "Vạch giây là tiến trình",
+
+        "_rainbow": "Màu cầu vồng",
+        "_xmas": "Màu Giáng sinh",
+
+
+
+
+        "_f20": "Dữ liệu trường AOD",
+        "_l20": "Nhãn trường AOD",
+
+
+        "_sbg" : "Giống màu nền",
+
+        "_m1": "Màu Điểm đánh dấu 1",
+        "_m2": "Màu Điểm đánh dấu 2",
+        
+        "_bgc": "Màu chính nền",
+        "_bgg1": "Màu chuyển màu nền Bắt đầu",
+        "_bgg2": "Màu chuyển màu nền Giữa",
+        "_bgg3": "Màu chuyển màu nền Kết thúc",
+
+        "_cs": "Tối hơn 70%",
+        "_cpbs" : "Giống thanh tiến trình trên",
+
+        "_stc" : "Giống màu văn bản",
+        "_slc" : "Giống màu nhãn",
+
+        "_x4": "Tải cài đặt sẵn trước",
+        "_x3": "Tải chủ đề màu trước",
+
+        "_rst": "Đặt lại tất cả cài đặt",
+        "_tr": "👉 PHÍM TẮT CẢM ỨNG",
+        "_tc": "🎨 MÀU SẮC / NỀN",
+        "_tt": "🔤 PHÔNG CHỮ",
+        "_ta": "🖼️ CÀI ĐẶT AOD (Always on Display)",
+        "_to": "💡 KHÁC",
+        "_tx": "➡️ BÙ TRỪ",
+
+
+        "_t1": "Phông chữ giờ",
+        "_t1a": "Phông chữ giờ AOD",
+        "_t1s": "Cỡ phông chữ giờ",
+
+
+        "_fo": "Có viền (Nếu có)",
+        "_fk": "Giữ nguyên",
+
+        "_pc": "Màu văn bản",
+        "_ic": "Màu nhãn",      
+
+        "_0f" : "Hiển thị tiến trình trường",
+        "_1f" : "Đầy",
+        "_2f" : "Trống",
+        "_3f" : "Ẩn",
+
+        "_x2": "Tải chủ đề màu tiếp theo",
+
+        "_aas": "Giây luôn hiển thị",
+        "_aod": "Chế độ AOD (Always on Display)",
+       
+        "_aodc": "Màu sắc dữ liệu AOD",
+        "_aodT": "Độ sáng giờ AOD",
+        "_aodD": "Độ sáng dữ liệu AOD (Nếu màn hình tắt trong AOD, hãy giảm số này. Số thấp hơn = ít tốn pin hơn nhưng kém sáng hơn. Xem FAQ)",
+        "_aodS": "Dịch chuyển AOD (Số pixel màn hình dịch chuyển ngẫu nhiên mỗi phút để tránh cháy màn hình)",
+        "ad0": "Tắt màn hình",
+        "ad100": "AOD đầy đủ (Mặc định)",
+        "ad101": "AOD đầy đủ, độ sáng giờ/dữ liệu riêng biệt",
+        
+        "ad1": "Chỉ giờ",
+        "ad3": "Chỉ giờ - Chuyển động",
+        "ad4": "Giờ + trường dữ liệu (Chọn bên dưới)",
+        "ad6": "Giờ chuyển động + trường dữ liệu"
+    },
+    "menu" : {
+        "_tf": "Phông chữ giờ"
+    }
+
+}

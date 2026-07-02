@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Aja nihkumine (X,Y) Vaikimisi: 20",
+        "_o2": "Välja X-nihkumine (Ülemine 1, Ülemine 2, Keskel V, Keskel P, Keskel, Alumine V, Alumine P, Ring V, Ring P, Ring All) Vaikimisi: 20",
+        "_o3": "Välja Y-nihkumine Vaikimisi: 20",
+        "_o4": "Sildi Y-nihkumine (Ülemine 1, Ülemine 2, Keskel, Ring V, Ring P, Ring All) Vaikimisi: 20",
+        
+        "_t3": "Teksti font",
+        "_s1": "Ülemine 1 Fondi suurus (Ainult skaleeritavad fondid)",
+        "_s2": "Ülemine 2 Fondi suurus",
+        "_s3": "Vasak/Parem Keskel Fondi suurus",
+        "_s4": "Keskel Fondi suurus",
+        "_s5": "Alumine Vasak/Parem Fondi suurus",
+        "_s6": "Vasak/Parem Ring Fondi suurus",
+
+        "_t4": "Alumine Ring Font",
+        "_s7": "Alumine Ring Fondi suurus",
+
+        "_70p": "70% Tumedam",
+        "auto": "Automaatne",
+
+   
+        "_cr0b": "Vasak Ring Taustavärv",
+        "_cr00": "Vasak Ring Edenemise värv 1",
+        "_cr01": "Vasak Ring Edenemise värv 2",
+        "_cr02": "Vasak Ring Edenemise värv 3",
+        "_cr03": "Vasak Ring Täitmata värv",
+
+        "_cr1b": "Parem Ring Taustavärv",
+        "_cr10": "Parem Ring Edenemise värv 1",
+        "_cr11": "Parem Ring Edenemise värv 2",
+        "_cr12": "Parem Ring Edenemise värv 3",
+        "_cr13": "Parem Ring Täitmata värv",
+
+        "_cr2b": "Alumine Ring Taustavärv",
+        "_cr20": "Alumine Ring Edenemise värv 1",
+        "_cr21": "Alumine Ring Edenemise värv 2",
+        "_cr22": "Alumine Ring Edenemise värv 3",
+        "_cr23": "Alumine Ring Täitmata värv",
+
+         "_8b": "20% Läbipaistev must",
+
+
+
+        "_dg": "Aja gradient (Väljas = Joonista värvid eraldi)",
+        "_hc1": "Tunni värv Algus",
+        "_hc2": "Tunni värv Keskel",
+        "_hc3": "Tunni värv Lõpp",
+
+
+        "_mc1": "Minuti värv Algus",
+        "_mc2": "Minuti värv Keskel",
+        "_mc3": "Minuti värv Lõpp",
+
+
+        "_dv1": "Eraldaja värv Algus",
+        "_dv2": "Eraldaja värv Lõpp",
+
+
+        "_tops": "Ülemine stiil",
+        "_ts0": "1 väli Horisontaalne",
+        "_ts1": "2 välja Horisontaalne",
+        "_ts2": "2 välja Vertikaalne",
+
+        
+        "_c1": "Ülemine Andmete värv",
+        "_c1l": "Ülemine Sildi värv",
+
+        "_c2": "Ülemine 2 Andmete värv",
+        "_c2l": "Ülemine 2 Sildi värv",
+
+        "_c3": "Vasak Andmete värv",
+        "_c4": "Parem Andmete värv",
+
+        "_c5": "Keskel Andmete värv",
+        "_c5l": "Keskel Sildi värv",
+
+        "_c6": "Alumine Vasak Andmete värv",
+        "_c7": "Alumine Parem Andmete värv",
+
+        "_c10": "Vasak Ring Andmete värv",
+        "_c10l": "Vasak Ring Sildi värv",
+        "_c11": "Parem Ring Andmete värv",
+        "_c11l": "Parem Ring Sildi värv",
+        "_c12": "Alumine Ring Andmete värv",
+        "_c12l": "Alumine Ring Sildi värv",
+
+        "_csc": "Olekuikoonide värv",
+
+        
+    
+
+        "_f1": "1. Ülemised andmed",
+        "_l1": "1. Ülemine silt",
+
+        "_f2": "2. Ülemine 2 andmed",
+        "_l2": "2. Ülemine 2 silt",
+
+        "_f3": "3. Keskel Vasak",
+        "_f4": "4. Keskel Parem",
+
+        "_f5": "5. Keskel Andmed",
+        "_l5": "5. Keskel Silt",
+       
+        "_f6": "6. Alumine Vasak Andmed",
+        "_f7": "6. Alumine Parem Andmed",
+
+        "_f10": "7. Ring Vasak Andmed",
+        "_l10": "7. Ring Vasak Silt",
+        "_p10": "7. Ring Vasak Edenemise andmed",
+        "_cs10": "7. Ring Vasak Edenemise stiil",
+        "_cg10": "7. Ring Vasak Segmendi vahe",
+
+        "_f11": "8. Ring Parem Andmed",
+        "_l11": "8. Ring Parem Silt",
+        "_p11": "8. Ring Parem Edenemise andmed",
+        "_cs11": "8. Ring Parem Edenemise stiil",
+        "_cg11": "8. Ring Parem Segmendi vahe",
+
+        "_f12": "9. Ring All Andmed",
+        "_l12": "9. Ring All Silt",
+        "_p12": "9. Ring All Edenemise andmed",
+        "_cs12": "9. Ring All Edenemise stiil",
+        "_cg12": "9. Ring All Segmendi vahe",
+
+        "_a1": "Puutekiirklahv Tund",
+        "_a2": "Puutekiirklahv Keskel",
+        "_a3": "Puutekiirklahv Minut",
+
+        "_layout": "Paigutus",
+        "_si": "Kuva olekuikoonid (Vt FAQ)",
+        "_o5": "Olekuikoonide asukohad % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Keelamine: -1, Vaikimisi: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Taustapilt",
+        "bg0": "Taustapildita",
+        "bg1": "Topo",
+        "bg2": "Kuusnurkne muster",
+
+
+        "_md1": "Marker 1 Andmed",
+        "_md2": "Marker 2 Andmed",
+
+
+        "_bd1": "Kellaplaat 5-minutiliste markerite suurus",
+        "_bd2": "Kellaplaat 1-minutiliste markerite suurus",
+        "_dc1": "Kellaplaat 5-minutiliste markerite värv",
+        "_dc2": "Kellaplaat 1-minutiliste markerite värv",
+
+        "_ps0": "Tavaline kellaplaat",
+        "_ps1": "Täielik edenemisriba",
+        "_ps2": "Sekundimärgid edenemisena",
+
+        "_rainbow": "Vikerkaarevärvistiik",
+        "_xmas": "Jõuluvärvistiik",
+
+
+
+
+        "_f20": "AOD Välja andmed",
+        "_l20": "AOD Välja silt",
+
+
+        "_sbg" : "Sama kui taustavärv",
+
+        "_m1": "Marker 1 Värv",
+        "_m2": "Marker 2 Värv",
+        
+        "_bgc": "Tausta põhivärv",
+        "_bgg1": "Tausta gradient värv Algus",
+        "_bgg2": "Tausta gradient värv Keskel",
+        "_bgg3": "Tausta gradient värv Lõpp",
+
+        "_cs": "70% Tumedam",
+        "_cpbs" : "Sama kui ülemine edenemisriba",
+
+        "_stc" : "Sama kui teksti värv",
+        "_slc" : "Sama kui sildi värv",
+
+        "_x4": "Laadi eelmine seadistus",
+        "_x3": "Laadi eelmine värvistiil",
+
+        "_rst": "Lähtesta kõik seaded",
+        "_tr": "👉 PUUTEKIIRKLAHVID",
+        "_tc": "🎨 VÄRVID / TAUST",
+        "_tt": "🔤 FONDID",
+        "_ta": "🖼️ AOD SEADED (Always on Display)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ NIHKUMISED",
+
+
+        "_t1": "Aja font",
+        "_t1a": "Aja font AOD",
+        "_t1s": "Aja fondi suurus",
+
+
+        "_fo": "Kontuurjoontega (Kui saadaval)",
+        "_fk": "Hoia sama",
+
+        "_pc": "Teksti värv",
+        "_ic": "Sildi värv",      
+
+        "_0f" : "Kuva välja edenemine",
+        "_1f" : "Täis",
+        "_2f" : "Tühi",
+        "_3f" : "Peida",
+
+        "_x2": "Laadi järgmine värvistiil",
+
+        "_aas": "Sekundid alati näha",
+        "_aod": "AOD režiim (Always on Display)",
+       
+        "_aodc": "AOD andmete toonivärv",
+        "_aodT": "AOD aja heledus",
+        "_aodD": "AOD andmete heledus (Kui ekraan AOD ajal välja lülitub, alanda seda numbrit. Madalam number = vähem aku kasutust, kuid vähem hele. Vt FAQ)",
+        "_aodS": "AOD nihe (Pikslite arv, mille võrra ekraan minutis juhuslikult liigub, et vältida läbipõlemist)",
+        "ad0": "Lülita ekraan välja",
+        "ad100": "Täielik AOD (Vaikimisi)",
+        "ad101": "Täielik AOD, eraldi aja/andmete heledus",
+        
+        "ad1": "Ainult aeg",
+        "ad3": "Ainult aeg - Liikuv",
+        "ad4": "Aeg + andmeväli (Vali alt)",
+        "ad6": "Liikuv aeg + andmeväli"
+    },
+    "menu" : {
+        "_tf": "Aja font"
+    }
+
+}

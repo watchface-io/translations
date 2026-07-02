@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Décalage de l'heure (X,Y) Défaut : 20",
+        "_o2": "Décalage X des champs (Haut 1, Haut 2, Centre G, Centre D, Centre, Bas G, Bas D, Cercle G, Cercle D, Cercle Bas) Défaut : 20",
+        "_o3": "Décalage Y des champs Défaut : 20",
+        "_o4": "Décalage Y des étiquettes (Haut 1, Haut 2, Centre, Cercle G, Cercle D, Cercle Bas) Défaut : 20",
+        
+        "_t3": "Police du texte",
+        "_s1": "Taille de police Haut 1 (Polices redimensionnables uniquement)",
+        "_s2": "Taille de police Haut 2",
+        "_s3": "Taille de police Centre Gauche/Droite",
+        "_s4": "Taille de police Centre",
+        "_s5": "Taille de police Bas Gauche/Droite",
+        "_s6": "Taille de police Cercle Gauche/Droite",
+
+        "_t4": "Police Cercle Bas",
+        "_s7": "Taille de police Cercle Bas",
+
+        "_70p": "70% Plus foncé",
+        "auto": "Automatique",
+
+   
+        "_cr0b": "Couleur de fond Cercle gauche",
+        "_cr00": "Couleur de progression Cercle gauche 1",
+        "_cr01": "Couleur de progression Cercle gauche 2",
+        "_cr02": "Couleur de progression Cercle gauche 3",
+        "_cr03": "Couleur non remplie Cercle gauche",
+
+        "_cr1b": "Couleur de fond Cercle droit",
+        "_cr10": "Couleur de progression Cercle droit 1",
+        "_cr11": "Couleur de progression Cercle droit 2",
+        "_cr12": "Couleur de progression Cercle droit 3",
+        "_cr13": "Couleur non remplie Cercle droit",
+
+        "_cr2b": "Couleur de fond Cercle bas",
+        "_cr20": "Couleur de progression Cercle bas 1",
+        "_cr21": "Couleur de progression Cercle bas 2",
+        "_cr22": "Couleur de progression Cercle bas 3",
+        "_cr23": "Couleur non remplie Cercle bas",
+
+         "_8b": "Noir transparent 20%",
+
+
+
+        "_dg": "Dégradé de l'heure (Désactivé = Dessiner les couleurs séparément)",
+        "_hc1": "Couleur des heures Début",
+        "_hc2": "Couleur des heures Milieu",
+        "_hc3": "Couleur des heures Fin",
+
+
+        "_mc1": "Couleur des minutes Début",
+        "_mc2": "Couleur des minutes Milieu",
+        "_mc3": "Couleur des minutes Fin",
+
+
+        "_dv1": "Couleur du séparateur Début",
+        "_dv2": "Couleur du séparateur Fin",
+
+
+        "_tops": "Style du haut",
+        "_ts0": "1 champ Horizontal",
+        "_ts1": "2 champs Horizontal",
+        "_ts2": "2 champs Vertical",
+
+        
+        "_c1": "Couleur des données Haut",
+        "_c1l": "Couleur de l'étiquette Haut",
+
+        "_c2": "Couleur des données Haut 2",
+        "_c2l": "Couleur de l'étiquette Haut 2",
+
+        "_c3": "Couleur des données Gauche",
+        "_c4": "Couleur des données Droite",
+
+        "_c5": "Couleur des données Centre",
+        "_c5l": "Couleur de l'étiquette Centre",
+
+        "_c6": "Couleur des données Bas Gauche",
+        "_c7": "Couleur des données Bas Droite",
+
+        "_c10": "Couleur des données Cercle gauche",
+        "_c10l": "Couleur de l'étiquette Cercle gauche",
+        "_c11": "Couleur des données Cercle droit",
+        "_c11l": "Couleur de l'étiquette Cercle droit",
+        "_c12": "Couleur des données Cercle bas",
+        "_c12l": "Couleur de l'étiquette Cercle bas",
+
+        "_csc": "Couleur des icônes d'état",
+
+        
+    
+
+        "_f1": "1. Données Haut",
+        "_l1": "1. Étiquette Haut",
+
+        "_f2": "2. Données Haut 2",
+        "_l2": "2. Étiquette Haut 2",
+
+        "_f3": "3. Centre Gauche",
+        "_f4": "4. Centre Droite",
+
+        "_f5": "5. Données Centre",
+        "_l5": "5. Étiquette Centre",
+       
+        "_f6": "6. Données Bas Gauche",
+        "_f7": "6. Données Bas Droite",
+
+        "_f10": "7. Données Cercle Gauche",
+        "_l10": "7. Étiquette Cercle Gauche",
+        "_p10": "7. Données Progression Cercle Gauche",
+        "_cs10": "7. Style Progression Cercle Gauche",
+        "_cg10": "7. Écart de segment Cercle Gauche",
+
+        "_f11": "8. Données Cercle Droit",
+        "_l11": "8. Étiquette Cercle Droit",
+        "_p11": "8. Données Progression Cercle Droit",
+        "_cs11": "8. Style Progression Cercle Droit",
+        "_cg11": "8. Écart de segment Cercle Droit",
+
+        "_f12": "9. Données Cercle Bas",
+        "_l12": "9. Étiquette Cercle Bas",
+        "_p12": "9. Données Progression Cercle Bas",
+        "_cs12": "9. Style Progression Cercle Bas",
+        "_cg12": "9. Écart de segment Cercle Bas",
+
+        "_a1": "Raccourci tactile Heure",
+        "_a2": "Raccourci tactile Centre",
+        "_a3": "Raccourci tactile Minute",
+
+        "_layout": "Disposition",
+        "_si": "Afficher les icônes d'état (Voir FAQ)",
+        "_o5": "Positions des icônes d'état % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Désactiver : -1, Défaut : 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Image d'arrière-plan",
+        "bg0": "Pas d'image d'arrière-plan",
+        "bg1": "Topo",
+        "bg2": "Motif hexagonal",
+
+
+        "_md1": "Données Marqueur 1",
+        "_md2": "Données Marqueur 2",
+
+
+        "_bd1": "Taille des marqueurs 5 minutes du cadran",
+        "_bd2": "Taille des marqueurs 1 minute du cadran",
+        "_dc1": "Couleur des marqueurs 5 minutes du cadran",
+        "_dc2": "Couleur des marqueurs 1 minute du cadran",
+
+        "_ps0": "Cadran standard",
+        "_ps1": "Progression complète",
+        "_ps2": "Marques des secondes comme progression",
+
+        "_rainbow": "Couleurs arc-en-ciel",
+        "_xmas": "Couleurs de Noël",
+
+
+
+
+        "_f20": "Données du champ AOD",
+        "_l20": "Étiquette du champ AOD",
+
+
+        "_sbg" : "Identique à la couleur d'arrière-plan",
+
+        "_m1": "Couleur Marqueur 1",
+        "_m2": "Couleur Marqueur 2",
+        
+        "_bgc": "Couleur principale de l'arrière-plan",
+        "_bgg1": "Couleur dégradé arrière-plan Début",
+        "_bgg2": "Couleur dégradé arrière-plan Milieu",
+        "_bgg3": "Couleur dégradé arrière-plan Fin",
+
+        "_cs": "70% Plus foncé",
+        "_cpbs" : "Identique à la barre de progression haute",
+
+        "_stc" : "Identique à la couleur du texte",
+        "_slc" : "Identique à la couleur de l'étiquette",
+
+        "_x4": "Charger le préréglage précédent",
+        "_x3": "Charger le thème de couleurs précédent",
+
+        "_rst": "Réinitialiser tous les paramètres",
+        "_tr": "👉 RACCOURCIS TACTILES",
+        "_tc": "🎨 COULEURS / ARRIÈRE-PLAN",
+        "_tt": "🔤 POLICES",
+        "_ta": "🖼️ PARAMÈTRES AOD (Always on Display)",
+        "_to": "💡 AUTRE",
+        "_tx": "➡️ DÉCALAGES",
+
+
+        "_t1": "Police de l'heure",
+        "_t1a": "Police de l'heure AOD",
+        "_t1s": "Taille de la police de l'heure",
+
+
+        "_fo": "Contour (Si disponible)",
+        "_fk": "Garder identique",
+
+        "_pc": "Couleur du texte",
+        "_ic": "Couleur de l'étiquette",      
+
+        "_0f" : "Afficher la progression du champ",
+        "_1f" : "Plein",
+        "_2f" : "Vide",
+        "_3f" : "Masquer",
+
+        "_x2": "Charger le thème de couleurs suivant",
+
+        "_aas": "Secondes toujours affichées",
+        "_aod": "Mode AOD (Always on Display)",
+       
+        "_aodc": "Couleur de teinte des données AOD",
+        "_aodT": "Luminosité de l'heure AOD",
+        "_aodD": "Luminosité des données AOD (Si l'écran s'éteint pendant AOD, réduisez ce nombre. Un nombre plus bas = moins d'utilisation de la batterie mais moins lumineux. Voir FAQ)",
+        "_aodS": "Décalage AOD (Nombre de pixels dont l'écran se déplace aléatoirement par minute pour éviter les brûlures d'écran)",
+        "ad0": "Éteindre l'écran",
+        "ad100": "AOD complet (Défaut)",
+        "ad101": "AOD complet, luminosité heure/données séparée",
+        
+        "ad1": "Heure uniquement",
+        "ad3": "Heure uniquement - Mobile",
+        "ad4": "Heure + champ de données (Sélectionner ci-dessous)",
+        "ad6": "Heure mobile + champ de données"
+    },
+    "menu" : {
+        "_tf": "Police de l'heure"
+    }
+
+}

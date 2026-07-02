@@ -1,0 +1,231 @@
+{
+    "settings": {
+        
+        "_t_h": "⌚ Hands",
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+         "_si": "Draw Status Icons (set positions below, see FAQ)",
+        "_o5": "Status Icon Positions % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Disable: -1, Default: 90,34, 90,66, 10,34, 10,66",
+
+
+        "_f1": "Top 1 Data",
+        "_l1": "Top 1 Label",
+        "_f2": "Top 2 Data",
+        "_l2": "Top 2 Label",
+        "_f3": "Center 1 Data",
+        "_l3": "Center 1 Label",
+        "_f4": "Center 2 Data",
+        "_l4": "Center 2 Label",
+
+        "_f5": "Bottom 1 Data",
+        "_l5": "Bottom 1 Label",
+        "_f6": "Bottom 2 Data",
+        "_l6": "Bottom 2 Label",
+        "_f7": "Bottom 3 Data",
+        "_l7": "Bottom 3 Label",
+
+        "_t3": "Text Font",
+        "_s1": "Top 1 Font size",
+        "_s2": "Top 2 Font size",
+        "_s3": "Center 1 Font size",
+        "_s4": "Center 2 Font size",
+        "_s5": "Bottom 1 font size",
+        "_s6": "Bottom 2 font size",
+        "_s7": "Bottom 3 font size",
+
+
+
+        "_bgs": "Background Style",
+        "bgs1": "Circles",
+        "bgs0": "Solid Color",
+
+        "_c0": "Background Color",
+        "_c1": "Dial - Second Mark Color",
+        "_c2": "Dial - 5 Second Mark Color",
+        "_c3": "Dial - Number color",
+        "_c4": "Status icons color",
+
+        "_ca1": "AOD - Dial Second Markers Color",
+        "_ca2": "AOD - Dial 5 second Markers Color",
+        "_ca3": "AOD - Dial Numbers Color",
+
+        "_c6": "Window Date Color",
+
+         "_hands": "Hand Style",
+        "_hss": "Show Second Hand",
+        "_ash": "Second Hand AOD",
+        "_hct": "Hand Transparency (Vector only)",
+        "_shade": "Hand Shade",
+        "_hcm": "Minute Hand Highlights Color",
+        "_hcm2": "Minute Hand Outline Color",
+        "_hch": "Hour Hand Highlights Color",
+        "_hch2": "Hour Hand Outline Color",
+
+        "_hcs2": "Second Hand  Color",
+        
+        "_hcha": "AOD - Hour Hand Highlights Color",
+        "_hch2a": "AOD - Hour Hand Outline Color",
+        "_hcma": "AOD - Minute Hand Highlights Color",
+        "_hcm2a": "AOD - Minute Hand Outline Color",
+        "_hcs2a": "AOD - Second Hand Color",
+
+        "_hcb": "Hand Outer Base Color",
+        "_hcb2": "Hand Inner Base Color",
+
+        "_ah": "AOD - Hand Colors",
+        "ah0": "Define below",
+        "ah1": "Green Lume",
+        "ah2": "Red Lume",
+        "ah3": "Blue Lume",
+
+        "_tsh": "Enable Text shade",
+       
+        
+
+        "_a1": "Touch shortcut #12",
+        "_a2": "Touch shortcut #3",
+        "_a3": "Touch shortcut #6",
+        "_a4": "Touch shortcut #9",
+        "_a5": "Touch shortcut Center",
+
+
+        "_hus": "Adjust hand position every second (see FAQ)",
+
+        "_e14": "Remove",
+        "_e15": "Set at 12",
+        "_e16": "Always on",
+        "_e17": "Keep as is (data updates once a minute in AOD mode)",
+
+        "_e18": "No Shade",
+        "_e19": "Light shade with 3 offset",
+        "_e20": "Medium shade with 3 offset",
+        "_e21": "Dark shade with 3 offset",
+        "_e22": "Light shade with 5 offset",
+        "_e23": "Medium shade with 5 offset",
+        "_e24": "Dark shade with 5 offset",
+        "_e25": "Light shade with 8 offset",
+        "_e26": "Medium shade with 8 offset",
+        "_e27": "Dark shade with 8 offset",
+        "_e28": "Light shade with 10 offset",
+        "_e29": "Medium shade with 10 offset",
+        "_e30": "Dark shade with 10 offset",
+
+        "_mc1": "Marker 1 Color",
+        "_mc2": "Marker 2 Color",
+
+
+
+                "_hub": "Hands drawing method",
+        "_b0": "Use recommended",
+        "_b1": "Better Battery (Buffered)",
+        "_b2": "Better Quality (Direct Draw)",
+
+
+
+
+        "_x4": "Load Previous Preset",
+        "_x3": "Load Previous Color Theme",
+        "ad102": "Full AOD - Bottom circle on top with AOD datafield",
+        "ad101": "Full AOD - Bottom cirle on top (increases battery usage)",
+        "_s21": "No Circle, show data",
+        "_rst": "Reset all settings",
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+
+
+
+        "_o1": "Offsets X (Top 1,2, Center 1,2, Bottom 1, 2, 3) Default: 20",
+        "_o2": "Offsets Y (Top 1,2, Center 1,2, Bottom 1, 2, 3) Default: 20",
+        "_o3": "Offsets Label Y (Center 1, 2, Bottom 1,2) Default: 20",
+
+        "_pc": "Text color",
+        "_ic": "Label color",      
+        
+
+        "_b3": "Background Lines-only color",
+       
+
+
+        "_stc": "Same as Main Text Color",
+        "_slc": "Same as Main Label Color",
+
+        "_c9": "Main Text Color",
+        "_c9l": "Main Label Color",
+
+        "_c10": "Top 1 Data Color",
+        "_c11": "Top 2 Data Color",
+        "_c12": "Center 1 Data Color",
+        "_c13": "Center 2 Data Color",
+        "_c14": "Bottom 1 Data Color",
+        "_c15": "Bottom 2 Data Color",
+        "_c16": "Bottom 3 Data Color",
+
+
+        "_c10l": "Top 1 Label Color",
+        "_c11l": "Top 2 Label Color",
+        "_c12l": "Center 1 Label Color",
+        "_c13l": "Center 2 Label Color",
+        "_c14l": "Bottom 1 Label Color",
+        "_c15l": "Bottom 2 Label Color",
+        "_c16l": "Bottom 3 Label Color",
+       
+
+        "_4f" : "Same as Main Label Color",
+        "_5f" : "Same as Main Text Color",
+        "_6f" : "Same as Progress Color",
+        "_7f" : "Same as Background Color",
+
+      
+
+        "_x2": "Load Next Color Theme",
+        "_fk": "Keep the same",
+        
+
+
+       
+        "_aas": "Always on seconds",
+        "_aod": "AOD Mode (Always on Display)",
+        
+        "_aodB": "AOD Dial Brightness",
+        "_aodT": "AOD Hands Brightness",
+
+        "_aodc": "AOD Data Color",
+        "_aodD": "AOD Data Brightness. ",
+
+        "_aodS": "AOD Shift - number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "_f20": "AOD Field Data",
+        "_l20": "AOD Field Label",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",        
+        "ad1": "Hands Only",
+        "_dot": "Draw Hands behind data (uses more battery)",
+
+        "_hcc": "Center Circle color",
+        "_hcca": "AOD - Center Circle color",
+        "_hh": "Toggle Hands",
+
+        "_ts": "Top Layout",
+        "_bs": "Bottom Layout",
+        "_cs": "Center Layout",
+        "_bs1": "3 Fields",
+
+        
+        "_bs2": "2 Fields Horizontal",
+        "_bs3": "2 Fields Vertical",
+
+        "_bs4": "1 Field Label on Top",
+        "_bs5": "1 Field Label Left"
+        
+    },
+    "menu" : {
+        "_hs": "Hand Styles",
+        "_hsa": "Second Hand AOD",
+        "_bgs": "BG Image"
+    }
+}

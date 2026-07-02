@@ -1,0 +1,30 @@
+Perpaduan estetika retro klasik dan teknologi smartwatch kontemporer. Tampilan jam ini memadukan tipografi inspirasi LCD nostalgia dan elemen digital vintage dengan visualisasi data modern, opsi kustomisasi canggih, dan prinsip desain yang elegan. Rasakan harmoni sempurna antara pesona old-school dan fungsionalitas terdepan.
+    
+⭐️ Gratis vs Pro ⭐️
+Tampilan jam ini tersedia gratis dengan semua fungsi dasar. Fitur premium (ditandai dengan [*]) memerlukan Kunci Pro untuk membuka. Anda dapat membeli Kunci Pro di sini: https://ko-fi.com/s/2dffa075ce Atau beli versi PRO di sini: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+
+⭐️ Perangkat MIPS (Fenix 7, Enduro, Forerunner 255, dll) ⭐️
+Tampilan jam ini sepenuhnya dioptimalkan untuk MIPS, tetapi warna akan terlihat berbeda seperti di sebagian besar gambar, karena gambar diambil pada perangkat Amoled. Tampilan jam ini memiliki banyak tema yang dioptimalkan untuk MIPS dan mendukung gradien MIPS. Anda dapat menemukan semua tema bawaan di sini: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Sumber Daya ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/legacy/manual
+* Dapatkan kunci PRO: https://ko-fi.com/s/2dffa075ce atau https://watchface.io/legacy
+* Versi terbuka: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+* Daftar Tema: https://watchface.io/legacy/themes
+* Panduan Warna: https://watchface.io/docs/color-list
+* Field Data Tersedia: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasi ⭐️
+Catatan: Ada dua tempat berbeda dengan pengaturan:
+* Aplikasi Garmin IQ (di ponsel Anda, buka perangkat, tampilan jam, pengaturan): Konfigurasi field data, warna, dan pengaturan umum.
+* Pengaturan di Jam: Akses opsi lebih detail seperti format waktu, target, dan unit langsung di jam dengan menahan tombol menu, pilih tampilan jam, dan ketuk kustomisasi.
+
+⭐️ Field Data ⭐️
+Semua field data yang saat ini disediakan Garmin untuk developer pihak ketiga tersedia, plus tambahan seperti dukungan Glucose Monitor (CGM), Open Weather Map (OWM) dan dukungan untuk aplikasi pihak ketiga lainnya.
+Semua field data yang tersedia tercantum di sini: https://watchface.io/docs/datafields . Beberapa field data (seperti kesiapan latihan atau HRV) saat ini tidak tersedia untuk developer pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Jika Anda mengalami bug atau masalah, silakan hubungi saya dengan menekan "Contact Developer" alih-alih menggunakan sistem review. Saya dapat merespons email dengan cepat, sementara saya mungkin tidak melihat review selama beberapa hari. ***
+
+* Changelog: https://watchface.io/legacy/changelog

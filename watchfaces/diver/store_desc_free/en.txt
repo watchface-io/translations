@@ -1,0 +1,30 @@
+A bold diver watchface with clean layout built for quick glances above and below the surface. 
+6 Different handstyles, over 100 different datafields, support for CGM+, battery-friendly and fully customizeable
+    
+⭐️ Free vs Pro ⭐️
+This watchface is available at no cost with all basic functions. Premium features (marked with [*]) require a Pro Key to unlock. You can purchase a Pro Key here: https://ko-fi.com/s/47961ec7db Or purchase the PRO version here: https://apps.garmin.com/apps/6135cd87-d15f-44fc-a317-23f8127191ec
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+This watchface is fully optimized for MIPS, but colors will look different as in most pictures, as these are taken on an Amoled device. This watchface has many themes optimized for MIPS and supports MIPS gradients. You can find all the build in themes here: https://watchface.io/diver/themes#MIPS
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/diver/manual
+* Get a PRO key: https://ko-fi.com/s/47961ec7db or https://watchface.io/diver
+* Unlocked version: https://apps.garmin.com/apps/6135cd87-d15f-44fc-a317-23f8127191ec
+* Theme List: https://watchface.io/diver/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone go to your device, watchfaces, settings): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields . Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***
+

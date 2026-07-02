@@ -1,0 +1,30 @@
+Fúze klasické retro estetiky a současné technologie chytrých hodinek. Tento ciferník kombinuje nostalgickou LCD-inspirovanou typografii a vintage digitální prvky s moderní vizualizací dat, pokročilými možnostmi přizpůsobení a elegantními designovými principy. Zažijte dokonalou harmonii mezi old-school šarmem a nejmodernější funkcionalitou.
+    
+⭐️ Zdarma vs Pro ⭐️
+Tento ciferník je dostupný zdarma se všemi základními funkcemi. Prémiové funkce (označené [*]) vyžadují Pro klíč k odemčení. Pro klíč si můžete koupit zde: https://ko-fi.com/s/2dffa075ce Nebo koupit PRO verzi zde: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+
+⭐️ MIPS zařízení (Fenix 7, Enduro, Forerunner 255, atd.) ⭐️
+Tento ciferník je plně optimalizován pro MIPS, ale barvy budou vypadat jinak než na většině obrázků, protože ty jsou pořízeny na Amoled zařízení. Tento ciferník má mnoho témat optimalizovaných pro MIPS a podporuje MIPS gradienty. Všechna vestavěná témata najdete zde: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Manuál: https://watchface.io/legacy/manual
+* Získat PRO klíč: https://ko-fi.com/s/2dffa075ce nebo https://watchface.io/legacy
+* Odemčená verze: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+* Seznam témat: https://watchface.io/legacy/themes
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dvě různá místa s nastaveními:
+* Garmin IQ aplikace (na telefonu jděte do vašeho zařízení, ciferníky, nastavení): Konfigurace datových polí, barev a obecných nastavení.
+* Nastavení na hodinkách: Přístup k podrobnějším možnostem jako formát času, cíle a jednotky přímo na hodinkách podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobit.
+
+⭐️ Datová pole ⭐️
+K dispozici jsou všechna datová pole, která Garmin aktuálně poskytuje vývojářům třetích stran, plus dodatky jako podpora Glucose Monitor (CGM), Open Weather Map (OWM) a podpora pro další aplikace třetích stran.
+Všechna dostupná datová pole jsou uvedena zde: https://watchface.io/docs/datafields . Některá datová pole (jako připravenost k tréninku nebo HRV) nejsou aktuálně dostupná vývojářům třetích stran, viz zde: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Pokud narazíte na jakékoli chyby nebo problémy, kontaktujte mě stisknutím "Contact Developer" namísto používání recenzního systému. Na e-maily mohu reagovat rychle, zatímco recenze nemusím vidět několik dní. ***
+
+* Changelog: https://watchface.io/legacy/changelog

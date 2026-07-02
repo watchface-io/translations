@@ -1,0 +1,30 @@
+En fusion av klassisk retro-estetik och modern smartklocka-teknik. Denna urtavla blandar nostalgisk LCD-inspirerad typografi och vintage digitala element med modern datavisualisering, avancerade anpassningsalternativ och eleganta designprinciper. Upplev den perfekta harmonin mellan old-school charm och banbrytande funktionalitet.
+    
+⭐️ Gratis vs Pro ⭐️
+Denna urtavla är tillgänglig kostnadsfritt med alla grundfunktioner. Premium-funktioner (märkta med [*]) kräver en Pro-nyckel för att låsa upp. Du kan köpa en Pro-nyckel här: https://ko-fi.com/s/2dffa075ce Eller köp PRO-versionen här: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+
+⭐️ MIPS-enheter (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Denna urtavla är helt optimerad för MIPS, men färgerna kommer att se annorlunda ut som i de flesta bilderna, eftersom dessa är tagna på en Amoled-enhet. Denna urtavla har många teman optimerade för MIPS och stöder MIPS-gradienter. Du kan hitta alla inbyggda teman här: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Resurser ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/legacy/manual
+* Skaffa en PRO-nyckel: https://ko-fi.com/s/2dffa075ce eller https://watchface.io/legacy
+* Upplåst version: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+* Temalista: https://watchface.io/legacy/themes
+* Färgguide: https://watchface.io/docs/color-list
+* Tillgängliga datafält: https://watchface.io/docs/datafields
+
+⭐️ Konfiguration ⭐️
+Observera: Det finns två olika platser med inställningar:
+* Garmin IQ-app (på din telefon gå till din enhet, urtavlor, inställningar): Konfigurera datafält, färger och allmänna inställningar.
+* Inställningar på klockan: Få tillgång till mer detaljerade alternativ som tidsformat, mål och enheter direkt på klockan genom att hålla menyknappen intryckt, välja urtavla och trycka anpassa.
+
+⭐️ Datafält ⭐️
+Alla datafält som Garmin för närvarande levererar till tredjepartsutvecklare är tillgängliga, plus extra som Glucose Monitor (CGM)-stöd, Open Weather Map (OWM) och stöd för andra tredjepartsappar.
+Alla tillgängliga datafält listas här: https://watchface.io/docs/datafields . Vissa datafält (som träningsberedskap eller HRV) är för närvarande inte tillgängliga för tredjepartsutvecklare, se här: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Om du stöter på buggar eller problem, kontakta mig genom att trycka på "Contact Developer" istället för att använda recensionssystemet. Jag kan svara på e-post snabbt, medan jag kanske inte ser recensioner på flera dagar. ***
+
+* Ändringslogg: https://watchface.io/legacy/changelog

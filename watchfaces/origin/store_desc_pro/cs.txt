@@ -1,0 +1,30 @@
+Fúze klasické retro estetiky a současné technologie chytrých hodinek. Tento ciferník kombinuje nostalgickou typografii inspirovanou LCD a vintage digitální prvky s moderní vizualizací dat, pokročilými možnostmi přizpůsobení a elegantními designovými principy. Zažijte dokonalou harmonii mezi old-school šarmem a špičkovou funkcionalitou.
+    
+⭐️ Vyzkoušejte před nákupem! ⭐️
+Před koupí tohoto ciferníku si nejprve prohlédněte bezplatnou verzi, abyste se ujistili, že je to to, co chcete, a že se vám líbí, jak vypadá na vašich hodinkách: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+
+⭐️ MIPS zařízení (Fenix 7, Enduro, Forerunner 255, atd.) ⭐️
+Tento ciferník je plně optimalizován pro MIPS, ale barvy budou vypadat jinak než na většině obrázků, protože ty jsou pořízeny na Amoled zařízení. Tento ciferník má mnoho témat optimalizovaných pro MIPS a podporuje MIPS gradienty. Všechna vestavěná témata najdete zde: https://watchface.io/legacy/themes#MIPS
+
+⭐️ Zdroje ⭐️
+* FAQ: https://watchface.io/faq
+* Manuál: https://watchface.io/legacy/manual
+* Bezplatná verze: https://apps.garmin.com/apps/f85f4e60-456d-453e-9b35-6cfbe5d33b61
+* Seznam témat: https://watchface.io/legacy/themes
+* Průvodce barvami: https://watchface.io/docs/color-list
+* Dostupná datová pole: https://watchface.io/docs/datafields
+
+
+⭐️ Konfigurace ⭐️
+Poznámka: Existují dvě různá místa s nastaveními:
+* Aplikace Garmin IQ (na telefonu jděte na vaše zařízení, ciferníky, nastavení): Konfigurujte datová pole, barvy a obecná nastavení.
+* Nastavení na hodinkách: Přístup k podrobnějším možnostem jako formát času, cíle a jednotky přímo na hodinkách podržením tlačítka menu, výběrem ciferníku a klepnutím na přizpůsobení.
+
+⭐️ Datová pole ⭐️
+Všechna datová pole, která Garmin v současnosti poskytuje vývojářům třetích stran, jsou k dispozici, plus extra jako podpora Glucose Monitor (CGM), Open Weather Map (OWM) a podpora pro další aplikace třetích stran.
+Všechna dostupná datová pole jsou uvedena zde: https://watchface.io/docs/datafields . Některá datová pole (jako připravenost na trénink nebo HRV) v současnosti nejsou dostupná vývojářům třetích stran, viz zde: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** Pokud narazíte na nějaké chyby nebo problémy, kontaktujte mě prosím stisknutím "Contact Developer" místo používání systému recenzí. Mohu rychle odpovědět na e-maily, zatímco recenze možná neuvidím několik dní. ***
+
+* Changelog: https://watchface.io/legacy/changelog

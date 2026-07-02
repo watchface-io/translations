@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Ajan siirtymä (X,Y) Oletus: 20",
+        "_o2": "Kentän X-siirtymä (Ylä 1, Ylä 2, Keski V, Keski O, Keski, Ala V, Ala O, Ympyrä V, Ympyrä O, Ympyrä Ala) Oletus: 20",
+        "_o3": "Kentän Y-siirtymä Oletus: 20",
+        "_o4": "Tunnisteen Y-siirtymä (Ylä 1, Ylä 2, Keski, Ympyrä V, Ympyrä O, Ympyrä Ala) Oletus: 20",
+        
+        "_t3": "Tekstifontti",
+        "_s1": "Ylä 1 Fonttikoko (Vain skaalattavat fontit)",
+        "_s2": "Ylä 2 Fonttikoko",
+        "_s3": "Vasen/Oikea Keski Fonttikoko",
+        "_s4": "Keski Fonttikoko",
+        "_s5": "Ala Vasen/Oikea Fonttikoko",
+        "_s6": "Vasen/Oikea Ympyrä Fonttikoko",
+
+        "_t4": "Alaympyrän Fontti",
+        "_s7": "Alaympyrän Fonttikoko",
+
+        "_70p": "70% Tummempi",
+        "auto": "Automaattinen",
+
+   
+        "_cr0b": "Vasen Ympyrä Taustaväri",
+        "_cr00": "Vasen Ympyrä Edistymisväri 1",
+        "_cr01": "Vasen Ympyrä Edistymisväri 2",
+        "_cr02": "Vasen Ympyrä Edistymisväri 3",
+        "_cr03": "Vasen Ympyrä Täyttämätön väri",
+
+        "_cr1b": "Oikea Ympyrä Taustaväri",
+        "_cr10": "Oikea Ympyrä Edistymisväri 1",
+        "_cr11": "Oikea Ympyrä Edistymisväri 2",
+        "_cr12": "Oikea Ympyrä Edistymisväri 3",
+        "_cr13": "Oikea Ympyrä Täyttämätön väri",
+
+        "_cr2b": "Alaympyrä Taustaväri",
+        "_cr20": "Alaympyrä Edistymisväri 1",
+        "_cr21": "Alaympyrä Edistymisväri 2",
+        "_cr22": "Alaympyrä Edistymisväri 3",
+        "_cr23": "Alaympyrä Täyttämätön väri",
+
+         "_8b": "20% Läpinäkyvä Musta",
+
+
+
+        "_dg": "Ajan liukuväri (Pois = Piirrä värit erikseen)",
+        "_hc1": "Tuntiväri Alku",
+        "_hc2": "Tuntiväri Keski",
+        "_hc3": "Tuntiväri Loppu",
+
+
+        "_mc1": "Minuuttiväri Alku",
+        "_mc2": "Minuuttiväri Keski",
+        "_mc3": "Minuuttiväri Loppu",
+
+
+        "_dv1": "Erottajan väri Alku",
+        "_dv2": "Erottajan väri Loppu",
+
+
+        "_tops": "Ylätyyli",
+        "_ts0": "1 kenttä Vaakasuunta",
+        "_ts1": "2 kenttää Vaakasuunta",
+        "_ts2": "2 kenttää Pystysuunta",
+
+        
+        "_c1": "Ylätietojen väri",
+        "_c1l": "Ylätunnisteen väri",
+
+        "_c2": "Ylä 2 Tietojen väri",
+        "_c2l": "Ylä 2 Tunnisteen väri",
+
+        "_c3": "Vasemman tietojen väri",
+        "_c4": "Oikean tietojen väri",
+
+        "_c5": "Keski Tietojen väri",
+        "_c5l": "Keski Tunnisteen väri",
+
+        "_c6": "Ala Vasen Tietojen väri",
+        "_c7": "Ala Oikea Tietojen väri",
+
+        "_c10": "Vasen Ympyrä Tietojen väri",
+        "_c10l": "Vasen Ympyrä Tunnisteen väri",
+        "_c11": "Oikea Ympyrä Tietojen väri",
+        "_c11l": "Oikea Ympyrä Tunnisteen väri",
+        "_c12": "Alaympyrä Tietojen väri",
+        "_c12l": "Alaympyrä Tunnisteen väri",
+
+        "_csc": "Tilakuvakkeiden väri",
+
+        
+    
+
+        "_f1": "1. Ylätiedot",
+        "_l1": "1. Ylätunniste",
+
+        "_f2": "2. Ylä 2 Tiedot",
+        "_l2": "2. Ylä 2 Tunniste",
+
+        "_f3": "3. Keski Vasen",
+        "_f4": "4. Keski Oikea",
+
+        "_f5": "5. Keski Tiedot",
+        "_l5": "5. Keski Tunniste",
+       
+        "_f6": "6. Ala Vasen Tiedot",
+        "_f7": "6. Ala Oikea Tiedot",
+
+        "_f10": "7. Ympyrä Vasen Tiedot",
+        "_l10": "7. Ympyrä Vasen Tunniste",
+        "_p10": "7. Ympyrä Vasen Edistymistiedot",
+        "_cs10": "7. Ympyrä Vasen Edistymistyyli",
+        "_cg10": "7. Ympyrä Vasen Segmenttiväli",
+
+        "_f11": "8. Ympyrä Oikea Tiedot",
+        "_l11": "8. Ympyrä Oikea Tunniste",
+        "_p11": "8. Ympyrä Oikea Edistymistiedot",
+        "_cs11": "8. Ympyrä Oikea Edistymistyyli",
+        "_cg11": "8. Ympyrä Oikea Segmenttiväli",
+
+        "_f12": "9. Ympyrä Ala Tiedot",
+        "_l12": "9. Ympyrä Ala Tunniste",
+        "_p12": "9. Ympyrä Ala Edistymistiedot",
+        "_cs12": "9. Ympyrä Ala Edistymistyyli",
+        "_cg12": "9. Ympyrä Ala Segmenttiväli",
+
+        "_a1": "Kosketusoikotie Tunti",
+        "_a2": "Kosketusoikotie Keski",
+        "_a3": "Kosketusoikotie Minuutti",
+
+        "_layout": "Asettelu",
+        "_si": "Piirrä tilakuvakkeet (Katso FAQ)",
+        "_o5": "Tilakuvakkeiden sijainnit % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Poista käytöstä: -1, Oletus: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Taustakuva",
+        "bg0": "Ei taustakuvaa",
+        "bg1": "Topo",
+        "bg2": "Heksagonikuvio",
+
+
+        "_md1": "Merkki 1 Tiedot",
+        "_md2": "Merkki 2 Tiedot",
+
+
+        "_bd1": "Kellotaulu 5 min merkkien koko",
+        "_bd2": "Kellotaulu 1 min merkkien koko",
+        "_dc1": "Kellotaulu 5 min merkkien väri",
+        "_dc2": "Kellotaulu 1 min merkkien väri",
+
+        "_ps0": "Tavallinen kellotaulu",
+        "_ps1": "Täysi edistyminen",
+        "_ps2": "Sekunttimerkinnät edistymisenä",
+
+        "_rainbow": "Sateenkaarivärjäys",
+        "_xmas": "Jouluvärit",
+
+
+
+
+        "_f20": "AOD Kentän tiedot",
+        "_l20": "AOD Kentän tunniste",
+
+
+        "_sbg" : "Sama kuin taustaväri",
+
+        "_m1": "Merkki 1 Väri",
+        "_m2": "Merkki 2 Väri",
+        
+        "_bgc": "Taustan pääväri",
+        "_bgg1": "Taustan liukuväri Alku",
+        "_bgg2": "Taustan liukuväri Keski",
+        "_bgg3": "Taustan liukuväri Loppu",
+
+        "_cs": "70% Tummempi",
+        "_cpbs" : "Sama kuin yläedistymispalkki",
+
+        "_stc" : "Sama kuin tekstin väri",
+        "_slc" : "Sama kuin tunnisteen väri",
+
+        "_x4": "Lataa edellinen esiasetus",
+        "_x3": "Lataa edellinen väriteema",
+
+        "_rst": "Nollaa kaikki asetukset",
+        "_tr": "👉 KOSKETUSOIKOTIET",
+        "_tc": "🎨 VÄRIT / TAUSTA",
+        "_tt": "🔤 FONTIT",
+        "_ta": "🖼️ AOD-ASETUKSET (Always on Display)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ SIIRTYMÄT",
+
+
+        "_t1": "Aikafontti",
+        "_t1a": "Aikafontti AOD",
+        "_t1s": "Aikafontin koko",
+
+
+        "_fo": "Ääriviivallinen (Jos saatavilla)",
+        "_fk": "Säilytä sama",
+
+        "_pc": "Tekstin väri",
+        "_ic": "Tunnisteen väri",      
+
+        "_0f" : "Näytä kentän edistyminen",
+        "_1f" : "Täysi",
+        "_2f" : "Tyhjä",
+        "_3f" : "Piilota",
+
+        "_x2": "Lataa seuraava väriteema",
+
+        "_aas": "Sekunnit aina näkyvissä",
+        "_aod": "AOD-tila (Always on Display)",
+       
+        "_aodc": "AOD Datansävyväri",
+        "_aodT": "AOD Ajan kirkkaus",
+        "_aodD": "AOD Datan kirkkaus (Jos näyttö sammuu AOD:n aikana, laske tätä lukua. Pienempi luku = vähemmän akun kulutusta mutta vähemmän kirkas. Katso FAQ)",
+        "_aodS": "AOD Siirtymä (Pikselien määrä, jolla näyttö siirtyy satunnaisesti minuutissa estääkseen näytön palamisen)",
+        "ad0": "Sammuta näyttö",
+        "ad100": "Täysi AOD (Oletus)",
+        "ad101": "Täysi AOD, erillinen aika/data kirkkaus",
+        
+        "ad1": "Vain aika",
+        "ad3": "Vain aika - Liikkuva",
+        "ad4": "Aika + tietokenttä (Valitse alta)",
+        "ad6": "Liikkuva aika + tietokenttä"
+    },
+    "menu" : {
+        "_tf": "Aikafontti"
+    }
+
+}

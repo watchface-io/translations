@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Desplazamiento de hora (X,Y) Predeterminado: 20",
+        "_o2": "Desplazamiento X del campo (Superior 1, Superior 2, Centro Iz, Centro De, Centro, Inferior Iz, Inferior De, Círculo Iz, Círculo De, Círculo Inferior) Predeterminado: 20",
+        "_o3": "Desplazamiento Y del campo Predeterminado: 20",
+        "_o4": "Desplazamiento Y de etiqueta (Superior 1, Superior 2, Centro, Círculo Iz, Círculo De, Círculo Inferior) Predeterminado: 20",
+        
+        "_t3": "Fuente de texto",
+        "_s1": "Tamaño de fuente Superior 1 (Solo fuentes redimensionables)",
+        "_s2": "Tamaño de fuente Superior 2",
+        "_s3": "Tamaño de fuente Centro Izquierda/Derecha",
+        "_s4": "Tamaño de fuente Centro",
+        "_s5": "Tamaño de fuente Inferior Izquierda/Derecha",
+        "_s6": "Tamaño de fuente Círculo Izquierda/Derecha",
+
+        "_t4": "Fuente Círculo Inferior",
+        "_s7": "Tamaño de fuente Círculo Inferior",
+
+        "_70p": "70% Más oscuro",
+        "auto": "Automático",
+
+   
+        "_cr0b": "Color de fondo Círculo izquierdo",
+        "_cr00": "Color de progreso Círculo izquierdo 1",
+        "_cr01": "Color de progreso Círculo izquierdo 2",
+        "_cr02": "Color de progreso Círculo izquierdo 3",
+        "_cr03": "Color sin relleno Círculo izquierdo",
+
+        "_cr1b": "Color de fondo Círculo derecho",
+        "_cr10": "Color de progreso Círculo derecho 1",
+        "_cr11": "Color de progreso Círculo derecho 2",
+        "_cr12": "Color de progreso Círculo derecho 3",
+        "_cr13": "Color sin relleno Círculo derecho",
+
+        "_cr2b": "Color de fondo Círculo inferior",
+        "_cr20": "Color de progreso Círculo inferior 1",
+        "_cr21": "Color de progreso Círculo inferior 2",
+        "_cr22": "Color de progreso Círculo inferior 3",
+        "_cr23": "Color sin relleno Círculo inferior",
+
+         "_8b": "Negro Transparente 20%",
+
+
+
+        "_dg": "Degradado de hora (Desact. = Dibujar colores por separado)",
+        "_hc1": "Color de horas Inicio",
+        "_hc2": "Color de horas Medio",
+        "_hc3": "Color de horas Fin",
+
+
+        "_mc1": "Color de minutos Inicio",
+        "_mc2": "Color de minutos Medio",
+        "_mc3": "Color de minutos Fin",
+
+
+        "_dv1": "Color del divisor Inicio",
+        "_dv2": "Color del divisor Fin",
+
+
+        "_tops": "Estilo superior",
+        "_ts0": "1 campo Horizontal",
+        "_ts1": "2 campos Horizontal",
+        "_ts2": "2 campos Vertical",
+
+        
+        "_c1": "Color de datos Superior",
+        "_c1l": "Color de etiqueta Superior",
+
+        "_c2": "Color de datos Superior 2",
+        "_c2l": "Color de etiqueta Superior 2",
+
+        "_c3": "Color de datos Izquierda",
+        "_c4": "Color de datos Derecha",
+
+        "_c5": "Color de datos Centro",
+        "_c5l": "Color de etiqueta Centro",
+
+        "_c6": "Color de datos Inferior Izquierda",
+        "_c7": "Color de datos Inferior Derecha",
+
+        "_c10": "Color de datos Círculo izquierdo",
+        "_c10l": "Color de etiqueta Círculo izquierdo",
+        "_c11": "Color de datos Círculo derecho",
+        "_c11l": "Color de etiqueta Círculo derecho",
+        "_c12": "Color de datos Círculo inferior",
+        "_c12l": "Color de etiqueta Círculo inferior",
+
+        "_csc": "Color de iconos de estado",
+
+        
+    
+
+        "_f1": "1. Datos Superior",
+        "_l1": "1. Etiqueta Superior",
+
+        "_f2": "2. Datos Superior 2",
+        "_l2": "2. Etiqueta Superior 2",
+
+        "_f3": "3. Centro Izquierda",
+        "_f4": "4. Centro Derecha",
+
+        "_f5": "5. Datos Centro",
+        "_l5": "5. Etiqueta Centro",
+       
+        "_f6": "6. Datos Inferior Izquierda",
+        "_f7": "6. Datos Inferior Derecha",
+
+        "_f10": "7. Datos Círculo Izquierda",
+        "_l10": "7. Etiqueta Círculo Izquierda",
+        "_p10": "7. Datos Progreso Círculo Izquierda",
+        "_cs10": "7. Estilo Progreso Círculo Izquierda",
+        "_cg10": "7. Espacio de segmento Círculo Izquierda",
+
+        "_f11": "8. Datos Círculo Derecha",
+        "_l11": "8. Etiqueta Círculo Derecha",
+        "_p11": "8. Datos Progreso Círculo Derecha",
+        "_cs11": "8. Estilo Progreso Círculo Derecha",
+        "_cg11": "8. Espacio de segmento Círculo Derecha",
+
+        "_f12": "9. Datos Círculo Inferior",
+        "_l12": "9. Etiqueta Círculo Inferior",
+        "_p12": "9. Datos Progreso Círculo Inferior",
+        "_cs12": "9. Estilo Progreso Círculo Inferior",
+        "_cg12": "9. Espacio de segmento Círculo Inferior",
+
+        "_a1": "Acceso rápido táctil Hora",
+        "_a2": "Acceso rápido táctil Centro",
+        "_a3": "Acceso rápido táctil Minuto",
+
+        "_layout": "Diseño",
+        "_si": "Mostrar iconos de estado (Ver FAQ)",
+        "_o5": "Posiciones de iconos de estado % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Desactivar: -1, Predeterminado: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Imagen de fondo",
+        "bg0": "Sin imagen de fondo",
+        "bg1": "Topo",
+        "bg2": "Patrón hexagonal",
+
+
+        "_md1": "Datos Marcador 1",
+        "_md2": "Datos Marcador 2",
+
+
+        "_bd1": "Esfera tamaño marcas 5 minutos",
+        "_bd2": "Esfera tamaño marcas 1 minuto",
+        "_dc1": "Esfera color marcas 5 minutos",
+        "_dc2": "Esfera color marcas 1 minuto",
+
+        "_ps0": "Esfera normal",
+        "_ps1": "Progreso completo",
+        "_ps2": "Marcas de segundos como progreso",
+
+        "_rainbow": "Colores arcoíris",
+        "_xmas": "Colores navideños",
+
+
+
+
+        "_f20": "Datos campo AOD",
+        "_l20": "Etiqueta campo AOD",
+
+
+        "_sbg" : "Igual que el color de fondo",
+
+        "_m1": "Color Marcador 1",
+        "_m2": "Color Marcador 2",
+        
+        "_bgc": "Color principal del fondo",
+        "_bgg1": "Color degradado fondo Inicio",
+        "_bgg2": "Color degradado fondo Medio",
+        "_bgg3": "Color degradado fondo Fin",
+
+        "_cs": "70% Más oscuro",
+        "_cpbs" : "Igual que la barra de progreso superior",
+
+        "_stc" : "Igual que el color del texto",
+        "_slc" : "Igual que el color de etiqueta",
+
+        "_x4": "Cargar configuración anterior",
+        "_x3": "Cargar tema de colores anterior",
+
+        "_rst": "Restablecer todos los ajustes",
+        "_tr": "👉 ACCESOS RÁPIDOS TÁCTILES",
+        "_tc": "🎨 COLORES / FONDO",
+        "_tt": "🔤 FUENTES",
+        "_ta": "🖼️ AJUSTES AOD (Always on Display)",
+        "_to": "💡 OTROS",
+        "_tx": "➡️ DESPLAZAMIENTOS",
+
+
+        "_t1": "Fuente de hora",
+        "_t1a": "Fuente de hora AOD",
+        "_t1s": "Tamaño de fuente de hora",
+
+
+        "_fo": "Contorneado (Si está disponible)",
+        "_fk": "Mantener igual",
+
+        "_pc": "Color del texto",
+        "_ic": "Color de etiqueta",      
+
+        "_0f" : "Mostrar progreso del campo",
+        "_1f" : "Lleno",
+        "_2f" : "Vacío",
+        "_3f" : "Ocultar",
+
+        "_x2": "Cargar tema de colores siguiente",
+
+        "_aas": "Segundos siempre visibles",
+        "_aod": "Modo AOD (Always on Display)",
+       
+        "_aodc": "Color de tinte de datos AOD",
+        "_aodT": "Brillo de hora AOD",
+        "_aodD": "Brillo de datos AOD (Si la pantalla se apaga durante AOD, baje este número. Número más bajo = menos uso de batería pero menos brillante. Ver FAQ)",
+        "_aodS": "Desplazamiento AOD (Número de píxeles que la pantalla se mueve aleatoriamente por minuto para evitar la quemadura de pantalla)",
+        "ad0": "Apagar pantalla",
+        "ad100": "AOD completo (Predeterminado)",
+        "ad101": "AOD completo, brillo de hora/datos separado",
+        
+        "ad1": "Solo Hora",
+        "ad3": "Solo Hora - En movimiento",
+        "ad4": "Hora + campo de datos (Seleccionar abajo)",
+        "ad6": "Hora en movimiento + campo de datos"
+    },
+    "menu" : {
+        "_tf": "Fuente de hora"
+    }
+
+}

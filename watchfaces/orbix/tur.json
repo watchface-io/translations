@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Saat Kayması (X,Y) Varsayılan: 20",
+        "_o2": "Alan X Kayması (Üst 1, Üst 2, Orta S, Orta Sa, Orta, Alt S, Alt Sa, Daire S, Daire Sa, Daire Alt) Varsayılan: 20",
+        "_o3": "Alan Y Kayması Varsayılan: 20",
+        "_o4": "Etiket Y Kayması (Üst 1, Üst 2, Orta, Daire S, Daire Sa, Daire Alt) Varsayılan: 20",
+        
+        "_t3": "Metin Yazı Tipi",
+        "_s1": "Üst 1 Yazı Tipi Boyutu (Yalnızca yeniden boyutlandırılabilir yazı tipleri)",
+        "_s2": "Üst 2 Yazı Tipi Boyutu",
+        "_s3": "Sol/Sağ Orta Yazı Tipi Boyutu",
+        "_s4": "Orta Yazı Tipi Boyutu",
+        "_s5": "Alt Sol/Sağ Yazı Tipi Boyutu",
+        "_s6": "Sol/Sağ Daire Yazı Tipi Boyutu",
+
+        "_t4": "Alt Daire Yazı Tipi",
+        "_s7": "Alt Daire Yazı Tipi Boyutu",
+
+        "_70p": "70% Daha Koyu",
+        "auto": "Otomatik",
+
+   
+        "_cr0b": "Sol Daire Arka Plan Rengi",
+        "_cr00": "Sol Daire İlerleme Rengi 1",
+        "_cr01": "Sol Daire İlerleme Rengi 2",
+        "_cr02": "Sol Daire İlerleme Rengi 3",
+        "_cr03": "Sol Daire Doldurulmamış Renk",
+
+        "_cr1b": "Sağ Daire Arka Plan Rengi",
+        "_cr10": "Sağ Daire İlerleme Rengi 1",
+        "_cr11": "Sağ Daire İlerleme Rengi 2",
+        "_cr12": "Sağ Daire İlerleme Rengi 3",
+        "_cr13": "Sağ Daire Doldurulmamış Renk",
+
+        "_cr2b": "Alt Daire Arka Plan Rengi",
+        "_cr20": "Alt Daire İlerleme Rengi 1",
+        "_cr21": "Alt Daire İlerleme Rengi 2",
+        "_cr22": "Alt Daire İlerleme Rengi 3",
+        "_cr23": "Alt Daire Doldurulmamış Renk",
+
+         "_8b": "20% Saydam Siyah",
+
+
+
+        "_dg": "Saat Geçişi (Kapalı = Renkleri Ayrı Ayrı Çiz)",
+        "_hc1": "Saat Rengi Başlangıç",
+        "_hc2": "Saat Rengi Orta",
+        "_hc3": "Saat Rengi Bitiş",
+
+
+        "_mc1": "Dakika Rengi Başlangıç",
+        "_mc2": "Dakika Rengi Orta",
+        "_mc3": "Dakika Rengi Bitiş",
+
+
+        "_dv1": "Bölücü Rengi Başlangıç",
+        "_dv2": "Bölücü Rengi Bitiş",
+
+
+        "_tops": "Üst Stil",
+        "_ts0": "1 Alan Yatay",
+        "_ts1": "2 Alan Yatay",
+        "_ts2": "2 Alan Dikey",
+
+        
+        "_c1": "Üst Veri Rengi",
+        "_c1l": "Üst Etiket Rengi",
+
+        "_c2": "Üst 2 Veri Rengi",
+        "_c2l": "Üst 2 Etiket Rengi",
+
+        "_c3": "Sol Veri Rengi",
+        "_c4": "Sağ Veri Rengi",
+
+        "_c5": "Orta Veri Rengi",
+        "_c5l": "Orta Etiket Rengi",
+
+        "_c6": "Alt Sol Veri Rengi",
+        "_c7": "Alt Sağ Veri Rengi",
+
+        "_c10": "Sol Daire Veri Rengi",
+        "_c10l": "Sol Daire Etiket Rengi",
+        "_c11": "Sağ Daire Veri Rengi",
+        "_c11l": "Sağ Daire Etiket Rengi",
+        "_c12": "Alt Daire Veri Rengi",
+        "_c12l": "Alt Daire Etiket Rengi",
+
+        "_csc": "Durum Simgeleri Rengi",
+
+        
+    
+
+        "_f1": "1. Üst Veriler",
+        "_l1": "1. Üst Etiket",
+
+        "_f2": "2. Üst 2 Veriler",
+        "_l2": "2. Üst 2 Etiket",
+
+        "_f3": "3. Orta Sol",
+        "_f4": "4. Orta Sağ",
+
+        "_f5": "5. Orta Veriler",
+        "_l5": "5. Orta Etiket",
+       
+        "_f6": "6. Alt Sol Veriler",
+        "_f7": "6. Alt Sağ Veriler",
+
+        "_f10": "7. Daire Sol Veriler",
+        "_l10": "7. Daire Sol Etiket",
+        "_p10": "7. Daire Sol İlerleme Verileri",
+        "_cs10": "7. Daire Sol İlerleme Stili",
+        "_cg10": "7. Daire Sol Segment Boşluğu",
+
+        "_f11": "8. Daire Sağ Veriler",
+        "_l11": "8. Daire Sağ Etiket",
+        "_p11": "8. Daire Sağ İlerleme Verileri",
+        "_cs11": "8. Daire Sağ İlerleme Stili",
+        "_cg11": "8. Daire Sağ Segment Boşluğu",
+
+        "_f12": "9. Daire Alt Veriler",
+        "_l12": "9. Daire Alt Etiket",
+        "_p12": "9. Daire Alt İlerleme Verileri",
+        "_cs12": "9. Daire Alt İlerleme Stili",
+        "_cg12": "9. Daire Alt Segment Boşluğu",
+
+        "_a1": "Dokunma Kısayolu Saat",
+        "_a2": "Dokunma Kısayolu Orta",
+        "_a3": "Dokunma Kısayolu Dakika",
+
+        "_layout": "Düzen",
+        "_si": "Durum Simgelerini Göster (FAQ'ya Bakın)",
+        "_o5": "Durum Simgesi Konumları % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Devre Dışı: -1, Varsayılan: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Arka Plan Görüntüsü",
+        "bg0": "Arka Plan Görüntüsü Yok",
+        "bg1": "Topo",
+        "bg2": "Altıgen Desen",
+
+
+        "_md1": "İşaret 1 Verileri",
+        "_md2": "İşaret 2 Verileri",
+
+
+        "_bd1": "Kadran 5 dakika işaretçi boyutu",
+        "_bd2": "Kadran 1 dakika işaretçi boyutu",
+        "_dc1": "Kadran 5 dakika işaretçi Rengi",
+        "_dc2": "Kadran 1 dakika işaretçi Rengi",
+
+        "_ps0": "Normal Kadran",
+        "_ps1": "Tam İlerleme",
+        "_ps2": "Saniye İşaretleri İlerleme Olarak",
+
+        "_rainbow": "Gökkuşağı Renkleri",
+        "_xmas": "Noel Renkleri",
+
+
+
+
+        "_f20": "AOD Alan Verileri",
+        "_l20": "AOD Alan Etiketi",
+
+
+        "_sbg" : "Arka Plan Rengiyle Aynı",
+
+        "_m1": "İşaret 1 Rengi",
+        "_m2": "İşaret 2 Rengi",
+        
+        "_bgc": "Arka Plan Ana Rengi",
+        "_bgg1": "Arka Plan Degrade Rengi Başlangıç",
+        "_bgg2": "Arka Plan Degrade Rengi Orta",
+        "_bgg3": "Arka Plan Degrade Rengi Bitiş",
+
+        "_cs": "70% Daha Koyu",
+        "_cpbs" : "Üst İlerleme Çubuğuyla Aynı",
+
+        "_stc" : "Metin Rengiyle Aynı",
+        "_slc" : "Etiket Rengiyle Aynı",
+
+        "_x4": "Önceki Ön Ayarı Yükle",
+        "_x3": "Önceki Renk Temasını Yükle",
+
+        "_rst": "Tüm ayarları sıfırla",
+        "_tr": "👉 DOKUNMA KISAYOLLARI",
+        "_tc": "🎨 RENKLER / ARKA PLAN",
+        "_tt": "🔤 YAZI TİPLERİ",
+        "_ta": "🖼️ AOD AYARLARI (Always on Display)",
+        "_to": "💡 DİĞER",
+        "_tx": "➡️ KAYMALAR",
+
+
+        "_t1": "Saat Yazı Tipi",
+        "_t1a": "Saat Yazı Tipi AOD",
+        "_t1s": "Saat Yazı Tipi Boyutu",
+
+
+        "_fo": "Çerçeveli (Varsa)",
+        "_fk": "Aynı tut",
+
+        "_pc": "Metin rengi",
+        "_ic": "Etiket rengi",      
+
+        "_0f" : "Alan İlerlemesini Göster",
+        "_1f" : "Dolu",
+        "_2f" : "Boş",
+        "_3f" : "Gizle",
+
+        "_x2": "Sonraki Renk Temasını Yükle",
+
+        "_aas": "Saniyeler her zaman görünür",
+        "_aod": "AOD Modu (Always on Display)",
+       
+        "_aodc": "AOD Veri Tonu Rengi",
+        "_aodT": "AOD Saat Parlaklığı",
+        "_aodD": "AOD Veri Parlaklığı (AOD sırasında ekran kapanıyorsa bu sayıyı düşürün. Düşük sayı = daha az pil kullanımı ama daha az parlak. FAQ'ya Bakın)",
+        "_aodS": "AOD Kayması (Ekranın yanmayı önlemek için dakikada rastgele kaydığı piksel sayısı)",
+        "ad0": "Ekranı Kapat",
+        "ad100": "Tam AOD (Varsayılan)",
+        "ad101": "Tam AOD, ayrı saat/veri parlaklığı",
+        
+        "ad1": "Yalnızca Saat",
+        "ad3": "Yalnızca Saat - Hareketli",
+        "ad4": "Saat + veri alanı (Aşağıdan Seçin)",
+        "ad6": "Hareketli Saat + veri alanı"
+    },
+    "menu" : {
+        "_tf": "Saat Yazı Tipi"
+    }
+
+}

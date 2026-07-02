@@ -33,8 +33,11 @@
 
 
 
+        "_bgs": "Background Style",
+        "bgs1": "Circles",
+        "bgs0": "Solid Color",
 
-        "_c1": "Background Tint Color",
+        "_c1": "Background Color",
         "_c2": "Background Markers Color",
         "_c3": "Background Number Outline Color",
         "_c4": "Background Number Inner Color",
@@ -63,6 +66,9 @@
         "_hcm2a": "AOD - Minute Hand Outline Color",
         "_hcs2a": "AOD - Second Hand Color",
 
+        "_hcb": "Hand Outer Base Color",
+        "_hcb2": "Hand Inner Base Color",
+
         "_ah": "AOD - Hand Colors",
         "ah0": "Define below",
         "ah1": "Green Lume",
@@ -77,6 +83,7 @@
         "_a2": "Touch shortcut #3",
         "_a3": "Touch shortcut #6",
         "_a4": "Touch shortcut #9",
+        "_a5": "Touch shortcut Center",
 
 
         "_hus": "Adjust hand position every second (see FAQ)",
@@ -137,7 +144,7 @@
         
 
         "_b3": "Background Lines-only color",
-        "_bgc": "Background Color (No BG Image only)",
+       
 
 
         "_stc": "Same as Main Text Color",
@@ -193,11 +200,19 @@
         "ad100": "Full AOD (Default)",        
         "ad1": "Hands Only",
         "_dot": "Draw Hands behind data (uses more battery)",
+        "_dm": "Draw data separately (avoiding glitches when data is larger than dial)",
 
         "_hcc": "Center Circle color",
-        "_hcca": "AOD - Center Circle color"
-
+        "_hcca": "AOD - Center Circle color",
+        "_hh": "Toggle Hands"
 
         
+
+        
+    },
+    "menu" : {
+        "_hs": "Hand Styles",
+        "_hsa": "Second Hand AOD",
+        "_bgs": "BG Image"
     }
 }

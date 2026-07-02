@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Posun času (X,Y) Predvolené: 20",
+        "_o2": "Posun X poľa (Horný 1, Horný 2, Stred Ľ, Stred P, Stred, Dolný Ľ, Dolný P, Kruh Ľ, Kruh P, Kruh Dole) Predvolené: 20",
+        "_o3": "Posun Y poľa Predvolené: 20",
+        "_o4": "Posun Y popisu (Horný 1, Horný 2, Stred, Kruh Ľ, Kruh P, Kruh Dole) Predvolené: 20",
+        
+        "_t3": "Písmo textu",
+        "_s1": "Horný 1 Veľkosť písma (Iba škálovateľné písma)",
+        "_s2": "Horný 2 Veľkosť písma",
+        "_s3": "Ľavý/Pravý Stred Veľkosť písma",
+        "_s4": "Stred Veľkosť písma",
+        "_s5": "Dolný Ľavý/Pravý Veľkosť písma",
+        "_s6": "Ľavý/Pravý Kruh Veľkosť písma",
+
+        "_t4": "Dolný Kruh Písmo",
+        "_s7": "Dolný Kruh Veľkosť písma",
+
+        "_70p": "70% Tmavší",
+        "auto": "Automaticky",
+
+   
+        "_cr0b": "Ľavý Kruh Farba pozadia",
+        "_cr00": "Ľavý Kruh Farba priebehu 1",
+        "_cr01": "Ľavý Kruh Farba priebehu 2",
+        "_cr02": "Ľavý Kruh Farba priebehu 3",
+        "_cr03": "Ľavý Kruh Nevyplnená farba",
+
+        "_cr1b": "Pravý Kruh Farba pozadia",
+        "_cr10": "Pravý Kruh Farba priebehu 1",
+        "_cr11": "Pravý Kruh Farba priebehu 2",
+        "_cr12": "Pravý Kruh Farba priebehu 3",
+        "_cr13": "Pravý Kruh Nevyplnená farba",
+
+        "_cr2b": "Dolný Kruh Farba pozadia",
+        "_cr20": "Dolný Kruh Farba priebehu 1",
+        "_cr21": "Dolný Kruh Farba priebehu 2",
+        "_cr22": "Dolný Kruh Farba priebehu 3",
+        "_cr23": "Dolný Kruh Nevyplnená farba",
+
+         "_8b": "20% Priehľadná Čierna",
+
+
+
+        "_dg": "Prechod času (Vyp = Kresliť farby oddelene)",
+        "_hc1": "Farba hodín Začiatok",
+        "_hc2": "Farba hodín Stred",
+        "_hc3": "Farba hodín Koniec",
+
+
+        "_mc1": "Farba minút Začiatok",
+        "_mc2": "Farba minút Stred",
+        "_mc3": "Farba minút Koniec",
+
+
+        "_dv1": "Farba oddeľovača Začiatok",
+        "_dv2": "Farba oddeľovača Koniec",
+
+
+        "_tops": "Horný štýl",
+        "_ts0": "1 pole Vodorovne",
+        "_ts1": "2 polia Vodorovne",
+        "_ts2": "2 polia Zvisle",
+
+        
+        "_c1": "Horný Farba dát",
+        "_c1l": "Horný Farba popisu",
+
+        "_c2": "Horný 2 Farba dát",
+        "_c2l": "Horný 2 Farba popisu",
+
+        "_c3": "Ľavý Farba dát",
+        "_c4": "Pravý Farba dát",
+
+        "_c5": "Stred Farba dát",
+        "_c5l": "Stred Farba popisu",
+
+        "_c6": "Dolný Ľavý Farba dát",
+        "_c7": "Dolný Pravý Farba dát",
+
+        "_c10": "Ľavý Kruh Farba dát",
+        "_c10l": "Ľavý Kruh Farba popisu",
+        "_c11": "Pravý Kruh Farba dát",
+        "_c11l": "Pravý Kruh Farba popisu",
+        "_c12": "Dolný Kruh Farba dát",
+        "_c12l": "Dolný Kruh Farba popisu",
+
+        "_csc": "Farba stavových ikon",
+
+        
+    
+
+        "_f1": "1. Horné Dáta",
+        "_l1": "1. Horný Popis",
+
+        "_f2": "2. Horný 2 Dáta",
+        "_l2": "2. Horný 2 Popis",
+
+        "_f3": "3. Stred Ľavo",
+        "_f4": "4. Stred Pravo",
+
+        "_f5": "5. Stred Dáta",
+        "_l5": "5. Stred Popis",
+       
+        "_f6": "6. Dolný Ľavý Dáta",
+        "_f7": "6. Dolný Pravý Dáta",
+
+        "_f10": "7. Kruh Ľavý Dáta",
+        "_l10": "7. Kruh Ľavý Popis",
+        "_p10": "7. Kruh Ľavý Priebeh Dáta",
+        "_cs10": "7. Kruh Ľavý Priebeh Štýl",
+        "_cg10": "7. Kruh Ľavý Medzera segmentu",
+
+        "_f11": "8. Kruh Pravý Dáta",
+        "_l11": "8. Kruh Pravý Popis",
+        "_p11": "8. Kruh Pravý Priebeh Dáta",
+        "_cs11": "8. Kruh Pravý Priebeh Štýl",
+        "_cg11": "8. Kruh Pravý Medzera segmentu",
+
+        "_f12": "9. Kruh Dole Dáta",
+        "_l12": "9. Kruh Dole Popis",
+        "_p12": "9. Kruh Dole Priebeh Dáta",
+        "_cs12": "9. Kruh Dole Priebeh Štýl",
+        "_cg12": "9. Kruh Dole Medzera segmentu",
+
+        "_a1": "Dotykový skrát Hodiny",
+        "_a2": "Dotykový skrát Stred",
+        "_a3": "Dotykový skrát Minúty",
+
+        "_layout": "Rozloženie",
+        "_si": "Zobraziť stavové ikony (Pozri FAQ)",
+        "_o5": "Pozície stavových ikon % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Zakázať: -1, Predvolené: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Obrázok pozadia",
+        "bg0": "Žiadny obrázok pozadia",
+        "bg1": "Topo",
+        "bg2": "Šesťuholníkový vzor",
+
+
+        "_md1": "Značka 1 Dáta",
+        "_md2": "Značka 2 Dáta",
+
+
+        "_bd1": "Ciferník 5-minútové značky veľkosť",
+        "_bd2": "Ciferník 1-minútové značky veľkosť",
+        "_dc1": "Ciferník 5-minútové značky Farba",
+        "_dc2": "Ciferník 1-minútové značky Farba",
+
+        "_ps0": "Normálny ciferník",
+        "_ps1": "Plný priebeh",
+        "_ps2": "Sekundové značky ako priebeh",
+
+        "_rainbow": "Dúhové farby",
+        "_xmas": "Vianočné farby",
+
+
+
+
+        "_f20": "AOD Pole Dáta",
+        "_l20": "AOD Pole Popis",
+
+
+        "_sbg" : "Rovnaká ako farba pozadia",
+
+        "_m1": "Značka 1 Farba",
+        "_m2": "Značka 2 Farba",
+        
+        "_bgc": "Pozadie Hlavná farba",
+        "_bgg1": "Pozadie Farba prechodu Začiatok",
+        "_bgg2": "Pozadie Farba prechodu Stred",
+        "_bgg3": "Pozadie Farba prechodu Koniec",
+
+        "_cs": "70% Tmavší",
+        "_cpbs" : "Rovnaká ako horná lišta priebehu",
+
+        "_stc" : "Rovnaká ako farba textu",
+        "_slc" : "Rovnaká ako farba popisu",
+
+        "_x4": "Načítať predchádzajúce prednastavenie",
+        "_x3": "Načítať predchádzajúcu farebnú tému",
+
+        "_rst": "Obnoviť všetky nastavenia",
+        "_tr": "👉 DOTYKOVÉ SKRÁTY",
+        "_tc": "🎨 FARBY / POZADIE",
+        "_tt": "🔤 PÍSMA",
+        "_ta": "🖼️ NASTAVENIA AOD (Always on Display)",
+        "_to": "💡 OSTATNÉ",
+        "_tx": "➡️ POSUNY",
+
+
+        "_t1": "Písmo času",
+        "_t1a": "Písmo času AOD",
+        "_t1s": "Veľkosť písma času",
+
+
+        "_fo": "S obrysom (Ak je k dispozícii)",
+        "_fk": "Ponechať rovnaké",
+
+        "_pc": "Farba textu",
+        "_ic": "Farba popisu",      
+
+        "_0f" : "Zobraziť priebeh poľa",
+        "_1f" : "Plné",
+        "_2f" : "Prázdne",
+        "_3f" : "Skryť",
+
+        "_x2": "Načítať ďalšiu farebnú tému",
+
+        "_aas": "Sekundy vždy viditeľné",
+        "_aod": "Režim AOD (Always on Display)",
+       
+        "_aodc": "AOD Farba odtieňa dát",
+        "_aodT": "AOD Jas času",
+        "_aodD": "AOD Jas dát (Ak sa obrazovka počas AOD vypne, znížte toto číslo. Nižšie číslo = menšia spotreba batérie, ale menej jasné. Pozri FAQ)",
+        "_aodS": "AOD Posun (Počet pixelov, o ktoré sa obrazovka náhodne posúva za minútu, aby sa zabránilo vypáleniu)",
+        "ad0": "Vypnúť obrazovku",
+        "ad100": "Plné AOD (Predvolené)",
+        "ad101": "Plné AOD, oddelený jas času/dát",
+        
+        "ad1": "Iba Čas",
+        "ad3": "Iba Čas - Pohyblivý",
+        "ad4": "Čas + dátové pole (Vybrať nižšie)",
+        "ad6": "Pohyblivý Čas + dátové pole"
+    },
+    "menu" : {
+        "_tf": "Písmo času"
+    }
+
+}

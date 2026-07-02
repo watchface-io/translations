@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Decalaj timp (X,Y) Implicit: 20",
+        "_o2": "Decalaj X câmp (Sus 1, Sus 2, Centru St, Centru Dr, Centru, Jos St, Jos Dr, Cerc St, Cerc Dr, Cerc Jos) Implicit: 20",
+        "_o3": "Decalaj Y câmp Implicit: 20",
+        "_o4": "Decalaj Y etichetă (Sus 1, Sus 2, Centru, Cerc St, Cerc Dr, Cerc Jos) Implicit: 20",
+        
+        "_t3": "Font text",
+        "_s1": "Sus 1 Dimensiune font (Doar fonturi redimensionabile)",
+        "_s2": "Sus 2 Dimensiune font",
+        "_s3": "Stânga/Dreapta Centru Dimensiune font",
+        "_s4": "Centru Dimensiune font",
+        "_s5": "Jos Stânga/Dreapta Dimensiune font",
+        "_s6": "Stânga/Dreapta Cerc Dimensiune font",
+
+        "_t4": "Font Cerc Jos",
+        "_s7": "Dimensiune font Cerc Jos",
+
+        "_70p": "70% Mai întunecat",
+        "auto": "Automat",
+
+   
+        "_cr0b": "Cerc Stânga Culoare fundal",
+        "_cr00": "Cerc Stânga Culoare progres 1",
+        "_cr01": "Cerc Stânga Culoare progres 2",
+        "_cr02": "Cerc Stânga Culoare progres 3",
+        "_cr03": "Cerc Stânga Culoare necompletată",
+
+        "_cr1b": "Cerc Dreapta Culoare fundal",
+        "_cr10": "Cerc Dreapta Culoare progres 1",
+        "_cr11": "Cerc Dreapta Culoare progres 2",
+        "_cr12": "Cerc Dreapta Culoare progres 3",
+        "_cr13": "Cerc Dreapta Culoare necompletată",
+
+        "_cr2b": "Cerc Jos Culoare fundal",
+        "_cr20": "Cerc Jos Culoare progres 1",
+        "_cr21": "Cerc Jos Culoare progres 2",
+        "_cr22": "Cerc Jos Culoare progres 3",
+        "_cr23": "Cerc Jos Culoare necompletată",
+
+         "_8b": "Negru Transparent 20%",
+
+
+
+        "_dg": "Gradient timp (Oprit = Desenează culorile separat)",
+        "_hc1": "Culoare ore Început",
+        "_hc2": "Culoare ore Mijloc",
+        "_hc3": "Culoare ore Sfârșit",
+
+
+        "_mc1": "Culoare minute Început",
+        "_mc2": "Culoare minute Mijloc",
+        "_mc3": "Culoare minute Sfârșit",
+
+
+        "_dv1": "Culoare separator Început",
+        "_dv2": "Culoare separator Sfârșit",
+
+
+        "_tops": "Stil superior",
+        "_ts0": "1 câmp Orizontal",
+        "_ts1": "2 câmpuri Orizontal",
+        "_ts2": "2 câmpuri Vertical",
+
+        
+        "_c1": "Sus Culoare date",
+        "_c1l": "Sus Culoare etichetă",
+
+        "_c2": "Sus 2 Culoare date",
+        "_c2l": "Sus 2 Culoare etichetă",
+
+        "_c3": "Stânga Culoare date",
+        "_c4": "Dreapta Culoare date",
+
+        "_c5": "Centru Culoare date",
+        "_c5l": "Centru Culoare etichetă",
+
+        "_c6": "Jos Stânga Culoare date",
+        "_c7": "Jos Dreapta Culoare date",
+
+        "_c10": "Cerc Stânga Culoare date",
+        "_c10l": "Cerc Stânga Culoare etichetă",
+        "_c11": "Cerc Dreapta Culoare date",
+        "_c11l": "Cerc Dreapta Culoare etichetă",
+        "_c12": "Cerc Jos Culoare date",
+        "_c12l": "Cerc Jos Culoare etichetă",
+
+        "_csc": "Culoare icoane stare",
+
+        
+    
+
+        "_f1": "1. Date Sus",
+        "_l1": "1. Etichetă Sus",
+
+        "_f2": "2. Date Sus 2",
+        "_l2": "2. Etichetă Sus 2",
+
+        "_f3": "3. Centru Stânga",
+        "_f4": "4. Centru Dreapta",
+
+        "_f5": "5. Date Centru",
+        "_l5": "5. Etichetă Centru",
+       
+        "_f6": "6. Date Jos Stânga",
+        "_f7": "6. Date Jos Dreapta",
+
+        "_f10": "7. Date Cerc Stânga",
+        "_l10": "7. Etichetă Cerc Stânga",
+        "_p10": "7. Date Progres Cerc Stânga",
+        "_cs10": "7. Stil Progres Cerc Stânga",
+        "_cg10": "7. Spațiu segment Cerc Stânga",
+
+        "_f11": "8. Date Cerc Dreapta",
+        "_l11": "8. Etichetă Cerc Dreapta",
+        "_p11": "8. Date Progres Cerc Dreapta",
+        "_cs11": "8. Stil Progres Cerc Dreapta",
+        "_cg11": "8. Spațiu segment Cerc Dreapta",
+
+        "_f12": "9. Date Cerc Jos",
+        "_l12": "9. Etichetă Cerc Jos",
+        "_p12": "9. Date Progres Cerc Jos",
+        "_cs12": "9. Stil Progres Cerc Jos",
+        "_cg12": "9. Spațiu segment Cerc Jos",
+
+        "_a1": "Comandă rapidă atingere Oră",
+        "_a2": "Comandă rapidă atingere Centru",
+        "_a3": "Comandă rapidă atingere Minut",
+
+        "_layout": "Aspect",
+        "_si": "Afișează icoane stare (Vezi FAQ)",
+        "_o5": "Poziții icoane stare % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Dezactivare: -1, Implicit: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Imagine fundal",
+        "bg0": "Fără imagine fundal",
+        "bg1": "Topo",
+        "bg2": "Model hexagonal",
+
+
+        "_md1": "Date Marker 1",
+        "_md2": "Date Marker 2",
+
+
+        "_bd1": "Cadran dimensiune marcaje 5 minute",
+        "_bd2": "Cadran dimensiune marcaje 1 minut",
+        "_dc1": "Cadran culoare marcaje 5 minute",
+        "_dc2": "Cadran culoare marcaje 1 minut",
+
+        "_ps0": "Cadran obișnuit",
+        "_ps1": "Progres complet",
+        "_ps2": "Marcaje secunde ca progres",
+
+        "_rainbow": "Culori curcubeu",
+        "_xmas": "Culori de Crăciun",
+
+
+
+
+        "_f20": "Date câmp AOD",
+        "_l20": "Etichetă câmp AOD",
+
+
+        "_sbg" : "La fel ca culoarea fundalului",
+
+        "_m1": "Culoare Marker 1",
+        "_m2": "Culoare Marker 2",
+        
+        "_bgc": "Culoare principală fundal",
+        "_bgg1": "Culoare gradient fundal Început",
+        "_bgg2": "Culoare gradient fundal Mijloc",
+        "_bgg3": "Culoare gradient fundal Sfârșit",
+
+        "_cs": "70% Mai întunecat",
+        "_cpbs" : "La fel ca bara de progres superioară",
+
+        "_stc" : "La fel ca culoarea textului",
+        "_slc" : "La fel ca culoarea etichetei",
+
+        "_x4": "Încarcă setarea anterioară",
+        "_x3": "Încarcă tema de culori anterioară",
+
+        "_rst": "Resetează toate setările",
+        "_tr": "👉 COMENZI RAPIDE ATINGERE",
+        "_tc": "🎨 CULORI / FUNDAL",
+        "_tt": "🔤 FONTURI",
+        "_ta": "🖼️ SETĂRI AOD (Always on Display)",
+        "_to": "💡 ALTELE",
+        "_tx": "➡️ DECALAJE",
+
+
+        "_t1": "Font oră",
+        "_t1a": "Font oră AOD",
+        "_t1s": "Dimensiune font oră",
+
+
+        "_fo": "Contur (Dacă disponibil)",
+        "_fk": "Păstrează la fel",
+
+        "_pc": "Culoare text",
+        "_ic": "Culoare etichetă",      
+
+        "_0f" : "Afișează progresul câmpului",
+        "_1f" : "Plin",
+        "_2f" : "Gol",
+        "_3f" : "Ascunde",
+
+        "_x2": "Încarcă tema de culori următoare",
+
+        "_aas": "Secunde mereu vizibile",
+        "_aod": "Mod AOD (Always on Display)",
+       
+        "_aodc": "AOD Culoare nuanță date",
+        "_aodT": "AOD Luminozitate oră",
+        "_aodD": "AOD Luminozitate date (Dacă ecranul se stinge în AOD, micșorați acest număr. Număr mai mic = mai puțin consum baterie dar mai puțin luminos. Vezi FAQ)",
+        "_aodS": "AOD Decalaj (Numărul de pixeli cu care ecranul se deplasează aleatoriu pe minut pentru a preveni arderea)",
+        "ad0": "Oprește ecranul",
+        "ad100": "AOD complet (Implicit)",
+        "ad101": "AOD complet, luminozitate separată oră/date",
+        
+        "ad1": "Doar Oră",
+        "ad3": "Doar Oră - În mișcare",
+        "ad4": "Oră + câmp date (Selectați mai jos)",
+        "ad6": "Oră în mișcare + câmp date"
+    },
+    "menu" : {
+        "_tf": "Font oră"
+    }
+
+}

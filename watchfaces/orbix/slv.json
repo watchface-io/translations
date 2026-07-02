@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Zamik časa (X,Y) Privzeto: 20",
+        "_o2": "Zamik X polja (Zgornji 1, Zgornji 2, Sredina L, Sredina D, Sredina, Spodnji L, Spodnji D, Krog L, Krog D, Krog Spodaj) Privzeto: 20",
+        "_o3": "Zamik Y polja Privzeto: 20",
+        "_o4": "Zamik Y oznake (Zgornji 1, Zgornji 2, Sredina, Krog L, Krog D, Krog Spodaj) Privzeto: 20",
+        
+        "_t3": "Pisava besedila",
+        "_s1": "Zgornji 1 Velikost pisave (Samo spremenljive pisave)",
+        "_s2": "Zgornji 2 Velikost pisave",
+        "_s3": "Levo/Desno Sredina Velikost pisave",
+        "_s4": "Sredina Velikost pisave",
+        "_s5": "Spodnji Levo/Desno Velikost pisave",
+        "_s6": "Levo/Desno Krog Velikost pisave",
+
+        "_t4": "Spodnji Krog Pisava",
+        "_s7": "Spodnji Krog Velikost pisave",
+
+        "_70p": "70% Temnejše",
+        "auto": "Samodejno",
+
+   
+        "_cr0b": "Levi Krog Barva ozadja",
+        "_cr00": "Levi Krog Barva napredka 1",
+        "_cr01": "Levi Krog Barva napredka 2",
+        "_cr02": "Levi Krog Barva napredka 3",
+        "_cr03": "Levi Krog Neizpolnjena barva",
+
+        "_cr1b": "Desni Krog Barva ozadja",
+        "_cr10": "Desni Krog Barva napredka 1",
+        "_cr11": "Desni Krog Barva napredka 2",
+        "_cr12": "Desni Krog Barva napredka 3",
+        "_cr13": "Desni Krog Neizpolnjena barva",
+
+        "_cr2b": "Spodnji Krog Barva ozadja",
+        "_cr20": "Spodnji Krog Barva napredka 1",
+        "_cr21": "Spodnji Krog Barva napredka 2",
+        "_cr22": "Spodnji Krog Barva napredka 3",
+        "_cr23": "Spodnji Krog Neizpolnjena barva",
+
+         "_8b": "20% Prosojno Črna",
+
+
+
+        "_dg": "Časovni gradient (Izklop = Nariši barve ločeno)",
+        "_hc1": "Barva ur Začetek",
+        "_hc2": "Barva ur Sredina",
+        "_hc3": "Barva ur Konec",
+
+
+        "_mc1": "Barva minut Začetek",
+        "_mc2": "Barva minut Sredina",
+        "_mc3": "Barva minut Konec",
+
+
+        "_dv1": "Barva ločila Začetek",
+        "_dv2": "Barva ločila Konec",
+
+
+        "_tops": "Zgornji slog",
+        "_ts0": "1 polje Vodoravno",
+        "_ts1": "2 polji Vodoravno",
+        "_ts2": "2 polji Navpično",
+
+        
+        "_c1": "Zgornja Barva podatkov",
+        "_c1l": "Zgornja Barva oznake",
+
+        "_c2": "Zgornji 2 Barva podatkov",
+        "_c2l": "Zgornji 2 Barva oznake",
+
+        "_c3": "Leva Barva podatkov",
+        "_c4": "Desna Barva podatkov",
+
+        "_c5": "Sredina Barva podatkov",
+        "_c5l": "Sredina Barva oznake",
+
+        "_c6": "Spodnji Leva Barva podatkov",
+        "_c7": "Spodnji Desna Barva podatkov",
+
+        "_c10": "Levi Krog Barva podatkov",
+        "_c10l": "Levi Krog Barva oznake",
+        "_c11": "Desni Krog Barva podatkov",
+        "_c11l": "Desni Krog Barva oznake",
+        "_c12": "Spodnji Krog Barva podatkov",
+        "_c12l": "Spodnji Krog Barva oznake",
+
+        "_csc": "Barva statusnih ikon",
+
+        
+    
+
+        "_f1": "1. Zgornji Podatki",
+        "_l1": "1. Zgornja Oznaka",
+
+        "_f2": "2. Zgornji 2 Podatki",
+        "_l2": "2. Zgornji 2 Oznaka",
+
+        "_f3": "3. Sredina Levo",
+        "_f4": "4. Sredina Desno",
+
+        "_f5": "5. Sredina Podatki",
+        "_l5": "5. Sredina Oznaka",
+       
+        "_f6": "6. Spodnji Levo Podatki",
+        "_f7": "6. Spodnji Desno Podatki",
+
+        "_f10": "7. Krog Levo Podatki",
+        "_l10": "7. Krog Levo Oznaka",
+        "_p10": "7. Krog Levo Napredek Podatki",
+        "_cs10": "7. Krog Levo Napredek Slog",
+        "_cg10": "7. Krog Levo Razmik segmenta",
+
+        "_f11": "8. Krog Desno Podatki",
+        "_l11": "8. Krog Desno Oznaka",
+        "_p11": "8. Krog Desno Napredek Podatki",
+        "_cs11": "8. Krog Desno Napredek Slog",
+        "_cg11": "8. Krog Desno Razmik segmenta",
+
+        "_f12": "9. Krog Spodaj Podatki",
+        "_l12": "9. Krog Spodaj Oznaka",
+        "_p12": "9. Krog Spodaj Napredek Podatki",
+        "_cs12": "9. Krog Spodaj Napredek Slog",
+        "_cg12": "9. Krog Spodaj Razmik segmenta",
+
+        "_a1": "Bližnjica z dotikom Ura",
+        "_a2": "Bližnjica z dotikom Sredina",
+        "_a3": "Bližnjica z dotikom Minuta",
+
+        "_layout": "Postavitev",
+        "_si": "Prikaži statusne ikone (Glej FAQ)",
+        "_o5": "Položaji statusnih ikon % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Onemogoči: -1, Privzeto: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Slika ozadja",
+        "bg0": "Brez slike ozadja",
+        "bg1": "Topo",
+        "bg2": "Šestkotni vzorec",
+
+
+        "_md1": "Kazalec 1 Podatki",
+        "_md2": "Kazalec 2 Podatki",
+
+
+        "_bd1": "Številčnica 5-minutne oznake velikost",
+        "_bd2": "Številčnica 1-minutne oznake velikost",
+        "_dc1": "Številčnica 5-minutne oznake Barva",
+        "_dc2": "Številčnica 1-minutne oznake Barva",
+
+        "_ps0": "Navadna številčnica",
+        "_ps1": "Polni napredek",
+        "_ps2": "Sekundne oznake kot napredek",
+
+        "_rainbow": "Mavrične barve",
+        "_xmas": "Božične barve",
+
+
+
+
+        "_f20": "AOD Polje Podatki",
+        "_l20": "AOD Polje Oznaka",
+
+
+        "_sbg" : "Enako kot barva ozadja",
+
+        "_m1": "Kazalec 1 Barva",
+        "_m2": "Kazalec 2 Barva",
+        
+        "_bgc": "Ozadje Glavna barva",
+        "_bgg1": "Ozadje Barva gradienta Začetek",
+        "_bgg2": "Ozadje Barva gradienta Sredina",
+        "_bgg3": "Ozadje Barva gradienta Konec",
+
+        "_cs": "70% Temnejše",
+        "_cpbs" : "Enako kot zgornja vrstica napredka",
+
+        "_stc" : "Enako kot barva besedila",
+        "_slc" : "Enako kot barva oznake",
+
+        "_x4": "Naloži prejšnjo prednastavitev",
+        "_x3": "Naloži prejšnjo barvno temo",
+
+        "_rst": "Ponastavi vse nastavitve",
+        "_tr": "👉 BLIŽNJICE Z DOTIKOM",
+        "_tc": "🎨 BARVE / OZADJE",
+        "_tt": "🔤 PISAVE",
+        "_ta": "🖼️ NASTAVITVE AOD (Always on Display)",
+        "_to": "💡 DRUGO",
+        "_tx": "➡️ ZAMIKI",
+
+
+        "_t1": "Pisava časa",
+        "_t1a": "Pisava časa AOD",
+        "_t1s": "Velikost pisave časa",
+
+
+        "_fo": "Obroben (Če je na voljo)",
+        "_fk": "Ohrani enako",
+
+        "_pc": "Barva besedila",
+        "_ic": "Barva oznake",      
+
+        "_0f" : "Prikaži napredek polja",
+        "_1f" : "Polno",
+        "_2f" : "Prazno",
+        "_3f" : "Skrij",
+
+        "_x2": "Naloži naslednjo barvno temo",
+
+        "_aas": "Sekunde vedno vidne",
+        "_aod": "Način AOD (Always on Display)",
+       
+        "_aodc": "AOD Barva odtenka podatkov",
+        "_aodT": "AOD Svetlost časa",
+        "_aodD": "AOD Svetlost podatkov (Če se zaslon med AOD izklopi, znižajte to število. Nižje število = manj porabe baterije, a manj svetlo. Glej FAQ)",
+        "_aodS": "AOD Zamik (Število slikovnih pik, za katere se zaslon naključno premakne na minuto, da prepreči izgorevanje)",
+        "ad0": "Izklopi zaslon",
+        "ad100": "Polni AOD (Privzeto)",
+        "ad101": "Polni AOD, ločena svetlost časa/podatkov",
+        
+        "ad1": "Samo Čas",
+        "ad3": "Samo Čas - Premično",
+        "ad4": "Čas + podatkovno polje (Izberi spodaj)",
+        "ad6": "Premični Čas + podatkovno polje"
+    },
+    "menu" : {
+        "_tf": "Pisava časa"
+    }
+
+}

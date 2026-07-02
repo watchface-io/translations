@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Pomak vremena (X,Y) Zadano: 20",
+        "_o2": "Pomak X polja (Gornji 1, Gornji 2, Sredina L, Sredina D, Sredina, Donji L, Donji D, Krug L, Krug D, Krug Dno) Zadano: 20",
+        "_o3": "Pomak Y polja Zadano: 20",
+        "_o4": "Pomak Y oznake (Gornji 1, Gornji 2, Sredina, Krug L, Krug D, Krug Dno) Zadano: 20",
+        
+        "_t3": "Font teksta",
+        "_s1": "Veličina fonta Gornji 1 (Samo fontovi s promjenjivom veličinom)",
+        "_s2": "Veličina fonta Gornji 2",
+        "_s3": "Veličina fonta Lijevo/Desno Sredina",
+        "_s4": "Veličina fonta Sredina",
+        "_s5": "Veličina fonta Donji Lijevo/Desno",
+        "_s6": "Veličina fonta Lijevo/Desno Krug",
+
+        "_t4": "Font Donjeg Kruga",
+        "_s7": "Veličina fonta Donjeg Kruga",
+
+        "_70p": "70% Tamnije",
+        "auto": "Automatski",
+
+   
+        "_cr0b": "Boja pozadine Lijevog Kruga",
+        "_cr00": "Boja napretka Lijevog Kruga 1",
+        "_cr01": "Boja napretka Lijevog Kruga 2",
+        "_cr02": "Boja napretka Lijevog Kruga 3",
+        "_cr03": "Nepopunjena boja Lijevog Kruga",
+
+        "_cr1b": "Boja pozadine Desnog Kruga",
+        "_cr10": "Boja napretka Desnog Kruga 1",
+        "_cr11": "Boja napretka Desnog Kruga 2",
+        "_cr12": "Boja napretka Desnog Kruga 3",
+        "_cr13": "Nepopunjena boja Desnog Kruga",
+
+        "_cr2b": "Boja pozadine Donjeg Kruga",
+        "_cr20": "Boja napretka Donjeg Kruga 1",
+        "_cr21": "Boja napretka Donjeg Kruga 2",
+        "_cr22": "Boja napretka Donjeg Kruga 3",
+        "_cr23": "Nepopunjena boja Donjeg Kruga",
+
+         "_8b": "Prozirna Crna 20%",
+
+
+
+        "_dg": "Gradijent vremena (Isklj. = Crtaj boje zasebno)",
+        "_hc1": "Boja sata Početak",
+        "_hc2": "Boja sata Sredina",
+        "_hc3": "Boja sata Kraj",
+
+
+        "_mc1": "Boja minute Početak",
+        "_mc2": "Boja minute Sredina",
+        "_mc3": "Boja minute Kraj",
+
+
+        "_dv1": "Boja razdjelnika Početak",
+        "_dv2": "Boja razdjelnika Kraj",
+
+
+        "_tops": "Gornji stil",
+        "_ts0": "1 polje Vodoravno",
+        "_ts1": "2 polja Vodoravno",
+        "_ts2": "2 polja Okomito",
+
+        
+        "_c1": "Boja podataka Gornji",
+        "_c1l": "Boja oznake Gornji",
+
+        "_c2": "Boja podataka Gornji 2",
+        "_c2l": "Boja oznake Gornji 2",
+
+        "_c3": "Boja podataka Lijevo",
+        "_c4": "Boja podataka Desno",
+
+        "_c5": "Boja podataka Sredina",
+        "_c5l": "Boja oznake Sredina",
+
+        "_c6": "Boja podataka Donji Lijevo",
+        "_c7": "Boja podataka Donji Desno",
+
+        "_c10": "Boja podataka Lijevog Kruga",
+        "_c10l": "Boja oznake Lijevog Kruga",
+        "_c11": "Boja podataka Desnog Kruga",
+        "_c11l": "Boja oznake Desnog Kruga",
+        "_c12": "Boja podataka Donjeg Kruga",
+        "_c12l": "Boja oznake Donjeg Kruga",
+
+        "_csc": "Boja statusnih ikona",
+
+        
+    
+
+        "_f1": "1. Gornji Podaci",
+        "_l1": "1. Gornja Oznaka",
+
+        "_f2": "2. Gornji 2 Podaci",
+        "_l2": "2. Gornja 2 Oznaka",
+
+        "_f3": "3. Sredina Lijevo",
+        "_f4": "4. Sredina Desno",
+
+        "_f5": "5. Podaci Sredina",
+        "_l5": "5. Oznaka Sredina",
+       
+        "_f6": "6. Donji Lijevo Podaci",
+        "_f7": "6. Donji Desno Podaci",
+
+        "_f10": "7. Krug Lijevo Podaci",
+        "_l10": "7. Krug Lijevo Oznaka",
+        "_p10": "7. Krug Lijevo Podaci Napretka",
+        "_cs10": "7. Krug Lijevo Stil Napretka",
+        "_cg10": "7. Krug Lijevo Razmak segmenta",
+
+        "_f11": "8. Krug Desno Podaci",
+        "_l11": "8. Krug Desno Oznaka",
+        "_p11": "8. Krug Desno Podaci Napretka",
+        "_cs11": "8. Krug Desno Stil Napretka",
+        "_cg11": "8. Krug Desno Razmak segmenta",
+
+        "_f12": "9. Krug Dno Podaci",
+        "_l12": "9. Krug Dno Oznaka",
+        "_p12": "9. Krug Dno Podaci Napretka",
+        "_cs12": "9. Krug Dno Stil Napretka",
+        "_cg12": "9. Krug Dno Razmak segmenta",
+
+        "_a1": "Prečac dodirom Sat",
+        "_a2": "Prečac dodirom Sredina",
+        "_a3": "Prečac dodirom Minuta",
+
+        "_layout": "Raspored",
+        "_si": "Prikaži statusne ikone (Vidi FAQ)",
+        "_o5": "Pozicije statusnih ikona % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Isključi: -1, Zadano: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Slika pozadine",
+        "bg0": "Bez slike pozadine",
+        "bg1": "Topo",
+        "bg2": "Šesterokutni uzorak",
+
+
+        "_md1": "Podaci Oznake 1",
+        "_md2": "Podaci Oznake 2",
+
+
+        "_bd1": "Veličina oznaka 5 minuta na brojčaniku",
+        "_bd2": "Veličina oznaka 1 minute na brojčaniku",
+        "_dc1": "Boja oznaka 5 minuta na brojčaniku",
+        "_dc2": "Boja oznaka 1 minute na brojčaniku",
+
+        "_ps0": "Obični brojčanik",
+        "_ps1": "Puni napredak",
+        "_ps2": "Oznake sekundi kao napredak",
+
+        "_rainbow": "Boje duge",
+        "_xmas": "Božićne boje",
+
+
+
+
+        "_f20": "Podaci polja AOD",
+        "_l20": "Oznaka polja AOD",
+
+
+        "_sbg" : "Isto kao boja pozadine",
+
+        "_m1": "Boja Oznake 1",
+        "_m2": "Boja Oznake 2",
+        
+        "_bgc": "Glavna boja pozadine",
+        "_bgg1": "Boja gradijenta pozadine Početak",
+        "_bgg2": "Boja gradijenta pozadine Sredina",
+        "_bgg3": "Boja gradijenta pozadine Kraj",
+
+        "_cs": "70% Tamnije",
+        "_cpbs" : "Isto kao gornja traka napretka",
+
+        "_stc" : "Isto kao boja teksta",
+        "_slc" : "Isto kao boja oznake",
+
+        "_x4": "Učitaj prethodnu predpodešenost",
+        "_x3": "Učitaj prethodnu temu boja",
+
+        "_rst": "Resetiraj sve postavke",
+        "_tr": "👉 PREČACI DODIROM",
+        "_tc": "🎨 BOJE / POZADINA",
+        "_tt": "🔤 FONTOVI",
+        "_ta": "🖼️ POSTAVKE AOD (Always on Display)",
+        "_to": "💡 OSTALO",
+        "_tx": "➡️ POMACI",
+
+
+        "_t1": "Font vremena",
+        "_t1a": "Font vremena AOD",
+        "_t1s": "Veličina fonta vremena",
+
+
+        "_fo": "Obrubljeno (Ako je dostupno)",
+        "_fk": "Zadrži isto",
+
+        "_pc": "Boja teksta",
+        "_ic": "Boja oznake",      
+
+        "_0f" : "Prikaži napredak polja",
+        "_1f" : "Puno",
+        "_2f" : "Prazno",
+        "_3f" : "Sakrij",
+
+        "_x2": "Učitaj sljedeću temu boja",
+
+        "_aas": "Sekunde uvijek vidljive",
+        "_aod": "Način rada AOD (Always on Display)",
+       
+        "_aodc": "Boja nijanse podataka AOD",
+        "_aodT": "Svjetlina vremena AOD",
+        "_aodD": "Svjetlina podataka AOD (Ako se zaslon ugasi za vrijeme AOD, smanjite ovaj broj. Manji broj = manja potrošnja baterije ali manje svjetlo. Vidi FAQ)",
+        "_aodS": "Pomak AOD (Broj piksela za koje se zaslon nasumično pomiče po minuti kako bi se spriječilo izgaranje)",
+        "ad0": "Isključi zaslon",
+        "ad100": "Puni AOD (Zadano)",
+        "ad101": "Puni AOD, odvojena svjetlina vremena/podataka",
+        
+        "ad1": "Samo Vrijeme",
+        "ad3": "Samo Vrijeme - Pokretno",
+        "ad4": "Vrijeme + polje podataka (Odaberi ispod)",
+        "ad6": "Pokretno Vrijeme + polje podataka"
+    },
+    "menu" : {
+        "_tf": "Font vremena"
+    }
+
+}

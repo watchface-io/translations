@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Időeltolás (X,Y) Alapértelmezett: 20",
+        "_o2": "Mező X-eltolás (Felső 1, Felső 2, Közép B, Közép J, Közép, Alsó B, Alsó J, Kör B, Kör J, Kör Alsó) Alapértelmezett: 20",
+        "_o3": "Mező Y-eltolás Alapértelmezett: 20",
+        "_o4": "Felirat Y-eltolás (Felső 1, Felső 2, Közép, Kör B, Kör J, Kör Alsó) Alapértelmezett: 20",
+        
+        "_t3": "Szöveg betűtípus",
+        "_s1": "Felső 1 Betűméret (Csak átméretezhető betűtípusok)",
+        "_s2": "Felső 2 Betűméret",
+        "_s3": "Bal/Jobb Közép Betűméret",
+        "_s4": "Közép Betűméret",
+        "_s5": "Alsó Bal/Jobb Betűméret",
+        "_s6": "Bal/Jobb Kör Betűméret",
+
+        "_t4": "Alsó Kör Betűtípus",
+        "_s7": "Alsó Kör Betűméret",
+
+        "_70p": "70% Sötétebb",
+        "auto": "Automatikus",
+
+   
+        "_cr0b": "Bal Kör Háttérszín",
+        "_cr00": "Bal Kör Haladás Szín 1",
+        "_cr01": "Bal Kör Haladás Szín 2",
+        "_cr02": "Bal Kör Haladás Szín 3",
+        "_cr03": "Bal Kör Üres szín",
+
+        "_cr1b": "Jobb Kör Háttérszín",
+        "_cr10": "Jobb Kör Haladás Szín 1",
+        "_cr11": "Jobb Kör Haladás Szín 2",
+        "_cr12": "Jobb Kör Haladás Szín 3",
+        "_cr13": "Jobb Kör Üres szín",
+
+        "_cr2b": "Alsó Kör Háttérszín",
+        "_cr20": "Alsó Kör Haladás Szín 1",
+        "_cr21": "Alsó Kör Haladás Szín 2",
+        "_cr22": "Alsó Kör Haladás Szín 3",
+        "_cr23": "Alsó Kör Üres szín",
+
+         "_8b": "20% Átlátszó Fekete",
+
+
+
+        "_dg": "Időátmenet (Ki = Színeket külön rajzol)",
+        "_hc1": "Óra szín Kezdet",
+        "_hc2": "Óra szín Közép",
+        "_hc3": "Óra szín Vég",
+
+
+        "_mc1": "Perc szín Kezdet",
+        "_mc2": "Perc szín Közép",
+        "_mc3": "Perc szín Vég",
+
+
+        "_dv1": "Elválasztó szín Kezdet",
+        "_dv2": "Elválasztó szín Vég",
+
+
+        "_tops": "Felső stílus",
+        "_ts0": "1 mező Vízszintes",
+        "_ts1": "2 mező Vízszintes",
+        "_ts2": "2 mező Függőleges",
+
+        
+        "_c1": "Felső Adatszín",
+        "_c1l": "Felső Feliratszín",
+
+        "_c2": "Felső 2 Adatszín",
+        "_c2l": "Felső 2 Feliratszín",
+
+        "_c3": "Bal Adatszín",
+        "_c4": "Jobb Adatszín",
+
+        "_c5": "Közép Adatszín",
+        "_c5l": "Közép Feliratszín",
+
+        "_c6": "Alsó Bal Adatszín",
+        "_c7": "Alsó Jobb Adatszín",
+
+        "_c10": "Bal Kör Adatszín",
+        "_c10l": "Bal Kör Feliratszín",
+        "_c11": "Jobb Kör Adatszín",
+        "_c11l": "Jobb Kör Feliratszín",
+        "_c12": "Alsó Kör Adatszín",
+        "_c12l": "Alsó Kör Feliratszín",
+
+        "_csc": "Állapotikonok Szín",
+
+        
+    
+
+        "_f1": "1. Felső Adatok",
+        "_l1": "1. Felső Felirat",
+
+        "_f2": "2. Felső 2 Adatok",
+        "_l2": "2. Felső 2 Felirat",
+
+        "_f3": "3. Közép Bal",
+        "_f4": "4. Közép Jobb",
+
+        "_f5": "5. Közép Adatok",
+        "_l5": "5. Közép Felirat",
+       
+        "_f6": "6. Alsó Bal Adatok",
+        "_f7": "6. Alsó Jobb Adatok",
+
+        "_f10": "7. Kör Bal Adatok",
+        "_l10": "7. Kör Bal Felirat",
+        "_p10": "7. Kör Bal Haladás Adatok",
+        "_cs10": "7. Kör Bal Haladás Stílus",
+        "_cg10": "7. Kör Bal Szegmens távolság",
+
+        "_f11": "8. Kör Jobb Adatok",
+        "_l11": "8. Kör Jobb Felirat",
+        "_p11": "8. Kör Jobb Haladás Adatok",
+        "_cs11": "8. Kör Jobb Haladás Stílus",
+        "_cg11": "8. Kör Jobb Szegmens távolság",
+
+        "_f12": "9. Kör Alsó Adatok",
+        "_l12": "9. Kör Alsó Felirat",
+        "_p12": "9. Kör Alsó Haladás Adatok",
+        "_cs12": "9. Kör Alsó Haladás Stílus",
+        "_cg12": "9. Kör Alsó Szegmens távolság",
+
+        "_a1": "Érintési parancsikon Óra",
+        "_a2": "Érintési parancsikon Közép",
+        "_a3": "Érintési parancsikon Perc",
+
+        "_layout": "Elrendezés",
+        "_si": "Állapotikonok megjelenítése (Lásd FAQ)",
+        "_o5": "Állapotikon Pozíciók % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Letiltás: -1, Alapértelmezett: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Háttérkép",
+        "bg0": "Nincs háttérkép",
+        "bg1": "Topo",
+        "bg2": "Hexagonális minta",
+
+
+        "_md1": "Jelölő 1 Adatok",
+        "_md2": "Jelölő 2 Adatok",
+
+
+        "_bd1": "Számlap 5 perces jelölők mérete",
+        "_bd2": "Számlap 1 perces jelölők mérete",
+        "_dc1": "Számlap 5 perces jelölők színe",
+        "_dc2": "Számlap 1 perces jelölők színe",
+
+        "_ps0": "Normál számlap",
+        "_ps1": "Teljes haladás",
+        "_ps2": "Másodperc jelölők haladásként",
+
+        "_rainbow": "Szivárvány színek",
+        "_xmas": "Karácsonyi színek",
+
+
+
+
+        "_f20": "AOD Mező Adatok",
+        "_l20": "AOD Mező Felirat",
+
+
+        "_sbg" : "Megegyezik a háttérszínnel",
+
+        "_m1": "Jelölő 1 Szín",
+        "_m2": "Jelölő 2 Szín",
+        
+        "_bgc": "Háttér Főszín",
+        "_bgg1": "Háttér Átmeneti szín Kezdet",
+        "_bgg2": "Háttér Átmeneti szín Közép",
+        "_bgg3": "Háttér Átmeneti szín Vég",
+
+        "_cs": "70% Sötétebb",
+        "_cpbs" : "Megegyezik a felső haladássávval",
+
+        "_stc" : "Megegyezik a szöveg színével",
+        "_slc" : "Megegyezik a felirat színével",
+
+        "_x4": "Előző előbeállítás betöltése",
+        "_x3": "Előző színtéma betöltése",
+
+        "_rst": "Összes beállítás visszaállítása",
+        "_tr": "👉 ÉRINTÉSI PARANCSIKONOK",
+        "_tc": "🎨 SZÍNEK / HÁTTÉR",
+        "_tt": "🔤 BETŰTÍPUSOK",
+        "_ta": "🖼️ AOD BEÁLLÍTÁSOK (Always on Display)",
+        "_to": "💡 EGYÉB",
+        "_tx": "➡️ ELTOLÁSOK",
+
+
+        "_t1": "Időbetűtípus",
+        "_t1a": "Időbetűtípus AOD",
+        "_t1s": "Időbetűméret",
+
+
+        "_fo": "Körvonalazott (Ha elérhető)",
+        "_fk": "Ugyanaz maradjon",
+
+        "_pc": "Szöveg szín",
+        "_ic": "Felirat szín",      
+
+        "_0f" : "Mező haladás mutatása",
+        "_1f" : "Teli",
+        "_2f" : "Üres",
+        "_3f" : "Elrejtés",
+
+        "_x2": "Következő színtéma betöltése",
+
+        "_aas": "Másodpercek mindig láthatók",
+        "_aod": "AOD Mód (Always on Display)",
+       
+        "_aodc": "AOD Adatok árnyalatszíne",
+        "_aodT": "AOD Idő fényereje",
+        "_aodD": "AOD Adatok fényereje (Ha a képernyő AOD közben kialszik, csökkentse ezt a számot. Kisebb szám = kevesebb akkuhasználat, de kevésbé fényes. Lásd FAQ)",
+        "_aodS": "AOD Eltolás (A képernyő percenként véletlenszerűen eltolódó pixeleinek száma az beégés megelőzésére)",
+        "ad0": "Képernyő kikapcsolása",
+        "ad100": "Teljes AOD (Alapértelmezett)",
+        "ad101": "Teljes AOD, különálló idő/adat fényerő",
+        
+        "ad1": "Csak Idő",
+        "ad3": "Csak Idő - Mozgó",
+        "ad4": "Idő + adatmező (Válasszon lentebb)",
+        "ad6": "Mozgó Idő + adatmező"
+    },
+    "menu" : {
+        "_tf": "Időbetűtípus"
+    }
+
+}

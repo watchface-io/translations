@@ -1,0 +1,31 @@
+Elegant simple analog watch face with extensive customization and a clean, battery-friendly design.
+Choose from 6 hand styles, 100+ data fields, CGM+ support, themes, presets, and detailed personalization options.
+    
+⭐️ Try before you buy! ⭐️
+Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/680ab926-ed29-4f20-8dba-9c243b689e86
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+This watch face is fully optimized for MIPS devices. Colors may look different from most screenshots because many images were taken on an AMOLED device. It includes themes tuned for MIPS displays and supports MIPS gradients. You can browse the built-in MIPS themes here: https://watchface.io/origin/themes#MIPS
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/origin/manual
+* Free version: https://apps.garmin.com/apps/680ab926-ed29-4f20-8dba-9c243b689e86
+* Theme List: https://watchface.io/origin/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+
+⭐️ Configuration ⭐️
+Note: Settings are available in two places:
+* Garmin IQ App (on your phone, go to your device, watch faces, settings): Configure data fields, colors, and general options.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting the watch face, and tapping customize.
+
+⭐️ Datafields ⭐️
+All data fields currently provided by Garmin to third-party developers are supported, along with extras like Glucose Monitor (CGM) support, Open Weather Map (OWM), and integration with other third-party apps.
+You can find the full list of available data fields here: https://watchface.io/docs/datafields . Some data fields, such as training readiness or HRV, are still not available to third-party developers. More details here: https://watchface.io/faq/can-you-add-training-readiness
+
+
+*** If you run into a bug or issue, please use "Contact Developer" instead of the review system. I can usually respond to emails quickly, while reviews may go unseen for several days. ***
+
+
