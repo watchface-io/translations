@@ -1,23 +1,24 @@
-经典复古美学与现代智能手表技术的完美融合。这款表盘将怀旧的LCD风格字体、复古数字元素与现代数据可视化技术、高级定制选项及简约设计理念完美结合，让您同时领略老式电子表的经典韵味与前沿科技的实用功能。
+简约雅致指针式表盘，自定义功能丰富，界面清爽，低功耗省电。
+内置6种指针样式、上百项数据显示，支持CGM+动态血糖监测，内置多款模式颜色，提供精细化个性化设置。
     
 ⭐️免费版vs专业版⭐️
 此表盘免费提供所有基础功能，专业版功能（标注[*]）需要专业版密匙来解锁。
 您可通过以下方式获取专业版：
-1. 已安装免费版用户，购买专业版密匙访问：https://ko-fi.com/s/2dffa075ce 
-2. 直接下载专业版应用：https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
+1. 已安装免费版用户，购买专业版密匙访问：https://ko-fi.com/s/2b15a0cc5a 
+2. 直接下载专业版应用：https://apps.garmin.com/apps/f04909d4-d26a-4cb7-aba3-42f5468a3b52
 
 ⭐️MIP屏幕兼容性（Fenix 7、Enduro、Forerunner 255等）⭐️
 本表盘已针对MIP屏幕深度优化，但购买前请务必试用免费版。宣传图片基于AMOLED屏幕拍摄，在MIP屏幕上显示效果会有差异。
-本表盘提供多款专为MIPS设备优化的模式颜色，并支持MIPS渐变效果。所有内置模式颜色可在此查看: https://watchface.io/legacy/themes#MIPS
+本表盘提供多款专为MIPS设备优化的模式颜色，并支持MIPS渐变效果。所有内置模式颜色可在此查看: https://watchface.io/origin/themes#MIPS
 
 ⭐️资源中心⭐️
 * 常见问题FAQ: https://watchface.io/faq
-* 使用手册: https://watchface.io/legacy/manual
-* 获取专业版密匙: https://ko-fi.com/s/2dffa075ce 或 https://watchface.io/legacy
-* 专业版下载: https://apps.garmin.com/apps/c2cf91b0-3c2f-4c05-bdd7-5198f2e588ff
-* 模式颜色: https://watchface.io/legacy/themes
+* 使用手册: https://watchface.io/origin/manual
+* 获取专业版密匙: https://ko-fi.com/s/2b15a0cc5a 或 https://watchface.io/origin
+* 专业版下载: https://apps.garmin.com/apps/f04909d4-d26a-4cb7-aba3-42f5468a3b52
+* 模式颜色: https://watchface.io/origin/themes
 * 配色指南: https://watchface.io/docs/color-list
-* 栏位数据: https://watchface.io/docs/datafields
+* 表盘数据: https://watchface.io/docs/datafields
 
 ⭐️设置说明⭐️
 请注意设置入口有两个：
@@ -32,5 +33,5 @@ https://watchface.io/faq/can-you-add-training-readiness
 
 ***如遇任何问题或者需要应用程序支持，请选择联系开发者来获得快速邮件回复(不要点击“报告问题")。在评论区撰写评论可能很多天后才能看到，造成回复延迟。 ***
 
-* 更新日志：https://watchface.io/legacy/changelog
+* 更新日志：https://watchface.io/origin/changelog
 
