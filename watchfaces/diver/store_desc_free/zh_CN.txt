@@ -14,7 +14,7 @@
 ⭐️资源中心⭐️
 * 常见问题FAQ: https://watchface.io/faq
 * 使用手册: https://watchface.io/diver/manual
-* 获取专业版密匙: https://ko-fi.com/s/47961ec7db 或r https://watchface.io/diver
+* 获取专业版密匙: https://ko-fi.com/s/47961ec7db 或 https://watchface.io/diver
 * 专业版下载: https://apps.garmin.com/apps/6135cd87-d15f-44fc-a317-23f8127191ec
 * 模式颜色: https://watchface.io/diver/themes
 * 配色指南: https://watchface.io/docs/color-list
