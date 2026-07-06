@@ -15,6 +15,10 @@
         "_ed": "English Day",
         "_f6": "Day Display data",
 
+        "_f7": "Date Number Display",
+        "_f70": "Current date",
+        "_f71": "Seconds (switches back to date in low power)",
+        "_f73": "Seconds (always on)",
 
 
         "_f1": "Top Data",

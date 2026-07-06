@@ -15,6 +15,10 @@
         "_ed": "Tag auf Englisch",
         "_f6": "Tagesanzeige Daten",
 
+        "_f7": "Datumsnummer Anzeige",
+        "_f70": "Aktuelles Datum",
+        "_f71": "Sekunden (wechselt bei niedrigem Energiemodus zurück zum Datum)",
+        "_f73": "Sekunden (immer an)",
 
 
         "_f1": "Obere Daten",

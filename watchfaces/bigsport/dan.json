@@ -15,6 +15,10 @@
         "_ed": "Dag på engelsk",
         "_f6": "Dagsvisning data",
 
+        "_f7": "Datonummervisning",
+        "_f70": "Aktuel dato",
+        "_f71": "Sekunder (skifter tilbage til dato ved lavt strøm)",
+        "_f73": "Sekunder (altid til)",
 
 
         "_f1": "Øverste data",
