@@ -1,0 +1,275 @@
+{
+    "settings": {
+
+        "_o1": "Time Offsets (X,Y) Default: 20",
+        "_o2": "Field X Offsets (Top 1, Top 2, Center L, Center R, Center, Bottom L, Bottom R, Circle L, Circle R, Circle Bottom) Default: 20",
+        "_o3": "Field Y Offsets Default: 20",
+        "_o4": "Label Y Offsets (Top 1, Top 2, Center, Circle L, Circle R, Circle Bottom) Default: 20",
+        
+        "_t3": "Text Font",
+        "_s1": "Top 1 Font Size (Resizeable fonts only)",
+        "_s2": "Top 2 Font Size",
+        "_s3": "Left/Right Center Font Size",
+        "_s4": "Center Font Size",
+        "_s5": "Bottom Left/Right Font Size",
+        "_s6": "Left/Right Circle Font Size",
+
+        "_t4": "Bottom Cirlce Font",
+        "_s7": "Bottom Cirlce Font Size",
+
+        "_70p": "70% Darker",
+        "auto": "Automatic",
+
+   
+        "_cr0b": "Left Circle Background Color",
+        "_cr00": "Left Circle Progress Color 1",
+        "_cr01": "Left Circle Progress Color 2",
+        "_cr02": "Left Circle Progress Color 3",
+        "_cr03": "Left Circle Unfilled Color",
+
+        "_cr1b": "Right Circle Background Color",
+        "_cr10": "Right Circle Progress Color 1",
+        "_cr11": "Right Circle Progress Color 2",
+        "_cr12": "Right Circle Progress Color 3",
+        "_cr13": "Right Circle Unfilled Color",
+
+        "_cr2b": "Bottom Circle Background Color",
+        "_cr20": "Bottom Circle Progress Color 1",
+        "_cr21": "Bottom Circle Progress Color 2",
+        "_cr22": "Bottom Circle Progress Color 3",
+        "_cr23": "Bottom Circle Unfilled Color",
+
+         "_8b": "20% Transparent Black",
+
+         "_oh_r": "🕐 ANALOG HANDS",
+        "_oh_style": "Hand Style",
+        "_oh1": "Hour Hand Base Color",
+        "_oh2": "Hour Hand Middle Color",
+        "_oh3": "Hour Hand Tip Color",
+        "_om1": "Minute Hand Base Color",
+        "_om2": "Minute Hand Middle Color",
+        "_om3": "Minute Hand Tip Color",
+        "_os1": "Second Hand Base Color",
+        "_os2": "Second Hand Middle Color",
+        "_os3": "Second Hand Tip Color",
+
+
+
+        "_dg": "Time Gradient (Off = Draw Colors Separately)",
+        "_hc1": "Hour Color Start",
+        "_hc2": "Hour Color Middle",
+        "_hc3": "Hour Color End",
+
+
+        "_mc1": "Minute Color Start",
+        "_mc2": "Minute Color Middle",
+        "_mc3": "Minute Color End",
+
+
+        "_dv1": "Divider Color Start",
+        "_dv2": "Divider Color End",
+
+
+        "_tops": "Top Style",
+        "_ts0": "1 field Horizontal",
+        "_ts1": "2 fields Horizontal",
+        "_ts2": "2 fields vertical",
+
+        
+        "_c1": "Top Data Color",
+        "_c1l": "Top Label Color",
+
+        "_c2": "Top 2 Data Color",
+        "_c2l": "Top 2 Label Color",
+
+        "_c3": "Left Data Color",
+        "_c4": "Right Data Color",
+
+        "_c5": "Center Data Color",
+        "_c5l": "Center Label Color",
+
+        "_c6": "Bottom Left Data Color",
+        "_c7": "Bottom Right Data Color",
+
+        "_c10": "Left Circle Data Color",
+        "_c10l": "Left Circle Label Color",
+        "_c11": "Right Circle Data Color",
+        "_c11l": "Right Circle Label Color",
+        "_c12": "Bottom Circle Data Color",
+        "_c12l": "Bottom Circle Label Color",
+
+        "_csc": "Status Icons Color",
+
+        
+    
+
+        "_f1": "1. Top Data",
+        "_l1": "1. Top Label",
+
+        "_f2": "2. Top 2 Data",
+        "_l2": "2. Top 2 Label",
+
+        "_f3": "3. Center Left",
+        "_f4": "4. Center Right",
+
+        "_f5": "5. Center Data",
+        "_l5": "5. Center Label",
+       
+        "_f6": "6. Bottom Left Data",
+        "_f7": "6. Bottom Right Data",
+
+        "_f10": "7. Circle Left Data",
+        "_l10": "7. Circle Left Label",
+        "_p10": "7. Circle Left Progress Data",
+        "_cs10": "7. Circle Left Progress Style",
+        "_cg10": "7. Circle Left Segment gap",
+
+        "_f11": "8. Circle Right Data",
+        "_l11": "8. Circle Right Label",
+        "_p11": "8. Circle Right Progress Data",
+        "_cs11": "8. Circle Right Progress Style",
+        "_cg11": "8. Circle Right Segment gap",
+
+        "_f12": "9. Circle Bottom Data",
+        "_l12": "9. Circle Bottom Label",
+        "_p12": "9. Circle Bottom Progress Data",
+        "_cs12": "9. Circle Bottom Progress Style",
+        "_cg12": "9. Circle Bottom Segment gap",
+
+        "_a1": "Touch shortcut Hour",
+        "_a2": "Touch shortcut Center",
+        "_a3": "Touch shortcut Minute",
+
+
+
+
+
+
+
+
+
+
+        "_layout": "Layout",
+        "_si": "Draw Status Icons (See FAQ)",
+        "_o5": "Status Icon Positions % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Disable: -1, Default: 90,34, 90,66, 10,34, 10,66",
+
+       
+
+        
+
+        "_bgi": "Background Image",
+        "bg0": "No Background Image",
+        "bg1": "Topo",
+        "bg2": "Hex Pattern",
+
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+
+        "_bd1": "Dial 5 minute markers size",
+        "_bd2": "Dial 1 minute markers size",
+        "_dc1": "Dial 5 minute markers Color",
+        "_dc2": "Dial 1 minute markers Color",
+
+        "_ps0": "Regular Dial",
+        "_ps1": "Full Progress",
+        "_ps2": "Second marks as Progress",
+
+        "_rainbow": "Rainbow Colors",
+        "_xmas": "Xmas Colors",
+
+
+
+
+        "_f20": "AOD Field Data",
+        "_l20": "AOD Field Label",
+
+
+
+
+
+        "_sbg" : "Same as Background Color",
+
+        "_m1": "Marker 1 Color",
+        "_m2": "Marker 2 Color",
+        
+        "_bgc": "Background Main Color",
+        "_bgg1": "Background Gradient Color Start",
+        "_bgg2": "Background Gradient Color Middle",
+        "_bgg3": "Background Gradient Color End",
+
+        "_cs": "70% Darker",
+        "_cpbs" : "Same as Top Progress Bar",
+
+        "_stc" : "Same as Text Color",
+        "_slc" : "Same as Label Color",
+
+
+
+
+
+
+
+        "_x4": "Load Previous Preset",
+        "_x3": "Load Previous Color Theme",
+
+      
+
+        "_rst": "Reset all settings",
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+
+
+        "_t1": "Time Font",
+        "_t1a": "Time Font AOD",
+        "_t1s": "Time Font Size",
+
+
+
+
+    
+        "_fo": "Outlined (If available)",
+        "_fk": "Keep the same",
+
+
+        "_pc": "Text color",
+        "_ic": "Label color",      
+
+        
+     
+
+        "_0f" : "Show Field Progress",
+        "_1f" : "Full",
+        "_2f" : "Empty",
+        "_3f" : "Hide",
+
+        "_x2": "Load Next Color Theme",
+        
+
+
+        "_aas": "Always on seconds",
+        "_aod": "AOD Mode (Always on Display)",
+       
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness (If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift (Number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        "ad101": "Full AOD, separate time/data brightness",
+        
+        "ad1": "Time Only",
+        "ad3": "Time Only - Moving",
+        "ad4": "Time + data field (Select Below)",
+        "ad6": "Time Moving + data field"
+    },
+    "menu" : {
+        "_tf": "Time Font"
+    }
+
+}

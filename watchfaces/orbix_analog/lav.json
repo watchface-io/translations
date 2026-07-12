@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Laika nobīde (X,Y) Noklusējums: 20",
+        "_o2": "Lauka X nobīde (Augšā 1, Augšā 2, Centrs K, Centrs L, Centrs, Apakšā K, Apakšā L, Aplis K, Aplis L, Aplis Apakšā) Noklusējums: 20",
+        "_o3": "Lauka Y nobīde Noklusējums: 20",
+        "_o4": "Etiķetes Y nobīde (Augšā 1, Augšā 2, Centrs, Aplis K, Aplis L, Aplis Apakšā) Noklusējums: 20",
+        
+        "_t3": "Teksta fonts",
+        "_s1": "Augšā 1 Fonta izmērs (Tikai mērogojami fonti)",
+        "_s2": "Augšā 2 Fonta izmērs",
+        "_s3": "Kreisais/Labais Centrs Fonta izmērs",
+        "_s4": "Centrs Fonta izmērs",
+        "_s5": "Apakšā Kreisais/Labais Fonta izmērs",
+        "_s6": "Kreisais/Labais Aplis Fonta izmērs",
+
+        "_t4": "Apakšējā Apļa Fonts",
+        "_s7": "Apakšējā Apļa Fonta izmērs",
+
+        "_70p": "70% Tumšāks",
+        "auto": "Automātisks",
+
+   
+        "_cr0b": "Kreisā Apļa Fona krāsa",
+        "_cr00": "Kreisā Apļa Progresa krāsa 1",
+        "_cr01": "Kreisā Apļa Progresa krāsa 2",
+        "_cr02": "Kreisā Apļa Progresa krāsa 3",
+        "_cr03": "Kreisā Apļa Neaizpildītā krāsa",
+
+        "_cr1b": "Labā Apļa Fona krāsa",
+        "_cr10": "Labā Apļa Progresa krāsa 1",
+        "_cr11": "Labā Apļa Progresa krāsa 2",
+        "_cr12": "Labā Apļa Progresa krāsa 3",
+        "_cr13": "Labā Apļa Neaizpildītā krāsa",
+
+        "_cr2b": "Apakšējā Apļa Fona krāsa",
+        "_cr20": "Apakšējā Apļa Progresa krāsa 1",
+        "_cr21": "Apakšējā Apļa Progresa krāsa 2",
+        "_cr22": "Apakšējā Apļa Progresa krāsa 3",
+        "_cr23": "Apakšējā Apļa Neaizpildītā krāsa",
+
+         "_8b": "20% Caurspīdīgs Melns",
+
+
+
+        "_dg": "Laika gradients (Izslēgts = Zīmē krāsas atsevišķi)",
+        "_hc1": "Stundu krāsa Sākums",
+        "_hc2": "Stundu krāsa Vidus",
+        "_hc3": "Stundu krāsa Beigas",
+
+
+        "_mc1": "Minūšu krāsa Sākums",
+        "_mc2": "Minūšu krāsa Vidus",
+        "_mc3": "Minūšu krāsa Beigas",
+
+
+        "_dv1": "Dalītāja krāsa Sākums",
+        "_dv2": "Dalītāja krāsa Beigas",
+
+
+        "_tops": "Augšējais stils",
+        "_ts0": "1 lauks Horizontāls",
+        "_ts1": "2 lauki Horizontāls",
+        "_ts2": "2 lauki Vertikāls",
+
+        
+        "_c1": "Augšējā Datu krāsa",
+        "_c1l": "Augšējā Etiķetes krāsa",
+
+        "_c2": "Augšā 2 Datu krāsa",
+        "_c2l": "Augšā 2 Etiķetes krāsa",
+
+        "_c3": "Kreisā Datu krāsa",
+        "_c4": "Labā Datu krāsa",
+
+        "_c5": "Centra Datu krāsa",
+        "_c5l": "Centra Etiķetes krāsa",
+
+        "_c6": "Apakšā Kreisā Datu krāsa",
+        "_c7": "Apakšā Labā Datu krāsa",
+
+        "_c10": "Kreisā Apļa Datu krāsa",
+        "_c10l": "Kreisā Apļa Etiķetes krāsa",
+        "_c11": "Labā Apļa Datu krāsa",
+        "_c11l": "Labā Apļa Etiķetes krāsa",
+        "_c12": "Apakšējā Apļa Datu krāsa",
+        "_c12l": "Apakšējā Apļa Etiķetes krāsa",
+
+        "_csc": "Statusa ikonu krāsa",
+
+        
+    
+
+        "_f1": "1. Augšējie Dati",
+        "_l1": "1. Augšējā Etiķete",
+
+        "_f2": "2. Augšā 2 Dati",
+        "_l2": "2. Augšā 2 Etiķete",
+
+        "_f3": "3. Centrs Kreisais",
+        "_f4": "4. Centrs Labais",
+
+        "_f5": "5. Centra Dati",
+        "_l5": "5. Centra Etiķete",
+       
+        "_f6": "6. Apakšā Kreisā Dati",
+        "_f7": "6. Apakšā Labā Dati",
+
+        "_f10": "7. Aplis Kreisais Dati",
+        "_l10": "7. Aplis Kreisais Etiķete",
+        "_p10": "7. Aplis Kreisais Progresa Dati",
+        "_cs10": "7. Aplis Kreisais Progresa Stils",
+        "_cg10": "7. Aplis Kreisais Segmenta atstarpe",
+
+        "_f11": "8. Aplis Labais Dati",
+        "_l11": "8. Aplis Labais Etiķete",
+        "_p11": "8. Aplis Labais Progresa Dati",
+        "_cs11": "8. Aplis Labais Progresa Stils",
+        "_cg11": "8. Aplis Labais Segmenta atstarpe",
+
+        "_f12": "9. Aplis Apakšā Dati",
+        "_l12": "9. Aplis Apakšā Etiķete",
+        "_p12": "9. Aplis Apakšā Progresa Dati",
+        "_cs12": "9. Aplis Apakšā Progresa Stils",
+        "_cg12": "9. Aplis Apakšā Segmenta atstarpe",
+
+        "_a1": "Skāriena īsceļš Stunda",
+        "_a2": "Skāriena īsceļš Centrs",
+        "_a3": "Skāriena īsceļš Minūte",
+
+        "_layout": "Izkārtojums",
+        "_si": "Rādīt statusa ikonas (Skatīt FAQ)",
+        "_o5": "Statusa ikonu pozīcijas % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Atspējot: -1, Noklusējums: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Fona attēls",
+        "bg0": "Nav fona attēla",
+        "bg1": "Topo",
+        "bg2": "Sešstūra raksts",
+
+
+        "_md1": "Atzīmes 1 Dati",
+        "_md2": "Atzīmes 2 Dati",
+
+
+        "_bd1": "Ciferblāta 5 minūšu atzīmju izmērs",
+        "_bd2": "Ciferblāta 1 minūtes atzīmju izmērs",
+        "_dc1": "Ciferblāta 5 minūšu atzīmju krāsa",
+        "_dc2": "Ciferblāta 1 minūtes atzīmju krāsa",
+
+        "_ps0": "Parasts ciferblāts",
+        "_ps1": "Pilns progress",
+        "_ps2": "Sekunžu atzīmes kā progress",
+
+        "_rainbow": "Varavīksnes krāsas",
+        "_xmas": "Ziemassvētku krāsas",
+
+
+
+
+        "_f20": "AOD Lauka Dati",
+        "_l20": "AOD Lauka Etiķete",
+
+
+        "_sbg" : "Tāda pati kā fona krāsa",
+
+        "_m1": "Atzīmes 1 Krāsa",
+        "_m2": "Atzīmes 2 Krāsa",
+        
+        "_bgc": "Fona Galvenā krāsa",
+        "_bgg1": "Fona Gradienta krāsa Sākums",
+        "_bgg2": "Fona Gradienta krāsa Vidus",
+        "_bgg3": "Fona Gradienta krāsa Beigas",
+
+        "_cs": "70% Tumšāks",
+        "_cpbs" : "Tāda pati kā augšējā progresa josla",
+
+        "_stc" : "Tāda pati kā teksta krāsa",
+        "_slc" : "Tāda pati kā etiķetes krāsa",
+
+        "_x4": "Ielādēt iepriekšējo sākotnējo iestatījumu",
+        "_x3": "Ielādēt iepriekšējo krāsu tēmu",
+
+        "_rst": "Atiestatīt visus iestatījumus",
+        "_tr": "👉 SKĀRIENA ĪSCEĻI",
+        "_tc": "🎨 KRĀSAS / FONS",
+        "_tt": "🔤 FONTI",
+        "_ta": "🖼️ AOD IESTATĪJUMI (Always on Display)",
+        "_to": "💡 CITS",
+        "_tx": "➡️ NOBĪDES",
+
+
+        "_t1": "Laika fonts",
+        "_t1a": "Laika fonts AOD",
+        "_t1s": "Laika fonta izmērs",
+
+
+        "_fo": "Kontūrots (Ja pieejams)",
+        "_fk": "Saglabāt tādu pašu",
+
+        "_pc": "Teksta krāsa",
+        "_ic": "Etiķetes krāsa",      
+
+        "_0f" : "Rādīt lauka progresu",
+        "_1f" : "Pilns",
+        "_2f" : "Tukšs",
+        "_3f" : "Paslēpt",
+
+        "_x2": "Ielādēt nākamo krāsu tēmu",
+
+        "_aas": "Sekundes vienmēr redzamas",
+        "_aod": "AOD Režīms (Always on Display)",
+       
+        "_aodc": "AOD Datu toņa krāsa",
+        "_aodT": "AOD Laika spilgtums",
+        "_aodD": "AOD Datu spilgtums (Ja ekrāns izslēdzas AOD laikā, samaziniet šo skaitli. Mazāks skaitlis = mazāks akumulatora patēriņš, bet mazāk spilgts. Skatīt FAQ)",
+        "_aodS": "AOD Nobīde (Pikseļu skaits, par kuru ekrāns nejauši nobīdās minūtē, lai novērstu apdegumu)",
+        "ad0": "Izslēgt ekrānu",
+        "ad100": "Pilns AOD (Noklusējums)",
+        "ad101": "Pilns AOD, atsevišķs laika/datu spilgtums",
+        
+        "ad1": "Tikai Laiks",
+        "ad3": "Tikai Laiks - Kustīgs",
+        "ad4": "Laiks + datu lauks (Atlasīt zemāk)",
+        "ad6": "Kustīgs Laiks + datu lauks"
+    },
+    "menu" : {
+        "_tf": "Laika fonts"
+    }
+
+}

@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Markørdata 1",
+        "_md2": "Markørdata 2",
+
+        "_f1": "Øvre feltdata",
+        "_l1": "Øvre feltetikett",
+
+        "_f2": "Venstre feltdata",
+        "_l2": "Venstre feltetikett",
+
+        "_f3": "Høyre feltdata",
+        "_l3": "Høyre feltetikett",
+
+        "_f4": "Nedre feltdata",
+        "_l4": "Nedre feltetikett",
+
+        "_f5": "Øvre fremdriftsdata",
+        "_p5": "Øvre fremdriftsstil",
+
+        "_f6": "Nedre fremdriftsdata",
+        "_p6": "Nedre fremdriftsstil",
+
+        "_f20": "AOD feltdata",
+        "_l20": "AOD feltetikett",
+
+        "_hc1": "Timefarge",
+        "_hc2": "Timefarge 2",
+        "_hc3": "Timefarge 3 (indre)",
+        "_hc4": "Timefarge 4 (indre)",
+
+        "_mc1": "Minuttfarge 1 (omriss)",
+        "_mc2": "Minuttfarge 2 (omriss)",
+
+        "_mc3": "Minuttfarge 3 (indre)",
+        "_mc4": "Minuttfarge 4 (indre)",
+
+        "_sbg" : "Samme som bakgrunnsfarge",
+
+        "_m1": "Markørfarge 1",
+        "_m2": "Markørfarge 2",
+        
+        "_cp1": "Øvre fremdriftsfarge",
+        "_c21": "Øvre fremdriftsfarge 2",
+        "_cu1": "Øvre fremdrift ufylt farge",
+
+        "_cp2": "Nedre fremdriftsfarge",
+        "_c22": "Nedre fremdriftsfarge 2",
+        "_cu2": "Nedre fremdrift ufylt farge",
+
+        "_bgc": "Bakgrunnsfarge",
+        "_bgl": "Bakgrunnslinjer farge",
+        "_cs": "70% mørkere",
+        "_cpbs" : "Samme som venstre øvre fremdriftslinje",
+
+        "_stc" : "Samme som tekstfarge",
+        "_slc" : "Samme som etikettfarge",
+
+
+        "_c1": "Øvre feltdata farge",
+        "_c1l": "Øvre feltetikett farge",
+
+        "_c2": "Venstre feltdata farge",
+        "_c2l": "Venstre feltetikett farge",
+
+        "_c3": "Høyre feltdata farge",
+        "_c3l": "Høyre feltetikett farge",
+
+        "_c4": "Nedre feltdata farge",
+        "_c4l": "Nedre feltetikett farge",
+
+        "_c5": "Øvre fremdriftsdata farge",
+        "_c5l": "Øvre fremdriftsetikett farge",
+
+        "_c6": "Nedre fremdriftsdata farge",
+        "_c6l": "Nedre fremdriftsetikett farge",
+        "_x4": "Last forrige forhåndsinnstilling",
+        "_x3": "Last forrige fargetema",
+
+        "_rst": "Tilbakestill alle innstillinger",
+        "_tr": "👉 BERØRINGSSNARVEI",
+        "_tc": "🎨 FARGER / BAKGRUNN",
+        "_tt": "🔤 SKRIFTER",
+        "_ta": "🖼️ AOD INNSTILLINGER (Alltid på-skjerm)",
+        "_to": "💡 ANNET",
+        "_tx": "➡️ FORSKYVNINGER",
+
+        "_o1": "Tidsforskyvninger (X, Y, X-avstand, Y-avstand, Y minutter) Standard: 20",
+        "_o2": "Felt X-forskyvninger (Øvre, Venstre, Høyre, Nedre, Fremdrift 1, Fremdrift 2) Standard: 20",
+        "_o3": "Felt Y-forskyvninger (Øvre, Venstre tekst, Høyre tekst, Nedre, Fremdrift 1, Fremdrift 2, Venstre etikett, Høyre etikett) Standard: 20",
+        "_bdb": "Tegn tallbakgrunn (skarpere minutter, timer ikke synlige bak)",
+
+        "_t1": "Timeskrift",
+        "_t1a": "Timeskrift AOD",
+        "_t1s": "Timeskriftstørrelse",
+        "_t2": "Minuttskrift",
+        "_t2a": "Minuttskrift AOD",
+        "_t2s": "Minuttskriftstørrelse",
+
+        "_t3": "Tekstskrift",
+        "_s1": "Øvre tekst skriftstørrelse",
+        "_s2": "Fremdriftstekst skriftstørrelse",
+        "_s3": "Venstre/Høyre tekst skriftstørrelse",
+        "_s4": "Nedre tekst skriftstørrelse",
+    
+        "_fo": "Omrisset (hvis tilgjengelig)",
+        "_fk": "Behold samme",
+        "_fks": "Behold samme, inkludert indre",
+
+
+        "_pc": "Tekstfarge",
+        "_ic": "Etikettfarge",      
+
+        "_gq": "Gradientkvalitet",
+        "_ng": "Ingen gradient",
+
+        "_0f" : "Vis feltfremdrift",
+        "_1f" : "Full",
+        "_2f" : "Tom",
+        "_3f" : "Skjul",
+
+        "_x2": "Last neste fargetema",
+        
+        "_a1": "Berøringssnarvei Time venstre",
+        "_a2": "Berøringssnarvei Time høyre",
+        "_a3": "Berøringssnarvei Minutt venstre",
+        "_a4": "Berøringssnarvei Minutt høyre",
+
+        "_aas": "Alltid på sekunder",
+        "_aod": "AOD-modus (Alltid på-skjerm)",
+        "_aodct": "AOD tid tintfarge",
+        "_aodc": "AOD data tintfarge",
+        "_aodT": "AOD tid lysstyrke",
+        "_aodD": "AOD data lysstyrke. Hvis skjermen slår seg av under AOD, gjør dette tallet lavere. Lavere tall = mindre batteribruk men mindre lyst. Se FAQ)",
+        "_aodS": "AOD-skifte - antall piksler skjermen tilfeldig skifter per minutt for å forhindre innbrenning)",
+        "ad0": "Slå av skjermen",
+        "ad100": "Full AOD (Standard)",
+        
+        "ad1": "Kun tid",
+        "ad3": "Kun tid - Bevegelig",
+        "ad4": "Tid + datafelt (Velg nedenfor)",
+        "ad6": "Bevegelig tid + datafelt"
+    }
+}

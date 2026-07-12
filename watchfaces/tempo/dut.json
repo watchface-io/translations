@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Markering 1 gegevens",
+        "_md2": "Markering 2 gegevens",
+
+        "_f1": "Bovenste veld gegevens",
+        "_l1": "Bovenste veld label",
+
+        "_f2": "Linker veld gegevens",
+        "_l2": "Linker veld label",
+
+        "_f3": "Rechter veld gegevens",
+        "_l3": "Rechter veld label",
+
+        "_f4": "Onderste veld gegevens",
+        "_l4": "Onderste veld label",
+
+        "_f5": "Bovenste voortgang gegevens",
+        "_p5": "Bovenste voortgang stijl",
+
+        "_f6": "Onderste voortgang gegevens",
+        "_p6": "Onderste voortgang stijl",
+
+        "_f20": "AOD veld gegevens",
+        "_l20": "AOD veld label",
+
+        "_hc1": "Uur kleur",
+        "_hc2": "Uur kleur 2",
+        "_hc3": "Uur kleur 3 (binnen)",
+        "_hc4": "Uur kleur 4 (binnen)",
+
+        "_mc1": "Minuut kleur 1 (omtrek)",
+        "_mc2": "Minuut kleur 2 (omtrek)",
+
+        "_mc3": "Minuut kleur 3 (binnen)",
+        "_mc4": "Minuut kleur 4 (binnen)",
+
+        "_sbg" : "Zelfde als achtergrondkleur",
+
+        "_m1": "Markering 1 kleur",
+        "_m2": "Markering 2 kleur",
+        
+        "_cp1": "Bovenste voortgang kleur",
+        "_c21": "Bovenste voortgang kleur 2",
+        "_cu1": "Bovenste voortgang kleur ongevuld",
+
+        "_cp2": "Onderste voortgang kleur",
+        "_c22": "Onderste voortgang kleur 2",
+        "_cu2": "Onderste voortgang kleur ongevuld",
+
+        "_bgc": "Achtergrondkleur",
+        "_bgl": "Achtergrondlijnen kleur",
+        "_cs": "70% donkerder",
+        "_cpbs" : "Zelfde als linker bovenste voortgangsbalk",
+
+        "_stc" : "Zelfde als tekstkleur",
+        "_slc" : "Zelfde als labelkleur",
+
+
+        "_c1": "Bovenste veld gegevenskleur",
+        "_c1l": "Bovenste veld labelkleur",
+
+        "_c2": "Linker veld gegevenskleur",
+        "_c2l": "Linker veld labelkleur",
+
+        "_c3": "Rechter veld gegevenskleur",
+        "_c3l": "Rechter veld labelkleur",
+
+        "_c4": "Onderste veld gegevenskleur",
+        "_c4l": "Onderste veld labelkleur",
+
+        "_c5": "Bovenste voortgang gegevenskleur",
+        "_c5l": "Bovenste voortgang labelkleur",
+
+        "_c6": "Onderste voortgang gegevenskleur",
+        "_c6l": "Onderste voortgang labelkleur",
+        "_x4": "Vorige voorinstelling laden",
+        "_x3": "Vorig kleurenthema laden",
+
+        "_rst": "Alle instellingen resetten",
+        "_tr": "👉 AANRAAKSNELKOPPELINGEN",
+        "_tc": "🎨 KLEUREN / ACHTERGROND",
+        "_tt": "🔤 LETTERTYPEN",
+        "_ta": "🖼️ AOD INSTELLINGEN (Always on Display)",
+        "_to": "💡 OVERIG",
+        "_tx": "➡️ VERSCHUIVINGEN",
+
+        "_o1": "Tijd verschuivingen (X, Y, X afstand, Y afstand, Y minuten) Standaard: 20",
+        "_o2": "Veld X verschuivingen (boven, links, rechts, onder, voortgang 1, voortgang 2) Standaard: 20",
+        "_o3": "Veld Y verschuivingen (boven, linker tekst, rechter tekst, onder, voortgang 1, voortgang 2, linker label, rechter label) Standaard: 20",
+        "_bdb": "Nummerachtergrond tekenen (scherpere minuten, uren niet zichtbaar erachter)",
+
+        "_t1": "Uur lettertype",
+        "_t1a": "Uur lettertype AOD",
+        "_t1s": "Uur lettergrootte",
+        "_t2": "Minuut lettertype",
+        "_t2a": "Minuut lettertype AOD",
+        "_t2s": "Minuut lettergrootte",
+
+        "_t3": "Tekst lettertype",
+        "_s1": "Bovenste tekst lettergrootte",
+        "_s2": "Voortgang tekst lettergrootte",
+        "_s3": "Links/rechts tekst lettergrootte",
+        "_s4": "Onderste tekst lettergrootte",
+    
+        "_fo": "Omlijnd (indien beschikbaar)",
+        "_fk": "Hetzelfde houden",
+        "_fks": "Hetzelfde houden, inclusief binnen",
+
+
+        "_pc": "Tekstkleur",
+        "_ic": "Labelkleur",      
+
+        "_gq": "Verloop kwaliteit",
+        "_ng": "Geen verloop",
+
+        "_0f" : "Veldvoortgang tonen",
+        "_1f" : "Vol",
+        "_2f" : "Leeg",
+        "_3f" : "Verbergen",
+
+        "_x2": "Volgend kleurenthema laden",
+        
+        "_a1": "Aanraaksnelkoppeling uur links",
+        "_a2": "Aanraaksnelkoppeling uur rechts",
+        "_a3": "Aanraaksnelkoppeling minuut links",
+        "_a4": "Aanraaksnelkoppeling minuut rechts",
+
+        "_aas": "Altijd aan seconden",
+        "_aod": "AOD modus (Always on Display)",
+        "_aodct": "AOD tijd tint kleur",
+        "_aodc": "AOD gegevens tint kleur",
+        "_aodT": "AOD tijd helderheid",
+        "_aodD": "AOD gegevens helderheid. Als het scherm uitgaat tijdens AOD, maak dit nummer lager. Lager nummer = minder batterijverbruik maar minder helder. Zie FAQ)",
+        "_aodS": "AOD verschuiving - aantal pixels dat het scherm willekeurig per minuut verschuift om inbranden te voorkomen)",
+        "ad0": "Scherm UIT",
+        "ad100": "Volledige AOD (standaard)",
+        
+        "ad1": "Alleen tijd",
+        "ad3": "Alleen tijd - bewegend",
+        "ad4": "Tijd + gegevensveld (selecteer hieronder)",
+        "ad6": "Bewegende tijd + gegevensveld"
+    }
+}

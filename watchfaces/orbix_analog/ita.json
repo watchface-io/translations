@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Offset orario (X,Y) Predefinito: 20",
+        "_o2": "Offset X campo (Alto 1, Alto 2, Centro S, Centro D, Centro, Basso S, Basso D, Cerchio S, Cerchio D, Cerchio Basso) Predefinito: 20",
+        "_o3": "Offset Y campo Predefinito: 20",
+        "_o4": "Offset Y etichetta (Alto 1, Alto 2, Centro, Cerchio S, Cerchio D, Cerchio Basso) Predefinito: 20",
+        
+        "_t3": "Carattere testo",
+        "_s1": "Dimensione carattere Alto 1 (Solo caratteri ridimensionabili)",
+        "_s2": "Dimensione carattere Alto 2",
+        "_s3": "Dimensione carattere Centro Sinistra/Destra",
+        "_s4": "Dimensione carattere Centro",
+        "_s5": "Dimensione carattere Basso Sinistra/Destra",
+        "_s6": "Dimensione carattere Cerchio Sinistra/Destra",
+
+        "_t4": "Carattere Cerchio Basso",
+        "_s7": "Dimensione carattere Cerchio Basso",
+
+        "_70p": "70% Più scuro",
+        "auto": "Automatico",
+
+   
+        "_cr0b": "Colore sfondo Cerchio sinistro",
+        "_cr00": "Colore progresso Cerchio sinistro 1",
+        "_cr01": "Colore progresso Cerchio sinistro 2",
+        "_cr02": "Colore progresso Cerchio sinistro 3",
+        "_cr03": "Colore non riempito Cerchio sinistro",
+
+        "_cr1b": "Colore sfondo Cerchio destro",
+        "_cr10": "Colore progresso Cerchio destro 1",
+        "_cr11": "Colore progresso Cerchio destro 2",
+        "_cr12": "Colore progresso Cerchio destro 3",
+        "_cr13": "Colore non riempito Cerchio destro",
+
+        "_cr2b": "Colore sfondo Cerchio basso",
+        "_cr20": "Colore progresso Cerchio basso 1",
+        "_cr21": "Colore progresso Cerchio basso 2",
+        "_cr22": "Colore progresso Cerchio basso 3",
+        "_cr23": "Colore non riempito Cerchio basso",
+
+         "_8b": "Nero trasparente 20%",
+
+
+
+        "_dg": "Gradiente orario (Disatt. = Disegna colori separatamente)",
+        "_hc1": "Colore ore Inizio",
+        "_hc2": "Colore ore Metà",
+        "_hc3": "Colore ore Fine",
+
+
+        "_mc1": "Colore minuti Inizio",
+        "_mc2": "Colore minuti Metà",
+        "_mc3": "Colore minuti Fine",
+
+
+        "_dv1": "Colore divisore Inizio",
+        "_dv2": "Colore divisore Fine",
+
+
+        "_tops": "Stile superiore",
+        "_ts0": "1 campo Orizzontale",
+        "_ts1": "2 campi Orizzontale",
+        "_ts2": "2 campi Verticale",
+
+        
+        "_c1": "Colore dati Alto",
+        "_c1l": "Colore etichetta Alto",
+
+        "_c2": "Colore dati Alto 2",
+        "_c2l": "Colore etichetta Alto 2",
+
+        "_c3": "Colore dati Sinistra",
+        "_c4": "Colore dati Destra",
+
+        "_c5": "Colore dati Centro",
+        "_c5l": "Colore etichetta Centro",
+
+        "_c6": "Colore dati Basso Sinistra",
+        "_c7": "Colore dati Basso Destra",
+
+        "_c10": "Colore dati Cerchio sinistro",
+        "_c10l": "Colore etichetta Cerchio sinistro",
+        "_c11": "Colore dati Cerchio destro",
+        "_c11l": "Colore etichetta Cerchio destro",
+        "_c12": "Colore dati Cerchio basso",
+        "_c12l": "Colore etichetta Cerchio basso",
+
+        "_csc": "Colore icone stato",
+
+        
+    
+
+        "_f1": "1. Dati Alto",
+        "_l1": "1. Etichetta Alto",
+
+        "_f2": "2. Dati Alto 2",
+        "_l2": "2. Etichetta Alto 2",
+
+        "_f3": "3. Centro Sinistra",
+        "_f4": "4. Centro Destra",
+
+        "_f5": "5. Dati Centro",
+        "_l5": "5. Etichetta Centro",
+       
+        "_f6": "6. Dati Basso Sinistra",
+        "_f7": "6. Dati Basso Destra",
+
+        "_f10": "7. Dati Cerchio Sinistra",
+        "_l10": "7. Etichetta Cerchio Sinistra",
+        "_p10": "7. Dati Progresso Cerchio Sinistra",
+        "_cs10": "7. Stile Progresso Cerchio Sinistra",
+        "_cg10": "7. Gap segmento Cerchio Sinistra",
+
+        "_f11": "8. Dati Cerchio Destra",
+        "_l11": "8. Etichetta Cerchio Destra",
+        "_p11": "8. Dati Progresso Cerchio Destra",
+        "_cs11": "8. Stile Progresso Cerchio Destra",
+        "_cg11": "8. Gap segmento Cerchio Destra",
+
+        "_f12": "9. Dati Cerchio Basso",
+        "_l12": "9. Etichetta Cerchio Basso",
+        "_p12": "9. Dati Progresso Cerchio Basso",
+        "_cs12": "9. Stile Progresso Cerchio Basso",
+        "_cg12": "9. Gap segmento Cerchio Basso",
+
+        "_a1": "Scorciatoia tocco Ore",
+        "_a2": "Scorciatoia tocco Centro",
+        "_a3": "Scorciatoia tocco Minuti",
+
+        "_layout": "Layout",
+        "_si": "Mostra icone stato (Vedi FAQ)",
+        "_o5": "Posizioni icone stato % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Disabilita: -1, Predefinito: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Immagine di sfondo",
+        "bg0": "Nessuna immagine di sfondo",
+        "bg1": "Topo",
+        "bg2": "Motivo esagonale",
+
+
+        "_md1": "Dati Indicatore 1",
+        "_md2": "Dati Indicatore 2",
+
+
+        "_bd1": "Dimensione indicatori 5 minuti quadrante",
+        "_bd2": "Dimensione indicatori 1 minuto quadrante",
+        "_dc1": "Colore indicatori 5 minuti quadrante",
+        "_dc2": "Colore indicatori 1 minuto quadrante",
+
+        "_ps0": "Quadrante normale",
+        "_ps1": "Progresso completo",
+        "_ps2": "Indicatori secondi come progresso",
+
+        "_rainbow": "Colori arcobaleno",
+        "_xmas": "Colori natalizi",
+
+
+
+
+        "_f20": "Dati campo AOD",
+        "_l20": "Etichetta campo AOD",
+
+
+        "_sbg" : "Uguale al colore di sfondo",
+
+        "_m1": "Colore Indicatore 1",
+        "_m2": "Colore Indicatore 2",
+        
+        "_bgc": "Colore principale sfondo",
+        "_bgg1": "Colore gradiente sfondo Inizio",
+        "_bgg2": "Colore gradiente sfondo Metà",
+        "_bgg3": "Colore gradiente sfondo Fine",
+
+        "_cs": "70% Più scuro",
+        "_cpbs" : "Uguale alla barra di avanzamento superiore",
+
+        "_stc" : "Uguale al colore del testo",
+        "_slc" : "Uguale al colore dell'etichetta",
+
+        "_x4": "Carica preset precedente",
+        "_x3": "Carica tema colori precedente",
+
+        "_rst": "Ripristina tutte le impostazioni",
+        "_tr": "👉 SCORCIATOIE TOCCO",
+        "_tc": "🎨 COLORI / SFONDO",
+        "_tt": "🔤 CARATTERI",
+        "_ta": "🖼️ IMPOSTAZIONI AOD (Always on Display)",
+        "_to": "💡 ALTRO",
+        "_tx": "➡️ OFFSET",
+
+
+        "_t1": "Carattere ora",
+        "_t1a": "Carattere ora AOD",
+        "_t1s": "Dimensione carattere ora",
+
+
+        "_fo": "Contornato (Se disponibile)",
+        "_fk": "Mantieni lo stesso",
+
+        "_pc": "Colore testo",
+        "_ic": "Colore etichetta",      
+
+        "_0f" : "Mostra progresso campo",
+        "_1f" : "Pieno",
+        "_2f" : "Vuoto",
+        "_3f" : "Nascondi",
+
+        "_x2": "Carica tema colori successivo",
+
+        "_aas": "Secondi sempre visibili",
+        "_aod": "Modalità AOD (Always on Display)",
+       
+        "_aodc": "Colore tinta dati AOD",
+        "_aodT": "Luminosità ora AOD",
+        "_aodD": "Luminosità dati AOD (Se lo schermo si spegne durante AOD, abbassare questo numero. Numero più basso = meno consumo batteria ma meno luminoso. Vedi FAQ)",
+        "_aodS": "Spostamento AOD (Numero di pixel di cui lo schermo si sposta casualmente al minuto per prevenire il burn-in)",
+        "ad0": "Spegni schermo",
+        "ad100": "AOD completo (Predefinito)",
+        "ad101": "AOD completo, luminosità ora/dati separata",
+        
+        "ad1": "Solo Ora",
+        "ad3": "Solo Ora - In movimento",
+        "ad4": "Ora + campo dati (Seleziona sotto)",
+        "ad6": "Ora In movimento + campo dati"
+    },
+    "menu" : {
+        "_tf": "Carattere ora"
+    }
+
+}

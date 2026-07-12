@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Markierung 1 Daten",
+        "_md2": "Markierung 2 Daten",
+
+        "_f1": "Oberes Feld Daten",
+        "_l1": "Oberes Feld Bezeichnung",
+
+        "_f2": "Linkes Feld Daten",
+        "_l2": "Linkes Feld Bezeichnung",
+
+        "_f3": "Rechtes Feld Daten",
+        "_l3": "Rechtes Feld Bezeichnung",
+
+        "_f4": "Unteres Feld Daten",
+        "_l4": "Unteres Feld Bezeichnung",
+
+        "_f5": "Oberer Fortschritt Daten",
+        "_p5": "Oberer Fortschritt Stil",
+
+        "_f6": "Unterer Fortschritt Daten",
+        "_p6": "Unterer Fortschritt Stil",
+
+        "_f20": "AOD Feld Daten",
+        "_l20": "AOD Feld Bezeichnung",
+
+        "_hc1": "Stundenfarbe",
+        "_hc2": "Stundenfarbe 2",
+        "_hc3": "Stundenfarbe 3 (innen)",
+        "_hc4": "Stundenfarbe 4 (innen)",
+
+        "_mc1": "Minutenfarbe 1 (Umriss)",
+        "_mc2": "Minutenfarbe 2 (Umriss)",
+
+        "_mc3": "Minutenfarbe 3 (innen)",
+        "_mc4": "Minutenfarbe 4 (innen)",
+
+        "_sbg" : "Gleich wie Hintergrundfarbe",
+
+        "_m1": "Markierung 1 Farbe",
+        "_m2": "Markierung 2 Farbe",
+        
+        "_cp1": "Oberer Fortschritt Farbe",
+        "_c21": "Oberer Fortschritt Farbe 2",
+        "_cu1": "Oberer Fortschritt Farbe ungefüllt",
+
+        "_cp2": "Unterer Fortschritt Farbe",
+        "_c22": "Unterer Fortschritt Farbe 2",
+        "_cu2": "Unterer Fortschritt Farbe ungefüllt",
+
+        "_bgc": "Hintergrundfarbe",
+        "_bgl": "Hintergrundlinien Farbe",
+        "_cs": "70% dunkler",
+        "_cpbs" : "Gleich wie linker oberer Fortschrittsbalken",
+
+        "_stc" : "Gleich wie Textfarbe",
+        "_slc" : "Gleich wie Bezeichnungsfarbe",
+
+
+        "_c1": "Oberes Feld Datenfarbe",
+        "_c1l": "Oberes Feld Bezeichnungsfarbe",
+
+        "_c2": "Linkes Feld Datenfarbe",
+        "_c2l": "Linkes Feld Bezeichnungsfarbe",
+
+        "_c3": "Rechtes Feld Datenfarbe",
+        "_c3l": "Rechtes Feld Bezeichnungsfarbe",
+
+        "_c4": "Unteres Feld Datenfarbe",
+        "_c4l": "Unteres Feld Bezeichnungsfarbe",
+
+        "_c5": "Oberer Fortschritt Datenfarbe",
+        "_c5l": "Oberer Fortschritt Bezeichnungsfarbe",
+
+        "_c6": "Unterer Fortschritt Datenfarbe",
+        "_c6l": "Unterer Fortschritt Bezeichnungsfarbe",
+        "_x4": "Vorherige Voreinstellung laden",
+        "_x3": "Vorheriges Farbthema laden",
+
+        "_rst": "Alle Einstellungen zurücksetzen",
+        "_tr": "👉 TOUCH-VERKNÜPFUNGEN",
+        "_tc": "🎨 FARBEN / HINTERGRUND",
+        "_tt": "🔤 SCHRIFTARTEN",
+        "_ta": "🖼️ AOD EINSTELLUNGEN (Always on Display)",
+        "_to": "💡 SONSTIGES",
+        "_tx": "➡️ VERSÄTZE",
+
+        "_o1": "Zeitversätze (X, Y, X Abstand, Y Abstand, Y Minuten) Standard: 20",
+        "_o2": "Feld X Versätze (oben, links, rechts, unten, Fortschritt 1, Fortschritt 2) Standard: 20",
+        "_o3": "Feld Y Versätze (oben, linker Text, rechter Text, unten, Fortschritt 1, Fortschritt 2, linke Bezeichnung, rechte Bezeichnung) Standard: 20",
+        "_bdb": "Zahlenhintergrund zeichnen (schärfere Minuten, Stunden nicht dahinter sichtbar)",
+
+        "_t1": "Stundenschrift",
+        "_t1a": "Stundenschrift AOD",
+        "_t1s": "Stundenschrift Größe",
+        "_t2": "Minutenschrift",
+        "_t2a": "Minutenschrift AOD",
+        "_t2s": "Minutenschrift Größe",
+
+        "_t3": "Textschrift",
+        "_s1": "Oberer Text Schriftgröße",
+        "_s2": "Fortschritt Text Schriftgröße",
+        "_s3": "Links/Rechts Text Schriftgröße",
+        "_s4": "Unterer Text Schriftgröße",
+    
+        "_fo": "Umrissen (falls verfügbar)",
+        "_fk": "Beibehalten",
+        "_fks": "Beibehalten, einschließlich innen",
+
+
+        "_pc": "Textfarbe",
+        "_ic": "Bezeichnungsfarbe",      
+
+        "_gq": "Farbverlauf Qualität",
+        "_ng": "Kein Farbverlauf",
+
+        "_0f" : "Feldfortschritt anzeigen",
+        "_1f" : "Voll",
+        "_2f" : "Leer",
+        "_3f" : "Verbergen",
+
+        "_x2": "Nächstes Farbthema laden",
+        
+        "_a1": "Touch-Verknüpfung Stunde links",
+        "_a2": "Touch-Verknüpfung Stunde rechts",
+        "_a3": "Touch-Verknüpfung Minute links",
+        "_a4": "Touch-Verknüpfung Minute rechts",
+
+        "_aas": "Sekunden immer an",
+        "_aod": "AOD Modus (Always on Display)",
+        "_aodct": "AOD Zeit Farbton",
+        "_aodc": "AOD Daten Farbton",
+        "_aodT": "AOD Zeit Helligkeit",
+        "_aodD": "AOD Daten Helligkeit. Wenn sich der Bildschirm während AOD ausschaltet, reduzieren Sie diese Zahl. Niedrigere Zahl = weniger Akkuverbrauch, aber weniger hell. Siehe FAQ)",
+        "_aodS": "AOD Verschiebung - Anzahl der Pixel, um die sich der Bildschirm pro Minute zufällig verschiebt, um Einbrennen zu verhindern)",
+        "ad0": "Bildschirm AUS",
+        "ad100": "Volles AOD (Standard)",
+        
+        "ad1": "Nur Zeit",
+        "ad3": "Nur Zeit - bewegend",
+        "ad4": "Zeit + Datenfeld (unten auswählen)",
+        "ad6": "Bewegende Zeit + Datenfeld"
+    }
+}

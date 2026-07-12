@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Markördata 1",
+        "_md2": "Markördata 2",
+
+        "_f1": "Övre fältdata",
+        "_l1": "Övre fältetikett",
+
+        "_f2": "Vänster fältdata",
+        "_l2": "Vänster fältetikett",
+
+        "_f3": "Höger fältdata",
+        "_l3": "Höger fältetikett",
+
+        "_f4": "Nedre fältdata",
+        "_l4": "Nedre fältetikett",
+
+        "_f5": "Övre förloppdata",
+        "_p5": "Övre förloppstil",
+
+        "_f6": "Nedre förloppdata",
+        "_p6": "Nedre förloppstil",
+
+        "_f20": "AOD-fältdata",
+        "_l20": "AOD-fältetikett",
+
+        "_hc1": "Timfärg",
+        "_hc2": "Timfärg 2",
+        "_hc3": "Timfärg 3 (inre)",
+        "_hc4": "Timfärg 4 (inre)",
+
+        "_mc1": "Minutfärg 1 (kontur)",
+        "_mc2": "Minutfärg 2 (kontur)",
+
+        "_mc3": "Minutfärg 3 (inre)",
+        "_mc4": "Minutfärg 4 (inre)",
+
+        "_sbg" : "Samma som bakgrundsfärg",
+
+        "_m1": "Markörfärg 1",
+        "_m2": "Markörfärg 2",
+        
+        "_cp1": "Övre förloppsfärg",
+        "_c21": "Övre förloppsfärg 2",
+        "_cu1": "Övre förlopp ofylld färg",
+
+        "_cp2": "Nedre förloppsfärg",
+        "_c22": "Nedre förloppsfärg 2",
+        "_cu2": "Nedre förlopp ofylld färg",
+
+        "_bgc": "Bakgrundsfärg",
+        "_bgl": "Bakgrundslinjefärg",
+        "_cs": "70% mörkare",
+        "_cpbs" : "Samma som vänster övre förloppsrad",
+
+        "_stc" : "Samma som textfärg",
+        "_slc" : "Samma som etikettfärg",
+
+
+        "_c1": "Övre fältdatafärg",
+        "_c1l": "Övre fältetikettfärg",
+
+        "_c2": "Vänster fältdatafärg",
+        "_c2l": "Vänster fältetikettfärg",
+
+        "_c3": "Höger fältdatafärg",
+        "_c3l": "Höger fältetikettfärg",
+
+        "_c4": "Nedre fältdatafärg",
+        "_c4l": "Nedre fältetikettfärg",
+
+        "_c5": "Övre förloppsdatafärg",
+        "_c5l": "Övre förloppsetikettfärg",
+
+        "_c6": "Nedre förloppsdatafärg",
+        "_c6l": "Nedre förloppsetikettfärg",
+        "_x4": "Ladda föregående förinställning",
+        "_x3": "Ladda föregående färgtema",
+
+        "_rst": "Återställ alla inställningar",
+        "_tr": "👉 PEKGENVÄGAR",
+        "_tc": "🎨 FÄRGER / BAKGRUND",
+        "_tt": "🔤 TYPSNITT",
+        "_ta": "🖼️ AOD-INSTÄLLNINGAR (Alltid på-skärm)",
+        "_to": "💡 ÖVRIGT",
+        "_tx": "➡️ FÖRSKJUTNINGAR",
+
+        "_o1": "Tidsförskjutningar (X, Y, X-avstånd, Y-avstånd, Y minuter) Standard: 20",
+        "_o2": "Fält X-förskjutningar (Övre, Vänster, Höger, Nedre, Förlopp 1, Förlopp 2) Standard: 20",
+        "_o3": "Fält Y-förskjutningar (Övre, Vänster text, Höger text, Nedre, Förlopp 1, Förlopp 2, Vänster etikett, Höger etikett) Standard: 20",
+        "_bdb": "Rita nummerbakgrund (vassare minuter, timmar inte synliga bakom)",
+
+        "_t1": "Timtypsnitt",
+        "_t1a": "Timtypsnitt AOD",
+        "_t1s": "Timtypsnittsstorlek",
+        "_t2": "Minuttypsnitt",
+        "_t2a": "Minuttypsnitt AOD",
+        "_t2s": "Minuttypsnittsstorlek",
+
+        "_t3": "Texttypsnitt",
+        "_s1": "Övre text typsnittsstorlek",
+        "_s2": "Förloppstext typsnittsstorlek",
+        "_s3": "Vänster/Höger text typsnittsstorlek",
+        "_s4": "Nedre text typsnittsstorlek",
+    
+        "_fo": "Konturerad (om tillgänglig)",
+        "_fk": "Behåll samma",
+        "_fks": "Behåll samma, inklusive inre",
+
+
+        "_pc": "Textfärg",
+        "_ic": "Etikettfärg",      
+
+        "_gq": "Gradientkvalitet",
+        "_ng": "Ingen gradient",
+
+        "_0f" : "Visa fältförlopp",
+        "_1f" : "Full",
+        "_2f" : "Tom",
+        "_3f" : "Dölj",
+
+        "_x2": "Ladda nästa färgtema",
+        
+        "_a1": "Pekgenväg Timme vänster",
+        "_a2": "Pekgenväg Timme höger",
+        "_a3": "Pekgenväg Minut vänster",
+        "_a4": "Pekgenväg Minut höger",
+
+        "_aas": "Alltid på sekunder",
+        "_aod": "AOD-läge (Alltid på-skärm)",
+        "_aodct": "AOD-tid tintfärg",
+        "_aodc": "AOD-data tintfärg",
+        "_aodT": "AOD-tid ljusstyrka",
+        "_aodD": "AOD-data ljusstyrka. Om skärmen stängs av under AOD, sänk detta nummer. Lägre nummer = mindre batterianvändning men mindre ljusstark. Se FAQ)",
+        "_aodS": "AOD-skift - antal pixlar som skärmen slumpmässigt skiftar per minut för att förhindra inbränning)",
+        "ad0": "Stäng av skärmen",
+        "ad100": "Full AOD (Standard)",
+        
+        "ad1": "Endast tid",
+        "ad3": "Endast tid - Rörlig",
+        "ad4": "Tid + datafält (Välj nedan)",
+        "ad6": "Rörlig tid + datafält"
+    }
+}

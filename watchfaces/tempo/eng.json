@@ -1,0 +1,211 @@
+{
+    "settings": {
+
+        "_lo1": "Top 1 Layout",
+        "_lo2": "Top 2 Layout",
+        "_lo3": "Top 3 Layout",
+
+        "_md1": "Marker 1 Data",
+        "_md2": "Marker 2 Data",
+
+        "_g1": "Top Style",
+        "_gs0": "2 Fields",
+        "_gs1": "1 Field",
+        "_f1": "1. Top 1 Data",
+        "_l1": "1. Top 1 Label",
+        "_c1": "1. Top 1 Data Color",
+        "_c1l": "1. Top 1 Label Color",
+
+        "_f2": "2. Top 2 Data",
+        "_l2": "2. Top 2 Label",
+        "_c2": "2. Top 2 Data Color",
+        "_c2l": "2. Top 2 Label Color",
+
+
+        "_f7": "3. Left Top Data",
+        "_l7": "3. Left Top Label",
+        "_p7": "3. Left Top Progress",
+        "_cp7": "3. Left Top Progress Color 1",
+        "_c27": "3. Left Top Progress Color 2",
+        "_cu7": "3. Left Top Progress Color 3",
+        "_c7": "3. Left Top Data Color",
+        "_c7l": "3. Left Top Label Color",
+
+
+
+        "_f8": "4. Right Top  Data",
+        "_l8": "4. Right Top Label",
+        "_p8": "4. Right Top Progress",
+        "_cp8": "4. Right Top Progress Color 1",
+        "_c28": "4. Right Top Progress Color 2",
+        "_cu8": "4. Right Top Progress Color 3",
+        "_c8": "4. Right Top Data Color",
+        "_c8l": "4. Right Top Label Color",
+
+
+        "_f5": "5. Left Center Data",
+        "_l5": "5. Left Center Label",
+        "_c5": "5. Left Center Data Color",
+        "_c5l": "5. Left Center Label Color",
+        
+        "_f6": "6. Right Center Data",
+        "_l6": "6. Right Center Label",
+        "_c6": "6. Right Center Data Color",
+        "_c6l": "6. Right Center Label Color",
+
+        "_f9": "7. Left Bottom Data",
+        "_l9": "7. Left Bottom Label",
+        "_p9": "7. Left Bottom Progress",
+
+        "_cp9": "7. Left Bottom Progress Color 1",
+        "_c29": "7. Left Bottom Progress Color 2",
+        "_cu9": "7. Left Bottom Progress Color 3",
+        "_c9": "7. Left Bottom Data Color",
+        "_c9l": "7. Left Bottom  Label Color",
+
+
+        
+        "_f10": "8. Right Bottom Data",
+        "_l10": "8. Right Bottom Label",
+        "_p10": "8. Right Bottom Progress",
+        "_cp10": "8. Right Bottom Progress Color 1",
+        "_c210": "8. Right Bottom Progress Color 2",
+        "_cu10": "8. Right Bottom Progress Color 3",
+        "_c10": "8. Right Bottom Data Color",
+        "_c10l": "8. Right Bottom Label Color",
+
+        "_g3": "Bottom Style",
+        "_f3": "9. Bottom 1 Data",
+        "_l3": "9. Bottom 1 Label",
+        "_c3": "9. Bottom 1 Data Color",
+        "_c3l": "9. Bottom 1 Label Color",
+
+
+        "_f4": "10. Bottom 2 Data",
+        "_l4": "10. Bottom 2 Label",
+        "_c4": "10. Bottom 2 Data Color",
+        "_c4l": "10. Bottom 2 Label Color",
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
+
+
+
+        
+
+
+
+        "_f20": "AOD Field Data",
+        "_l20": "AOD Field Label",
+
+        "_hc1": "Hour Color 1 (Outline)",
+        "_hc2": "Hour Color 2 (Outline)",
+
+
+        "_mc1": "Minute Color 1 (Outline)",
+        "_mc2": "Minute Color 2 (Outline)",
+
+
+
+        "_sbg" : "Same as Background Color",
+
+        "_m1": "Marker 1 Color",
+        "_m2": "Marker 2 Color",
+        
+
+
+
+
+
+        "_bgc": "Background Color",
+        "_bgl": "Background Lines Color",
+        "_cs": "70% Darker",
+        "_cpbs" : "Same as Top Progress Bar",
+
+        "_stc" : "Same as Text Color",
+        "_slc" : "Same as Label Color",
+
+
+        "_t3": "Text Font",
+        "_s1": "Top 1/2 Text Font Size",
+        "_s2": "Progress data Font Size",
+        "_s3": "Center Font Size",
+        "_s4": "Bottom 1/2 Font Size",
+
+
+        "_x4": "Load Previous Preset",
+        "_x3": "Load Previous Color Theme",
+
+        "_rst": "Reset all settings",
+        "_tr": "👉 TOUCH SHORTCUTS",
+        "_tc": "🎨 COLORS / BACKGROUND",
+        "_tt": "🔤 FONTS",
+        "_ta": "🖼️ AOD SETTINGS (Always on Display)",
+        "_to": "💡 OTHER",
+        "_tx": "➡️ OFFSETS",
+
+        "_o1": "Time Offsets (X, Y, X Spacing, Y Spacing, Y Minutes) Default: 20",
+        "_o2": "Field X Offsets (Top1, Top2, Bottom1, Bottom2, Left, Right, Left Top, Right Top, Left Bottom, Right Bottom) Default: 20",
+        "_o3": "Field Y Offsets Default: 20",
+        "_bdb": "Draw number background (sharper minutes, hours not visible behind)",
+
+        "_t1": "Hour Font",
+        "_t1a": "Hour Font AOD",
+        "_t1s": "Hour Font Size",
+        "_t2": "Minute Font",
+        "_t2a": "Minute Font AOD",
+        "_t2s": "Minute Font Size",
+
+
+    
+        "_fo": "Outlined (If available)",
+        "_fk": "Keep the same",
+        "_fks": "Keep the same, including Inner",
+
+
+        "_pc": "Text color",
+        "_ic": "Label color",      
+
+        "_gq": "Gradient Quality",
+        "_ng": "No Gradient",
+
+        "_0f" : "Show Field Progress",
+        "_1f" : "Full",
+        "_2f" : "Empty",
+        "_3f" : "Hide",
+
+        "_x2": "Load Next Color Theme",
+        
+        "_a1": "Touch shortcut Hour Left",
+        "_a2": "Touch shortcut Hour Right",
+        "_a3": "Touch shortcut Minute Left",
+        "_a4": "Touch shortcut Minute Right",
+
+        "_aas": "Always on seconds",
+        "_aod": "AOD Mode (Always on Display)",
+        "_aodct": "AOD Time Tint Color",
+        "_aodc": "AOD Data Tint Color",
+        "_aodT": "AOD Time Brightness",
+        "_aodD": "AOD Data Brightness (If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
+        "_aodS": "AOD Shift (Number of pixels the screen randomly shifts per minute to prevent burn-in)",
+        "ad0": "Turn Screen OFF",
+        "ad100": "Full AOD (Default)",
+        
+        "ad1": "Time Only",
+        "ad3": "Time Only - Moving",
+        "ad4": "Time + data field (Select Below)",
+        "ad6": "Time Moving + data field"
+    }
+}

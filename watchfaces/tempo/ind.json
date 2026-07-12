@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Data Penanda 1",
+        "_md2": "Data Penanda 2",
+
+        "_f1": "Data Bidang Atas",
+        "_l1": "Label Bidang Atas",
+
+        "_f2": "Data Bidang Kiri",
+        "_l2": "Label Bidang Kiri",
+
+        "_f3": "Data Bidang Kanan",
+        "_l3": "Label Bidang Kanan",
+
+        "_f4": "Data Bidang Bawah",
+        "_l4": "Label Bidang Bawah",
+
+        "_f5": "Data Progres Atas",
+        "_p5": "Gaya Progres Atas",
+
+        "_f6": "Data Progres Bawah",
+        "_p6": "Gaya Progres Bawah",
+
+        "_f20": "Data Bidang AOD",
+        "_l20": "Label Bidang AOD",
+
+        "_hc1": "Warna Jam",
+        "_hc2": "Warna Jam 2",
+        "_hc3": "Warna Jam 3 (Dalam)",
+        "_hc4": "Warna Jam 4 (Dalam)",
+
+        "_mc1": "Warna Menit 1 (Garis Luar)",
+        "_mc2": "Warna Menit 2 (Garis Luar)",
+
+        "_mc3": "Warna Menit 3 (Dalam)",
+        "_mc4": "Warna Menit 4 (Dalam)",
+
+        "_sbg" : "Sama dengan Warna Latar Belakang",
+
+        "_m1": "Warna Penanda 1",
+        "_m2": "Warna Penanda 2",
+        
+        "_cp1": "Warna Progres Atas",
+        "_c21": "Warna Progres Atas 2",
+        "_cu1": "Warna Progres Atas Tidak Terisi",
+
+        "_cp2": "Warna Progres Bawah",
+        "_c22": "Warna Progres Bawah 2",
+        "_cu2": "Warna Progres Bawah Tidak Terisi",
+
+        "_bgc": "Warna Latar Belakang",
+        "_bgl": "Warna Garis Latar Belakang",
+        "_cs": "70% Lebih Gelap",
+        "_cpbs" : "Sama dengan Bilah Progres Atas Kiri",
+
+        "_stc" : "Sama dengan Warna Teks",
+        "_slc" : "Sama dengan Warna Label",
+
+
+        "_c1": "Warna Data Bidang Atas",
+        "_c1l": "Warna Label Bidang Atas",
+
+        "_c2": "Warna Data Bidang Kiri",
+        "_c2l": "Warna Label Bidang Kiri",
+
+        "_c3": "Warna Data Bidang Kanan",
+        "_c3l": "Warna Label Bidang Kanan",
+
+        "_c4": "Warna Data Bidang Bawah",
+        "_c4l": "Warna Label Bidang Bawah",
+
+        "_c5": "Warna Data Progres Atas",
+        "_c5l": "Warna Label Progres Atas",
+
+        "_c6": "Warna Data Progres Bawah",
+        "_c6l": "Warna Label Progres Bawah",
+        "_x4": "Muat Preset Sebelumnya",
+        "_x3": "Muat Tema Warna Sebelumnya",
+
+        "_rst": "Atur ulang semua pengaturan",
+        "_tr": "👉 PINTASAN SENTUH",
+        "_tc": "🎨 WARNA / LATAR BELAKANG",
+        "_tt": "🔤 FONT",
+        "_ta": "🖼️ PENGATURAN AOD (Layar Selalu Aktif)",
+        "_to": "💡 LAINNYA",
+        "_tx": "➡️ OFFSET",
+
+        "_o1": "Offset Waktu (X, Y, Spasi X, Spasi Y, Y Menit) Default: 20",
+        "_o2": "Offset X Bidang (Atas, Kiri, Kanan, Bawah, Progres 1, Progres 2) Default: 20",
+        "_o3": "Offset Y Bidang (Atas, Teks Kiri, Teks Kanan, Bawah, Progres 1, Progres 2, Label Kiri, Label Kanan) Default: 20",
+        "_bdb": "Gambar latar belakang angka (menit lebih tajam, jam tidak terlihat di belakang)",
+
+        "_t1": "Font Jam",
+        "_t1a": "Font Jam AOD",
+        "_t1s": "Ukuran Font Jam",
+        "_t2": "Font Menit",
+        "_t2a": "Font Menit AOD",
+        "_t2s": "Ukuran Font Menit",
+
+        "_t3": "Font Teks",
+        "_s1": "Ukuran Font Teks Atas",
+        "_s2": "Ukuran Font Teks Progres",
+        "_s3": "Ukuran Font Teks Kiri/Kanan",
+        "_s4": "Ukuran Font Teks Bawah",
+    
+        "_fo": "Bergaris Tepi (Jika tersedia)",
+        "_fk": "Pertahankan yang sama",
+        "_fks": "Pertahankan yang sama, termasuk Dalam",
+
+
+        "_pc": "Warna teks",
+        "_ic": "Warna label",      
+
+        "_gq": "Kualitas Gradien",
+        "_ng": "Tanpa Gradien",
+
+        "_0f" : "Tampilkan Progres Bidang",
+        "_1f" : "Penuh",
+        "_2f" : "Kosong",
+        "_3f" : "Sembunyikan",
+
+        "_x2": "Muat Tema Warna Berikutnya",
+        
+        "_a1": "Pintasan sentuh Jam Kiri",
+        "_a2": "Pintasan sentuh Jam Kanan",
+        "_a3": "Pintasan sentuh Menit Kiri",
+        "_a4": "Pintasan sentuh Menit Kanan",
+
+        "_aas": "Detik selalu aktif",
+        "_aod": "Mode AOD (Layar Selalu Aktif)",
+        "_aodct": "Warna Tint Waktu AOD",
+        "_aodc": "Warna Tint Data AOD",
+        "_aodT": "Kecerahan Waktu AOD",
+        "_aodD": "Kecerahan Data AOD. Jika layar mati selama AOD, buat angka ini lebih rendah. Angka lebih rendah = penggunaan baterai lebih sedikit tetapi kurang terang. Lihat FAQ)",
+        "_aodS": "Pergeseran AOD - jumlah piksel yang bergeser secara acak setiap menit untuk mencegah burn-in)",
+        "ad0": "Matikan Layar",
+        "ad100": "AOD Penuh (Default)",
+        
+        "ad1": "Hanya Waktu",
+        "ad3": "Hanya Waktu - Bergerak",
+        "ad4": "Waktu + bidang data (Pilih Di Bawah)",
+        "ad6": "Waktu Bergerak + bidang data"
+    }
+}

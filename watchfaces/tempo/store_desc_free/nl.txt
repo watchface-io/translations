@@ -1,0 +1,32 @@
+Datarijke wijzerplaat met onbeperkte aanpassingen, meer dan 100 datavelden en volledig geoptimaliseerd voor minimaal batterijverbruik
+
+⭐️ Gratis vs Pro ⭐️
+Deze wijzerplaat is gratis beschikbaar met alle basisfuncties. Premium functies (gemarkeerd met [*]) vereisen een Pro sleutel om te ontgrendelen. U kunt een Pro sleutel hier kopen: https://ko-fi.com/s/3633613c58 of https://watchface.io/nexus. U kunt ook de PRO versie direct via Garmin kopen: https://apps.garmin.com/apps/e3cb3f3d-5587-441e-90c2-43d14118bf3e.
+
+⭐️ MIPS apparaten (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Deze wijzerplaat is volledig geoptimaliseerd voor MIPS, maar kleuren kunnen er anders uitzien zoals in de meeste afbeeldingen, omdat deze genomen zijn op een Amoled apparaat. Deze wijzerplaat heeft veel thema's geoptimaliseerd voor MIPS en ondersteunt MIPS gradiënten. U kunt alle ingebouwde thema's hier vinden: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Bronnen ⭐️
+* FAQ: https://watchface.io/faq
+* Handleiding: https://watchface.io/nexus/manual
+* PRO sleutel verkrijgen: https://ko-fi.com/s/3633613c58 of https://watchface.io/nexus
+* Themalijst: https://watchface.io/nexus/themes
+* Kleurgids: https://watchface.io/docs/color-list
+* Beschikbare datavelden: https://watchface.io/docs/datafields
+
+⭐️ Configuratie ⭐️
+Let op: Er zijn twee verschillende plaatsen met instellingen:
+* Garmin IQ app (op uw telefoon ga naar uw apparaat, wijzerplaten, instellingen): Configureer datavelden, kleuren en algemene instellingen.
+* Instellingen op horloge: Toegang tot meer gedetailleerde opties zoals tijdformaat, doelen en eenheden direct op het horloge door de menuknop ingedrukt te houden, wijzerplaat te selecteren en aanpassen aan te raken.
+
+⭐️ Datavelden ⭐️
+Alle datavelden die Garmin momenteel levert aan derde partij ontwikkelaars zijn beschikbaar, plus extra's zoals Glucose Monitor (CGM) ondersteuning, Open Weather Map (OWM) en ondersteuning voor andere derde partij apps.
+Alle beschikbare datavelden staan hier vermeld: https://watchface.io/docs/datafields. Sommige datavelden (zoals trainingsgereedheid of HRV) zijn momenteel niet beschikbaar voor derde partij ontwikkelaars, zie hier: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kan ik de Fenix/Enduro, etc. tekst veranderen? ⭐️
+Ja, dat kunt u! Zie hier: https://watchface.io/faq/how-to-change-the-fenix-text
+Eigenlijk kan alles op deze wijzerplaat naar uw smaak aangepast worden.
+
+*** Als u bugs of problemen tegenkomt, neem dan contact met mij op door op "Contact Developer" te drukken in plaats van het beoordelingssysteem te gebruiken. Ik kan snel reageren op emails, terwijl ik beoordelingen mogelijk dagen niet zie. ***
+
+* Wijzigingslogboek: https://watchface.io/nexus/changelog

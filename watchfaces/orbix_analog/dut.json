@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Tijdverschuiving (X,Y) Standaard: 20",
+        "_o2": "Veld X-verschuiving (Boven 1, Boven 2, Midden L, Midden R, Midden, Onder L, Onder R, Cirkel L, Cirkel R, Cirkel Onder) Standaard: 20",
+        "_o3": "Veld Y-verschuiving Standaard: 20",
+        "_o4": "Label Y-verschuiving (Boven 1, Boven 2, Midden, Cirkel L, Cirkel R, Cirkel Onder) Standaard: 20",
+        
+        "_t3": "Tekstlettertype",
+        "_s1": "Boven 1 Lettergrootte (Alleen schaalbare lettertypen)",
+        "_s2": "Boven 2 Lettergrootte",
+        "_s3": "Links/Rechts Midden Lettergrootte",
+        "_s4": "Midden Lettergrootte",
+        "_s5": "Onder Links/Rechts Lettergrootte",
+        "_s6": "Links/Rechts Cirkel Lettergrootte",
+
+        "_t4": "Onderste Cirkel Lettertype",
+        "_s7": "Onderste Cirkel Lettergrootte",
+
+        "_70p": "70% Donkerder",
+        "auto": "Automatisch",
+
+   
+        "_cr0b": "Linker Cirkel Achtergrondkleur",
+        "_cr00": "Linker Cirkel Voortgangskleur 1",
+        "_cr01": "Linker Cirkel Voortgangskleur 2",
+        "_cr02": "Linker Cirkel Voortgangskleur 3",
+        "_cr03": "Linker Cirkel Ongevulde Kleur",
+
+        "_cr1b": "Rechter Cirkel Achtergrondkleur",
+        "_cr10": "Rechter Cirkel Voortgangskleur 1",
+        "_cr11": "Rechter Cirkel Voortgangskleur 2",
+        "_cr12": "Rechter Cirkel Voortgangskleur 3",
+        "_cr13": "Rechter Cirkel Ongevulde Kleur",
+
+        "_cr2b": "Onderste Cirkel Achtergrondkleur",
+        "_cr20": "Onderste Cirkel Voortgangskleur 1",
+        "_cr21": "Onderste Cirkel Voortgangskleur 2",
+        "_cr22": "Onderste Cirkel Voortgangskleur 3",
+        "_cr23": "Onderste Cirkel Ongevulde Kleur",
+
+         "_8b": "20% Transparant Zwart",
+
+
+
+        "_dg": "Tijdverloop (Uit = Kleuren afzonderlijk tekenen)",
+        "_hc1": "Uurkleur Begin",
+        "_hc2": "Uurkleur Midden",
+        "_hc3": "Uurkleur Einde",
+
+
+        "_mc1": "Minuutkleur Begin",
+        "_mc2": "Minuutkleur Midden",
+        "_mc3": "Minuutkleur Einde",
+
+
+        "_dv1": "Scheidingskleur Begin",
+        "_dv2": "Scheidingskleur Einde",
+
+
+        "_tops": "Bovenstijl",
+        "_ts0": "1 Veld Horizontaal",
+        "_ts1": "2 Velden Horizontaal",
+        "_ts2": "2 Velden Verticaal",
+
+        
+        "_c1": "Bovenste Gegevenskleur",
+        "_c1l": "Bovenste Labelkleur",
+
+        "_c2": "Boven 2 Gegevenskleur",
+        "_c2l": "Boven 2 Labelkleur",
+
+        "_c3": "Linker Gegevenskleur",
+        "_c4": "Rechter Gegevenskleur",
+
+        "_c5": "Midden Gegevenskleur",
+        "_c5l": "Midden Labelkleur",
+
+        "_c6": "Onder Links Gegevenskleur",
+        "_c7": "Onder Rechts Gegevenskleur",
+
+        "_c10": "Linker Cirkel Gegevenskleur",
+        "_c10l": "Linker Cirkel Labelkleur",
+        "_c11": "Rechter Cirkel Gegevenskleur",
+        "_c11l": "Rechter Cirkel Labelkleur",
+        "_c12": "Onderste Cirkel Gegevenskleur",
+        "_c12l": "Onderste Cirkel Labelkleur",
+
+        "_csc": "Statuspictogrammen Kleur",
+
+        
+    
+
+        "_f1": "1. Bovenste Gegevens",
+        "_l1": "1. Bovenste Label",
+
+        "_f2": "2. Boven 2 Gegevens",
+        "_l2": "2. Boven 2 Label",
+
+        "_f3": "3. Midden Links",
+        "_f4": "4. Midden Rechts",
+
+        "_f5": "5. Midden Gegevens",
+        "_l5": "5. Midden Label",
+       
+        "_f6": "6. Onder Links Gegevens",
+        "_f7": "6. Onder Rechts Gegevens",
+
+        "_f10": "7. Cirkel Links Gegevens",
+        "_l10": "7. Cirkel Links Label",
+        "_p10": "7. Cirkel Links Voortgang Gegevens",
+        "_cs10": "7. Cirkel Links Voortgang Stijl",
+        "_cg10": "7. Cirkel Links Segment Tussenruimte",
+
+        "_f11": "8. Cirkel Rechts Gegevens",
+        "_l11": "8. Cirkel Rechts Label",
+        "_p11": "8. Cirkel Rechts Voortgang Gegevens",
+        "_cs11": "8. Cirkel Rechts Voortgang Stijl",
+        "_cg11": "8. Cirkel Rechts Segment Tussenruimte",
+
+        "_f12": "9. Cirkel Onder Gegevens",
+        "_l12": "9. Cirkel Onder Label",
+        "_p12": "9. Cirkel Onder Voortgang Gegevens",
+        "_cs12": "9. Cirkel Onder Voortgang Stijl",
+        "_cg12": "9. Cirkel Onder Segment Tussenruimte",
+
+        "_a1": "Aanraaksnelkoppeling Uur",
+        "_a2": "Aanraaksnelkoppeling Midden",
+        "_a3": "Aanraaksnelkoppeling Minuut",
+
+        "_layout": "Indeling",
+        "_si": "Statuspictogrammen weergeven (Zie FAQ)",
+        "_o5": "Statuspictogram Posities % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Uitschakelen: -1, Standaard: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Achtergrondafbeelding",
+        "bg0": "Geen Achtergrondafbeelding",
+        "bg1": "Topo",
+        "bg2": "Hex-patroon",
+
+
+        "_md1": "Markering 1 Gegevens",
+        "_md2": "Markering 2 Gegevens",
+
+
+        "_bd1": "Wijzerplaat 5-minuten Markeergrootte",
+        "_bd2": "Wijzerplaat 1-minuut Markeergrootte",
+        "_dc1": "Wijzerplaat 5-minuten Markeerkleur",
+        "_dc2": "Wijzerplaat 1-minuut Markeerkleur",
+
+        "_ps0": "Normaal Wijzerplaat",
+        "_ps1": "Volledige Voortgang",
+        "_ps2": "Secondestrepen als Voortgang",
+
+        "_rainbow": "Regenboogkleuren",
+        "_xmas": "Kerstkleuren",
+
+
+
+
+        "_f20": "AOD Veld Gegevens",
+        "_l20": "AOD Veld Label",
+
+
+        "_sbg" : "Zelfde als Achtergrondkleur",
+
+        "_m1": "Markering 1 Kleur",
+        "_m2": "Markering 2 Kleur",
+        
+        "_bgc": "Achtergrond Hoofdkleur",
+        "_bgg1": "Achtergrondverloop Kleur Begin",
+        "_bgg2": "Achtergrondverloop Kleur Midden",
+        "_bgg3": "Achtergrondverloop Kleur Einde",
+
+        "_cs": "70% Donkerder",
+        "_cpbs" : "Zelfde als Bovenste Voortgangsbalk",
+
+        "_stc" : "Zelfde als Tekstkleur",
+        "_slc" : "Zelfde als Labelkleur",
+
+        "_x4": "Vorig Voorinstelling Laden",
+        "_x3": "Vorig Kleurthema Laden",
+
+        "_rst": "Alle Instellingen Resetten",
+        "_tr": "👉 AANRAAKSNELKOPPELINGEN",
+        "_tc": "🎨 KLEUREN / ACHTERGROND",
+        "_tt": "🔤 LETTERTYPEN",
+        "_ta": "🖼️ AOD-INSTELLINGEN (Always on Display)",
+        "_to": "💡 OVERIG",
+        "_tx": "➡️ VERSCHUIVINGEN",
+
+
+        "_t1": "Tijdlettertype",
+        "_t1a": "Tijdlettertype AOD",
+        "_t1s": "Tijdlettergrootte",
+
+
+        "_fo": "Omlijnd (Indien beschikbaar)",
+        "_fk": "Hetzelfde houden",
+
+        "_pc": "Tekstkleur",
+        "_ic": "Labelkleur",      
+
+        "_0f" : "Veldvoortgang Weergeven",
+        "_1f" : "Vol",
+        "_2f" : "Leeg",
+        "_3f" : "Verbergen",
+
+        "_x2": "Volgend Kleurthema Laden",
+
+        "_aas": "Altijd seconden weergeven",
+        "_aod": "AOD-modus (Always on Display)",
+       
+        "_aodc": "AOD Gegevensnuancekleur",
+        "_aodT": "AOD Tijdshelderheid",
+        "_aodD": "AOD Gegevenshelderheid (Als het scherm uitgaat tijdens AOD, verlaag dit getal. Lager getal = minder batterijverbruik maar minder helder. Zie FAQ)",
+        "_aodS": "AOD-verschuiving (Aantal pixels dat het scherm per minuut willekeurig verschuift om inbranden te voorkomen)",
+        "ad0": "Scherm Uitschakelen",
+        "ad100": "Volledig AOD (Standaard)",
+        "ad101": "Volledig AOD, aparte tijd/gegevenshelderheid",
+        
+        "ad1": "Alleen Tijd",
+        "ad3": "Alleen Tijd - Bewegend",
+        "ad4": "Tijd + gegevensveld (Selecteer Hieronder)",
+        "ad6": "Tijd Bewegend + Gegevensveld"
+    },
+    "menu" : {
+        "_tf": "Tijdlettertype"
+    }
+
+}

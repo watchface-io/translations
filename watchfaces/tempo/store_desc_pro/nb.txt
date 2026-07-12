@@ -1,0 +1,32 @@
+Datarik urskive med ubegrensede tilpasninger, over 100 datafelt og fullt optimalisert for minimalt batteriforbruk
+
+⭐️ Prøv før du kjøper! ⭐️
+Før du kjøper denne urskiven, sjekk den gratis versjonen først for å forsikre deg om at det er det du vil ha og at du liker hvordan den ser ut på klokka di: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+
+⭐️ MIPS Enheter (Fenix 7, Enduro, Forerunner 255, osv.) ⭐️
+Denne urskiven er fullstendig optimalisert for MIPS, men farger kan se annerledes ut som i de fleste bildene, da disse er tatt på en Amoled enhet. Denne urskiven har mange temaer optimalisert for MIPS og støtter MIPS gradienter. Du kan finne alle de innebygde temaene her: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Ressurser ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/nexus/manual
+* Gratis versjon: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+* Tema liste: https://watchface.io/nexus/themes
+* Farge guide: https://watchface.io/docs/color-list
+* Tilgjengelige datafelt: https://watchface.io/docs/datafields
+
+⭐️ Konfigurasjon ⭐️
+Merk: Det er to forskjellige steder med innstillinger:
+* Garmin IQ App (på telefonen din gå til enheten din, urskiver, innstillinger): Konfigurer datafelt, farger og generelle innstillinger.
+* Innstillinger på klokka: Få tilgang til mer detaljerte alternativer som tidsformat, mål og enheter direkte på klokka ved å holde meny-knappen, velge urskive og trykke tilpass.
+
+⭐️ Datafelt ⭐️
+Alle datafelt som Garmin for øyeblikket leverer til tredjepartsutviklere er tilgjengelige, pluss ekstra som Glucose Monitor (CGM) støtte, Open Weather Map (OWM) og støtte for andre tredjepartsapper.
+Alle tilgjengelige datafelt er listet her: https://watchface.io/docs/datafields. Noen datafelt (som treningsberedskap eller HRV) er for øyeblikket ikke tilgjengelige for tredjepartsutviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Kan jeg endre Fenix/Enduro, osv. teksten? ⭐️
+Ja, det kan du! Se her: https://watchface.io/faq/how-to-change-the-fenix-text
+Faktisk kan alt på denne urskiven justeres etter din smak.
+
+*** Hvis du støter på noen feil eller problemer, vennligst kontakt meg ved å trykke "Contact Developer" i stedet for å bruke anmeldelsessystemet. Jeg kan svare på e-poster raskt, mens jeg kanskje ikke ser anmeldelser på flere dager. ***
+
+* Endringslogg: https://watchface.io/nexus/changelog

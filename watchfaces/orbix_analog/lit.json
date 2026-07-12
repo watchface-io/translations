@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Laiko poslinkis (X,Y) Numatytasis: 20",
+        "_o2": "Lauko X poslinkis (Viršus 1, Viršus 2, Centras K, Centras D, Centras, Apačia K, Apačia D, Apskr. K, Apskr. D, Apskr. Apačia) Numatytasis: 20",
+        "_o3": "Lauko Y poslinkis Numatytasis: 20",
+        "_o4": "Etiketės Y poslinkis (Viršus 1, Viršus 2, Centras, Apskr. K, Apskr. D, Apskr. Apačia) Numatytasis: 20",
+        
+        "_t3": "Teksto šriftas",
+        "_s1": "Viršaus 1 Šrifto dydis (Tik keičiamo dydžio šriftai)",
+        "_s2": "Viršaus 2 Šrifto dydis",
+        "_s3": "Kairė/Dešinė Centras Šrifto dydis",
+        "_s4": "Centro Šrifto dydis",
+        "_s5": "Apačios Kairė/Dešinė Šrifto dydis",
+        "_s6": "Kairė/Dešinė Apskritimas Šrifto dydis",
+
+        "_t4": "Apatinio Apskritimo Šriftas",
+        "_s7": "Apatinio Apskritimo Šrifto dydis",
+
+        "_70p": "70% Tamsesnis",
+        "auto": "Automatinis",
+
+   
+        "_cr0b": "Kairojo Apskritimo Fono spalva",
+        "_cr00": "Kairojo Apskritimo Progreso spalva 1",
+        "_cr01": "Kairojo Apskritimo Progreso spalva 2",
+        "_cr02": "Kairojo Apskritimo Progreso spalva 3",
+        "_cr03": "Kairojo Apskritimo Neužpildyta spalva",
+
+        "_cr1b": "Dešiniojo Apskritimo Fono spalva",
+        "_cr10": "Dešiniojo Apskritimo Progreso spalva 1",
+        "_cr11": "Dešiniojo Apskritimo Progreso spalva 2",
+        "_cr12": "Dešiniojo Apskritimo Progreso spalva 3",
+        "_cr13": "Dešiniojo Apskritimo Neužpildyta spalva",
+
+        "_cr2b": "Apatinio Apskritimo Fono spalva",
+        "_cr20": "Apatinio Apskritimo Progreso spalva 1",
+        "_cr21": "Apatinio Apskritimo Progreso spalva 2",
+        "_cr22": "Apatinio Apskritimo Progreso spalva 3",
+        "_cr23": "Apatinio Apskritimo Neužpildyta spalva",
+
+         "_8b": "20% Permatoma Juoda",
+
+
+
+        "_dg": "Laiko gradientas (Išj. = Piešti spalvas atskirai)",
+        "_hc1": "Valandų spalva Pradžia",
+        "_hc2": "Valandų spalva Vidurys",
+        "_hc3": "Valandų spalva Pabaiga",
+
+
+        "_mc1": "Minučių spalva Pradžia",
+        "_mc2": "Minučių spalva Vidurys",
+        "_mc3": "Minučių spalva Pabaiga",
+
+
+        "_dv1": "Skyriklio spalva Pradžia",
+        "_dv2": "Skyriklio spalva Pabaiga",
+
+
+        "_tops": "Viršutinis stilius",
+        "_ts0": "1 laukas Horizontalus",
+        "_ts1": "2 laukai Horizontalūs",
+        "_ts2": "2 laukai Vertikalūs",
+
+        
+        "_c1": "Viršutinė Duomenų spalva",
+        "_c1l": "Viršutinė Etiketės spalva",
+
+        "_c2": "Viršus 2 Duomenų spalva",
+        "_c2l": "Viršus 2 Etiketės spalva",
+
+        "_c3": "Kairė Duomenų spalva",
+        "_c4": "Dešinė Duomenų spalva",
+
+        "_c5": "Centro Duomenų spalva",
+        "_c5l": "Centro Etiketės spalva",
+
+        "_c6": "Apačios Kairė Duomenų spalva",
+        "_c7": "Apačios Dešinė Duomenų spalva",
+
+        "_c10": "Kairojo Apskritimo Duomenų spalva",
+        "_c10l": "Kairojo Apskritimo Etiketės spalva",
+        "_c11": "Dešiniojo Apskritimo Duomenų spalva",
+        "_c11l": "Dešiniojo Apskritimo Etiketės spalva",
+        "_c12": "Apatinio Apskritimo Duomenų spalva",
+        "_c12l": "Apatinio Apskritimo Etiketės spalva",
+
+        "_csc": "Būsenos piktogramų spalva",
+
+        
+    
+
+        "_f1": "1. Viršaus Duomenys",
+        "_l1": "1. Viršaus Etiketė",
+
+        "_f2": "2. Viršaus 2 Duomenys",
+        "_l2": "2. Viršaus 2 Etiketė",
+
+        "_f3": "3. Centras Kairė",
+        "_f4": "4. Centras Dešinė",
+
+        "_f5": "5. Centro Duomenys",
+        "_l5": "5. Centro Etiketė",
+       
+        "_f6": "6. Apačios Kairė Duomenys",
+        "_f7": "6. Apačios Dešinė Duomenys",
+
+        "_f10": "7. Apskritimas Kairė Duomenys",
+        "_l10": "7. Apskritimas Kairė Etiketė",
+        "_p10": "7. Apskritimas Kairė Progreso Duomenys",
+        "_cs10": "7. Apskritimas Kairė Progreso Stilius",
+        "_cg10": "7. Apskritimas Kairė Segmento tarpas",
+
+        "_f11": "8. Apskritimas Dešinė Duomenys",
+        "_l11": "8. Apskritimas Dešinė Etiketė",
+        "_p11": "8. Apskritimas Dešinė Progreso Duomenys",
+        "_cs11": "8. Apskritimas Dešinė Progreso Stilius",
+        "_cg11": "8. Apskritimas Dešinė Segmento tarpas",
+
+        "_f12": "9. Apskritimas Apačia Duomenys",
+        "_l12": "9. Apskritimas Apačia Etiketė",
+        "_p12": "9. Apskritimas Apačia Progreso Duomenys",
+        "_cs12": "9. Apskritimas Apačia Progreso Stilius",
+        "_cg12": "9. Apskritimas Apačia Segmento tarpas",
+
+        "_a1": "Lietimo spartusis klavišas Valanda",
+        "_a2": "Lietimo spartusis klavišas Centras",
+        "_a3": "Lietimo spartusis klavišas Minutė",
+
+        "_layout": "Išdėstymas",
+        "_si": "Rodyti būsenos piktogramas (Žiūrėti FAQ)",
+        "_o5": "Būsenos piktogramų pozicijos % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Išjungti: -1, Numatytasis: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Fono vaizdas",
+        "bg0": "Nėra fono vaizdo",
+        "bg1": "Topo",
+        "bg2": "Šešiakampio raštai",
+
+
+        "_md1": "Žymeklio 1 Duomenys",
+        "_md2": "Žymeklio 2 Duomenys",
+
+
+        "_bd1": "Ciferblato 5 minučių žymeklių dydis",
+        "_bd2": "Ciferblato 1 minutės žymeklių dydis",
+        "_dc1": "Ciferblato 5 minučių žymeklių spalva",
+        "_dc2": "Ciferblato 1 minutės žymeklių spalva",
+
+        "_ps0": "Įprastas ciferblatas",
+        "_ps1": "Pilnas progresas",
+        "_ps2": "Sekundžių žymekliai kaip progresas",
+
+        "_rainbow": "Vaivorykštės spalvos",
+        "_xmas": "Kalėdinės spalvos",
+
+
+
+
+        "_f20": "AOD Lauko Duomenys",
+        "_l20": "AOD Lauko Etiketė",
+
+
+        "_sbg" : "Tokia pati kaip fono spalva",
+
+        "_m1": "Žymeklio 1 Spalva",
+        "_m2": "Žymeklio 2 Spalva",
+        
+        "_bgc": "Fono Pagrindinė spalva",
+        "_bgg1": "Fono Gradiento spalva Pradžia",
+        "_bgg2": "Fono Gradiento spalva Vidurys",
+        "_bgg3": "Fono Gradiento spalva Pabaiga",
+
+        "_cs": "70% Tamsesnis",
+        "_cpbs" : "Tokia pati kaip viršutinė progreso juosta",
+
+        "_stc" : "Tokia pati kaip teksto spalva",
+        "_slc" : "Tokia pati kaip etiketės spalva",
+
+        "_x4": "Įkelti ankstesnį išankstinį nustatymą",
+        "_x3": "Įkelti ankstesnę spalvų temą",
+
+        "_rst": "Atstatyti visus nustatymus",
+        "_tr": "👉 LIETIMO SPARTIEJI KLAVIŠAI",
+        "_tc": "🎨 SPALVOS / FONAS",
+        "_tt": "🔤 ŠRIFTAI",
+        "_ta": "🖼️ AOD NUSTATYMAI (Always on Display)",
+        "_to": "💡 KITA",
+        "_tx": "➡️ POSLINKIAI",
+
+
+        "_t1": "Laiko šriftas",
+        "_t1a": "Laiko šriftas AOD",
+        "_t1s": "Laiko šrifto dydis",
+
+
+        "_fo": "Su kontūrais (Jei galima)",
+        "_fk": "Palikti tą patį",
+
+        "_pc": "Teksto spalva",
+        "_ic": "Etiketės spalva",      
+
+        "_0f" : "Rodyti lauko progresą",
+        "_1f" : "Pilnas",
+        "_2f" : "Tuščias",
+        "_3f" : "Slėpti",
+
+        "_x2": "Įkelti kitą spalvų temą",
+
+        "_aas": "Sekundės visada matomos",
+        "_aod": "AOD Režimas (Always on Display)",
+       
+        "_aodc": "AOD Duomenų atspalvio spalva",
+        "_aodT": "AOD Laiko ryškumas",
+        "_aodD": "AOD Duomenų ryškumas (Jei ekranas AOD metu išsijungia, sumažinkite šį skaičių. Mažesnis skaičius = mažesnis akumulatoriaus naudojimas, bet mažiau ryšku. Žiūrėti FAQ)",
+        "_aodS": "AOD Poslinkis (Pikselių skaičius, kurį ekranas atsitiktinai juda per minutę, kad išvengtų įdegimo)",
+        "ad0": "Išjungti ekraną",
+        "ad100": "Pilnas AOD (Numatytasis)",
+        "ad101": "Pilnas AOD, atskiras laiko/duomenų ryškumas",
+        
+        "ad1": "Tik Laikas",
+        "ad3": "Tik Laikas - Judantis",
+        "ad4": "Laikas + duomenų laukas (Pasirinkti žemiau)",
+        "ad6": "Judantis Laikas + duomenų laukas"
+    },
+    "menu" : {
+        "_tf": "Laiko šriftas"
+    }
+
+}

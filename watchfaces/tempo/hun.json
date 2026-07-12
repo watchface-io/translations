@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Jelölő 1 adat",
+        "_md2": "Jelölő 2 adat",
+
+        "_f1": "Felső mező adat",
+        "_l1": "Felső mező címke",
+
+        "_f2": "Bal mező adat",
+        "_l2": "Bal mező címke",
+
+        "_f3": "Jobb mező adat",
+        "_l3": "Jobb mező címke",
+
+        "_f4": "Alsó mező adat",
+        "_l4": "Alsó mező címke",
+
+        "_f5": "Felső folyamatjelző adat",
+        "_p5": "Felső folyamatjelző stílus",
+
+        "_f6": "Alsó folyamatjelző adat",
+        "_p6": "Alsó folyamatjelző stílus",
+
+        "_f20": "AOD mező adat",
+        "_l20": "AOD mező címke",
+
+        "_hc1": "Óra szín",
+        "_hc2": "Óra szín 2",
+        "_hc3": "Óra szín 3 (belső)",
+        "_hc4": "Óra szín 4 (belső)",
+
+        "_mc1": "Perc szín 1 (kontúr)",
+        "_mc2": "Perc szín 2 (kontúr)",
+
+        "_mc3": "Perc szín 3 (belső)",
+        "_mc4": "Perc szín 4 (belső)",
+
+        "_sbg" : "Ugyanaz, mint a háttérszín",
+
+        "_m1": "Jelölő 1 szín",
+        "_m2": "Jelölő 2 szín",
+        
+        "_cp1": "Felső folyamatjelző szín",
+        "_c21": "Felső folyamatjelző szín 2",
+        "_cu1": "Felső folyamatjelző kitöltetlen szín",
+
+        "_cp2": "Alsó folyamatjelző szín",
+        "_c22": "Alsó folyamatjelző szín 2",
+        "_cu2": "Alsó folyamatjelző kitöltetlen szín",
+
+        "_bgc": "Háttérszín",
+        "_bgl": "Háttér vonalak színe",
+        "_cs": "70%-kal sötétebb",
+        "_cpbs" : "Ugyanaz, mint a bal felső folyamatjelző sáv",
+
+        "_stc" : "Ugyanaz, mint a szöveg színe",
+        "_slc" : "Ugyanaz, mint a címke színe",
+
+
+        "_c1": "Felső mező adat szín",
+        "_c1l": "Felső mező címke szín",
+
+        "_c2": "Bal mező adat szín",
+        "_c2l": "Bal mező címke szín",
+
+        "_c3": "Jobb mező adat szín",
+        "_c3l": "Jobb mező címke szín",
+
+        "_c4": "Alsó mező adat szín",
+        "_c4l": "Alsó mező címke szín",
+
+        "_c5": "Felső folyamatjelző adat szín",
+        "_c5l": "Felső folyamatjelző címke szín",
+
+        "_c6": "Alsó folyamatjelző adat szín",
+        "_c6l": "Alsó folyamatjelző címke szín",
+        "_x4": "Előző előbeállítás betöltése",
+        "_x3": "Előző színséma betöltése",
+
+        "_rst": "Összes beállítás visszaállítása",
+        "_tr": "👉 ÉRINTÉSI PARANCSIKONOK",
+        "_tc": "🎨 SZÍNEK / HÁTTÉR",
+        "_tt": "🔤 BETŰTÍPUSOK",
+        "_ta": "🖼️ AOD BEÁLLÍTÁSOK (Mindig bekapcsolva kijelző)",
+        "_to": "💡 EGYÉB",
+        "_tx": "➡️ ELTOLÁSOK",
+
+        "_o1": "Időeltolások (X, Y, X távolság, Y távolság, Y percek) Alapértelmezett: 20",
+        "_o2": "Mező X eltolások (Felső, Bal, Jobb, Alsó, Folyamatjelző 1, Folyamatjelző 2) Alapértelmezett: 20",
+        "_o3": "Mező Y eltolások (Felső, Bal szöveg, Jobb szöveg, Alsó, Folyamatjelző 1, Folyamatjelző 2, Bal címke, Jobb címke) Alapértelmezett: 20",
+        "_bdb": "Számháttér rajzolása (élesebb percek, órák nem látszanak mögötte)",
+
+        "_t1": "Óra betűtípus",
+        "_t1a": "Óra betűtípus AOD",
+        "_t1s": "Óra betűméret",
+        "_t2": "Perc betűtípus",
+        "_t2a": "Perc betűtípus AOD",
+        "_t2s": "Perc betűméret",
+
+        "_t3": "Szöveg betűtípus",
+        "_s1": "Felső szöveg betűméret",
+        "_s2": "Folyamatjelző szöveg betűméret",
+        "_s3": "Bal/Jobb szöveg betűméret",
+        "_s4": "Alsó szöveg betűméret",
+    
+        "_fo": "Körülrajzolt (ha elérhető)",
+        "_fk": "Tartsa meg ugyanazt",
+        "_fks": "Tartsa meg ugyanazt, beleértve a belsőt is",
+
+
+        "_pc": "Szöveg színe",
+        "_ic": "Címke színe",      
+
+        "_gq": "Színátmenet minősége",
+        "_ng": "Nincs színátmenet",
+
+        "_0f" : "Mező folyamatjelző megjelenítése",
+        "_1f" : "Teljes",
+        "_2f" : "Üres",
+        "_3f" : "Elrejtés",
+
+        "_x2": "Következő színséma betöltése",
+        
+        "_a1": "Érintési parancsikon óra bal",
+        "_a2": "Érintési parancsikon óra jobb",
+        "_a3": "Érintési parancsikon perc bal",
+        "_a4": "Érintési parancsikon perc jobb",
+
+        "_aas": "Mindig bekapcsolt másodpercek",
+        "_aod": "AOD mód (Mindig bekapcsolva kijelző)",
+        "_aodct": "AOD idő árnyalat színe",
+        "_aodc": "AOD adat árnyalat színe",
+        "_aodT": "AOD idő fényereje",
+        "_aodD": "AOD adat fényereje. Ha a képernyő kikapcsol AOD közben, csökkentse ezt a számot. Kisebb szám = kevesebb akkumulátorhasználat, de kevésbé világos. Lásd GYIK)",
+        "_aodS": "AOD eltolás - pixelek száma, amennyivel a képernyő véletlenszerűen elmozdul percenként a beégés megakadályozására)",
+        "ad0": "Képernyő KIKAPCSOLÁSA",
+        "ad100": "Teljes AOD (Alapértelmezett)",
+        
+        "ad1": "Csak idő",
+        "ad3": "Csak idő - Mozgó",
+        "ad4": "Idő + adatmező (Válasszon lent)",
+        "ad6": "Mozgó idő + adatmező"
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Données marqueur 1",
+        "_md2": "Données marqueur 2",
+
+        "_f1": "Données champ supérieur",
+        "_l1": "Étiquette champ supérieur",
+
+        "_f2": "Données champ gauche",
+        "_l2": "Étiquette champ gauche",
+
+        "_f3": "Données champ droit",
+        "_l3": "Étiquette champ droit",
+
+        "_f4": "Données champ inférieur",
+        "_l4": "Étiquette champ inférieur",
+
+        "_f5": "Données progression supérieure",
+        "_p5": "Style progression supérieure",
+
+        "_f6": "Données progression inférieure",
+        "_p6": "Style progression inférieure",
+
+        "_f20": "Données champ AOD",
+        "_l20": "Étiquette champ AOD",
+
+        "_hc1": "Couleur aiguille heures",
+        "_hc2": "Couleur aiguille heures 2",
+        "_hc3": "Couleur aiguille heures 3 (intérieure)",
+        "_hc4": "Couleur aiguille heures 4 (intérieure)",
+
+        "_mc1": "Couleur aiguille minutes 1 (contour)",
+        "_mc2": "Couleur aiguille minutes 2 (contour)",
+
+        "_mc3": "Couleur aiguille minutes 3 (intérieure)",
+        "_mc4": "Couleur aiguille minutes 4 (intérieure)",
+
+        "_sbg" : "Identique à la couleur d'arrière-plan",
+
+        "_m1": "Couleur marqueur 1",
+        "_m2": "Couleur marqueur 2",
+        
+        "_cp1": "Couleur barre progression supérieure",
+        "_c21": "Couleur barre progression supérieure 2",
+        "_cu1": "Couleur non remplie progression supérieure",
+
+        "_cp2": "Couleur barre progression inférieure",
+        "_c22": "Couleur barre progression inférieure 2",
+        "_cu2": "Couleur non remplie progression inférieure",
+
+        "_bgc": "Couleur d'arrière-plan",
+        "_bgl": "Couleur lignes d'arrière-plan",
+        "_cs": "70% plus foncé",
+        "_cpbs" : "Identique à la barre progression supérieure gauche",
+
+        "_stc" : "Identique à la couleur texte",
+        "_slc" : "Identique à la couleur étiquette",
+
+
+        "_c1": "Couleur données champ supérieur",
+        "_c1l": "Couleur étiquette champ supérieur",
+
+        "_c2": "Couleur données champ gauche",
+        "_c2l": "Couleur étiquette champ gauche",
+
+        "_c3": "Couleur données champ droit",
+        "_c3l": "Couleur étiquette champ droit",
+
+        "_c4": "Couleur données champ inférieur",
+        "_c4l": "Couleur étiquette champ inférieur",
+
+        "_c5": "Couleur données progression supérieure",
+        "_c5l": "Couleur étiquette progression supérieure",
+
+        "_c6": "Couleur données progression inférieure",
+        "_c6l": "Couleur étiquette progression inférieure",
+        "_x4": "Charger le préréglage précédent",
+        "_x3": "Charger le thème couleur précédent",
+
+        "_rst": "Réinitialiser tous les paramètres",
+        "_tr": "👉 RACCOURCIS TACTILES",
+        "_tc": "🎨 COULEURS / ARRIÈRE-PLAN",
+        "_tt": "🔤 POLICES",
+        "_ta": "🖼️ PARAMÈTRES AOD (Affichage permanent)",
+        "_to": "💡 AUTRES",
+        "_tx": "➡️ DÉCALAGES",
+
+        "_o1": "Décalages temps (X, Y, Espacement X, Espacement Y, Y minutes) Défaut: 20",
+        "_o2": "Décalages X champ (haut, gauche, droite, bas, progression 1, progression 2) Défaut: 20",
+        "_o3": "Décalages Y champ (haut, texte gauche, texte droite, bas, progression 1, progression 2, étiquette gauche, étiquette droite) Défaut: 20",
+        "_bdb": "Dessiner arrière-plan chiffres (minutes plus nettes, heures ne transparaissent pas)",
+
+        "_t1": "Police heures",
+        "_t1a": "Police heures AOD",
+        "_t1s": "Taille police heures",
+        "_t2": "Police minutes",
+        "_t2a": "Police minutes AOD",
+        "_t2s": "Taille police minutes",
+
+        "_t3": "Police texte",
+        "_s1": "Taille police texte supérieur",
+        "_s2": "Taille police texte progression",
+        "_s3": "Taille police texte gauche/droite",
+        "_s4": "Taille police texte inférieur",
+    
+        "_fo": "Avec contour (si disponible)",
+        "_fk": "Garder identique",
+        "_fks": "Garder identique, y compris intérieure",
+
+
+        "_pc": "Couleur texte",
+        "_ic": "Couleur étiquette",      
+
+        "_gq": "Qualité dégradé",
+        "_ng": "Pas de dégradé",
+
+        "_0f" : "Afficher progression champ",
+        "_1f" : "Plein",
+        "_2f" : "Vide",
+        "_3f" : "Masquer",
+
+        "_x2": "Charger le thème couleur suivant",
+        
+        "_a1": "Raccourci tactile heure gauche",
+        "_a2": "Raccourci tactile heure droite",
+        "_a3": "Raccourci tactile minute gauche",
+        "_a4": "Raccourci tactile minute droite",
+
+        "_aas": "Secondes toujours actives",
+        "_aod": "Mode AOD (Affichage permanent)",
+        "_aodct": "Couleur teinte temps AOD",
+        "_aodc": "Couleur teinte données AOD",
+        "_aodT": "Luminosité temps AOD",
+        "_aodD": "Luminosité données AOD. Si l'écran s'éteint pendant AOD, réduisez ce nombre. Nombre inférieur = moins de batterie, mais moins lumineux. Voir FAQ)",
+        "_aodS": "Décalage AOD - nombre de pixels de déplacement aléatoire de l'écran par minute pour éviter la brûlure d'écran)",
+        "ad0": "Éteindre l'écran",
+        "ad100": "AOD complet (par défaut)",
+        
+        "ad1": "Heure uniquement",
+        "ad3": "Heure uniquement - mobile",
+        "ad4": "Heure + champ données (sélectionner ci-dessous)",
+        "ad6": "Heure mobile + champ données"
+    }
+}

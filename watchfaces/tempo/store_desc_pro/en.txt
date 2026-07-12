@@ -1,0 +1,30 @@
+Data Rich watchface with unlimited customsations, over 100 datafields and fully optimized for minimal battery usage
+Before buying this watchface, check out the free version first to make sure it is what you want and that you like what it looks like on your watch: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+
+⭐️ MIPS Devices (Fenix 7, Enduro, Forerunner 255, etc) ⭐️
+This watchface is fully optimized for MIPS, but colors can look different as in most pictures, as these are taken on an Amoled device. This watchface has many themes optimized for MIPS and supports MIPS gradients. You can find all the build in themes here: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Resources ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/nexus/manual
+* Free version: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+* Theme List: https://watchface.io/nexus/themes
+* Color Guide: https://watchface.io/docs/color-list
+* Available Datafields: https://watchface.io/docs/datafields
+
+⭐️ Configuration ⭐️
+Note: There are two different places with settings:
+* Garmin IQ App (on your phone go to your device, watchfaces, settings): Configure datafields, colors, and general settings.
+* On-Watch Settings: Access more detailed options like time format, goals, and units directly on the watch by holding the menu button, selecting watchface, and tapping customize.
+
+⭐️ Datafields ⭐️
+All datafields that Garmin currently supplies to third party developers are available, plus extras like Glucose Monitor (CGM) support, Open Weather Map (OWM) and support for other third party apps.
+All available datafields are listed here: https://watchface.io/docs/datafields. Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Can I change the Fenix/Enduro, etc text? ⭐️
+Yes, you can! See here: https://watchface.io/faq/how-to-change-the-fenix-text
+In fact, everything on this watchface can be adjusted to your liking.
+
+*** If you encounter any bugs or issues, please reach out to me by pressing "Contact Developer" instead of using the review system. I can respond to emails promptly, whereas I might not see reviews for several days. ***
+
+* Changelog: https://watchface.io/nexus/changelog

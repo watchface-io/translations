@@ -1,0 +1,46 @@
+{
+    "settings": {
+
+        "_t1": "Hour Font",
+        "_t4": "Minute Font",
+        "_t3": "Text Font",
+        "_t2": "Circle Font",
+
+        "_aas": "Always on seconds",
+        
+        "_bgc": "Background Color",
+        "_bcc": "Circle Background Color",
+
+        "_c1": "Text Color",
+        "_c2": "Circle Text Color",
+        "_ccc": "Circle Unfilled Color",
+
+        "l0" : "Black",
+        "l63" : "White",
+        
+        "_f1": "1. Top Data",
+        "_l1": "1. Top Label",
+        "_f2": "2. Field 2 Data",
+        "_l2": "2. Field 2 Label",
+        "_f3": "3. Field 3 Data",
+        "_l3": "3. Field 3 Label",
+        "_f4": "4. Field 4 Data",
+        "_l4": "4. Field 4 Label",
+        "_f5": "5. Bottom Data",
+        "_l5": "5. Bottom Label",
+        "_f6": "6. Circle Data",
+        "_l6": "6. Circle Label",
+        "_p6": "6. Circle progress Style",
+
+ 
+
+       
+        "_u_24": "12/24h time",
+        "_u_wind": "Wind Unit",
+
+        "_0f" : "Show Field Progress",
+        "_1f" : "Full",
+        "_2f" : "Empty",
+        "_3f" : "Hide"
+    }
+}

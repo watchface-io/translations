@@ -1,0 +1,32 @@
+Quadrante ricco di dati con personalizzazioni illimitate, oltre 100 campi dati e completamente ottimizzato per un consumo minimo della batteria
+
+⭐️ Gratuito vs Pro ⭐️
+Questo quadrante è disponibile gratuitamente con tutte le funzioni di base. Le caratteristiche premium (contrassegnate con [*]) richiedono una Chiave Pro per sbloccare. Puoi acquistare una Chiave Pro qui: https://ko-fi.com/s/3633613c58 o https://watchface.io/nexus, o acquistare la versione PRO qui: https://apps.garmin.com/apps/e3cb3f3d-5587-441e-90c2-43d14118bf3e.
+
+⭐️ Dispositivi MIPS (Fenix 7, Enduro, Forerunner 255, ecc.) ⭐️
+Questo quadrante è completamente ottimizzato per MIPS, ma i colori possono apparire diversi come nella maggior parte delle immagini, poiché queste sono scattate su un dispositivo Amoled. Questo quadrante ha molti temi ottimizzati per MIPS e supporta i gradienti MIPS. Puoi trovare tutti i temi integrati qui: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Risorse ⭐️
+* FAQ: https://watchface.io/faq
+* Manuale: https://watchface.io/nexus/manual
+* Ottenere una chiave PRO: https://ko-fi.com/s/3633613c58 o https://watchface.io/nexus
+* Elenco temi: https://watchface.io/nexus/themes
+* Guida colori: https://watchface.io/docs/color-list
+* Campi dati disponibili: https://watchface.io/docs/datafields
+
+⭐️ Configurazione ⭐️
+Nota: Ci sono due posti diversi con le impostazioni:
+* App Garmin IQ (sul tuo telefono vai al tuo dispositivo, quadranti, impostazioni): Configura campi dati, colori e impostazioni generali.
+* Impostazioni sull'orologio: Accedi a opzioni più dettagliate come formato ora, obiettivi e unità direttamente sull'orologio tenendo premuto il pulsante menu, selezionando quadrante e toccando personalizza.
+
+⭐️ Campi dati ⭐️
+Tutti i campi dati che Garmin attualmente fornisce agli sviluppatori di terze parti sono disponibili, più extra come supporto Monitor Glucosio (CGM), Open Weather Map (OWM) e supporto per altre app di terze parti.
+Tutti i campi dati disponibili sono elencati qui: https://watchface.io/docs/datafields. Alcuni campi dati (come prontezza allenamento o HRV) attualmente non sono disponibili per sviluppatori di terze parti, vedi qui: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Posso cambiare il testo Fenix/Enduro, ecc.? ⭐️
+Sì, puoi! Vedi qui: https://watchface.io/faq/how-to-change-the-fenix-text
+In effetti, tutto su questo quadrante può essere regolato a tuo piacimento.
+
+*** Se incontri bug o problemi, ti prego di contattarmi premendo "Contact Developer" invece di usare il sistema di recensioni. Posso rispondere alle email prontamente, mentre potrei non vedere le recensioni per diversi giorni. ***
+
+* Registro modifiche: https://watchface.io/nexus/changelog

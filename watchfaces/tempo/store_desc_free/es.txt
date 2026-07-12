@@ -1,0 +1,32 @@
+Esfera rica en datos con personalizaciones ilimitadas, más de 100 campos de datos y completamente optimizada para un consumo mínimo de batería
+
+⭐️ Gratis vs Pro ⭐️
+Esta esfera está disponible sin costo con todas las funciones básicas. Las características premium (marcadas con [*]) requieren una Clave Pro para desbloquear. Puede comprar una Clave Pro aquí: https://ko-fi.com/s/3633613c58 o https://watchface.io/nexus, o comprar la versión PRO aquí: https://apps.garmin.com/apps/e3cb3f3d-5587-441e-90c2-43d14118bf3e.
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Esta esfera está completamente optimizada para MIPS, pero los colores pueden verse diferentes como en la mayoría de las imágenes, ya que estas están tomadas en un dispositivo Amoled. Esta esfera tiene muchos temas optimizados para MIPS y soporta gradientes MIPS. Puede encontrar todos los temas integrados aquí: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/nexus/manual
+* Obtener una clave PRO: https://ko-fi.com/s/3633613c58 o https://watchface.io/nexus
+* Lista de temas: https://watchface.io/nexus/themes
+* Guía de colores: https://watchface.io/docs/color-list
+* Campos de datos disponibles: https://watchface.io/docs/datafields
+
+⭐️ Configuración ⭐️
+Nota: Hay dos lugares diferentes con configuraciones:
+* App Garmin IQ (en su teléfono vaya a su dispositivo, esferas, configuraciones): Configure campos de datos, colores y configuraciones generales.
+* Configuraciones en el reloj: Acceda a opciones más detalladas como formato de hora, objetivos y unidades directamente en el reloj manteniendo presionado el botón de menú, seleccionando esfera y tocando personalizar.
+
+⭐️ Campos de datos ⭐️
+Todos los campos de datos que Garmin actualmente suministra a desarrolladores de terceros están disponibles, más extras como soporte para Monitor de Glucosa (CGM), Open Weather Map (OWM) y soporte para otras aplicaciones de terceros.
+Todos los campos de datos disponibles están listados aquí: https://watchface.io/docs/datafields. Algunos campos de datos (como preparación para entrenamiento o HRV) actualmente no están disponibles para desarrolladores de terceros, vea aquí: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ ¿Puedo cambiar el texto Fenix/Enduro, etc.? ⭐️
+¡Sí, puede! Vea aquí: https://watchface.io/faq/how-to-change-the-fenix-text
+De hecho, todo en esta esfera puede ajustarse a su gusto.
+
+*** Si encuentra cualquier error o problema, por favor contácteme presionando "Contact Developer" en lugar de usar el sistema de reseñas. Puedo responder a emails prontamente, mientras que podría no ver reseñas por varios días. ***
+
+* Registro de cambios: https://watchface.io/nexus/changelog

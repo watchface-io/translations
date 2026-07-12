@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Tidsforskyvning (X,Y) Standard: 20",
+        "_o2": "Felt X-forskyvning (Øverst 1, Øverst 2, Midtre V, Midtre H, Midtre, Nederst V, Nederst H, Sirkel V, Sirkel H, Sirkel Bunn) Standard: 20",
+        "_o3": "Felt Y-forskyvning Standard: 20",
+        "_o4": "Etikett Y-forskyvning (Øverst 1, Øverst 2, Midtre, Sirkel V, Sirkel H, Sirkel Bunn) Standard: 20",
+        
+        "_t3": "Tekstskrift",
+        "_s1": "Øverst 1 Skriftstørrelse (Kun skalerbare skrifttyper)",
+        "_s2": "Øverst 2 Skriftstørrelse",
+        "_s3": "Venstre/Høyre Midtre Skriftstørrelse",
+        "_s4": "Midtre Skriftstørrelse",
+        "_s5": "Nederst Venstre/Høyre Skriftstørrelse",
+        "_s6": "Venstre/Høyre Sirkel Skriftstørrelse",
+
+        "_t4": "Nedre Sirkel Skrift",
+        "_s7": "Nedre Sirkel Skriftstørrelse",
+
+        "_70p": "70% Mørkere",
+        "auto": "Automatisk",
+
+   
+        "_cr0b": "Venstre Sirkel Bakgrunnsfarge",
+        "_cr00": "Venstre Sirkel Fremgangsfarge 1",
+        "_cr01": "Venstre Sirkel Fremgangsfarge 2",
+        "_cr02": "Venstre Sirkel Fremgangsfarge 3",
+        "_cr03": "Venstre Sirkel Uutfylt Farge",
+
+        "_cr1b": "Høyre Sirkel Bakgrunnsfarge",
+        "_cr10": "Høyre Sirkel Fremgangsfarge 1",
+        "_cr11": "Høyre Sirkel Fremgangsfarge 2",
+        "_cr12": "Høyre Sirkel Fremgangsfarge 3",
+        "_cr13": "Høyre Sirkel Uutfylt Farge",
+
+        "_cr2b": "Nedre Sirkel Bakgrunnsfarge",
+        "_cr20": "Nedre Sirkel Fremgangsfarge 1",
+        "_cr21": "Nedre Sirkel Fremgangsfarge 2",
+        "_cr22": "Nedre Sirkel Fremgangsfarge 3",
+        "_cr23": "Nedre Sirkel Uutfylt Farge",
+
+         "_8b": "20% Gjennomsiktig Svart",
+
+
+
+        "_dg": "Tidsforløp (Av = Tegn farger separat)",
+        "_hc1": "Timefarge Start",
+        "_hc2": "Timefarge Midtre",
+        "_hc3": "Timefarge Slutt",
+
+
+        "_mc1": "Minuttfarge Start",
+        "_mc2": "Minuttfarge Midtre",
+        "_mc3": "Minuttfarge Slutt",
+
+
+        "_dv1": "Skillelinjefarge Start",
+        "_dv2": "Skillelinjefarge Slutt",
+
+
+        "_tops": "Øverst Stil",
+        "_ts0": "1 Felt Horisontalt",
+        "_ts1": "2 Felt Horisontalt",
+        "_ts2": "2 Felt Vertikalt",
+
+        
+        "_c1": "Øverste Datafarge",
+        "_c1l": "Øverste Etikettfarge",
+
+        "_c2": "Øverst 2 Datafarge",
+        "_c2l": "Øverst 2 Etikettfarge",
+
+        "_c3": "Venstre Datafarge",
+        "_c4": "Høyre Datafarge",
+
+        "_c5": "Midtre Datafarge",
+        "_c5l": "Midtre Etikettfarge",
+
+        "_c6": "Nederst Venstre Datafarge",
+        "_c7": "Nederst Høyre Datafarge",
+
+        "_c10": "Venstre Sirkel Datafarge",
+        "_c10l": "Venstre Sirkel Etikettfarge",
+        "_c11": "Høyre Sirkel Datafarge",
+        "_c11l": "Høyre Sirkel Etikettfarge",
+        "_c12": "Nedre Sirkel Datafarge",
+        "_c12l": "Nedre Sirkel Etikettfarge",
+
+        "_csc": "Statusikonfarger",
+
+        
+    
+
+        "_f1": "1. Øverste Data",
+        "_l1": "1. Øverste Etikett",
+
+        "_f2": "2. Øverst 2 Data",
+        "_l2": "2. Øverst 2 Etikett",
+
+        "_f3": "3. Midtre Venstre",
+        "_f4": "4. Midtre Høyre",
+
+        "_f5": "5. Midtre Data",
+        "_l5": "5. Midtre Etikett",
+       
+        "_f6": "6. Nederst Venstre Data",
+        "_f7": "6. Nederst Høyre Data",
+
+        "_f10": "7. Sirkel Venstre Data",
+        "_l10": "7. Sirkel Venstre Etikett",
+        "_p10": "7. Sirkel Venstre Fremgang Data",
+        "_cs10": "7. Sirkel Venstre Fremgang Stil",
+        "_cg10": "7. Sirkel Venstre Segmentmellomrom",
+
+        "_f11": "8. Sirkel Høyre Data",
+        "_l11": "8. Sirkel Høyre Etikett",
+        "_p11": "8. Sirkel Høyre Fremgang Data",
+        "_cs11": "8. Sirkel Høyre Fremgang Stil",
+        "_cg11": "8. Sirkel Høyre Segmentmellomrom",
+
+        "_f12": "9. Sirkel Bunn Data",
+        "_l12": "9. Sirkel Bunn Etikett",
+        "_p12": "9. Sirkel Bunn Fremgang Data",
+        "_cs12": "9. Sirkel Bunn Fremgang Stil",
+        "_cg12": "9. Sirkel Bunn Segmentmellomrom",
+
+        "_a1": "Berøringsgenvei Time",
+        "_a2": "Berøringsgenvei Midtre",
+        "_a3": "Berøringsgenvei Minutt",
+
+        "_layout": "Oppsett",
+        "_si": "Vis Statusikonener (Se FAQ)",
+        "_o5": "Statusikonposisjoner % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Deaktiver: -1, Standard: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Bakgrunnsbilde",
+        "bg0": "Ingen Bakgrunnsbilde",
+        "bg1": "Topo",
+        "bg2": "Heksagonmønster",
+
+
+        "_md1": "Markør 1 Data",
+        "_md2": "Markør 2 Data",
+
+
+        "_bd1": "Urskive 5-minutters markeringsstørrelse",
+        "_bd2": "Urskive 1-minutt markeringsstørrelse",
+        "_dc1": "Urskive 5-minutters markeringsfarge",
+        "_dc2": "Urskive 1-minutt markeringsfarge",
+
+        "_ps0": "Normal Urskive",
+        "_ps1": "Full Fremgang",
+        "_ps2": "Sekundmarkeringer som Fremgang",
+
+        "_rainbow": "Regnbuefarger",
+        "_xmas": "Julefarger",
+
+
+
+
+        "_f20": "AOD Felt Data",
+        "_l20": "AOD Felt Etikett",
+
+
+        "_sbg" : "Samme som Bakgrunnsfarge",
+
+        "_m1": "Markør 1 Farge",
+        "_m2": "Markør 2 Farge",
+        
+        "_bgc": "Bakgrunn Hovedfarge",
+        "_bgg1": "Bakgrunnsgradient Farge Start",
+        "_bgg2": "Bakgrunnsgradient Farge Midtre",
+        "_bgg3": "Bakgrunnsgradient Farge Slutt",
+
+        "_cs": "70% Mørkere",
+        "_cpbs" : "Samme som Øverste Fremdriftslinje",
+
+        "_stc" : "Samme som Tekstfarge",
+        "_slc" : "Samme som Etikettfarge",
+
+        "_x4": "Last inn forrige forhåndsinnstilling",
+        "_x3": "Last inn forrige fargetema",
+
+        "_rst": "Tilbakestill alle innstillinger",
+        "_tr": "👉 BERØRINGSGENVEIER",
+        "_tc": "🎨 FARGER / BAKGRUNN",
+        "_tt": "🔤 SKRIFTTYPER",
+        "_ta": "🖼️ AOD-INNSTILLINGER (Always on Display)",
+        "_to": "💡 ANNET",
+        "_tx": "➡️ FORSKYVNINGER",
+
+
+        "_t1": "Tidsskrift",
+        "_t1a": "Tidsskrift AOD",
+        "_t1s": "Tidsskriftstørrelse",
+
+
+        "_fo": "Omrisset (Hvis tilgjengelig)",
+        "_fk": "Behold det samme",
+
+        "_pc": "Tekstfarge",
+        "_ic": "Etikettfarge",      
+
+        "_0f" : "Vis Feltfremgang",
+        "_1f" : "Full",
+        "_2f" : "Tom",
+        "_3f" : "Skjul",
+
+        "_x2": "Last inn neste fargetema",
+
+        "_aas": "Alltid sekunder på",
+        "_aod": "AOD-modus (Always on Display)",
+       
+        "_aodc": "AOD Data Fargetone",
+        "_aodT": "AOD Tidslysstyrke",
+        "_aodD": "AOD Datalysstyrke (Hvis skjermen slås av under AOD, senk dette tallet. Lavere tall = mindre batteribruk men mindre lyst. Se FAQ)",
+        "_aodS": "AOD-forskyvning (Antall piksler skjermen tilfeldig forskyves per minutt for å forhindre innbrenning)",
+        "ad0": "Slå av skjermen",
+        "ad100": "Full AOD (Standard)",
+        "ad101": "Full AOD, separat tid/data-lysstyrke",
+        
+        "ad1": "Kun Tid",
+        "ad3": "Kun Tid - Bevegelig",
+        "ad4": "Tid + datafelt (Velg nedenfor)",
+        "ad6": "Bevegelig Tid + datafelt"
+    },
+    "menu" : {
+        "_tf": "Tidsskrift"
+    }
+
+}

@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Markeri 1 andmed",
+        "_md2": "Markeri 2 andmed",
+
+        "_f1": "Ülemine välja andmed",
+        "_l1": "Ülemine välja silt",
+
+        "_f2": "Vasak välja andmed",
+        "_l2": "Vasak välja silt",
+
+        "_f3": "Parem välja andmed",
+        "_l3": "Parem välja silt",
+
+        "_f4": "Alumine välja andmed",
+        "_l4": "Alumine välja silt",
+
+        "_f5": "Ülemine edu andmed",
+        "_p5": "Ülemine edu stiil",
+
+        "_f6": "Alumine edu andmed",
+        "_p6": "Alumine edu stiil",
+
+        "_f20": "AOD välja andmed",
+        "_l20": "AOD välja silt",
+
+        "_hc1": "Tunni värv",
+        "_hc2": "Tunni värv 2",
+        "_hc3": "Tunni värv 3 (sisemine)",
+        "_hc4": "Tunni värv 4 (sisemine)",
+
+        "_mc1": "Minuti värv 1 (kontuur)",
+        "_mc2": "Minuti värv 2 (kontuur)",
+
+        "_mc3": "Minuti värv 3 (sisemine)",
+        "_mc4": "Minuti värv 4 (sisemine)",
+
+        "_sbg" : "Sama kui tausta värv",
+
+        "_m1": "Markeri 1 värv",
+        "_m2": "Markeri 2 värv",
+        
+        "_cp1": "Ülemine edu värv",
+        "_c21": "Ülemine edu värv 2",
+        "_cu1": "Ülemine edu värv täitmata",
+
+        "_cp2": "Alumine edu värv",
+        "_c22": "Alumine edu värv 2",
+        "_cu2": "Alumine edu värv täitmata",
+
+        "_bgc": "Tausta värv",
+        "_bgl": "Tausta joonte värv",
+        "_cs": "70% tumedam",
+        "_cpbs" : "Sama kui vasak ülemine edenemisjoon",
+
+        "_stc" : "Sama kui teksti värv",
+        "_slc" : "Sama kui sildi värv",
+
+
+        "_c1": "Ülemine välja andmete värv",
+        "_c1l": "Ülemine välja sildi värv",
+
+        "_c2": "Vasak välja andmete värv",
+        "_c2l": "Vasak välja sildi värv",
+
+        "_c3": "Parem välja andmete värv",
+        "_c3l": "Parem välja sildi värv",
+
+        "_c4": "Alumine välja andmete värv",
+        "_c4l": "Alumine välja sildi värv",
+
+        "_c5": "Ülemine edu andmete värv",
+        "_c5l": "Ülemine edu sildi värv",
+
+        "_c6": "Alumine edu andmete värv",
+        "_c6l": "Alumine edu sildi värv",
+        "_x4": "Laadi eelmine eelseadistus",
+        "_x3": "Laadi eelmine värviteema",
+
+        "_rst": "Lähtesta kõik seaded",
+        "_tr": "👉 PUUDUTUSE OTSETEED",
+        "_tc": "🎨 VÄRVID / TAUST",
+        "_tt": "🔤 FONDID",
+        "_ta": "🖼️ AOD SEADED (Alati sees ekraan)",
+        "_to": "💡 MUU",
+        "_tx": "➡️ NIHKED",
+
+        "_o1": "Aja nihked (X, Y, X vahe, Y vahe, Y minutid) Vaikimisi: 20",
+        "_o2": "Välja X nihked (ülemine, vasak, parem, alumine, edu 1, edu 2) Vaikimisi: 20",
+        "_o3": "Välja Y nihked (ülemine, vasak tekst, parem tekst, alumine, edu 1, edu 2, vasak silt, parem silt) Vaikimisi: 20",
+        "_bdb": "Joonista numbrite taust (teravamad minutid, tunnid ei ole taga nähtavad)",
+
+        "_t1": "Tunni font",
+        "_t1a": "Tunni font AOD",
+        "_t1s": "Tunni fondi suurus",
+        "_t2": "Minuti font",
+        "_t2a": "Minuti font AOD",
+        "_t2s": "Minuti fondi suurus",
+
+        "_t3": "Teksti font",
+        "_s1": "Ülemine teksti fondi suurus",
+        "_s2": "Edu teksti fondi suurus",
+        "_s3": "Vasak/parem teksti fondi suurus",
+        "_s4": "Alumine teksti fondi suurus",
+    
+        "_fo": "Kontuuriga (kui saadaval)",
+        "_fk": "Hoia samana",
+        "_fks": "Hoia samana, kaasa arvatud sisemine",
+
+
+        "_pc": "Teksti värv",
+        "_ic": "Sildi värv",      
+
+        "_gq": "Gradiendi kvaliteet",
+        "_ng": "Gradient puudub",
+
+        "_0f" : "Näita välja edenemist",
+        "_1f" : "Täis",
+        "_2f" : "Tühi",
+        "_3f" : "Peida",
+
+        "_x2": "Laadi järgmine värviteema",
+        
+        "_a1": "Puudutuse otsetee tund vasak",
+        "_a2": "Puudutuse otsetee tund parem",
+        "_a3": "Puudutuse otsetee minut vasak",
+        "_a4": "Puudutuse otsetee minut parem",
+
+        "_aas": "Alati sees sekundid",
+        "_aod": "AOD režiim (Alati sees ekraan)",
+        "_aodct": "AOD aja toon värv",
+        "_aodc": "AOD andmete toon värv",
+        "_aodT": "AOD aja heledus",
+        "_aodD": "AOD andmete heledus. Kui ekraan lülitub AOD ajal välja, vähenda seda numbrit. Madalam number = vähem akukasutust, kuid vähem hele. Vaata KKK)",
+        "_aodS": "AOD nihe - pikslite arv, mille võrra ekraan juhuslikult minutis nihkub, et vältida sissepõlemist)",
+        "ad0": "Lülita ekraan välja",
+        "ad100": "Täis AOD (vaikimisi)",
+        
+        "ad1": "Ainult aeg",
+        "ad3": "Ainult aeg - liikuv",
+        "ad4": "Aeg + andmeväli (vali allpool)",
+        "ad6": "Liikuv aeg + andmeväli"
+    }
+}

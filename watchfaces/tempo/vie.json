@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Dữ Liệu Điểm Đánh Dấu 1",
+        "_md2": "Dữ Liệu Điểm Đánh Dấu 2",
+
+        "_f1": "Dữ Liệu Trường Trên",
+        "_l1": "Nhãn Trường Trên",
+
+        "_f2": "Dữ Liệu Trường Trái",
+        "_l2": "Nhãn Trường Trái",
+
+        "_f3": "Dữ Liệu Trường Phải",
+        "_l3": "Nhãn Trường Phải",
+
+        "_f4": "Dữ Liệu Trường Dưới",
+        "_l4": "Nhãn Trường Dưới",
+
+        "_f5": "Dữ Liệu Tiến Trình Trên",
+        "_p5": "Kiểu Tiến Trình Trên",
+
+        "_f6": "Dữ Liệu Tiến Trình Dưới",
+        "_p6": "Kiểu Tiến Trình Dưới",
+
+        "_f20": "Dữ Liệu Trường AOD",
+        "_l20": "Nhãn Trường AOD",
+
+        "_hc1": "Màu Giờ",
+        "_hc2": "Màu Giờ 2",
+        "_hc3": "Màu Giờ 3 (Bên Trong)",
+        "_hc4": "Màu Giờ 4 (Bên Trong)",
+
+        "_mc1": "Màu Phút 1 (Viền)",
+        "_mc2": "Màu Phút 2 (Viền)",
+
+        "_mc3": "Màu Phút 3 (Bên Trong)",
+        "_mc4": "Màu Phút 4 (Bên Trong)",
+
+        "_sbg" : "Giống Màu Nền",
+
+        "_m1": "Màu Điểm Đánh Dấu 1",
+        "_m2": "Màu Điểm Đánh Dấu 2",
+        
+        "_cp1": "Màu Tiến Trình Trên",
+        "_c21": "Màu Tiến Trình Trên 2",
+        "_cu1": "Màu Tiến Trình Trên Chưa Đầy",
+
+        "_cp2": "Màu Tiến Trình Dưới",
+        "_c22": "Màu Tiến Trình Dưới 2",
+        "_cu2": "Màu Tiến Trình Dưới Chưa Đầy",
+
+        "_bgc": "Màu Nền",
+        "_bgl": "Màu Đường Nền",
+        "_cs": "Tối Hơn 70%",
+        "_cpbs" : "Giống Thanh Tiến Trình Trên Trái",
+
+        "_stc" : "Giống Màu Văn Bản",
+        "_slc" : "Giống Màu Nhãn",
+
+
+        "_c1": "Màu Dữ Liệu Trường Trên",
+        "_c1l": "Màu Nhãn Trường Trên",
+
+        "_c2": "Màu Dữ Liệu Trường Trái",
+        "_c2l": "Màu Nhãn Trường Trái",
+
+        "_c3": "Màu Dữ Liệu Trường Phải",
+        "_c3l": "Màu Nhãn Trường Phải",
+
+        "_c4": "Màu Dữ Liệu Trường Dưới",
+        "_c4l": "Màu Nhãn Trường Dưới",
+
+        "_c5": "Màu Dữ Liệu Tiến Trình Trên",
+        "_c5l": "Màu Nhãn Tiến Trình Trên",
+
+        "_c6": "Màu Dữ Liệu Tiến Trình Dưới",
+        "_c6l": "Màu Nhãn Tiến Trình Dưới",
+        "_x4": "Tải Cài Đặt Trước Trước",
+        "_x3": "Tải Chủ Đề Màu Trước",
+
+        "_rst": "Đặt lại tất cả cài đặt",
+        "_tr": "👉 PHÍM TẮT CẢM ỨNG",
+        "_tc": "🎨 MÀU SẮC / NỀN",
+        "_tt": "🔤 PHÔNG CHỮ",
+        "_ta": "🖼️ CÀI ĐẶT AOD (Màn Hình Luôn Bật)",
+        "_to": "💡 KHÁC",
+        "_tx": "➡️ OFFSET",
+
+        "_o1": "Offset Thời Gian (X, Y, Khoảng Cách X, Khoảng Cách Y, Y Phút) Mặc Định: 20",
+        "_o2": "Offset X Trường (Trên, Trái, Phải, Dưới, Tiến Trình 1, Tiến Trình 2) Mặc Định: 20",
+        "_o3": "Offset Y Trường (Trên, Văn Bản Trái, Văn Bản Phải, Dưới, Tiến Trình 1, Tiến Trình 2, Nhãn Trái, Nhãn Phải) Mặc Định: 20",
+        "_bdb": "Vẽ nền số (phút sắc nét hơn, giờ không nhìn thấy phía sau)",
+
+        "_t1": "Phông Chữ Giờ",
+        "_t1a": "Phông Chữ Giờ AOD",
+        "_t1s": "Kích Thước Phông Chữ Giờ",
+        "_t2": "Phông Chữ Phút",
+        "_t2a": "Phông Chữ Phút AOD",
+        "_t2s": "Kích Thước Phông Chữ Phút",
+
+        "_t3": "Phông Chữ Văn Bản",
+        "_s1": "Kích Thước Phông Chữ Văn Bản Trên",
+        "_s2": "Kích Thước Phông Chữ Văn Bản Tiến Trình",
+        "_s3": "Kích Thước Phông Chữ Văn Bản Trái/Phải",
+        "_s4": "Kích Thước Phông Chữ Văn Bản Dưới",
+    
+        "_fo": "Có Viền (Nếu có)",
+        "_fk": "Giữ nguyên",
+        "_fks": "Giữ nguyên, bao gồm Bên Trong",
+
+
+        "_pc": "Màu văn bản",
+        "_ic": "Màu nhãn",      
+
+        "_gq": "Chất Lượng Gradient",
+        "_ng": "Không Gradient",
+
+        "_0f" : "Hiển Thị Tiến Trình Trường",
+        "_1f" : "Đầy",
+        "_2f" : "Trống",
+        "_3f" : "Ẩn",
+
+        "_x2": "Tải Chủ Đề Màu Tiếp Theo",
+        
+        "_a1": "Phím tắt cảm ứng Giờ Trái",
+        "_a2": "Phím tắt cảm ứng Giờ Phải",
+        "_a3": "Phím tắt cảm ứng Phút Trái",
+        "_a4": "Phím tắt cảm ứng Phút Phải",
+
+        "_aas": "Giây luôn bật",
+        "_aod": "Chế Độ AOD (Màn Hình Luôn Bật)",
+        "_aodct": "Màu Tông Thời Gian AOD",
+        "_aodc": "Màu Tông Dữ Liệu AOD",
+        "_aodT": "Độ Sáng Thời Gian AOD",
+        "_aodD": "Độ Sáng Dữ Liệu AOD. Nếu màn hình tắt trong AOD, hãy giảm số này. Số thấp hơn = ít sử dụng pin hơn nhưng kém sáng hơn. Xem FAQ)",
+        "_aodS": "Dịch Chuyển AOD - số pixel màn hình dịch chuyển ngẫu nhiên mỗi phút để ngăn cháy màn hình)",
+        "ad0": "Tắt Màn Hình",
+        "ad100": "AOD Đầy Đủ (Mặc Định)",
+        
+        "ad1": "Chỉ Thời Gian",
+        "ad3": "Chỉ Thời Gian - Di Chuyển",
+        "ad4": "Thời Gian + trường dữ liệu (Chọn Bên Dưới)",
+        "ad6": "Thời Gian Di Chuyển + trường dữ liệu"
+    }
+}

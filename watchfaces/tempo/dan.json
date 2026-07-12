@@ -1,0 +1,145 @@
+{
+    "settings": {
+
+        "_md1": "Markør 1 data",
+        "_md2": "Markør 2 data",
+
+        "_f1": "Øverste felt data",
+        "_l1": "Øverste felt etiket",
+
+        "_f2": "Venstre felt data",
+        "_l2": "Venstre felt etiket",
+
+        "_f3": "Højre felt data",
+        "_l3": "Højre felt etiket",
+
+        "_f4": "Nederste felt data",
+        "_l4": "Nederste felt etiket",
+
+        "_f5": "Øverste fremskridt data",
+        "_p5": "Øverste fremskridt stil",
+
+        "_f6": "Nederste fremskridt data",
+        "_p6": "Nederste fremskridt stil",
+
+        "_f20": "AOD felt data",
+        "_l20": "AOD felt etiket",
+
+        "_hc1": "Time farve",
+        "_hc2": "Time farve 2",
+        "_hc3": "Time farve 3 (indre)",
+        "_hc4": "Time farve 4 (indre)",
+
+        "_mc1": "Minut farve 1 (kontur)",
+        "_mc2": "Minut farve 2 (kontur)",
+
+        "_mc3": "Minut farve 3 (indre)",
+        "_mc4": "Minut farve 4 (indre)",
+
+        "_sbg" : "Samme som baggrundsfarve",
+
+        "_m1": "Markør 1 farve",
+        "_m2": "Markør 2 farve",
+        
+        "_cp1": "Øverste fremskridt farve",
+        "_c21": "Øverste fremskridt farve 2",
+        "_cu1": "Øverste fremskridt farve uudfyldt",
+
+        "_cp2": "Nederste fremskridt farve",
+        "_c22": "Nederste fremskridt farve 2",
+        "_cu2": "Nederste fremskridt farve uudfyldt",
+
+        "_bgc": "Baggrundsfarve",
+        "_bgl": "Baggrundslinjer farve",
+        "_cs": "70% mørkere",
+        "_cpbs" : "Samme som venstre øverste fremskridtslinje",
+
+        "_stc" : "Samme som tekstfarve",
+        "_slc" : "Samme som etiketfarve",
+
+
+        "_c1": "Øverste felt data farve",
+        "_c1l": "Øverste felt etiket farve",
+
+        "_c2": "Venstre felt data farve",
+        "_c2l": "Venstre felt etiket farve",
+
+        "_c3": "Højre felt data farve",
+        "_c3l": "Højre felt etiket farve",
+
+        "_c4": "Nederste felt data farve",
+        "_c4l": "Nederste felt etiket farve",
+
+        "_c5": "Øverste fremskridt data farve",
+        "_c5l": "Øverste fremskridt etiket farve",
+
+        "_c6": "Nederste fremskridt data farve",
+        "_c6l": "Nederste fremskridt etiket farve",
+        "_x4": "Indlæs forrige forudindstilling",
+        "_x3": "Indlæs forrige farvetema",
+
+        "_rst": "Nulstil alle indstillinger",
+        "_tr": "👉 BERØRINGSGENVEJE",
+        "_tc": "🎨 FARVER / BAGGRUND",
+        "_tt": "🔤 SKRIFTTYPER",
+        "_ta": "🖼️ AOD INDSTILLINGER (Altid tændt display)",
+        "_to": "💡 ANDET",
+        "_tx": "➡️ FORSKYDNINGER",
+
+        "_o1": "Tidsforskydninger (X, Y, X afstand, Y afstand, Y minutter) Standard: 20",
+        "_o2": "Felt X forskydninger (øverst, venstre, højre, nederst, fremskridt 1, fremskridt 2) Standard: 20",
+        "_o3": "Felt Y forskydninger (øverst, venstre tekst, højre tekst, nederst, fremskridt 1, fremskridt 2, venstre etiket, højre etiket) Standard: 20",
+        "_bdb": "Tegn tal baggrund (skarpere minutter, timer ikke synlige bagved)",
+
+        "_t1": "Time skrifttype",
+        "_t1a": "Time skrifttype AOD",
+        "_t1s": "Time skriftstørrelse",
+        "_t2": "Minut skrifttype",
+        "_t2a": "Minut skrifttype AOD",
+        "_t2s": "Minut skriftstørrelse",
+
+        "_t3": "Tekst skrifttype",
+        "_s1": "Øverste tekst skriftstørrelse",
+        "_s2": "Fremskridt tekst skriftstørrelse",
+        "_s3": "Venstre/højre tekst skriftstørrelse",
+        "_s4": "Nederste tekst skriftstørrelse",
+    
+        "_fo": "Kontureret (hvis tilgængeligt)",
+        "_fk": "Behold det samme",
+        "_fks": "Behold det samme, inklusive indre",
+
+
+        "_pc": "Tekstfarve",
+        "_ic": "Etiketfarve",      
+
+        "_gq": "Gradient kvalitet",
+        "_ng": "Ingen gradient",
+
+        "_0f" : "Vis felt fremskridt",
+        "_1f" : "Fuld",
+        "_2f" : "Tom",
+        "_3f" : "Skjul",
+
+        "_x2": "Indlæs næste farvetema",
+        
+        "_a1": "Berøringsgenvej time venstre",
+        "_a2": "Berøringsgenvej time højre",
+        "_a3": "Berøringsgenvej minut venstre",
+        "_a4": "Berøringsgenvej minut højre",
+
+        "_aas": "Altid tændte sekunder",
+        "_aod": "AOD tilstand (Altid tændt display)",
+        "_aodct": "AOD tid nuance farve",
+        "_aodc": "AOD data nuance farve",
+        "_aodT": "AOD tid lysstyrke",
+        "_aodD": "AOD data lysstyrke. Hvis skærmen slukker under AOD, sænk dette tal. Lavere tal = mindre batteriforbrug, men mindre lysstyrke. Se FAQ)",
+        "_aodS": "AOD forskydning - antal pixels skærmen tilfældigt forskyder pr. minut for at forhindre indbrænding)",
+        "ad0": "Sluk skærm",
+        "ad100": "Fuld AOD (standard)",
+        
+        "ad1": "Kun tid",
+        "ad3": "Kun tid - bevægende",
+        "ad4": "Tid + datafelt (vælg nedenfor)",
+        "ad6": "Bevægende tid + datafelt"
+    }
+}

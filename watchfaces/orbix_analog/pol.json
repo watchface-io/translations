@@ -1,0 +1,230 @@
+{
+    "settings": {
+
+        "_o1": "Przesunięcie czasu (X,Y) Domyślnie: 20",
+        "_o2": "Przesunięcie X pola (Górny 1, Górny 2, Środek L, Środek P, Środek, Dolny L, Dolny P, Okrąg L, Okrąg P, Okrąg Dół) Domyślnie: 20",
+        "_o3": "Przesunięcie Y pola Domyślnie: 20",
+        "_o4": "Przesunięcie Y etykiety (Górny 1, Górny 2, Środek, Okrąg L, Okrąg P, Okrąg Dół) Domyślnie: 20",
+        
+        "_t3": "Czcionka tekstu",
+        "_s1": "Górny 1 Rozmiar czcionki (Tylko czcionki skalowalne)",
+        "_s2": "Górny 2 Rozmiar czcionki",
+        "_s3": "Lewy/Prawy Środek Rozmiar czcionki",
+        "_s4": "Środek Rozmiar czcionki",
+        "_s5": "Dolny Lewy/Prawy Rozmiar czcionki",
+        "_s6": "Lewy/Prawy Okrąg Rozmiar czcionki",
+
+        "_t4": "Dolny Okrąg Czcionka",
+        "_s7": "Dolny Okrąg Rozmiar czcionki",
+
+        "_70p": "70% Ciemniejszy",
+        "auto": "Automatyczny",
+
+   
+        "_cr0b": "Lewy Okrąg Kolor tła",
+        "_cr00": "Lewy Okrąg Kolor postępu 1",
+        "_cr01": "Lewy Okrąg Kolor postępu 2",
+        "_cr02": "Lewy Okrąg Kolor postępu 3",
+        "_cr03": "Lewy Okrąg Kolor niewypełniony",
+
+        "_cr1b": "Prawy Okrąg Kolor tła",
+        "_cr10": "Prawy Okrąg Kolor postępu 1",
+        "_cr11": "Prawy Okrąg Kolor postępu 2",
+        "_cr12": "Prawy Okrąg Kolor postępu 3",
+        "_cr13": "Prawy Okrąg Kolor niewypełniony",
+
+        "_cr2b": "Dolny Okrąg Kolor tła",
+        "_cr20": "Dolny Okrąg Kolor postępu 1",
+        "_cr21": "Dolny Okrąg Kolor postępu 2",
+        "_cr22": "Dolny Okrąg Kolor postępu 3",
+        "_cr23": "Dolny Okrąg Kolor niewypełniony",
+
+         "_8b": "20% Przezroczysta Czerń",
+
+
+
+        "_dg": "Gradient czasu (Wył. = Rysuj kolory osobno)",
+        "_hc1": "Kolor godzin Początek",
+        "_hc2": "Kolor godzin Środek",
+        "_hc3": "Kolor godzin Koniec",
+
+
+        "_mc1": "Kolor minut Początek",
+        "_mc2": "Kolor minut Środek",
+        "_mc3": "Kolor minut Koniec",
+
+
+        "_dv1": "Kolor separatora Początek",
+        "_dv2": "Kolor separatora Koniec",
+
+
+        "_tops": "Górny styl",
+        "_ts0": "1 pole Poziomo",
+        "_ts1": "2 pola Poziomo",
+        "_ts2": "2 pola Pionowo",
+
+        
+        "_c1": "Górny Kolor danych",
+        "_c1l": "Górny Kolor etykiety",
+
+        "_c2": "Górny 2 Kolor danych",
+        "_c2l": "Górny 2 Kolor etykiety",
+
+        "_c3": "Lewy Kolor danych",
+        "_c4": "Prawy Kolor danych",
+
+        "_c5": "Środek Kolor danych",
+        "_c5l": "Środek Kolor etykiety",
+
+        "_c6": "Dolny Lewy Kolor danych",
+        "_c7": "Dolny Prawy Kolor danych",
+
+        "_c10": "Lewy Okrąg Kolor danych",
+        "_c10l": "Lewy Okrąg Kolor etykiety",
+        "_c11": "Prawy Okrąg Kolor danych",
+        "_c11l": "Prawy Okrąg Kolor etykiety",
+        "_c12": "Dolny Okrąg Kolor danych",
+        "_c12l": "Dolny Okrąg Kolor etykiety",
+
+        "_csc": "Kolor ikon statusu",
+
+        
+    
+
+        "_f1": "1. Górne Dane",
+        "_l1": "1. Górna Etykieta",
+
+        "_f2": "2. Górny 2 Dane",
+        "_l2": "2. Górny 2 Etykieta",
+
+        "_f3": "3. Środek Lewy",
+        "_f4": "4. Środek Prawy",
+
+        "_f5": "5. Środek Dane",
+        "_l5": "5. Środek Etykieta",
+       
+        "_f6": "6. Dolny Lewy Dane",
+        "_f7": "6. Dolny Prawy Dane",
+
+        "_f10": "7. Okrąg Lewy Dane",
+        "_l10": "7. Okrąg Lewy Etykieta",
+        "_p10": "7. Okrąg Lewy Postęp Dane",
+        "_cs10": "7. Okrąg Lewy Postęp Styl",
+        "_cg10": "7. Okrąg Lewy Przerwa segmentu",
+
+        "_f11": "8. Okrąg Prawy Dane",
+        "_l11": "8. Okrąg Prawy Etykieta",
+        "_p11": "8. Okrąg Prawy Postęp Dane",
+        "_cs11": "8. Okrąg Prawy Postęp Styl",
+        "_cg11": "8. Okrąg Prawy Przerwa segmentu",
+
+        "_f12": "9. Okrąg Dół Dane",
+        "_l12": "9. Okrąg Dół Etykieta",
+        "_p12": "9. Okrąg Dół Postęp Dane",
+        "_cs12": "9. Okrąg Dół Postęp Styl",
+        "_cg12": "9. Okrąg Dół Przerwa segmentu",
+
+        "_a1": "Skrót dotykowy Godzina",
+        "_a2": "Skrót dotykowy Środek",
+        "_a3": "Skrót dotykowy Minuta",
+
+        "_layout": "Układ",
+        "_si": "Rysuj ikony statusu (Zobacz FAQ)",
+        "_o5": "Pozycje ikon statusu % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Wyłącz: -1, Domyślnie: 90,34, 90,66, 10,34, 10,66",
+
+        "_bgi": "Obraz tła",
+        "bg0": "Brak obrazu tła",
+        "bg1": "Topo",
+        "bg2": "Wzór sześciokątny",
+
+
+        "_md1": "Znacznik 1 Dane",
+        "_md2": "Znacznik 2 Dane",
+
+
+        "_bd1": "Tarcza znaczniki 5 minut rozmiar",
+        "_bd2": "Tarcza znaczniki 1 minuta rozmiar",
+        "_dc1": "Tarcza znaczniki 5 minut kolor",
+        "_dc2": "Tarcza znaczniki 1 minuta kolor",
+
+        "_ps0": "Zwykła tarcza",
+        "_ps1": "Pełny postęp",
+        "_ps2": "Znaczniki sekund jako postęp",
+
+        "_rainbow": "Kolory tęczy",
+        "_xmas": "Kolory bożonarodzeniowe",
+
+
+
+
+        "_f20": "AOD Pole Dane",
+        "_l20": "AOD Pole Etykieta",
+
+
+        "_sbg" : "Tak samo jak kolor tła",
+
+        "_m1": "Znacznik 1 Kolor",
+        "_m2": "Znacznik 2 Kolor",
+        
+        "_bgc": "Tło Główny kolor",
+        "_bgg1": "Tło Kolor gradientu Początek",
+        "_bgg2": "Tło Kolor gradientu Środek",
+        "_bgg3": "Tło Kolor gradientu Koniec",
+
+        "_cs": "70% Ciemniejszy",
+        "_cpbs" : "Tak samo jak górny pasek postępu",
+
+        "_stc" : "Tak samo jak kolor tekstu",
+        "_slc" : "Tak samo jak kolor etykiety",
+
+        "_x4": "Załaduj poprzednie ustawienie wstępne",
+        "_x3": "Załaduj poprzedni motyw kolorów",
+
+        "_rst": "Resetuj wszystkie ustawienia",
+        "_tr": "👉 SKRÓTY DOTYKOWE",
+        "_tc": "🎨 KOLORY / TŁO",
+        "_tt": "🔤 CZCIONKI",
+        "_ta": "🖼️ USTAWIENIA AOD (Always on Display)",
+        "_to": "💡 INNE",
+        "_tx": "➡️ PRZESUNIĘCIA",
+
+
+        "_t1": "Czcionka czasu",
+        "_t1a": "Czcionka czasu AOD",
+        "_t1s": "Rozmiar czcionki czasu",
+
+
+        "_fo": "Z konturem (Jeśli dostępne)",
+        "_fk": "Zachowaj to samo",
+
+        "_pc": "Kolor tekstu",
+        "_ic": "Kolor etykiety",      
+
+        "_0f" : "Pokaż postęp pola",
+        "_1f" : "Pełny",
+        "_2f" : "Pusty",
+        "_3f" : "Ukryj",
+
+        "_x2": "Załaduj następny motyw kolorów",
+
+        "_aas": "Sekundy zawsze widoczne",
+        "_aod": "Tryb AOD (Always on Display)",
+       
+        "_aodc": "AOD Kolor odcienia danych",
+        "_aodT": "AOD Jasność czasu",
+        "_aodD": "AOD Jasność danych (Jeśli ekran wyłącza się podczas AOD, zmniejsz tę liczbę. Niższa liczba = mniejsze zużycie baterii, ale mniej jasny. Zobacz FAQ)",
+        "_aodS": "AOD Przesunięcie (Liczba pikseli, o które ekran losowo przesuwa się na minutę, aby zapobiec wypaleniu)",
+        "ad0": "Wyłącz ekran",
+        "ad100": "Pełne AOD (Domyślnie)",
+        "ad101": "Pełne AOD, oddzielna jasność czasu/danych",
+        
+        "ad1": "Tylko Czas",
+        "ad3": "Tylko Czas - Ruchomy",
+        "ad4": "Czas + pole danych (Wybierz poniżej)",
+        "ad6": "Ruchomy Czas + pole danych"
+    },
+    "menu" : {
+        "_tf": "Czcionka czasu"
+    }
+
+}

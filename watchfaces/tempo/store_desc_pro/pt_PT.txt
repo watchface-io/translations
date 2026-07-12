@@ -1,0 +1,32 @@
+Mostrador rico em dados com personalizações ilimitadas, mais de 100 campos de dados e totalmente otimizado para consumo mínimo de bateria
+
+⭐️ Experimente antes de comprar! ⭐️
+Antes de comprar este mostrador, primeiro experimente a versão gratuita para ter a certeza de que é isto que quer e de que gosta de como fica no seu relógio: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+
+⭐️ Dispositivos MIPS (Fenix 7, Enduro, Forerunner 255, etc.) ⭐️
+Este mostrador está totalmente optimizado para MIPS, mas as cores podem parecer diferentes da maioria das fotografias, uma vez que estas foram tiradas num dispositivo Amoled. Este mostrador tem muitos temas optimizados para MIPS e suporta gradientes MIPS. Todos os temas incorporados podem ser encontrados aqui: https://watchface.io/nexus/themes#MIPS
+
+⭐️ Recursos ⭐️
+* FAQ: https://watchface.io/faq
+* Manual: https://watchface.io/nexus/manual
+* Versão gratuita: https://apps.garmin.com/apps/514de345-1fab-4412-ba13-62da4b6fdc20
+* Lista de temas: https://watchface.io/nexus/themes
+* Guia de cores: https://watchface.io/docs/color-list
+* Campos de dados disponíveis: https://watchface.io/docs/datafields
+
+⭐️ Configuração ⭐️
+Nota: Existem dois locais diferentes com definições:
+* Aplicação Garmin IQ (no seu telefone vá para o seu dispositivo, mostradores, definições): Configure campos de dados, cores e definições gerais.
+* Definições no relógio: Aceda a opções mais granulares como formato de hora, objectivos e unidades directamente no relógio mantendo o botão menu premido, seleccione mostrador e toque em personalizar.
+
+⭐️ Campos de Dados ⭐️
+Todos os campos de dados que a Garmin actualmente fornece para programadores terceiros estão disponíveis, mais extras como suporte para Monitor de Glucose (CGM), Open Weather Map (OWM) e suporte para outras aplicações terceiras.
+Todos os campos de dados disponíveis estão listados aqui: https://watchface.io/docs/datafields. Alguns campos de dados (como prontidão de treino ou HRV) não estão actualmente disponíveis para programadores terceiros, veja aqui: https://watchface.io/faq/can-you-add-training-readiness
+
+⭐️ Posso alterar o texto Fenix/Enduro, etc.? ⭐️
+Sim, pode! Veja aqui: https://watchface.io/faq/how-to-change-the-fenix-text
+Na verdade, tudo neste mostrador pode ser personalizado ao seu gosto.
+
+*** Se encontrar bugs ou problemas, contacte-me clicando em "Contact Developer" em vez de usar o sistema de avaliações. Posso responder rapidamente aos e-mails, enquanto posso não ver as avaliações durante vários dias. ***
+
+* Changelog: https://watchface.io/nexus/changelog
