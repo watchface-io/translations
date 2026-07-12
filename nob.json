@@ -535,6 +535,7 @@
         "_unit_time_c" : "Tilpasset tidsformat",
         "_unit_date_c1" : "Tilpasset datoformat 1",
         "_unit_date_c2" : "Tilpasset datoformat 2",
+        "_evnt" : "Hendelsesdato [*]",
         "_custom_time0" : "Tidssone 1",
         "_custom_time1" : "Tidssone 2",
         "_custom_sport0" : "Sport 1 [*]",
