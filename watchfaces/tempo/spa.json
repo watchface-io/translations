@@ -1,84 +1,154 @@
 {
     "settings": {
 
-        "_md1": "Datos del Marcador 1",
-        "_md2": "Datos del Marcador 2",
+        "_lo1": "Diseño Superior 1",
+        "_lo2": "Diseño Superior 2",
+        "_lo3": "Diseño Superior 3",
 
-        "_f1": "Datos del Campo Superior",
-        "_l1": "Etiqueta del Campo Superior",
+        "_md1": "Datos Marcador 1",
+        "_md2": "Datos Marcador 2",
 
-        "_f2": "Datos del Campo Izquierdo",
-        "_l2": "Etiqueta del Campo Izquierdo",
+        "_g1": "🧱 1/2: Estilo Superior",
+        "_gs0": "2 Campos",
+        "_gs1": "1 Campo",
+        "_f1": "1. Datos Superior 1",
+        "_l1": "1. Etiqueta Superior 1",
+        "_c1": "1. Color Datos Superior 1",
+        "_c1l": "1. Color Etiqueta Superior 1",
 
-        "_f3": "Datos del Campo Derecho",
-        "_l3": "Etiqueta del Campo Derecho",
+        "_f2": "2. Datos Superior 2",
+        "_l2": "2. Etiqueta Superior 2",
+        "_c2": "2. Color Datos Superior 2",
+        "_c2l": "2. Color Etiqueta Superior 2",
 
-        "_f4": "Datos del Campo Inferior",
-        "_l4": "Etiqueta del Campo Inferior",
 
-        "_f5": "Datos del Progreso Superior",
-        "_p5": "Estilo del Progreso Superior",
+        "_f7": "3. Datos Superior Izquierdo",
+        "_l7": "3. Etiqueta Superior Izquierdo",
+        "_p7": "3. Progreso Superior Izquierdo",
+        "_cp7": "3. Color Progreso Superior Izquierdo 1",
+        "_c27": "3. Color Progreso Superior Izquierdo 2",
+        "_cu7": "3. Color Progreso Superior Izquierdo 3",
+        "_c7": "3. Color Datos Superior Izquierdo",
+        "_c7l": "3. Color Etiqueta Superior Izquierdo",
 
-        "_f6": "Datos del Progreso Inferior",
-        "_p6": "Estilo del Progreso Inferior",
 
-        "_f20": "Datos del Campo AOD",
-        "_l20": "Etiqueta del Campo AOD",
 
-        "_hc1": "Color de Hora",
-        "_hc2": "Color de Hora 2",
-        "_hc3": "Color de Hora 3 (Interior)",
-        "_hc4": "Color de Hora 4 (Interior)",
+        "_f8": "4. Datos Superior Derecho",
+        "_l8": "4. Etiqueta Superior Derecho",
+        "_p8": "4. Progreso Superior Derecho",
+        "_cp8": "4. Color Progreso Superior Derecho 1",
+        "_c28": "4. Color Progreso Superior Derecho 2",
+        "_cu8": "4. Color Progreso Superior Derecho 3",
+        "_c8": "4. Color Datos Superior Derecho",
+        "_c8l": "4. Color Etiqueta Superior Derecho",
 
-        "_mc1": "Color de Minutos 1 (Contorno)",
-        "_mc2": "Color de Minutos 2 (Contorno)",
 
-        "_mc3": "Color de Minutos 3 (Interior)",
-        "_mc4": "Color de Minutos 4 (Interior)",
-
-        "_sbg" : "Igual al Color de Fondo",
-
-        "_m1": "Color del Marcador 1",
-        "_m2": "Color del Marcador 2",
+        "_f5": "5. Datos Centro Izquierdo",
+        "_l5": "5. Etiqueta Centro Izquierdo",
+        "_c5": "5. Color Datos Centro Izquierdo",
+        "_c5l": "5. Color Etiqueta Centro Izquierdo",
         
-        "_cp1": "Color del Progreso Superior",
-        "_c21": "Color del Progreso Superior 2",
-        "_cu1": "Color del Progreso Superior Sin Llenar",
+        "_f6": "6. Datos Centro Derecho",
+        "_l6": "6. Etiqueta Centro Derecho",
+        "_c6": "6. Color Datos Centro Derecho",
+        "_c6l": "6. Color Etiqueta Centro Derecho",
 
-        "_cp2": "Color del Progreso Inferior",
-        "_c22": "Color del Progreso Inferior 2",
-        "_cu2": "Color del Progreso Inferior Sin Llenar",
+        "_f9": "7. Datos Inferior Izquierdo",
+        "_l9": "7. Etiqueta Inferior Izquierdo",
+        "_p9": "7. Progreso Inferior Izquierdo",
+
+        "_cp9": "7. Color Progreso Inferior Izquierdo 1",
+        "_c29": "7. Color Progreso Inferior Izquierdo 2",
+        "_cu9": "7. Color Progreso Inferior Izquierdo 3",
+        "_c9": "7. Color Datos Inferior Izquierdo",
+        "_c9l": "7. Color Etiqueta Inferior Izquierdo",
+
+
+        
+        "_f10": "8. Datos Inferior Derecho",
+        "_l10": "8. Etiqueta Inferior Derecho",
+        "_p10": "8. Progreso Inferior Derecho",
+        "_cp10": "8. Color Progreso Inferior Derecho 1",
+        "_c210": "8. Color Progreso Inferior Derecho 2",
+        "_cu10": "8. Color Progreso Inferior Derecho 3",
+        "_c10": "8. Color Datos Inferior Derecho",
+        "_c10l": "8. Color Etiqueta Inferior Derecho",
+
+        "_g3": "🧱 9/10: Estilo Inferior",
+        "_f3": "9. Datos Inferior 1",
+        "_l3": "9. Etiqueta Inferior 1",
+        "_c3": "9. Color Datos Inferior 1",
+        "_c3l": "9. Color Etiqueta Inferior 1",
+
+
+        "_f4": "10. Datos Inferior 2",
+        "_l4": "10. Etiqueta Inferior 2",
+        "_c4": "10. Color Datos Inferior 2",
+        "_c4l": "10. Color Etiqueta Inferior 2",
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
+
+
+
+        
+
+
+
+        "_f20": "Datos Campo AOD",
+        "_l20": "Etiqueta Campo AOD",
+
+        "_hc1": "Color Hora 1",
+        "_hc2": "Color Hora 2",
+
+
+        "_mc1": "Color Minuto 1",
+        "_mc2": "Color Minuto 2",
+
+
+
+        "_sbg" : "Igual que Color de Fondo",
+
+        "_m1": "Color Marcador 1",
+        "_m2": "Color Marcador 2",
+        
+
+
+
+
 
         "_bgc": "Color de Fondo",
-        "_bgl": "Color de Líneas de Fondo",
+       
         "_cs": "70% Más Oscuro",
-        "_cpbs" : "Igual a la Barra de Progreso Superior Izquierda",
+        
 
-        "_stc" : "Igual al Color de Texto",
-        "_slc" : "Igual al Color de Etiqueta",
+        "_stc" : "Igual que Color de Texto",
+        "_slc" : "Igual que Color de Etiqueta",
 
 
-        "_c1": "Color de Datos del Campo Superior",
-        "_c1l": "Color de Etiqueta del Campo Superior",
+        "_t3": "Fuente de Texto",
+        "_s1": "Tamaño Fuente Superior 1/2",
+        "_s2": "Tamaño Fuente Datos Progreso",
+        "_s3": "Tamaño Fuente Centro",
+        "_s4": "Tamaño Fuente Inferior 1/2",
 
-        "_c2": "Color de Datos del Campo Izquierdo",
-        "_c2l": "Color de Etiqueta del Campo Izquierdo",
 
-        "_c3": "Color de Datos del Campo Derecho",
-        "_c3l": "Color de Etiqueta del Campo Derecho",
+        "_x4": "Cargar Preset Anterior",
+        "_x3": "Cargar Tema Color Anterior",
 
-        "_c4": "Color de Datos del Campo Inferior",
-        "_c4l": "Color de Etiqueta del Campo Inferior",
-
-        "_c5": "Color de Datos del Progreso Superior",
-        "_c5l": "Color de Etiqueta del Progreso Superior",
-
-        "_c6": "Color de Datos del Progreso Inferior",
-        "_c6l": "Color de Etiqueta del Progreso Inferior",
-        "_x4": "Cargar Ajuste Preestablecido Anterior",
-        "_x3": "Cargar Tema de Color Anterior",
-
-        "_rst": "Restablecer todas las configuraciones",
+        "_rst": "Restablecer configuración",
         "_tr": "👉 ATAJOS TÁCTILES",
         "_tc": "🎨 COLORES / FONDO",
         "_tt": "🔤 FUENTES",
@@ -86,60 +156,63 @@
         "_to": "💡 OTROS",
         "_tx": "➡️ DESPLAZAMIENTOS",
 
-        "_o1": "Desplazamientos de Hora (X, Y, Espaciado X, Espaciado Y, Y Minutos) Predeterminado: 20",
-        "_o2": "Desplazamientos X del Campo (Superior, Izquierdo, Derecho, Inferior, Progreso 1, Progreso 2) Predeterminado: 20",
-        "_o3": "Desplazamientos Y del Campo (Superior, Texto Izquierdo, Texto Derecho, Inferior, Progreso 1, Progreso 2, Etiqueta Izquierda, Etiqueta Derecha) Predeterminado: 20",
-        "_bdb": "Dibujar fondo de números (minutos más nítidos, horas no visibles detrás)",
+        "_o1": "Desplazamientos Hora (X, Y, Espaciado X, Espaciado Y, Y Minutos) Predeterminado: 20",
+        "_o2": "Desplazamientos X Campo (Superior1, Superior2, Inferior1, Inferior2, Izquierda, Derecha, Superior Izq, Superior Der, Inferior Izq, Inferior Der) Predeterminado: 20",
+        "_o3": "Desplazamientos Y Campo Predeterminado: 20",
+        "_bdb": "Dibujar fondo número (minutos más nítidos, horas no visibles detrás)",
 
-        "_t1": "Fuente de Hora",
-        "_t1a": "Fuente de Hora AOD",
-        "_t1s": "Tamaño de Fuente de Hora",
-        "_t2": "Fuente de Minutos",
-        "_t2a": "Fuente de Minutos AOD",
-        "_t2s": "Tamaño de Fuente de Minutos",
+        "_t1": "Fuente Hora",
+        "_t1a": "Fuente Hora AOD",
+     
+        "_t2": "Fuente Minuto",
+        "_t2a": "Fuente Minuto AOD",
 
-        "_t3": "Fuente de Texto",
-        "_s1": "Tamaño de Fuente de Texto Superior",
-        "_s2": "Tamaño de Fuente de Texto de Progreso",
-        "_s3": "Tamaño de Fuente de Texto Izquierdo/Derecho",
-        "_s4": "Tamaño de Fuente de Texto Inferior",
+
+
     
-        "_fo": "Contorneado (Si está disponible)",
+        "_fo": "Con Contorno (Si disponible)",
         "_fk": "Mantener igual",
-        "_fks": "Mantener igual, incluyendo Interior",
 
 
-        "_pc": "Color de texto",
-        "_ic": "Color de etiqueta",      
+        "_slt": "Igual que Superior Izquierdo",
 
-        "_gq": "Calidad de Gradiente",
-        "_ng": "Sin Gradiente",
 
-        "_0f" : "Mostrar Progreso del Campo",
-        "_1f" : "Completo",
+        "_pc": "Color texto",
+        "_ic": "Color etiqueta",      
+
+        "_gq": "Estilo Color Hora",
+        "_ng": "Colores Separados",
+        "_bfg": "Degradado Color",
+        "_cag": "Patrón Camuflaje",
+        "_elg": "Elipse",
+
+        "_caod": "Combinar con Datos (Mejor batería)",
+
+        "_0f" : "Mostrar Progreso Campo",
+        "_1f" : "Lleno",
         "_2f" : "Vacío",
         "_3f" : "Ocultar",
 
-        "_x2": "Cargar Siguiente Tema de Color",
+        "_x2": "Cargar Siguiente Tema Color",
         
         "_a1": "Atajo táctil Hora Izquierda",
         "_a2": "Atajo táctil Hora Derecha",
-        "_a3": "Atajo táctil Minuto Izquierdo",
-        "_a4": "Atajo táctil Minuto Derecho",
+        "_a3": "Atajo táctil Minuto Izquierda",
+        "_a4": "Atajo táctil Minuto Derecha",
 
         "_aas": "Segundos siempre activos",
         "_aod": "Modo AOD (Pantalla Siempre Activa)",
-        "_aodct": "Color de Tinte de Hora AOD",
-        "_aodc": "Color de Tinte de Datos AOD",
-        "_aodT": "Brillo de Hora AOD",
-        "_aodD": "Brillo de Datos AOD. Si la pantalla se apaga durante AOD, reduzca este número. Número menor = menor uso de batería pero menos brillo. Ver FAQ)",
-        "_aodS": "Desplazamiento AOD - número de píxeles que la pantalla se desplaza aleatoriamente por minuto para prevenir quemado)",
+        "_aodct": "Color Hora AOD",
+        "_aodc": "Color Tinte Datos AOD",
+        "_aodT": "Brillo Hora AOD",
+        "_aodD": "Brillo Datos AOD (Si la pantalla se apaga durante AOD, reduce este número. Número menor = menos batería pero menos brillo. Ver FAQ)",
+        "_aodS": "Desplazamiento AOD (Número de píxeles que la pantalla se desplaza aleatoriamente por minuto para prevenir marcas)",
         "ad0": "Apagar Pantalla",
         "ad100": "AOD Completo (Predeterminado)",
         
         "ad1": "Solo Hora",
         "ad3": "Solo Hora - En Movimiento",
-        "ad4": "Hora + campo de datos (Seleccione Abajo)",
-        "ad6": "Hora en Movimiento + campo de datos"
+        "ad4": "Hora + campo datos (Seleccionar Abajo)",
+        "ad6": "Hora Movimiento + campo datos"
     }
 }

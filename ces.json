@@ -573,12 +573,12 @@
         "f11" : "Listopad",
         "f12" : "Prosinec",
 
-        "f13" : "Neděle",
-        "f14" : "Pondělí", 
-        "f15" : "Úterý",
-        "f16" : "Středa",
-        "f17" : "Čtvrtek",
-        "f18" : "Pátek",
+        "f13" : "Nedele",
+        "f14" : "Pondeli", 
+        "f15" : "Utery",
+        "f16" : "Streda",
+        "f17" : "Ctvrtek",
+        "f18" : "Patek",
         "f19" : "Sobota",
         
         "f20" : "N",

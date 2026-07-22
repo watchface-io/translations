@@ -1,6 +1,10 @@
 {
     "settings": {
 
+        "_sunR": "On Sunrise",
+        "_sunS": "On Sunset",
+        "_lm": "New lazy motivation text",
+
         "_lo1": "Top 1 Layout",
         "_lo2": "Top 2 Layout",
         "_lo3": "Top 3 Layout",
@@ -8,7 +12,7 @@
         "_md1": "Marker 1 Data",
         "_md2": "Marker 2 Data",
 
-        "_g1": "Top Style",
+        "_g1": "🧱 1/2: Top Style",
         "_gs0": "2 Fields",
         "_gs1": "1 Field",
         "_f1": "1. Top 1 Data",
@@ -74,7 +78,7 @@
         "_c10": "8. Right Bottom Data Color",
         "_c10l": "8. Right Bottom Label Color",
 
-        "_g3": "Bottom Style",
+        "_g3": "🧱 9/10: Bottom Style",
         "_f3": "9. Bottom 1 Data",
         "_l3": "9. Bottom 1 Label",
         "_c3": "9. Bottom 1 Data Color",
@@ -110,12 +114,12 @@
         "_f20": "AOD Field Data",
         "_l20": "AOD Field Label",
 
-        "_hc1": "Hour Color 1 (Outline)",
-        "_hc2": "Hour Color 2 (Outline)",
+        "_hc1": "Hour Color 1",
+        "_hc2": "Hour Color 2",
 
 
-        "_mc1": "Minute Color 1 (Outline)",
-        "_mc2": "Minute Color 2 (Outline)",
+        "_mc1": "Minute Color 1",
+        "_mc2": "Minute Color 2",
 
 
 
@@ -130,9 +134,9 @@
 
 
         "_bgc": "Background Color",
-        "_bgl": "Background Lines Color",
+       
         "_cs": "70% Darker",
-        "_cpbs" : "Same as Top Progress Bar",
+        
 
         "_stc" : "Same as Text Color",
         "_slc" : "Same as Label Color",
@@ -147,6 +151,8 @@
 
         "_x4": "Load Previous Preset",
         "_x3": "Load Previous Color Theme",
+
+        
 
         "_rst": "Reset all settings",
         "_tr": "👉 TOUCH SHORTCUTS",
@@ -163,23 +169,30 @@
 
         "_t1": "Hour Font",
         "_t1a": "Hour Font AOD",
-        "_t1s": "Hour Font Size",
+     
         "_t2": "Minute Font",
         "_t2a": "Minute Font AOD",
-        "_t2s": "Minute Font Size",
+
 
 
     
         "_fo": "Outlined (If available)",
         "_fk": "Keep the same",
-        "_fks": "Keep the same, including Inner",
+
+
+        "_slt": "Same as Left Top",
 
 
         "_pc": "Text color",
         "_ic": "Label color",      
 
-        "_gq": "Gradient Quality",
-        "_ng": "No Gradient",
+        "_gq": "Time Color Style",
+        "_ng": "Separate Colors",
+        "_bfg": "Color Gradient",
+        "_cag": "Camo Pattern",
+        "_elg": "Ellipse",
+
+        "_caod": "Combine with Data (Best battery)",
 
         "_0f" : "Show Field Progress",
         "_1f" : "Full",
@@ -195,7 +208,7 @@
 
         "_aas": "Always on seconds",
         "_aod": "AOD Mode (Always on Display)",
-        "_aodct": "AOD Time Tint Color",
+        "_aodct": "AOD Time Color",
         "_aodc": "AOD Data Tint Color",
         "_aodT": "AOD Time Brightness",
         "_aodD": "AOD Data Brightness (If screen turns off during AOD, make this number lower. Lower number = less battery usage but less bright. See FAQ)",
