@@ -97,6 +97,8 @@
 
          "_lt" : "Tekst farge",
          "_ll" : "Etikett farge",
+         "_ltc" : "Tekst farge sirkler",
+         "_llc" : "Etikett farge sirkler",
          "_bgc" : "Bakgrunn farge",
 
          "_hc" : "Time farge",
@@ -129,6 +131,8 @@
          "_l10u" : "Høyre sirkel fremgangsstolpe ufylt farge",
 
          "ls" : "Samme farge som fremgangsstolpe",
+         "lst" : "Samme farge som tekst farge",
+         "lsl" : "Samme farge som etikett farge",
 
          "_lc0" : "Øvre sidefelt farge",
          "_lc1" : "Nedre sidefelt farge",

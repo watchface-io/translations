@@ -97,6 +97,8 @@
 
          "_lt" : "Kolor tekstu",
          "_ll" : "Kolor etykiety",
+         "_ltc" : "Kolor tekstu okręgów",
+         "_llc" : "Kolor etykiety okręgów",
          "_bgc" : "Kolor tła",
 
          "_hc" : "Kolor godziny",
@@ -129,6 +131,8 @@
          "_l10u" : "Kolor pustego paska postępu prawego koła",
 
          "ls" : "Ten sam kolor co pasek postępu",
+         "lst" : "Ten sam kolor co kolor tekstu",
+         "lsl" : "Ten sam kolor co kolor etykiety",
 
          "_lc0" : "Kolor pola bocznego na górze",
          "_lc1" : "Kolor pola bocznego na dole",

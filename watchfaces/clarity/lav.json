@@ -96,8 +96,8 @@
 
 
          "_lt" : "Teksta krāsa",
-         "_ll" : "Etiķetes krāsa",
-         "_bgc" : "Fona krāsa",
+         "_ll" : "Etiķetes krāsa",         "_ltc" : "Apļu teksta krāsa",
+         "_llc" : "Apļu etike̅tes krāsa",         "_bgc" : "Fona krāsa",
 
          "_hc" : "Stundas krāsa",
          "_hc2" : "Stundas krāsa 2",
@@ -129,6 +129,8 @@
          "_l10u" : "Neaizpildītās labā apļa progresa joslas krāsa",
 
          "ls" : "Tāda pati krāsa kā progresa joslai",
+         "lst" : "Tāda pati krāsa kā teksta krāsa",
+         "lsl" : "Tāda pati krāsa kā etike̅tes krāsa",
 
          "_lc0" : "Augšējā sānu lauka krāsa",
          "_lc1" : "Apakšējā sānu lauka krāsa",

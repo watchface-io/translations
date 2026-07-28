@@ -97,6 +97,8 @@
 
          "_lt" : "Teksti värv",
          "_ll" : "Sildi värv",
+         "_ltc" : "Ringide teksti värv",
+         "_llc" : "Ringide sildi värv",
          "_bgc" : "Tausta värv",
 
          "_hc" : "Tunni värv",
@@ -129,6 +131,8 @@
          "_l10u" : "Täitmata parema ringi eduriba värv",
 
          "ls" : "Sama värv kui eduriba",
+         "lst" : "Sama värv kui teksti värv",
+         "lsl" : "Sama värv kui sildi värv",
 
          "_lc0" : "Ülemise külgvälja värv",
          "_lc1" : "Alumise külgvälja värv",

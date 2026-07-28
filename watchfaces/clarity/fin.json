@@ -97,6 +97,8 @@
 
          "_lt" : "Tekstin väri",
          "_ll" : "Merkinnän väri",
+         "_ltc" : "Ympöröiden tekstin väri",
+         "_llc" : "Ympöröiden merkinnän väri",
          "_bgc" : "Taustan väri",
 
          "_hc" : "Tunnin väri",
@@ -129,6 +131,8 @@
          "_l10u" : "Täyttämättömän oikean ympyrän edistymispalkin väri",
 
          "ls" : "Sama väri kuin edistymispalkki",
+         "lst" : "Sama väri kuin tekstin väri",
+         "lsl" : "Sama väri kuin merkinnän väri",
 
          "_lc0" : "Ylemmän sivukentän väri",
          "_lc1" : "Alemman sivukentän väri",

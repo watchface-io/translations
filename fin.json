@@ -99,8 +99,8 @@
         "f2" : "Kalorit",
         "f211" : "Kalorit viikko",
         "f212" : "Kalorit 7 päivää",
-        "f603" : "Aktiiviset kalorit päivä",
-        "f150" : "Aktiiviset minuutit tänään (yhteensä)",
+        "f603" : "Aktiiviset kalorit päivä",        "f743" : "Aktiiviset kalorit viikko",
+        "f744" : "Aktiiviset kalorit 7 päivää",        "f150" : "Aktiiviset minuutit tänään (yhteensä)",
         "f151" : "Aktiiviset minuutit viikko (yhteensä)",
         "f200" : "Aktiiviset minuutit viimeiset 7 päivää (yhteensä)",
         "f152" : "Aktiiviset minuutit tänään (kohtalainen)",
@@ -127,6 +127,8 @@
         "f620" : "Pyöräilyetäisyys viikko - Connect'ista",
         "f619" : "Juoksuetäisyys viikko - Connect'ista",
         "f641" : "Viimeisen golfkierroksen tulos",
+        "f642" : "Unen tulos",
+
         "f9" : "Työntöetäisyys",
         "f215" : "Työntöetäisyys viikko",
         "f216" : "Työntöetäisyys viimeiset 7 päivää",
@@ -423,6 +425,7 @@
         "t36" : "Hengitys",
         "t37" : "Aurinkoteho",
         "t38" : "Sää",
+        "t42" : "Unen tulos",
         "t40" : "Pyörätuolin työnnöt",
         "t41" : "Golf-pisteet",
 

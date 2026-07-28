@@ -97,6 +97,8 @@
 
          "_lt" : "Text Farbe",
          "_ll" : "Beschriftung Farbe",
+         "_ltc" : "Text Farbe Kreise",
+         "_llc" : "Beschriftung Farbe Kreise",
          "_bgc" : "Hintergrund Farbe",
 
          "_hc" : "Stunden Farbe",
@@ -129,6 +131,8 @@
          "_l10u" : "Rechter Kreis Fortschrittsbalken ungefüllt Farbe",
 
          "ls" : "Gleiche Farbe wie Fortschrittsbalken",
+         "lst" : "Gleiche Farbe wie Text Farbe",
+         "lsl" : "Gleiche Farbe wie Beschriftung Farbe",
 
          "_lc0" : "Seitenfeld Oben Farbe",
          "_lc1" : "Seitenfeld Unten Farbe",

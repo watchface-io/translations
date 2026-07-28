@@ -97,6 +97,8 @@
 
          "_lt" : "文本颜色",
          "_ll" : "标签颜色",
+         "_ltc" : "Warna teks bulatan",
+         "_llc" : "Warna label bulatan",
          "_bgc" : "背景颜色",
 
          "_hc" : "小时颜色",
@@ -129,6 +131,8 @@
          "_l10u" : "右圆圈进度条颜色未填充",
 
          "ls" : "与进度条相同颜色",
+         "lst" : "Warna sama dengan warna teks",
+         "lsl" : "Warna sama dengan warna label",
 
          "_lc0" : "侧字段顶部颜色",
          "_lc1" : "侧字段底部颜色",

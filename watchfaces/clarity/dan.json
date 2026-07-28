@@ -97,6 +97,8 @@
 
          "_lt" : "Tekst farve",
          "_ll" : "Etiket farve",
+         "_ltc" : "Tekst farve cirkler",
+         "_llc" : "Etiket farve cirkler",
          "_bgc" : "Baggrund farve",
 
          "_hc" : "Time farve",
@@ -129,6 +131,8 @@
          "_l10u" : "Højre cirkel fremdriftsstang uudfyldt farve",
 
          "ls" : "Samme farve som fremdriftsstang",
+         "lst" : "Samme farve som tekst farve",
+         "lsl" : "Samme farve som etiket farve",
 
          "_lc0" : "Side felt top farve",
          "_lc1" : "Side felt bund farve",

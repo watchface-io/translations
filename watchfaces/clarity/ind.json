@@ -97,6 +97,8 @@
 
          "_lt" : "Warna Teks",
          "_ll" : "Warna Label",
+         "_ltc" : "Warna Teks Lingkaran",
+         "_llc" : "Warna Label Lingkaran",
          "_bgc" : "Warna Latar Belakang",
 
          "_hc" : "Warna Jam",
@@ -129,6 +131,8 @@
          "_l10u" : "Warna Bilah Progress Lingkaran Kanan Tidak Terisi",
 
          "ls" : "Warna sama dengan Bilah Progress",
+         "lst" : "Warna sama dengan Warna Teks",
+         "lsl" : "Warna sama dengan Warna Label",
 
          "_lc0" : "Warna Bidang Samping Atas",
          "_lc1" : "Warna Bidang Samping Bawah",

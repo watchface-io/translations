@@ -97,6 +97,8 @@
 
          "_lt" : "Metin rengi",
          "_ll" : "Etiket rengi",
+         "_ltc" : "Daireler metin rengi",
+         "_llc" : "Daireler etiket rengi",
          "_bgc" : "Arka plan rengi",
 
          "_hc" : "Saat rengi",
@@ -129,6 +131,8 @@
          "_l10u" : "Sağ daire ilerleme çubuğu rengi doldurulmamış",
 
          "ls" : "İlerleme çubuğu ile aynı renk",
+         "lst" : "Metin rengi ile aynı renk",
+         "lsl" : "Etiket rengi ile aynı renk",
 
          "_lc0" : "Yan alan üst rengi",
          "_lc1" : "Yan alan alt rengi",

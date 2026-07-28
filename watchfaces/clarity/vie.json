@@ -97,6 +97,8 @@
 
          "_lt" : "Màu văn bản",
          "_ll" : "Màu nhãn",
+         "_ltc" : "Màu văn bản vòng tròn",
+         "_llc" : "Màu nhãn vòng tròn",
          "_bgc" : "Màu nền",
 
          "_hc" : "Màu giờ",
@@ -129,6 +131,8 @@
          "_l10u" : "Màu thanh tiến độ vòng tròn phải chưa đầy",
 
          "ls" : "Cùng màu với thanh tiến độ",
+         "lst" : "Cùng màu với màu văn bản",
+         "lsl" : "Cùng màu với màu nhãn",
 
          "_lc0" : "Màu trường bên trên",
          "_lc1" : "Màu trường bên dưới",

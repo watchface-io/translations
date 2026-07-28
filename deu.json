@@ -102,6 +102,8 @@
         "f211" : "Kalorien Woche (WTD)",
         "f212" : "Kalorien 7 Tage",
         "f603" : "Aktive Kalorien Tag",
+        "f743" : "Aktive Kalorien Woche",
+        "f744" : "Aktive Kalorien 7 Tage",
         "f150" : "Aktive Minuten Heute (Gesamt)",
         "f151" : "Aktive Minuten Woche (WTD) (Gesamt)",
         "f200" : "Aktive Minuten Letzte 7 Tage (Gesamt)",
@@ -129,6 +131,8 @@
         "f620" : "Radentfernung Woche (WTD) - Von Connect",
         "f619" : "Laufentfernung Woche (WTD) - Von Connect",
         "f641" : "Letzte Golf Runde Punktzahl",
+        "f642" : "Schlaf Punktzahl",
+
         "f9" : "Schubentfernung",
         "f215" : "Schubentfernung Woche (WTD)",
         "f216" : "Schubentfernung Letzte 7 Tage",
@@ -426,6 +430,7 @@
         "t36" : "Atmung",
         "t37" : "Solar Eingabe",
         "t38" : "Wetter",
+        "t42" : "Schlaf Punktzahl",
         "t40" : "Rollstuhl Schübe",
         "t41" : "Golf Punktzahl",
 

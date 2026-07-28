@@ -97,6 +97,8 @@
 
          "_lt" : "Barva besedila",
          "_ll" : "Barva oznake",
+         "_ltc" : "Barva besedila krogov",
+         "_llc" : "Barva oznake krogov",
          "_bgc" : "Barva ozadja",
 
          "_hc" : "Barva ure",
@@ -129,6 +131,8 @@
          "_l10u" : "Barva vrstice napredka desnega kroga neizpolnjena",
 
          "ls" : "Enaka barva kot vrstica napredka",
+         "lst" : "Enaka barva kot barva besedila",
+         "lsl" : "Enaka barva kot barva oznake",
 
          "_lc0" : "Barva stranskega polja vrh",
          "_lc1" : "Barva stranskega polja spodaj",

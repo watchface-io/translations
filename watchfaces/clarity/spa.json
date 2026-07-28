@@ -97,6 +97,8 @@
 
          "_lt" : "Color del texto",
          "_ll" : "Color de etiqueta",
+         "_ltc" : "Color del texto de círculos",
+         "_llc" : "Color de etiqueta de círculos",
          "_bgc" : "Color de fondo",
 
          "_hc" : "Color de hora",
@@ -129,6 +131,8 @@
          "_l10u" : "Color de barra de progreso del círculo derecho sin llenar",
 
          "ls" : "Mismo color que la barra de progreso",
+         "lst" : "Mismo color que el color del texto",
+         "lsl" : "Mismo color que el color de etiqueta",
 
          "_lc0" : "Color del campo lateral superior",
          "_lc1" : "Color del campo lateral inferior",

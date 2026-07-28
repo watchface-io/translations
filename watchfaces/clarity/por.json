@@ -97,6 +97,8 @@
 
          "_lt" : "Cor do texto",
          "_ll" : "Cor do rótulo",
+         "_ltc" : "Cor do texto dos círculos",
+         "_llc" : "Cor do rótulo dos círculos",
          "_bgc" : "Cor de fundo",
 
          "_hc" : "Cor da hora",
@@ -129,6 +131,8 @@
          "_l10u" : "Cor da barra de progresso do círculo direito não preenchida",
 
          "ls" : "Mesma cor da barra de progresso",
+         "lst" : "Mesma cor da cor do texto",
+         "lsl" : "Mesma cor da cor do rótulo",
 
          "_lc0" : "Cor do campo lateral superior",
          "_lc1" : "Cor do campo lateral inferior",

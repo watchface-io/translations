@@ -94,6 +94,8 @@
 
          "_lt" : "Tekst Kleur",
          "_ll" : "Label Kleur",
+         "_ltc" : "Tekst Kleur Cirkels",
+         "_llc" : "Label Kleur Cirkels",
          "_bgc" : "Achtergrond Kleur",
 
          "_hc" : "Uur Kleur",
@@ -126,6 +128,8 @@
          "_l10u" : "Cirkel Rechts Voortgangsbalk Kleur Ongevuld",
 
          "ls" : "Zelfde kleur als Voortgangsbalk",
+         "lst" : "Zelfde kleur als Tekst Kleur",
+         "lsl" : "Zelfde kleur als Label Kleur",
 
          "_lc0" : "Zijveld Bovenkant Kleur",
          "_lc1" : "Zijveld Onderkant Kleur",

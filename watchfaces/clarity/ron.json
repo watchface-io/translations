@@ -94,6 +94,8 @@
 
          "_lt" : "Culoare text",
          "_ll" : "Culoare etichetă",
+         "_ltc" : "Culoare text cercuri",
+         "_llc" : "Culoare etichetă cercuri",
          "_bgc" : "Culoare fundal",
 
          "_hc" : "Culoare oră",
@@ -126,6 +128,8 @@
          "_l10u" : "Culoare bară progres cerc dreapta neumpluată",
 
          "ls" : "Aceeași culoare ca bara de progres",
+         "lst" : "Aceeași culoare ca culoarea textului",
+         "lsl" : "Aceeași culoare ca culoarea etichetei",
 
          "_lc0" : "Culoare câmp lateral sus",
          "_lc1" : "Culoare câmp lateral jos",

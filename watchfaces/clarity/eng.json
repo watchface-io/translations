@@ -97,6 +97,9 @@
 
          "_lt" : "Text Color",
          "_ll" : "Label Color",
+         "_ltc" : "Text Color Circles",
+         "_llc" : "Label Color Circles",
+
          "_bgc" : "Background Color",
 
          "_hc" : "Hour Color",
@@ -129,6 +132,8 @@
          "_l10u" : "Circle Right Progress Bar Color Unfilled",
 
          "ls" : "Same color as Progress Bar",
+         "lst" : "Same color as Text Color",
+         "lsl" : "Same color as Label Color",
 
          "_lc0" : "Side Field Top Color",
          "_lc1" : "Side Field Bottom Color",

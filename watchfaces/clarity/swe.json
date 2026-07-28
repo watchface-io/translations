@@ -97,6 +97,8 @@
 
          "_lt" : "Textfärg",
          "_ll" : "Etikettfärg",
+         "_ltc" : "Textfärg cirklar",
+         "_llc" : "Etikettfärg cirklar",
          "_bgc" : "Bakgrundsfärg",
 
          "_hc" : "Timmefärg",
@@ -129,6 +131,8 @@
          "_l10u" : "Höger cirkelframstegsstapelfärg ofylld",
 
          "ls" : "Samma färg som framstegsstapel",
+         "lst" : "Samma färg som textfärg",
+         "lsl" : "Samma färg som etikettfärg",
 
          "_lc0" : "Sidfält toppfärg",
          "_lc1" : "Sidfält bottenfärg",

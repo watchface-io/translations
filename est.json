@@ -101,8 +101,8 @@
         "f2" : "Kalorid",
         "f211" : "Kalorid nädal (NTK)",
         "f212" : "Kalorid 7 päeva",
-        "f603" : "Aktiivsed kalorid päev",
-        "f150" : "Aktiivsed minutid täna (kokku)",
+        "f603" : "Aktiivsed kalorid päev",        "f743" : "Aktiivsed kalorid nädal",
+        "f744" : "Aktiivsed kalorid 7 päeva",        "f150" : "Aktiivsed minutid täna (kokku)",
         "f151" : "Aktiivsed minutid nädal (NTK) (kokku)",
         "f200" : "Aktiivsed minutid viimased 7 päeva (kokku)",
         "f152" : "Aktiivsed minutid täna (mõõdukad)",
@@ -129,6 +129,8 @@
         "f620" : "Jalgratturi kaugus nädal (NTK) - Connect'ist",
         "f619" : "Jooksu kaugus nädal (NTK) - Connect'ist",
         "f641" : "Viimase golfiringi tulemus",
+        "f642" : "Une tulemus",
+
         "f9" : "Lükkamise kaugus",
         "f215" : "Lükkamise kaugus nädal (NTK)",
         "f216" : "Lükkamise kaugus viimased 7 päeva",
@@ -427,6 +429,7 @@
         "t38" : "Ilm",
         "t40" : "Ratastoolilükkeid",
         "t41" : "Golfi tulemus",
+        "t42" : "Une tulemus",
 
         "l111" : "Kohandatud värv 1",
         "l112" : "Kohandatud värv 2",

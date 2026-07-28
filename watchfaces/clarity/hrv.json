@@ -97,6 +97,8 @@
 
          "_lt" : "Boja teksta",
          "_ll" : "Boja oznake",
+         "_ltc" : "Boja teksta krugova",
+         "_llc" : "Boja oznake krugova",
          "_bgc" : "Boja pozadine",
 
          "_hc" : "Boja sata",
@@ -129,6 +131,8 @@
          "_l10u" : "Boja nepopunjene trake napretka desnog kruga",
 
          "ls" : "Ista boja kao traka napretka",
+         "lst" : "Ista boja kao boja teksta",
+         "lsl" : "Ista boja kao boja oznake",
 
          "_lc0" : "Boja gornjeg bočnog polja",
          "_lc1" : "Boja donjeg bočnog polja",

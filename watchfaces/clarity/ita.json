@@ -97,6 +97,8 @@
 
          "_lt" : "Colore Testo",
          "_ll" : "Colore Etichetta",
+         "_ltc" : "Colore testo cerchi",
+         "_llc" : "Colore etichetta cerchi",
          "_bgc" : "Colore Sfondo",
 
          "_hc" : "Colore Ora",
@@ -129,6 +131,8 @@
          "_l10u" : "Colore Barra Progresso Cerchio Destro Non Riempita",
 
          "ls" : "Stesso colore della Barra Progresso",
+         "lst" : "Stesso colore del colore testo",
+         "lsl" : "Stesso colore del colore etichetta",
 
          "_lc0" : "Colore Campo Laterale Alto",
          "_lc1" : "Colore Campo Laterale Basso",

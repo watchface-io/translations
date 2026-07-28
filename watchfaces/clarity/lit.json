@@ -97,6 +97,8 @@
 
          "_lt" : "Teksto spalva",
          "_ll" : "Etiketės spalva",
+         "_ltc" : "Apskritimų teksto spalva",
+         "_llc" : "Apskritimų etiketės spalva",
          "_bgc" : "Fono spalva",
 
          "_hc" : "Valandos spalva",
@@ -129,6 +131,8 @@
          "_l10u" : "Neužpildytos dešinės apskritimo progreso juostelės spalva",
 
          "ls" : "Tokia pati spalva kaip progreso juostelė",
+         "lst" : "Tokia pati spalva kaip teksto spalva",
+         "lsl" : "Tokia pati spalva kaip etiketės spalva",
 
          "_lc0" : "Viršutinio šoninio lauko spalva",
          "_lc1" : "Apatinio šoninio lauko spalva",

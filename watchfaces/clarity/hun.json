@@ -97,6 +97,8 @@
 
          "_lt" : "Szöveg színe",
          "_ll" : "Címke színe",
+         "_ltc" : "Körök szöveg színe",
+         "_llc" : "Körök címke színe",
          "_bgc" : "Háttér színe",
 
          "_hc" : "Óra színe",
@@ -129,6 +131,8 @@
          "_l10u" : "Kitöltetlen jobb kör előrehaladási sáv színe",
 
          "ls" : "Ugyanaz a szín mint az előrehaladási sáv",
+         "lst" : "Ugyanaz a szín mint a szöveg színe",
+         "lsl" : "Ugyanaz a szín mint a címke színe",
 
          "_lc0" : "Felső oldalsó mező színe",
          "_lc1" : "Alsó oldalsó mező színe",

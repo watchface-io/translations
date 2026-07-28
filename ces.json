@@ -101,8 +101,8 @@
         "f2" : "Kalorie",
         "f211" : "Kalorie týden (ZTD)",
         "f212" : "Kalorie 7 dní",
-        "f603" : "Aktivní kalorie den",
-        "f150" : "Aktivní minuty dnes (celkem)",
+        "f603" : "Aktivní kalorie den",        "f743" : "Aktivní kalorie týden",
+        "f744" : "Aktivní kalorie 7 dní",        "f150" : "Aktivní minuty dnes (celkem)",
         "f151" : "Aktivní minuty týden (ZTD) (celkem)",
         "f200" : "Aktivní minuty posledních 7 dní (celkem)",
         "f152" : "Aktivní minuty dnes (mírné)",
@@ -129,6 +129,8 @@
         "f620" : "Vzdálenost na kole týden (ZTD) - z Connect",
         "f619" : "Vzdálenost běh týden (ZTD) - z Connect",
         "f641" : "Skóre posledního golfového kola",
+        "f642" : "Skóre spánku",
+
         "f9" : "Vzdálenost tlačení",
         "f215" : "Vzdálenost tlačení týden (ZTD)",
         "f216" : "Vzdálenost tlačení posledních 7 dní",
@@ -427,6 +429,7 @@
         "t38" : "Počasí",
         "t40" : "Tlačení vozíku",
         "t41" : "Golfové skóre",
+        "t42" : "Skóre spánku",
 
         "l111" : "Vlastní barva 1",
         "l112" : "Vlastní barva 2",

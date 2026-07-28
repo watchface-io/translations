@@ -97,6 +97,8 @@
 
          "_lt" : "Farba textu",
          "_ll" : "Farba štítku",
+         "_ltc" : "Farba textu kruhov",
+         "_llc" : "Farba štítku kruhov",
          "_bgc" : "Farba pozadia",
 
          "_hc" : "Farba hodiny",
@@ -129,6 +131,8 @@
          "_l10u" : "Farba pruhu pokroku pravého kruhu nevyplnený",
 
          "ls" : "Rovnaká farba ako pruh pokroku",
+         "lst" : "Rovnaká farba ako farba textu",
+         "lsl" : "Rovnaká farba ako farba štítku",
 
          "_lc0" : "Farba bočného poľa vrch",
          "_lc1" : "Farba bočného poľa spodok",

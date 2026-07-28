@@ -97,6 +97,8 @@
 
          "_lt" : "Couleur du texte",
          "_ll" : "Couleur de l'étiquette",
+         "_ltc" : "Couleur du texte des cercles",
+         "_llc" : "Couleur de l'étiquette des cercles",
          "_bgc" : "Couleur d'arrière-plan",
 
          "_hc" : "Couleur de l'heure",
@@ -129,6 +131,8 @@
          "_l10u" : "Couleur de la barre de progression du cercle droit non remplie",
 
          "ls" : "Même couleur que la barre de progression",
+         "lst" : "Même couleur que la couleur du texte",
+         "lsl" : "Même couleur que la couleur de l'étiquette",
 
          "_lc0" : "Couleur du champ latéral haut",
          "_lc1" : "Couleur du champ latéral bas",

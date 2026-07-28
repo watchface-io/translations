@@ -101,8 +101,8 @@
         "f2" : "Kalorije",
         "f211" : "Kalorije tjedan (OdP)",
         "f212" : "Kalorije 7 dana",
-        "f603" : "Aktivne kalorije dan",
-        "f150" : "Aktivne minute danas (ukupno)",
+        "f603" : "Aktivne kalorije dan",        "f743" : "Aktivne kalorije tjedan",
+        "f744" : "Aktivne kalorije 7 dana",        "f150" : "Aktivne minute danas (ukupno)",
         "f151" : "Aktivne minute tjedan (OdP) (ukupno)",
         "f200" : "Aktivne minute zadnjih 7 dana (ukupno)",
         "f152" : "Aktivne minute danas (umjereno)",
@@ -129,6 +129,8 @@
         "f620" : "Udaljenost biciklom tjedan (OdP) - iz Connect",
         "f619" : "Udaljenost trčanja tjedan (OdP) - iz Connect",
         "f641" : "Rezultat zadnje golf runde",
+        "f642" : "Rezultat spavanja",
+
         "f9" : "Udaljenost guranja",
         "f215" : "Udaljenost guranja tjedan (OdP)",
         "f216" : "Udaljenost guranja zadnjih 7 dana",
@@ -426,6 +428,8 @@
         "t37" : "Solarni unos",
         "t38" : "Vremenska prognoza",
         "t40" : "Guranja invalidskih kolica",
+        "t41" : "Golf rezultat",
+        "t42" : "Rezultat spavanja",
         "t41" : "Golf rezultat",
 
         "l111" : "Prilagođena boja 1",

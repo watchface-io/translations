@@ -97,6 +97,8 @@
 
          "_lt" : "Barva textu",
          "_ll" : "Barva popisku",
+         "_ltc" : "Barva textu kruhů",
+         "_llc" : "Barva popisku kruhů",
          "_bgc" : "Barva pozadí",
 
          "_hc" : "Barva hodiny",
@@ -129,6 +131,8 @@
          "_l10u" : "Barva nevyplněného indikátoru pokroku pravého kruhu",
 
          "ls" : "Stejná barva jako indikátor pokroku",
+         "lst" : "Stejná barva jako barva textu",
+         "lsl" : "Stejná barva jako barva popisku",
 
          "_lc0" : "Barva horního bočního pole",
          "_lc1" : "Barva dolního bočního pole",
