@@ -15,7 +15,7 @@
 获取专业版密匙：https://ko-fi.com/s/3e208d705d
 模式颜色：https://watchface.io/clarity/themes
 配色指南：https://watchface.io/docs/color-list
-栏位数据：https://watchface.io/docs/datafields
+表盘数据：https://watchface.io/docs/datafields
 
 ⭐️设置说明⭐️
 请注意设置入口有两个：
