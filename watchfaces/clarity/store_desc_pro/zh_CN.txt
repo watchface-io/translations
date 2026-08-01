@@ -12,7 +12,7 @@ https://apps.garmin.com/apps/9b4fd100-b550-4595-a6db-4fb495818bd3
 常见问题FAQ：https://watchface.io/faq
 模式颜色：https://watchface.io/clarity/themes
 配色指南：https://watchface.io/docs/color-list
-栏位数据：https://watchface.io/docs/datafields
+表盘数据：https://watchface.io/docs/datafields
 
 ⭐️设置说明⭐️
 请注意设置入口有两个：
