@@ -547,7 +547,7 @@
         "_ctext_2" : "Prilagođeni tekst 2 [*]",
         "_ctext_3" : "Prilagođeni tekst 3 [*]",
         "_custom_colors" : "Prilagođene boje",
-        "_key_owm" : "OWM API ključ (One Call 3.0, pogledaj FAQ)",
+        "_key_owm" : "OWM API ključ (One Call 4.0, pogledaj FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API ključ",
         "_tg" : "💡 Više postavki (Ciljevi + Formati) su u postavkama na satu",

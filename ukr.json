@@ -545,7 +545,7 @@
         "_ctext_2" : "Користувацький Текст 2 [*]",
         "_ctext_3" : "Користувацький Текст 3 [*]",
         "_custom_colors" : "Користувацькі Кольори",
-        "_key_owm" : "OWM API Ключ (One Call 3.0, Дивіться FAQ)",
+        "_key_owm" : "OWM API Ключ (One Call 4.0, Дивіться FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API Ключ",
         "_tg" : "💡 Більше налаштувань (Цілі + Формати) в налаштуваннях годинника",

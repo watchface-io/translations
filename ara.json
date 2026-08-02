@@ -539,7 +539,7 @@
         "_ctext_2" : "نص مخصص 2 [*]",
         "_ctext_3" : "نص مخصص 3 [*]",
         "_custom_colors" : "ألوان مخصصة",
-        "_key_owm" : "مفتاح OWM API (One Call 3.0، انظر الأسئلة الشائعة)",
+        "_key_owm" : "مفتاح OWM API (One Call 4.0، انظر الأسئلة الشائعة)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "مفتاح StormGlass.io API",
         "_tg" : "💡 المزيد من الإعدادات (الأهداف + التنسيقات) موجودة في إعدادات الساعة",

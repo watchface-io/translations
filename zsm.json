@@ -547,7 +547,7 @@
         "_ctext_2" : "Teks Tersuai 2 [*]",
         "_ctext_3" : "Teks Tersuai 3 [*]",
         "_custom_colors" : "Warna Tersuai",
-        "_key_owm" : "Kunci API OWM (One Call 3.0, Lihat FAQ)",
+        "_key_owm" : "Kunci API OWM (One Call 4.0, Lihat FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg" : "Kunci API StormGlass.io",
         "_tg" : "💡 Lebih banyak tetapan (Matlamat + Format) ada dalam tetapan pada jam",

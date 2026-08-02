@@ -545,7 +545,7 @@
         "_ctext_2" : "Προσαρμοσμένο Κείμενο 2 [*]",
         "_ctext_3" : "Προσαρμοσμένο Κείμενο 3 [*]",
         "_custom_colors" : "Προσαρμοσμένα Χρώματα",
-        "_key_owm" : "Κλειδί API OWM (One Call 3.0, Δείτε FAQ)",
+        "_key_owm" : "Κλειδί API OWM (One Call 4.0, Δείτε FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg" : "Κλειδί API StormGlass.io",
         "_tg" : "💡 Περισσότερες ρυθμίσεις (Στόχοι + Μορφές) είναι στις ρυθμίσεις του ρολογιού",

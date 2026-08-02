@@ -546,7 +546,7 @@
         "_ctext_2" : "Kohandatud tekst 2 [*]",
         "_ctext_3" : "Kohandatud tekst 3 [*]",
         "_custom_colors" : "Kohandatud värvid",
-        "_key_owm" : "OWM API võti (One Call 3.0, vaata KKK)",
+        "_key_owm" : "OWM API võti (One Call 4.0, vaata KKK)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API võti",
         "_tg" : "💡 Rohkem seadeid (eesmärgid + vormingud) on kella seadetes",

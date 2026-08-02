@@ -544,7 +544,7 @@
         "_ctext_2" : "Brugerdefineret tekst 2 [*]",
         "_ctext_3" : "Brugerdefineret tekst 3 [*]",
         "_custom_colors" : "Brugerdefinerede farver",
-        "_key_owm" : "OWM API nøgle (One Call 3.0, se FAQ)",
+        "_key_owm" : "OWM API nøgle (One Call 4.0, se FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API nøgle",
         "_tg" : "💡 Flere indstillinger (mål + formater) er i ur-indstillingerne",

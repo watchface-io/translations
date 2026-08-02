@@ -548,7 +548,7 @@
         "_ctext_2" : "Tilpasset tekst 2 [*]",
         "_ctext_3" : "Tilpasset tekst 3 [*]",
         "_custom_colors" : "Tilpassede farger",
-        "_key_owm" : "OWM API-nøkkel (One Call 3.0, se FAQ)",
+        "_key_owm" : "OWM API-nøkkel (One Call 4.0, se FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API-nøkkel",
         "_tg" : "💡 Flere innstillinger (mål + formater) er i klokke-innstillingene",

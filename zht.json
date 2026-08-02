@@ -537,7 +537,7 @@
         "_ctext_2" : "自訂文字 2 [*]",
         "_ctext_3" : "自訂文字 3 [*]",
         "_custom_colors" : "自訂顏色",
-        "_key_owm" : "OWM API 金鑰（One Call 3.0，請參閱常見問題）",
+        "_key_owm" : "OWM API 金鑰（One Call 4.0，請參閱常見問題）",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg" : "StormGlass.io API 金鑰",
         "_tg" : "💡 更多設定（目標 + 格式）位於手錶內建設定中",

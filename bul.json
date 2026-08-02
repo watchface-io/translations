@@ -545,7 +545,7 @@
         "_ctext_2" : "Персонализиран текст 2 [*]",
         "_ctext_3" : "Персонализиран текст 3 [*]",
         "_custom_colors" : "Персонализирани цветове",
-        "_key_owm" : "OWM API ключ (One Call 3.0, вижте ЧЗВ)",
+        "_key_owm" : "OWM API ключ (One Call 4.0, вижте ЧЗВ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API ключ",
         "_tg" : "💡 Повече настройки (цели + формати) са в настройките на часовника",

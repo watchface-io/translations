@@ -546,7 +546,7 @@
         "_ctext_2" : "Text personalizat 2 [*]",
         "_ctext_3" : "Text personalizat 3 [*]",
         "_custom_colors" : "Culori personalizate",
-        "_key_owm" : "Cheia API OWM (One Call 3.0, vezi FAQ)",
+        "_key_owm" : "Cheia API OWM (One Call 4.0, vezi FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "Cheia API StormGlass.io",
         "_tg" : "💡 Mai multe setări (obiective + formate) sunt în setările de pe ceas",

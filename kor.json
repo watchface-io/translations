@@ -548,7 +548,7 @@
         "_ctext_2" : "사용자 정의 텍스트 2 [*]",
         "_ctext_3" : "사용자 정의 텍스트 3 [*]",
         "_custom_colors" : "사용자 정의 색상",
-        "_key_owm" : "OWM API 키 (One Call 3.0, FAQ 참조)",
+        "_key_owm" : "OWM API 키 (One Call 4.0, FAQ 참조)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg" : "StormGlass.io API 키",
         "_tg" : "💡 추가 설정 (목표 + 형식)은 시계 설정에 있습니다",

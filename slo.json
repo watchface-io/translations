@@ -548,7 +548,7 @@
         "_ctext_2" : "Vlastný text 2 [*]",
         "_ctext_3" : "Vlastný text 3 [*]",
         "_custom_colors" : "Vlastné farby",
-        "_key_owm" : "OWM API kľúč (One Call 3.0, pozri FAQ)",
+        "_key_owm" : "OWM API kľúč (One Call 4.0, pozri FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API kľúč",
         "_tg" : "💡 Viac nastavení (Ciele + Formáty) je v nastaveniach hodiniek",

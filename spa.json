@@ -548,7 +548,7 @@
         "_ctext_2" : "Texto Personalizado 2 [*]",
         "_ctext_3" : "Texto Personalizado 3 [*]",
         "_custom_colors" : "Colores Personalizados",
-        "_key_owm" : "Clave API OWM (One Call 3.0, Ver FAQ)",
+        "_key_owm" : "Clave API OWM (One Call 4.0, Ver FAQ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "Clave API StormGlass.io",
         "_tg" : "💡 Más configuraciones (Objetivos + Formatos) están en la configuración del reloj",

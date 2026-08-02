@@ -544,7 +544,7 @@
         "_ctext_2" : "Mukautettu teksti 2 [*]",
         "_ctext_3" : "Mukautettu teksti 3 [*]",
         "_custom_colors" : "Mukautetut värit",
-        "_key_owm" : "OWM API-avain (One Call 3.0, katso UKK)",
+        "_key_owm" : "OWM API-avain (One Call 4.0, katso UKK)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API-avain",
         "_tg" : "💡 Lisää asetuksia (tavoitteet + muodot) on kellon asetuksissa",

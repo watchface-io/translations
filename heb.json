@@ -544,7 +544,7 @@
         "_ctext_2" : "טקסט מותאם 2 [*]",
         "_ctext_3" : "טקסט מותאם 3 [*]",
         "_custom_colors" : "צבעים מותאמים",
-        "_key_owm" : "מפתח API של OWM (One Call 3.0, ראה שאלות נפוצות)",
+        "_key_owm" : "מפתח API של OWM (One Call 4.0, ראה שאלות נפוצות)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg" : "מפתח API StormGlass.io",
         "_tg" : "💡 הגדרות נוספות (יעדים + פורמטים) נמצאות בהגדרות בשעון",

@@ -548,7 +548,7 @@
         "_ctext_2" : "Pielāgots teksts 2 [*]",
         "_ctext_3" : "Pielāgots teksts 3 [*]",
         "_custom_colors" : "Pielāgotas krāsas",
-        "_key_owm" : "OWM API atslēga (One Call 3.0, skatīt BUJ)",
+        "_key_owm" : "OWM API atslēga (One Call 4.0, skatīt BUJ)",
         "_cloc" : "Location override OWM;Stormglass (-1 = Auto, -2 = Last Activity, Override with Latitude,Longitude: -1;38.856,-94.801 )",
         "_key_sg": "StormGlass.io API atslēga",
         "_tg" : "💡 Vairāk iestatījumu (mērķi + formāti) ir pulksteņa iestatījumos",
