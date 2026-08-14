@@ -12,8 +12,9 @@
         "_o5": "Status Icon Positions % (Noti X, Noti Y, BT X, BT Y, DND X, DND Y, Alarm X, Alarm Y) Disable: -1, Default: 90,34, 90,66, 10,34, 10,66",
 
        "_cw2": "Weekdays Day color",
-        "_cw": "Weekdays Current Day color",
-        
+       "_cw": "Weekdays Current Day color",
+
+       
 
 
         
@@ -112,6 +113,8 @@
         "_stc" : "Same as Text Color",
         "_slc" : "Same as Label Color",
 
+        "_pc": "Text color",
+        "_ic": "Label color",  
 
         "_c1": "Top Data Color",
         "_c1l": "Top Label Color",
@@ -171,8 +174,7 @@
         "_fk": "Keep the same",
 
 
-        "_pc": "Text color",
-        "_ic": "Label color",      
+    
 
         "_gq": "Gradient/Color Blend (Off = Draw Colors Separately)",
         "_ng": "Off (Draw Colors Separately)",
