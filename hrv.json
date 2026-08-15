@@ -259,7 +259,7 @@
         "f515" : "OWM max/min temp",
         "f503" : "OWM osjetna temperatura",
         "f502" : "OWM opis vremena Dugi",
-        "f524" : "OWM opis vremena Kratki",
+        "f507" : "OWM opis vremena Kratki",
         "f504" : "OWM temp maksimalna",
         "f505" : "OWM temp minimalna",
         "f501" : "OWM vlažnost",

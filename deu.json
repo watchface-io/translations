@@ -262,7 +262,7 @@
         "f515" : "OWM Max/Min Temp",
         "f503" : "OWM Gefühlte Temperatur",
         "f502" : "OWM Wetterbeschreibung Lang",
-        "f524" : "OWM Wetterbeschreibung Kurz",
+        "f507" : "OWM Wetterbeschreibung Kurz",
         "f504" : "OWM Temp Max",
         "f505" : "OWM Temp Min",
         "f501" : "OWM Luftfeuchtigkeit",

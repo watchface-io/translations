@@ -253,7 +253,7 @@
         "f515" : "OWM Max/Min Temp",
         "f503" : "OWM Gevoelstemperatuur",
         "f502" : "OWM Weerbeschrijving Lang",
-        "f524" : "OWM Weerbeschrijving Kort",
+        "f507" : "OWM Weerbeschrijving Kort",
         "f504" : "OWM Temp Max",
         "f505" : "OWM Temp Min",
         "f501" : "OWM Luchtvochtigheid",

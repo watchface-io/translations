@@ -259,7 +259,7 @@
         "f515" : "OWM max/min temperatuur",
         "f503" : "OWM tajutav temperatuur",
         "f502" : "OWM ilma kirjeldus Pikk",
-        "f524" : "OWM ilma kirjeldus Lühike",
+        "f507" : "OWM ilma kirjeldus Lühike",
         "f504" : "OWM maksimum temperatuur",
         "f505" : "OWM miinimum temperatuur",
         "f501" : "OWM niiskus",

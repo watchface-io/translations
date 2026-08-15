@@ -260,7 +260,7 @@
         "f515" : "OWM max/min hőmérséklet",
         "f503" : "OWM érzett hőmérséklet",
         "f502" : "OWM időjárás leírás Hosszú",
-        "f524" : "OWM időjárás leírás Rövid",
+        "f507" : "OWM időjárás leírás Rövid",
         "f504" : "OWM hőmérséklet maximum",
         "f505" : "OWM hőmérséklet minimum",
         "f501" : "OWM páratartalom",
