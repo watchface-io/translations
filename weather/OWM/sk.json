@@ -4,7 +4,7 @@
     "202": ["Lejak", "búrka so silným dažďom"],
     "210": ["Slabá búrka", "slabá búrka"],
     "211": ["Búrka", "búrka"],
-    "212": ["Búrka", "silná búrka"],
+    "212": ["Silná búrka", "silná búrka"],
     "221": ["Občas búrka", "nepravidelná búrka"],
     "230": ["Búrka", "búrka so slabým mrholením"],
     "231": ["Búrka", "búrka s mrholením"],
@@ -55,7 +55,7 @@
     "781": ["Tornádo", "tornádo"],
 
     "800": ["Jasno", "jasná obloha"],
-    "801": ["Skoro jasno", "malá oblačnosť: 11-25%"],
+    "801": ["TakmerJasno", "malá oblačnosť: 11-25%"],
     "802": ["Polojasno", "premenlivá oblačnosť: 25-50%"],
     "803": ["Oblačno", "veľká oblačnosť: 51-84%"],
     "804": ["Zamračené", "zamračené: 85-100%"]
